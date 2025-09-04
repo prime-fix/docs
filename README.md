@@ -8,18 +8,18 @@
   Ingeniería de Software
   <br><br>
   Curso: Desarrollo de Aplicaciones Open Source
-  <br>
+  <br><br>
   Sección: 7385
-  <br>
+  <br><br>
   Profesor: Juan Antonio Flores Moroco
-  <br>
+  <br><br>
   Semestre: 2025-20
-  <br>
+  <br><br>
   Informe del Trabajo Final
-  <br>
-  Startup: FixHub
-  <br>
-  Produco: AutoFix
+  <br><br>
+  Startup: Prime-Fix
+  <br><br>
+  Producto: AutoFix
 </h3>
 
 <div align="center">
