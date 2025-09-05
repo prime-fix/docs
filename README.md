@@ -240,16 +240,17 @@ Segmento #2: Administrador de taller automotriz<br>
 "Buenos días/tardes/noches 'Nombre del entrevistado'. Mi nombre es 'Nombre del entrevistador' de la startup Prime-Fix. Nos encontramos desarrollando una plataforma para que los talleres tengan la facilidad de agendar y hacer seguimiento a las visitas de posibles clientes que solicitan la reparación de sus autos. En base a ello, tengo preparadas una lista de preguntas para conocer su punto de vista sobre algunos temas importantes para nuestra plataforma."
 
 Preguntas:
-1. ¿?
-2. ¿?
-3. ¿?
-4. ¿?
-5. ¿?
-6. ¿?
-7. ¿?
-8. ¿?
-9. ¿?
-10. ¿?
+1. ¿Cómo consigue actualmente a sus clientes para el taller?
+2. ¿En qué medio promociona sus servicios?
+3. ¿Encuentra dificultades al competir con talleres más grandes? De ser así ¿Podrías describirlas?
+4. ¿Cómo gestiona los pedidos o solicitudes de servicios de reparación? (ej. llamadas, WhatsApp o visitas directas)
+5. ¿Ha tenido algún reclamo sobre el desempeño de los téncnicos? ¿Podría detallar más la experiencia?
+6. ¿Cómo maneja la información sobre lso técnicos? ¿Tienen una base de datos?
+7. ¿Qué tan importante consideraría mostrar la disponibilidad de sus técnicos en tiempo real?
+8. ¿Qué tanto te ayudaría una plataforma donde puedas registrar tu taller, tus técnicos y mostrar reseñas de clientes?
+9. ¿Qué funcionalidades le añadirías a la plataforma?
+10. ¿Le parece importante que el cliente sepa en qué estado se encuentra su vehículo y cuál es su diagnóstico final?
+11. ¿Estaría interesado en una plataforma que notifique al cliente el momento en que puede recoger su vehículo?
 
 ### 2.2.2. Registro de entrevistas
 ### 2.2.3. Análisis de entrevistas
