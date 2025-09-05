@@ -175,6 +175,7 @@ Con Prime-Fix nace AutoFix, una plataforma digital cuyo objetivo es facilitar el
 #### 1.2.2.4. Lean UX Canvas
 
 ## 1.3. Segmentos objetivo
+
 **Segmento 1: Dueños de vehículos**
 **Aspectos Demográficos:**
 
@@ -210,6 +211,17 @@ Con Prime-Fix nace AutoFix, una plataforma digital cuyo objetivo es facilitar el
 * Interés en fidelizar clientes y mejroar la reputación de su taller.
 * Buscan soluciones tecnológicas que les permitan optimizar el tiempo y reducir errores dentro del taller.
 
+Segemnto #1: Dueños de vehículos
+Edad: 20 a 50 años
+Descripción:
+Dentro de este segmento nos enfocamos en las personas que cuentan con dificultades para poder encontrar un taller adecuado para el mantenimiento de su vehículo, ya que, al estar residiendo en una ciudad donde existe una gran concentración automovilistica, a veces se dificulta encontrar un lugar donde el mantenimiento del vehiculo sea el apropiado. Para eso nuestra solución brinda la facilidad al usuario para poder manejar una serie de alternativas que le brinden el mantenimiento adecuado para su vehículo.
+
+Segemnto #2: Administrador de taller automotriz
+Edad: 30 a 50 años
+Descripción:
+Dentro de este segmento objetivo nos enfocamos más que nada en las personas que posean un taller y desean tener una plataforma que les ayude a agendar y hacer un seguimiento a los clientes que son antendidos dentro del taller. Con nuestra solución, el jedfe del taller podrá sentirse mucho más seguro al manejar un seguimiento a cada cliente que está siendo atendido dentro del taller de una manera rápida y concisa.
+
+
 ---
 
 # Capítulo II: Requirements Elicitation & Analysis
@@ -220,7 +232,7 @@ Con Prime-Fix nace AutoFix, una plataforma digital cuyo objetivo es facilitar el
 ## 2.2. Entrevistas
 ### 2.2.1. Diseño de entrevistas
 
-Segmento #1: Dueños de vehículos
+Segmento #1: Dueños de vehículos<br>
 "Buenos días/tardes/noches 'Nombre del entrevistado'. Mi nombre es 'Nombre del entrevistador' de la startup Prime-Fix. Nos encontramos desarrollando una plataforma para que los dueños de vehículos tengan la facilidad de programar sus visitas a talleres de reparación de autos, hacer seguimiento al servicio y ver el diagnóstico de la falla detectada. En base a ello, tengo preparadas una lista de preguntas para conocer su punto de vista sobre algunos temas importantes para nuestra plataforma."
 
 Preguntas:
@@ -235,7 +247,7 @@ Preguntas:
 9. ¿?
 10. ¿?
 
-Segmento #2: Administrador de taller automotriz
+Segmento #2: Administrador de taller automotriz<br>
 "Buenos días/tardes/noches 'Nombre del entrevistado'. Mi nombre es 'Nombre del entrevistador' de la startup Prime-Fix. Nos encontramos desarrollando una plataforma para que los talleres tengan la facilidad de agendar y hacer seguimiento a las visitas de posibles clientes que solicitan la reparación de sus autos. En base a ello, tengo preparadas una lista de preguntas para conocer su punto de vista sobre algunos temas importantes para nuestra plataforma."
 
 Preguntas:
