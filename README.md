@@ -175,6 +175,42 @@ Con Prime-Fix nace AutoFix, una plataforma digital cuyo objetivo es facilitar el
 #### 1.2.2.4. Lean UX Canvas
 
 ## 1.3. Segmentos objetivo
+
+**Segmento 1: Dueños de vehículos**
+**Aspectos Demográficos:**
+
+* Sexo: Masculino y Femenino
+* Edades: Entre 22 y 50 años
+
+**Aspectos Geográficos:**
+
+* Zona Geográfica en la que viven: Urbana, ciudad altamente transitada por vehículos.
+
+
+**Aspectos Psicográficos:**
+
+* Valoran el buen servicio y la eficacia.
+* Tienen interés en la calidad del servicio que se le brinda a su vehiculo. 
+
+
+**Segmento 2: Administrador de taller automotriz**
+**Aspectos Demográficos:**
+
+* Sexo: Masculino y Femenino
+* Edades: Entre 30 y 50 años
+* Ocupación: Dueño o administrador de un taller automotriz
+
+**Aspectos Geográficos:**
+
+* Zona Geográfica en la que viven: Urbana, ciudad altamente transitada por vehículos.
+* Ubicacion del taller: Cercana a avenidas transitadas, zonas industriales o barrios con alta circulación vehicular.
+
+**Aspectos Psicográficos:**
+
+* Valoran la organizacion y eficiencia en la gestión de clientes.
+* Interés en fidelizar clientes y mejroar la reputación de su taller.
+* Buscan soluciones tecnológicas que les permitan optimizar el tiempo y reducir errores dentro del taller.
+
 Segemnto #1: Dueños de vehículos
 Edad: 20 a 50 años
 Descripción:
@@ -184,6 +220,7 @@ Segemnto #2: Administrador de taller automotriz
 Edad: 30 a 50 años
 Descripción:
 Dentro de este segmento objetivo nos enfocamos más que nada en las personas que posean un taller y desean tener una plataforma que les ayude a agendar y hacer un seguimiento a los clientes que son antendidos dentro del taller. Con nuestra solución, el jedfe del taller podrá sentirse mucho más seguro al manejar un seguimiento a cada cliente que está siendo atendido dentro del taller de una manera rápida y concisa.
+
 
 ---
 
