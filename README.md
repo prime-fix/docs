@@ -184,6 +184,7 @@ Segemnto #2: Administrador de taller automotriz
 Edad: 30 a 50 años
 Descripción:
 Dentro de este segmento objetivo nos enfocamos más que nada en las personas que posean un taller y desean tener una plataforma que les ayude a agendar y hacer un seguimiento a los clientes que son antendidos dentro del taller. Con nuestra solución, el jedfe del taller podrá sentirse mucho más seguro al manejar un seguimiento a cada cliente que está siendo atendido dentro del taller de una manera rápida y concisa.
+
 ---
 
 # Capítulo II: Requirements Elicitation & Analysis
