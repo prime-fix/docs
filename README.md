@@ -194,7 +194,7 @@ Dentro de este segmento objetivo nos enfocamos más que nada en las personas que
 ## 2.2. Entrevistas
 ### 2.2.1. Diseño de entrevistas
 
-Segmento #1: Dueños de vehículos
+Segmento #1: Dueños de vehículos<br>
 "Buenos días/tardes/noches 'Nombre del entrevistado'. Mi nombre es 'Nombre del entrevistador' de la startup Prime-Fix. Nos encontramos desarrollando una plataforma para que los dueños de vehículos tengan la facilidad de programar sus visitas a talleres de reparación de autos, hacer seguimiento al servicio y ver el diagnóstico de la falla detectada. En base a ello, tengo preparadas una lista de preguntas para conocer su punto de vista sobre algunos temas importantes para nuestra plataforma."
 
 Preguntas:
@@ -209,7 +209,7 @@ Preguntas:
 9. ¿?
 10. ¿?
 
-Segmento #2: Administrador de taller automotriz
+Segmento #2: Administrador de taller automotriz<br>
 "Buenos días/tardes/noches 'Nombre del entrevistado'. Mi nombre es 'Nombre del entrevistador' de la startup Prime-Fix. Nos encontramos desarrollando una plataforma para que los talleres tengan la facilidad de agendar y hacer seguimiento a las visitas de posibles clientes que solicitan la reparación de sus autos. En base a ello, tengo preparadas una lista de preguntas para conocer su punto de vista sobre algunos temas importantes para nuestra plataforma."
 
 Preguntas:
