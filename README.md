@@ -175,7 +175,15 @@ Con Prime-Fix nace AutoFix, una plataforma digital cuyo objetivo es facilitar el
 #### 1.2.2.4. Lean UX Canvas
 
 ## 1.3. Segmentos objetivo
+Segemnto #1: Dueños de vehículos
+Edad: 20 a 50 años
+Descripción:
+Dentro de este segmento nos enfocamos en las personas que cuentan con dificultades para poder encontrar un taller adecuado para el mantenimiento de su vehículo, ya que, al estar residiendo en una ciudad donde existe una gran concentración automovilistica, a veces se dificulta encontrar un lugar donde el mantenimiento del vehiculo sea el apropiado. Para eso nuestra solución brinda la facilidad al usuario para poder manejar una serie de alternativas que le brinden el mantenimiento adecuado para su vehículo.
 
+Segemnto #2: Administrador de taller automotriz
+Edad: 30 a 50 años
+Descripción:
+Dentro de este segmento objetivo nos enfocamos más que nada en las personas que posean un taller y desean tener una plataforma que les ayude a agendar y hacer un seguimiento a los clientes que son antendidos dentro del taller. Con nuestra solución, el jedfe del taller podrá sentirse mucho más seguro al manejar un seguimiento a cada cliente que está siendo atendido dentro del taller de una manera rápida y concisa.
 ---
 
 # Capítulo II: Requirements Elicitation & Analysis
