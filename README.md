@@ -287,8 +287,29 @@ Preguntas:
 ### 4.2.1. Organization Systems
 ### 4.2.2. Labeling Systems
 ### 4.2.3. SEO Tags and Meta Tags
+
+**Landing Page Title:** Prime-Fix
+**Description:** Prime-Fix es una startup que se especializa en el desarrollo de soluciones tecnológicas para web. Con Auto-Fix, facilitamos el acceso a los usuarios en los distintos servicios de mantenimiento y reparación automotriz, lo que facilita la conexión entre los talleres y dueños de vehículos.
+**Meta Keywords:** Mantenimiento automotriz, reparación de vehiculos, talleres confiables, gestion digital, tecnología automotriz.
+**Meta Author:** Prime-Fix
+**Meta Decription:** Facilitar la conexión entre los dueños de vehiculos que necesiten un mantenimiento y los talleres automotrices.  
+**Title:** Prime-Fix
+**Description:**Auto-Fix, la plataforma digital de Prime-Fix, conecta a los dueños de vehiculos con talleres confiables, foreciendo servicios de mantenimiento y de reparación automotriz con una experiencia moderna, clara y de manera eficiente.
+**Meta Author:** Prime-Fix
+
 ### 4.2.4. Searching Systems
+
+Auto-Fix cuenta con un sistema de búqueda que permite que el usuario poder buscar los talleres que sean más aptos para su vehiculo, esto a través de múltiples filtros:
+
+| Filtros | Descripción |
+| --- | --- |
+| Ubicación | Filtro geográfico que ayuda a ecnontrar los talleres disponibles en una zona específica. |
+| Rango ded Precio | Filtra los talleres según el presupuesto aproximado que el usuario esta dispuesto a pagar. |
+
 ### 4.2.5. Navigation Systems
+
+Los sistemas de navegación de Auto-Fix han sido diseñados para poder guiar de forma intuitiva a los usuarios a tráves de la Landing Page y dentro de la aplicación, facilitando la exploración del contenido y el acceso a las distintas funcionalidades que la aplicación ofrece. Auto-Fix sigue una estructura lógica clara que permite al usuario encontrar rápidamente lo que necesita mediante menús jerarquicos, enlaces destacados y botones de acción visibles para el usuario.
+
 
 ## 4.3. Landing Page UI Design
 ### 4.3.1. Landing Page Wireframe
