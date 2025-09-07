@@ -17,9 +17,9 @@
   <br><br>
   Informe del Trabajo Final
   <br><br>
-  Startup: Prime-Fix
+  Startup: FixTech
   <br><br>
-  Producto: AutoFix
+  Producto: Prime-Fix
 </h3>
 
 <div align="center">
@@ -157,8 +157,8 @@
 # Capítulo I: Introducción
 ## 1.1. Startup Profile
 ### 1.1.1. Descripción de la Startup
-Prime-Fix es una startup especializada en el desarrollo de soluciones tecnológicas aplicadas a la web, cuyo propósito es transofrmar la forma en que los usuarios acceden a servicios de mantenimiento y reparación automotriz.
-Con Prime-Fix nace AutoFix, una plataforma digital cuyo objetivo es facilitar el contacto entre talleres de vehículos y dueños de los mismos implementando una serie de funcionalidades que permitirán a ambos usuarios, obtener una experiencia de gestión clara.
+FixTech es una startup especializada en el desarrollo de soluciones tecnológicas aplicadas a la web, cuyo propósito es transofrmar la forma en que los usuarios acceden a servicios de mantenimiento y reparación automotriz.
+Con FixTech nace Prime-Fix, una plataforma digital cuyo objetivo es facilitar el contacto entre talleres de vehículos y dueños de los mismos implementando una serie de funcionalidades que permitirán a ambos usuarios, obtener una experiencia de gestión clara.
 
 <b>Misión: </b> Nuestra misión es acercar a los dueños de vehículos a talleres confiables por medio de una plataforma accesible y amigable. De esta manera, modernizamos el sector automotriz y optimizamos de toda la experiencia de este tipo de  servicios.
 
@@ -193,12 +193,12 @@ Con Prime-Fix nace AutoFix, una plataforma digital cuyo objetivo es facilitar el
 * Tienen interés en la calidad del servicio que se le brinda a su vehiculo. 
 
 
-**Segmento 2: Administrador de taller automotriz**
+**Segmento 2: Asesor de servicios de taller automotriz**
 **Aspectos Demográficos:**
 
 * Sexo: Masculino y Femenino
-* Edades: Entre 30 y 50 años
-* Ocupación: Dueño o administrador de un taller automotriz
+* Edades: Entre 21 y 50 años
+* Ocupación: Dueño, administrador o asesor de servicios de un taller automotriz
 
 **Aspectos Geográficos:**
 
@@ -222,34 +222,40 @@ Con Prime-Fix nace AutoFix, una plataforma digital cuyo objetivo es facilitar el
 ### 2.2.1. Diseño de entrevistas
 
 Segmento #1: Dueños de vehículos<br>
-"Buenos días/tardes/noches 'Nombre del entrevistado'. Mi nombre es 'Nombre del entrevistador' de la startup Prime-Fix. Nos encontramos desarrollando una plataforma para que los dueños de vehículos tengan la facilidad de programar sus visitas a talleres de reparación de autos, hacer seguimiento al servicio y ver el diagnóstico de la falla detectada. En base a ello, tengo preparadas una lista de preguntas para conocer su punto de vista sobre algunos temas importantes para nuestra plataforma."
+"Buenos días/tardes/noches 'Nombre del entrevistado'. Mi nombre es 'Nombre del entrevistador' de la startup FixTech. Nos encontramos desarrollando una plataforma para que los dueños de vehículos tengan la facilidad de programar sus visitas a talleres de reparación de autos, hacer seguimiento al servicio y ver el diagnóstico de la falla detectada. En base a ello, tengo preparadas una lista de preguntas para conocer su punto de vista sobre algunos temas importantes para nuestra plataforma."
 
 Preguntas:
-1. ¿?
-2. ¿?
-3. ¿?
-4. ¿?
-5. ¿?
-6. ¿?
-7. ¿?
-8. ¿?
-9. ¿?
-10. ¿?
+1. ¿Ha realizado la búsqueda de algún taller durante los últimos meses? De ser así, ¿Podría comentarnos su experiencia?
+2. ¿Qué plataformas o medios utiliza para realizar la búsqueda de talleres cuando su vehículo necesita reparación?
+3. ¿Qué aspectos valora más en un servicio de taller? (distancia, disponibilidad, costo)
+4. ¿Ha tenido experiencias negativas con talleres? De ser así, ¿Le hubiera gustado registrar dichas experiencias de manera pública?
+5. ¿Usted mantiene un registro de su vehículo y del mantenimiento que le ha brindado durante todo este tiempo?
+6. ¿Ha dejado su vehículo en un taller durante días u horas? ¿Cómo se le avisa que su vehículo ya está listo?
+7. ¿Con qué dispositivo suele solicitar el servicio de mantenimiento?
+8. ¿Qué herramientas o software utiliza para encontrar algún taller cerca de una ubicación específica?
+9. Una vez terminado el servicio ¿Qué medios de pago utiliza? (efectivo, transferencia, etc)
+11. ¿Estaría interesado en usar una plataforma que le permita agendar visita en talleres de su zoma? ¿Por qué?
+12. ¿Qué funcionalidades cree que harían que esta plataforma sea útil para el día a día?
+13. ¿Se sentiría cómodo recibiendo algunos recordatorios de mantenimiento preventivo desde una app?
+14. ¿Estaría de acuerdo con utilizar un aplicativo web para agilizar la programación de sus visitas?
+15. ¿Le gustaría hacer seguimiento al estado de su vehículo mientras este se encuentra en mantenimiento?
 
-Segmento #2: Administrador de taller automotriz<br>
-"Buenos días/tardes/noches 'Nombre del entrevistado'. Mi nombre es 'Nombre del entrevistador' de la startup Prime-Fix. Nos encontramos desarrollando una plataforma para que los talleres tengan la facilidad de agendar y hacer seguimiento a las visitas de posibles clientes que solicitan la reparación de sus autos. En base a ello, tengo preparadas una lista de preguntas para conocer su punto de vista sobre algunos temas importantes para nuestra plataforma."
+Segmento #2: Asesor de servicios de un taller automotriz<br>
+"Buenos días/tardes/noches 'Nombre del entrevistado'. Mi nombre es 'Nombre del entrevistador' de la startup FixTech. Nos encontramos desarrollando una plataforma para que los talleres tengan la facilidad de agendar y hacer seguimiento a las visitas de posibles clientes que solicitan la reparación de sus autos. En base a ello, tengo preparadas una lista de preguntas para conocer su punto de vista sobre algunos temas importantes para nuestra plataforma."
 
 Preguntas:
-1. ¿?
-2. ¿?
-3. ¿?
-4. ¿?
-5. ¿?
-6. ¿?
-7. ¿?
-8. ¿?
-9. ¿?
-10. ¿?
+1. Actualmente, ¿Cómo consigue clientes para el taller?
+2. ¿En qué medio promociona sus servicios?
+3. ¿Qué dispositivo se suele utilzar en la empresa para la programación de visitas de clientes? (celular, computadora de escritorio, laptop, etc)
+4. ¿Encuentra dificultades al competir con talleres más grandes? De ser así ¿Podrías describirlas?
+5. ¿Cómo gestiona los pedidos o solicitudes de servicios de reparación? (ej. llamadas, WhatsApp o visitas directas)
+6. ¿Ha tenido algún reclamo sobre el desempeño de los técnicos? ¿Podría detallar más la experiencia? ¿Por qué medios se presentaron estos reclamos?
+7. ¿Cómo maneja la información sobre los técnicos? ¿Cuenta con una base de datos?
+8. ¿Qué tan importante consideraría mostrar la disponibilidad de sus técnicos en tiempo real?
+9. ¿Qué tanto te ayudaría una plataforma donde puedas registrar tu taller, los técnicos y mostrar reseñas de clientes?
+10. ¿Qué funcionalidades le añadirías a la plataforma?
+11. ¿Le parece importante que el cliente sepa en qué estado se encuentra su vehículo y cuál es su diagnóstico final?
+12. ¿Estaría interesado en una plataforma que notifique al cliente el momento en que puede recoger su vehículo?
 
 ### 2.2.2. Registro de entrevistas
 ### 2.2.3. Análisis de entrevistas
