@@ -166,6 +166,11 @@ Con FixTech nace Prime-Fix, una plataforma digital cuyo objetivo es facilitar el
 
 ### 1.1.2. Perfiles de integrantes del equipo
 
+| Perfil de los Integrantes | Código de Estudiante | Descripción |
+| --- | --- |---|
+|||
+|Tenorio Medina, Piero Francesco | U202318731 | Estudio en la sede San Miguel de la UPC estudiando la carrera de Ingeniería de Software . Soy una persona colaborativa, responsable y comprometida con los trabajos en los que estoy implicado, tratando de ser lo más eficiente posible.Conocimientos en HTML, CSS, Java, C++, JavaScript y Python. Cada día trato de mejorar como persona y si llego a cometer algún error, tratar de aprender de ello.
+
 ## 1.2. Solution Profile
 ### 1.2.1. Antecedentes y problemática
 ### 1.2.2. Lean UX Process
@@ -280,7 +285,29 @@ Preguntas:
 
 # Capítulo IV: Product Design
 ## 4.1. Style Guidelines
+
+En esta sección el equipo presenta la Guía de Estilos de FixTech.
+
 ### 4.1.1. General Style Guidelines
+
+**Branding**
+
+El logo de FixTech representa el mensaje que nosotros queremos dar con nuestr StarUp que es una búsqueda de calidad en lo que talleres mecánicos se refiere. El logo se compone de un vehiculo y una imagen de referente a una agenda. Con eso queremos dar a entender que los vehiculos que son atendidos gracias al servicio de FixTech, serán agendados a un mantenimiento vehicular que sea pertinente para el vehiculo. Los colores que hemos elegido para nuestra StartUp, que van desde el color azul oscuro, el amarillo y el baige que transmiten una sensación de estar en un servicio que es enfocado en lo vehicular confiable y eficaz.
+
+**Variantes del Logo**
+
+*Logo original*
+
+*Logo sin letras*
+
+**Typography**
+
+Nuestra tipografía Exo proyecta una imagen de profesionalidad y confianza que se alinea con la misión de FixTech. Con su estilo moderno y geométrico, transmite una sensación de tecnología e innovación, mostrando que estamos al día con las últimas herramientas del mundo automotriz. Además, su claridad y legibilidad refuerzan la transparencia de nuestro servicio. Utilizaremos Exo en sus variantes más gruesas para títulos y llamadas a la acción, aportando un dinamismo que capta la atención. Para el cuerpo del texto, optaremos por un estilo más ligero, garantizando que toda la información sea fácil de leer, lo que contribuye a una experiencia de usuario que se percibe como limpia, ordenada y fiable. Todo esto se ve reforzado con los colores que impulsan y agilizan la lectura dentro de la págian web. 
+
+**Colors**
+
+La paleta de colores elegida para la web de FixTech fue planteada para que visualemnte transmita un mensaje dirigidos a los consumidores. El azul oscuro se asocia con la confianza, la profesionalidad y la fiabilidad. El color amarillo tiene la función de llamar la atención y de añadir energia al logo. El color baige y el blanco se asocian a la limpieza, la simplicidad y la calma, con este color hacemos que nuestra página se sienta mucho más refrescante y ligera a la hroa de navegar por ella. Finalmente el color negro se asocia a la sofisticación, al elegancia y la seriedad, con este color queremos dar cierto contrsate con los otros colores de la página.
+
 ### 4.1.2. Web Style Guidelines
 
 ## 4.2. Information Architecture
@@ -290,19 +317,19 @@ Preguntas:
 
 **Landing Page Title:** Prime-Fix
 
-**Description:** Prime-Fix es una startup que se especializa en el desarrollo de soluciones tecnológicas para web. Con Auto-Fix, facilitamos el acceso a los usuarios en los distintos servicios de mantenimiento y reparación automotriz, lo que facilita la conexión entre los talleres y dueños de vehículos.
+**Description:** Prime-Fix es una startup que se especializa en el desarrollo de soluciones tecnológicas para web. Con FixTech, facilitamos el acceso a los usuarios en los distintos servicios de mantenimiento y reparación automotriz, lo que facilita la conexión entre los talleres y dueños de vehículos.
 
 **Meta Keywords:** Mantenimiento automotriz, reparación de vehiculos, talleres confiables, gestion digital, tecnología automotriz.
 
-**Meta Author:** Prime-Fix
+**Meta Author:** FixTech
 
-**Meta Decription:** Facilitar la conexión entre los dueños de vehiculos que necesiten un mantenimiento y los talleres automotrices.  
+**Meta Decription:** Facilitar la conexión entre los dueños de vehículos que necesiten un mantenimiento y los talleres automotrices.  
 
-**Title:** Prime-Fix
+**Title:** FixTech
 
-**Description:**Auto-Fix, la plataforma digital de Prime-Fix, conecta a los dueños de vehiculos con talleres confiables, foreciendo servicios de mantenimiento y de reparación automotriz con una experiencia moderna, clara y de manera eficiente.
+**Description:** FixTech, la plataforma digital de Prime-Fix, conecta a los dueños de vehiculos con talleres confiables, foreciendo servicios de mantenimiento y de reparación automotriz con una experiencia moderna, clara y de manera eficiente.
 
-**Meta Author:** Prime-Fix
+**Meta Author:** FixTech
 
 ### 4.2.4. Searching Systems
 
