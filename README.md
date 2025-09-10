@@ -166,6 +166,11 @@ Con FixTech nace Prime-Fix, una plataforma digital cuyo objetivo es facilitar el
 
 ### 1.1.2. Perfiles de integrantes del equipo
 
+| Perfil de los Integrantes | Código de Estudiante | Descripción |
+| --- | --- |---|
+|||
+|Tenorio Medina, Piero Francesco | U202318731 | Estudio en la sede San Miguel de la UPC estudiando la carrera de Ingeniería de Software . Soy una persona colaborativa, responsable y comprometida con los trabajos en los que estoy implicado, tratando de ser lo más eficiente posible.Conocimientos en HTML, CSS, Java, C++, JavaScript y Python. Cada día trato de mejorar como persona y si llego a cometer algún error, tratar de aprender de ello.
+
 ## 1.2. Solution Profile
 ### 1.2.1. Antecedentes y problemática
 ### 1.2.2. Lean UX Process
@@ -227,30 +232,35 @@ Segmento #1: Dueños de vehículos<br>
 Preguntas:
 1. ¿Ha realizado la búsqueda de algún taller durante los últimos meses? De ser así, ¿Podría comentarnos su experiencia?
 2. ¿Qué plataformas o medios utiliza para realizar la búsqueda de talleres cuando su vehículo necesita reparación?
-3. ¿Qué aspectos valora más en un servicio de taller (distancia, disponibilidad, costo)?
+3. ¿Qué aspectos valora más en un servicio de taller? (distancia, disponibilidad, costo)
 4. ¿Ha tenido experiencias negativas con talleres? De ser así, ¿Le hubiera gustado registrar dichas experiencias de manera pública?
 5. ¿Usted mantiene un registro de su vehículo y del mantenimiento que le ha brindado durante todo este tiempo?
-6. ¿Ha dejado su vehículo en un taller durante días u horas?¿Cómo se le avisa que su vehículo ya está listo?
-7. ¿Estaría interesado en usar una plataforma que le permita agendar visita en talleres de su zoma? ¿Por qué?
-8. ¿Qué funcionalidades cree que harían que esta plataforma sea útil para el día a día?
-9. ¿Se sentiría cómodo recibiendo algunos recordatorios de mantenimiento preventivo desde una app?
-10. ¿Le gustaría hacer seguimiento al estado de su vehículo mientras este se encuentra en mantenimiento?
+6. ¿Ha dejado su vehículo en un taller durante días u horas? ¿Cómo se le avisa que su vehículo ya está listo?
+7. ¿Con qué dispositivo suele solicitar el servicio de mantenimiento?
+8. ¿Qué herramientas o software utiliza para encontrar algún taller cerca de una ubicación específica?
+9. Una vez terminado el servicio ¿Qué medios de pago utiliza? (efectivo, transferencia, etc)
+11. ¿Estaría interesado en usar una plataforma que le permita agendar visita en talleres de su zoma? ¿Por qué?
+12. ¿Qué funcionalidades cree que harían que esta plataforma sea útil para el día a día?
+13. ¿Se sentiría cómodo recibiendo algunos recordatorios de mantenimiento preventivo desde una app?
+14. ¿Estaría de acuerdo con utilizar un aplicativo web para agilizar la programación de sus visitas?
+15. ¿Le gustaría hacer seguimiento al estado de su vehículo mientras este se encuentra en mantenimiento?
 
 Segmento #2: Asesor de servicios de un taller automotriz<br>
 "Buenos días/tardes/noches 'Nombre del entrevistado'. Mi nombre es 'Nombre del entrevistador' de la startup FixTech. Nos encontramos desarrollando una plataforma para que los talleres tengan la facilidad de agendar y hacer seguimiento a las visitas de posibles clientes que solicitan la reparación de sus autos. En base a ello, tengo preparadas una lista de preguntas para conocer su punto de vista sobre algunos temas importantes para nuestra plataforma."
 
 Preguntas:
-1. ¿Cómo consigue actualmente a sus clientes para el taller?
+1. Actualmente, ¿Cómo consigue clientes para el taller?
 2. ¿En qué medio promociona sus servicios?
-3. ¿Encuentra dificultades al competir con talleres más grandes? De ser así ¿Podrías describirlas?
-4. ¿Cómo gestiona los pedidos o solicitudes de servicios de reparación? (ej. llamadas, WhatsApp o visitas directas)
-5. ¿Ha tenido algún reclamo sobre el desempeño de los téncnicos? ¿Podría detallar más la experiencia?
-6. ¿Cómo maneja la información sobre los técnicos? ¿Tienen una base de datos?
-7. ¿Qué tan importante consideraría mostrar la disponibilidad de sus técnicos en tiempo real?
-8. ¿Qué tanto te ayudaría una plataforma donde puedas registrar tu taller, los técnicos y mostrar reseñas de clientes?
-9. ¿Qué funcionalidades le añadirías a la plataforma?
-10. ¿Le parece importante que el cliente sepa en qué estado se encuentra su vehículo y cuál es su diagnóstico final?
-11. ¿Estaría interesado en una plataforma que notifique al cliente el momento en que puede recoger su vehículo?
+3. ¿Qué dispositivo se suele utilzar en la empresa para la programación de visitas de clientes? (celular, computadora de escritorio, laptop, etc)
+4. ¿Encuentra dificultades al competir con talleres más grandes? De ser así ¿Podrías describirlas?
+5. ¿Cómo gestiona los pedidos o solicitudes de servicios de reparación? (ej. llamadas, WhatsApp o visitas directas)
+6. ¿Ha tenido algún reclamo sobre el desempeño de los técnicos? ¿Podría detallar más la experiencia? ¿Por qué medios se presentaron estos reclamos?
+7. ¿Cómo maneja la información sobre los técnicos? ¿Cuenta con una base de datos?
+8. ¿Qué tan importante consideraría mostrar la disponibilidad de sus técnicos en tiempo real?
+9. ¿Qué tanto te ayudaría una plataforma donde puedas registrar tu taller, los técnicos y mostrar reseñas de clientes?
+10. ¿Qué funcionalidades le añadirías a la plataforma?
+11. ¿Le parece importante que el cliente sepa en qué estado se encuentra su vehículo y cuál es su diagnóstico final?
+12. ¿Estaría interesado en una plataforma que notifique al cliente el momento en que puede recoger su vehículo?
 
 ### 2.2.2. Registro de entrevistas
 ### 2.2.3. Análisis de entrevistas
@@ -275,15 +285,65 @@ Preguntas:
 
 # Capítulo IV: Product Design
 ## 4.1. Style Guidelines
+
+En esta sección el equipo presenta la Guía de Estilos de FixTech.
+
 ### 4.1.1. General Style Guidelines
+
+**Branding**
+
+El logo de FixTech representa el mensaje que nosotros queremos dar con nuestr StarUp que es una búsqueda de calidad en lo que talleres mecánicos se refiere. El logo se compone de un vehiculo y una imagen de referente a una agenda. Con eso queremos dar a entender que los vehiculos que son atendidos gracias al servicio de FixTech, serán agendados a un mantenimiento vehicular que sea pertinente para el vehiculo. Los colores que hemos elegido para nuestra StartUp, que van desde el color azul oscuro, el amarillo y el baige que transmiten una sensación de estar en un servicio que es enfocado en lo vehicular confiable y eficaz.
+
+**Variantes del Logo**
+
+*Logo original*
+
+*Logo sin letras*
+
+**Typography**
+
+Nuestra tipografía Exo proyecta una imagen de profesionalidad y confianza que se alinea con la misión de FixTech. Con su estilo moderno y geométrico, transmite una sensación de tecnología e innovación, mostrando que estamos al día con las últimas herramientas del mundo automotriz. Además, su claridad y legibilidad refuerzan la transparencia de nuestro servicio. Utilizaremos Exo en sus variantes más gruesas para títulos y llamadas a la acción, aportando un dinamismo que capta la atención. Para el cuerpo del texto, optaremos por un estilo más ligero, garantizando que toda la información sea fácil de leer, lo que contribuye a una experiencia de usuario que se percibe como limpia, ordenada y fiable. Todo esto se ve reforzado con los colores que impulsan y agilizan la lectura dentro de la págian web. 
+
+**Colors**
+
+La paleta de colores elegida para la web de FixTech fue planteada para que visualemnte transmita un mensaje dirigidos a los consumidores. El azul oscuro se asocia con la confianza, la profesionalidad y la fiabilidad. El color amarillo tiene la función de llamar la atención y de añadir energia al logo. El color baige y el blanco se asocian a la limpieza, la simplicidad y la calma, con este color hacemos que nuestra página se sienta mucho más refrescante y ligera a la hroa de navegar por ella. Finalmente el color negro se asocia a la sofisticación, al elegancia y la seriedad, con este color queremos dar cierto contrsate con los otros colores de la página.
+
 ### 4.1.2. Web Style Guidelines
 
 ## 4.2. Information Architecture
 ### 4.2.1. Organization Systems
 ### 4.2.2. Labeling Systems
 ### 4.2.3. SEO Tags and Meta Tags
+
+**Landing Page Title:** Prime-Fix
+
+**Description:** Prime-Fix es una startup que se especializa en el desarrollo de soluciones tecnológicas para web. Con FixTech, facilitamos el acceso a los usuarios en los distintos servicios de mantenimiento y reparación automotriz, lo que facilita la conexión entre los talleres y dueños de vehículos.
+
+**Meta Keywords:** Mantenimiento automotriz, reparación de vehiculos, talleres confiables, gestion digital, tecnología automotriz.
+
+**Meta Author:** FixTech
+
+**Meta Decription:** Facilitar la conexión entre los dueños de vehículos que necesiten un mantenimiento y los talleres automotrices.  
+
+**Title:** FixTech
+
+**Description:** FixTech, la plataforma digital de Prime-Fix, conecta a los dueños de vehiculos con talleres confiables, foreciendo servicios de mantenimiento y de reparación automotriz con una experiencia moderna, clara y de manera eficiente.
+
+**Meta Author:** FixTech
+
 ### 4.2.4. Searching Systems
+
+Auto-Fix cuenta con un sistema de búqueda que permite que el usuario poder buscar los talleres que sean más aptos para su vehiculo, esto a través de múltiples filtros:
+
+| Filtros | Descripción |
+| --- | --- |
+| Ubicación | Filtro geográfico que ayuda a ecnontrar los talleres disponibles en una zona específica. |
+| Rango del Precio | Filtra los talleres según el presupuesto aproximado que el usuario esta dispuesto a pagar. |
+
 ### 4.2.5. Navigation Systems
+
+Los sistemas de navegación de Auto-Fix han sido diseñados para poder guiar de forma intuitiva a los usuarios a tráves de la Landing Page y dentro de la aplicación, facilitando la exploración del contenido y el acceso a las distintas funcionalidades que la aplicación ofrece. Auto-Fix sigue una estructura lógica clara que permite al usuario encontrar rápidamente lo que necesita mediante menús jerarquicos, enlaces destacados y botones de acción visibles para el usuario.
+
 
 ## 4.3. Landing Page UI Design
 ### 4.3.1. Landing Page Wireframe
