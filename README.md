@@ -320,6 +320,9 @@ Nuestra tipografía Exo proyecta una imagen de profesionalidad y confianza que s
 
 La paleta de colores elegida para la web de Prime-Fix fue diseñada para transmitir un mensaje dirigidos a los consumidores. El azul petróleo se asocia con la seguridad, la profesionalidad y la fiabilidad convirtiéndose en el color principal de la marca. El amarillo mostaza tiene la función de resaltar acciones importantes y de aportar energia al logo. El beige claro y el blanco se transmiten limpieza, simplicidad y frescura, con estos colores nuestra página es más ligera a la hora de navegar en ella. El color negro refuerza la seriedad a la sofisticación, al elegancia y la seriedad mientras que el gris medio aporta equilibrio. Finalmente, el azul grisáceo actúa como tono de apoyo.
 
+<h3>Estilos</h3>
+<img src="Assets/estilos.PNG" width="550" height="450">
+
 **Paleta de colores**
 | **Color**        | **Código Hex** | **Descripción de uso** |
 |------------------|----------------|-------------------------|
