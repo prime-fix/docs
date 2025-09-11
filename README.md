@@ -293,27 +293,44 @@ Preguntas:
 # Capítulo IV: Product Design
 ## 4.1. Style Guidelines
 
-En esta sección el equipo presenta la Guía de Estilos de FixTech.
+En esta sección el equipo presenta la Guía de Estilos de Prime-Fix.
 
 ### 4.1.1. General Style Guidelines
 
 **Branding**
 
-El logo de FixTech representa el mensaje que nosotros queremos dar con nuestr StarUp que es una búsqueda de calidad en lo que talleres mecánicos se refiere. El logo se compone de un vehiculo y una imagen de referente a una agenda. Con eso queremos dar a entender que los vehiculos que son atendidos gracias al servicio de FixTech, serán agendados a un mantenimiento vehicular que sea pertinente para el vehiculo. Los colores que hemos elegido para nuestra StartUp, que van desde el color azul oscuro, el amarillo y el baige que transmiten una sensación de estar en un servicio que es enfocado en lo vehicular confiable y eficaz.
+El logo de FixTech representa el mensaje que nosotros queremos dar con nuestra StarUp que es una búsqueda de calidad en lo que talleres mecánicos se refiere. El logo se compone de un ícono de ubicación utilizado para referenciar el lugar en el que se encutran los talleres. Asimismo, se tiene un check dentro de este ícono, con esto queremos dar a entender que los vehiculos que son atendidos gracias al servicio de Prime-Fix, serán agendados a un mantenimiento vehicular que sea pertinente para el vehiculo. Los colores que hemos elegido para nuestro proyecto,transmiten una sensación de estar en un servicio que es enfocado en lo vehicular confiable y eficaz.
 
 **Variantes del Logo**
 
-*Logo original*
+<h3>Logo original</h3>
+<img src="Assets/logo/logo_fondo.png" width="150" height="180">
 
-*Logo sin letras*
+<h3>Logo transparente sin letras</h3>
+<img src="Assets/logo/logo_transparente.png" width="150" height="150">
+
+<h3>Logo transparente con letras</h3>
+<img src="Assets/logo/logo_titulo.png" width="150" height="200">
 
 **Typography**
 
-Nuestra tipografía Exo proyecta una imagen de profesionalidad y confianza que se alinea con la misión de FixTech. Con su estilo moderno y geométrico, transmite una sensación de tecnología e innovación, mostrando que estamos al día con las últimas herramientas del mundo automotriz. Además, su claridad y legibilidad refuerzan la transparencia de nuestro servicio. Utilizaremos Exo en sus variantes más gruesas para títulos y llamadas a la acción, aportando un dinamismo que capta la atención. Para el cuerpo del texto, optaremos por un estilo más ligero, garantizando que toda la información sea fácil de leer, lo que contribuye a una experiencia de usuario que se percibe como limpia, ordenada y fiable. Todo esto se ve reforzado con los colores que impulsan y agilizan la lectura dentro de la págian web. 
+Nuestra tipografía Exo proyecta una imagen de profesionalidad y confianza que se alinea con la misión de FixTech. Con su estilo moderno y geométrico, transmite una sensación de tecnología e innovación, mostrando que estamos al día con las últimas herramientas del mundo automotriz. Además, su claridad y legibilidad refuerzan la transparencia de nuestro servicio. Utilizaremos Exo en sus variantes más gruesas para títulos y llamadas a la acción, aportando un dinamismo que capta la atención. Para el cuerpo del texto, optaremos por un estilo más ligero, garantizando que toda la información sea fácil de leer, lo que contribuye a una experiencia de usuario que se percibe como limpia, ordenada y fiable. Todo esto se ve reforzado con los colores que impulsan y agilizan la lectura dentro de la página web. 
 
 **Colors**
 
-La paleta de colores elegida para la web de FixTech fue planteada para que visualemnte transmita un mensaje dirigidos a los consumidores. El azul oscuro se asocia con la confianza, la profesionalidad y la fiabilidad. El color amarillo tiene la función de llamar la atención y de añadir energia al logo. El color baige y el blanco se asocian a la limpieza, la simplicidad y la calma, con este color hacemos que nuestra página se sienta mucho más refrescante y ligera a la hroa de navegar por ella. Finalmente el color negro se asocia a la sofisticación, al elegancia y la seriedad, con este color queremos dar cierto contrsate con los otros colores de la página.
+La paleta de colores elegida para la web de Prime-Fix fue diseñada para transmitir un mensaje dirigidos a los consumidores. El azul petróleo se asocia con la seguridad, la profesionalidad y la fiabilidad convirtiéndose en el color principal de la marca. El amarillo mostaza tiene la función de resaltar acciones importantes y de aportar energia al logo. El beige claro y el blanco se transmiten limpieza, simplicidad y frescura, con estos colores nuestra página es más ligera a la hora de navegar en ella. El color negro refuerza la seriedad a la sofisticación, al elegancia y la seriedad mientras que el gris medio aporta equilibrio. Finalmente, el azul grisáceo actúa como tono de apoyo.
+
+**Paleta de colores**
+| **Color**        | **Código Hex** | **Descripción de uso** |
+|------------------|----------------|-------------------------|
+| Azul petróleo     | `#114358`      | Color principal de la marca, se usa en fondos, sidebar, y elementos que transmiten confianza y profesionalidad. |
+| Amarillo mostaza  | `#F2AA1F`      | Color complementario y de acción; destaca botones principales y enlaces. |
+| Beige claro       | `#F1ECE7`      | Color de soporte; aplicado en tarjetas, fondos de secciones (landing page) y formularios para dar claridad y frescura. |
+| Blanco            | `#FFFFFF`      | Neutro principal para contraste; usado en textos que requieren limpieza visual. |
+| Negro             | `#090909`      | Neutro fuerte; aplicado en textos principales para dar sensación de seriedad y sofisticación. |
+| Gris medio        | `#B1B1B1`      | Secundario; usado para el trackeo de estados inactivos y elementos que requieren menor jerarquía. |
+| Azul grisáceo     | `#6491A4`      | Color adicional; utilizado en iconografía secundaria y visualización de pestañas activas|
+
 
 ### 4.1.2. Web Style Guidelines
 
