@@ -170,6 +170,16 @@ Con FixTech nace Prime-Fix, una plataforma digital cuyo objetivo es facilitar el
 ### 1.2.1. Antecedentes y problemática
 ### 1.2.2. Lean UX Process
 #### 1.2.2.1. Lean UX Problem Statements
+#### Dueños de vehículos
+* Nuestro contexto demanda una solución digital que facilite a los propietarios de vehículos el acceso a talleres confiables y eficientes en ciudades con alto tráfico. Con esta solución, los usuarios podrán gestionar mantenimientos y reparaciones de manera rápida, contando con información clara sobre costos, tiempos y calidad del servicio, lo que reduce la duda y las pérdidas de tiempo.
+* Hemos observado un factor crítico que afecta a este segmento: la falta de transparencia y organización en los talleres genera desconfianza y frustración en los dueños, quienes suelen enfrentarse a largas esperas, cobros inesperados o servicios de baja calidad.
+* ¿Cómo brindar a los dueños de vehículos una plataforma digital que les permita encontrar talleres confiables, reservar citas con facilidad y monitorear el servicio en tiempo real para asegurar transparencia, eficacia y satisfacción?
+
+#### Asesores de servicios de taller automotriz
+* Nuestro contexto demanda una solución tecnológica que permita a los asesores de talleres optimizar la gestión de clientes y servicios. Con esta solución, los asesores podrán organizar citas de forma eficiente, llevar un control ordenado de mantenimientos y reparaciones, y ofrecer un servicio más rápido y transparente, generando confianza y fidelización.
+* Hemos observado un factor crítico que afecta a este segmento: la falta de herramientas digitales integradas ocasiona errores en la programación de citas, retrasos en la atención y pérdida de oportunidades de fidelización, lo que impacta directamente en la reputación del taller.
+* ¿Cómo implementar una plataforma digital que permita a los asesores gestionar eficientemente citas, clientes y servicios, reduciendo errores y mejorando la experiencia general del usuario?
+
 #### 1.2.2.2. Lean UX Assumptions
 #### 1.2.2.3. Lean UX Hypothesis Statements
 #### 1.2.2.4. Lean UX Canvas
