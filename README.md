@@ -283,7 +283,7 @@ En esta sección, el equipo hace entrevistas a personas pertenecientes a los seg
 - Inicia en: 0:01
 - Duración: 5:40
 
-![interview1](/docs/Assets/images_interview/interview1.1.png)
+<img src="Assets/images_interview/interview1.1.png">
 
 **Resumen de la entrevista**
 
@@ -296,7 +296,7 @@ En esta sección, el equipo hace entrevistas a personas pertenecientes a los seg
 - Inicia en: 0:01
 - Duración: 6:45
 
-![interview1](/docs/Assets/images_interview/interview1.2.png)
+<img src="Assets/images_interview/interview1.2.png">
 
 **Resumen de la entrevista**
 
@@ -468,14 +468,14 @@ Los sistemas de navegación de PrimeFix han sido diseñados para poder guiar de 
 
 | Icono | Funcionalidad |
 |---|---|
-| ![icon1](/docs/Assets/figma_icons/figma_icon.png) | Este ícono permite que el usuario pueda dirigirse a la pantalla inicial que brinda información vital sobre el funcionamiento de PrimeFix.  |
-| ![icon2](/docs/Assets/figma_icons/figma_icon_2.png) | Este ícono, que pertenece al lado del dueños de vehiculos, permite visualizar los coches que el usuario ha registrado. |
-| ![icon3](/docs/Assets/figma_icons/figma_icon_3.png) | Este ícono permite buscar un taller que se adecue a la situación del usuario. |
-| ![icon4](/docs/Assets/figma_icons/figma_icon_4.png) | Este ícono dirige al usuario al apartado de Historial, donde podrá visualizar los mantenimientos anteriores de su vehículo. |
-| ![icon5](/docs/Assets/figma_icons/figma_icon_5.png) | Permite visualizar el estado de los distintos vehiculos registrados dentro de PrimeFix |
-| ![icon6](/docs/Assets/figma_icons/figma_icon_6.png) | Permite visualizar las solicitudes que están pednientes dentro del taller. |
-| ![icon7](/docs/Assets/figma_icons/figma_icon_7.png) | Permite gestionar y viualizar a los distintos técnicos dentro del taller registrado. |
-| ![icon8](/docs/Assets/figma_icons/figma_icon_8.png) | Permite al usuario visualizar el perfil con el que se ha registrado, brindado información pertinente como Nombres, contraseña, etc. |
+| <img src="Assets/figma_icons/figma_icon.png"> | Este ícono permite que el usuario pueda dirigirse a la pantalla inicial que brinda información vital sobre el funcionamiento de PrimeFix.  |
+| <img src="Assets/figma_icons/figma_icon_2.png"> | Este ícono, que pertenece al lado del dueños de vehiculos, permite visualizar los coches que el usuario ha registrado. |
+| <img src="Assets/figma_icons/figma_icon_3.png"> | Este ícono permite buscar un taller que se adecue a la situación del usuario. |
+| <img src="Assets/figma_icons/figma_icon_4.png"> | Este ícono dirige al usuario al apartado de Historial, donde podrá visualizar los mantenimientos anteriores de su vehículo. |
+| <img src="Assets/figma_icons/figma_icon_5.png"> | Permite visualizar el estado de los distintos vehiculos registrados dentro de PrimeFix |
+| <img src="Assets/figma_icons/figma_icon_6.png"> | Permite visualizar las solicitudes que están pednientes dentro del taller. |
+| <img src="Assets/figma_icons/figma_icon_7.png"> | Permite gestionar y viualizar a los distintos técnicos dentro del taller registrado. |
+| <img src="Assets/figma_icons/figma_icon_8.png"> | Permite al usuario visualizar el perfil con el que se ha registrado, brindado información pertinente como Nombres, contraseña, etc. |
 
 
 ## 4.3. Landing Page UI Design
