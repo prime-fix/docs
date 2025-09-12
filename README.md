@@ -270,6 +270,85 @@ Preguntas:
 12. ¿Estaría interesado en una plataforma que notifique al cliente el momento en que puede recoger su vehículo?
 
 ### 2.2.2. Registro de entrevistas
+
+En esta sección, el equipo hace entrevistas a personas pertenecientes a los segmentos respectivos.
+
+### Segmento #1: Dueños de Vehiculos
+
+**Entrevista N°1: Marcos Contreras**
+
+- Sexo: Masculino
+- Edad: 24
+- Link: [Enlace](https://youtu.be/jxewDa98VMM?si=WdTFbF1Z-Kl3YQhH)
+- Inicia en: 0:01
+- Duración: 5:40
+
+![interview1](/docs/Assets/images_interview/interview1.1.png)
+
+**Resumen de la entrevista**
+
+
+**Entrevista N°2: Anyelo Alejos**
+
+- Sexo: Masculino
+- Edad: 23
+- Link: [Enlace](https://youtu.be/-Es-ANQGVr0?si=JypulX8ivOkZupZd)
+- Inicia en: 0:01
+- Duración: 6:45
+
+![interview1](/docs/Assets/images_interview/interview1.2.png)
+
+**Resumen de la entrevista**
+
+
+**Entrevista N°3:**
+
+- Sexo:
+- Edad:
+- Link:
+- Inicia en:
+- Duración:
+
+
+**Resumen de la entrevista**
+
+### Segmento #2: Asesor de servicios de un taller automotriz
+
+**Entrevista N°1:**
+
+- Sexo:
+- Edad:
+- Link:
+- Inicia en:
+- Duración:
+
+
+**Resumen de la entrevista**
+
+**Entrevista N°2:**
+
+- Sexo:
+- Edad:
+- Link:
+- Inicia en:
+- Duración:
+
+
+**Resumen de la entrevista**
+
+
+**Entrevista N°3:**
+
+- Sexo:
+- Edad:
+- Link:
+- Inicia en:
+- Duración:
+
+
+**Resumen de la entrevista**
+
+
 ### 2.2.3. Análisis de entrevistas
 
 ## 2.3. Needfinding
@@ -373,16 +452,30 @@ En cuanto a los botones, destaca el patrón Primary Call to Action, con el que s
 
 ### 4.2.4. Searching Systems
 
-Auto-Fix cuenta con un sistema de búqueda que permite que el usuario poder buscar los talleres que sean más aptos para su vehiculo, esto a través de múltiples filtros:
+PrimeFix cuenta con un sistema de búqueda que permite que el usuario poder buscar los talleres que sean más aptos para su vehiculo, esto a través de múltiples filtros:
 
 | Filtros | Descripción |
 | --- | --- |
-| Ubicación | Filtro geográfico que ayuda a ecnontrar los talleres disponibles en una zona específica. |
-| Rango del Precio | Filtra los talleres según el presupuesto aproximado que el usuario esta dispuesto a pagar. |
+| Departamento | Filtro geográfico que ayuda a ecnontrar los talleres disponibles en una zona específica. |
+| Cantidad de Técnicos | Filtra los talleres según la cantidad de técnicos registrados en el taler. |
+| Técnicos Disponibles | Filtra la cantidad de técnicos disponibles en el taller. |
+| Reseñas  | Filtro que muestra los talleres que tienen mejor/pero reseña por parte de los usuarios. |
+| Distrito | Filtro que selecciona a los talleres que se encuentran en un rango limitado por distrito. |
 
 ### 4.2.5. Navigation Systems
 
-Los sistemas de navegación de Auto-Fix han sido diseñados para poder guiar de forma intuitiva a los usuarios a tráves de la Landing Page y dentro de la aplicación, facilitando la exploración del contenido y el acceso a las distintas funcionalidades que la aplicación ofrece. Auto-Fix sigue una estructura lógica clara que permite al usuario encontrar rápidamente lo que necesita mediante menús jerarquicos, enlaces destacados y botones de acción visibles para el usuario.
+Los sistemas de navegación de PrimeFix han sido diseñados para poder guiar de forma intuitiva a los usuarios a tráves de la Landing Page y dentro de la aplicación, facilitando la exploración del contenido y el acceso a las distintas funcionalidades que la aplicación ofrece. PrimeFix sigue una estructura lógica clara que permite al usuario encontrar rápidamente lo que necesita mediante menús jerarquicos, enlaces destacados y botones de acción visibles para el usuario.
+
+| Icono | Funcionalidad |
+|---|---|
+| ![icon1](/docs/Assets/figma_icons/figma_icon.png) | Este ícono permite que el usuario pueda dirigirse a la pantalla inicial que brinda información vital sobre el funcionamiento de PrimeFix.  |
+| ![icon2](/docs/Assets/figma_icons/figma_icon_2.png) | Este ícono, que pertenece al lado del dueños de vehiculos, permite visualizar los coches que el usuario ha registrado. |
+| ![icon3](/docs/Assets/figma_icons/figma_icon_3.png) | Este ícono permite buscar un taller que se adecue a la situación del usuario. |
+| ![icon4](/docs/Assets/figma_icons/figma_icon_4.png) | Este ícono dirige al usuario al apartado de Historial, donde podrá visualizar los mantenimientos anteriores de su vehículo. |
+| ![icon5](/docs/Assets/figma_icons/figma_icon_5.png) | Permite visualizar el estado de los distintos vehiculos registrados dentro de PrimeFix |
+| ![icon6](/docs/Assets/figma_icons/figma_icon_6.png) | Permite visualizar las solicitudes que están pednientes dentro del taller. |
+| ![icon7](/docs/Assets/figma_icons/figma_icon_7.png) | Permite gestionar y viualizar a los distintos técnicos dentro del taller registrado. |
+| ![icon8](/docs/Assets/figma_icons/figma_icon_8.png) | Permite al usuario visualizar el perfil con el que se ha registrado, brindado información pertinente como Nombres, contraseña, etc. |
 
 
 ## 4.3. Landing Page UI Design
