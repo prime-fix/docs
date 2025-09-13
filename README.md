@@ -217,6 +217,7 @@ Con FixTech nace Prime-Fix, una plataforma digital cuyo objetivo es facilitar el
 3. Creemos que, si integramos funciones de transparencia en cotizaciones, reseñas verificadas y soporte en tiempo real, tanto dueños de vehículos como talleres confiarán más en la plataforma y repetirán su uso. Sabremos que hemos tenido éxito cuando el índice de uso recurrente (clientes y asesores que repiten servicios) supere el 60% al cabo de seis meses.
 4. Creemos que si diseñamos una interfaz intuitiva, con funcionalidades accesibles para ambos tipos de usuario (dueños y asesores), lograremos que tanto talleres tradicionales como nuevos usuarios adopten la plataforma sin necesidad de capacitación extensiva. Sabremos que hemos tenido éxito cuando al menos el 65% de los asesores encuestados indiquen sentirse cómodos gestionando sus servicios en la aplicación sin soporte adicional después de un mes de uso continuo.
 #### 1.2.2.4. Lean UX Canvas
+<img src="Assets/chapter-1/lean-ux-canvas.png" alt="">
 
 ## 1.3. Segmentos objetivo
 
