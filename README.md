@@ -200,6 +200,10 @@ Con FixTech nace Prime-Fix, una plataforma digital cuyo objetivo es facilitar el
 * Lograr ingresos recurrentes por comisiones, suscripciones y publicidad dirigida a ambos segmentos.
 * Posicionar a FixTech como referente tecnológico en gestión automotriz y mantener alta retención en ambas audiencias.
 #### 1.2.2.3. Lean UX Hypothesis Statements
+1. Creemos que al ofrecer una plataforma digital para agendar y gestionar servicios de mantenimiento automotriz, los dueños de vehículos podrán encontrar talleres confiables y realizar reservas en menos tiempo. Sabremos que hemos tenido éxito cuando al menos el 80% de los usuarios completen una reserva y califiquen positivamente la experiencia en la plataforma durante el primer mes de uso.
+2. Creemos que al proporcionar a los asesores de talleres automotrices herramientas de gestión digital (notificaciones, seguimiento, historial de servicios y organización de citas), podrán aumentar la eficiencia en la atención y captar más clientes. Sabremos que hemos tenido éxito cuando al menos el 70% de los asesores registrados reporten un incremento en la cantidad de clientes atendidos en el primer trimestre tras adoptar la plataforma.
+3. Creemos que, si integramos funciones de transparencia en cotizaciones, reseñas verificadas y soporte en tiempo real, tanto dueños de vehículos como talleres confiarán más en la plataforma y repetirán su uso. Sabremos que hemos tenido éxito cuando el índice de uso recurrente (clientes y asesores que repiten servicios) supere el 60% al cabo de seis meses.
+4. Creemos que si diseñamos una interfaz intuitiva, con funcionalidades accesibles para ambos tipos de usuario (dueños y asesores), lograremos que tanto talleres tradicionales como nuevos usuarios adopten la plataforma sin necesidad de capacitación extensiva. Sabremos que hemos tenido éxito cuando al menos el 65% de los asesores encuestados indiquen sentirse cómodos gestionando sus servicios en la aplicación sin soporte adicional después de un mes de uso continuo.
 #### 1.2.2.4. Lean UX Canvas
 
 ## 1.3. Segmentos objetivo
