@@ -181,6 +181,24 @@ Con FixTech nace Prime-Fix, una plataforma digital cuyo objetivo es facilitar el
 * ¿Cómo implementar una plataforma digital que permita a los asesores gestionar eficientemente citas, clientes y servicios, reduciendo errores y mejorando la experiencia general del usuario?
 
 #### 1.2.2.2. Lean UX Assumptions
+1. Consideramos que nuestros clientes, tanto dueños de vehículos como asesores de servicios de talleres automotrices, tienen la necesidad de gestionar de manera eficiente los servicios de mantenimiento y reparación automotriz.
+2. Esta necesidad se puede resolver mediante una plataforma digital que facilite el contacto entre propietarios de vehículos y asesores de talleres, proporcionando funciones como reserva de citas, cotización, seguimiento de servicios y calificación mutua.
+3. Nuestros clientes iniciales son dueños de vehículos particulares y asesores de servicios de talleres automotrices en Lima, que buscan digitalizar y simplificar la gestión y el acceso a servicios automotrices.
+4. La mayoría de los clientes se obtendrá por registros en la plataforma generados a través de campañas digitales, alianzas con talleres y recomendaciones entre usuarios y asesores.
+5. Los beneficios económicos provendrán de comisiones por servicios concretados, suscripciones premium para talleres que deseen mayor visibilidad y publicidad segmentada dirigida tanto a propietarios como a asesores.
+6. La competencia la constituyen directorios online, marketplaces automotrices, apps de gestión de talleres y métodos tradicionales de búsqueda y contacto.
+7. Resaltaremos frente a la competencia gracias a la confiabilidad de los talleres aliados, la digitalización del proceso de contacto y gestión, y las futuras integraciones tecnológicas para ambos tipos de usuarios.
+8. El mayor riesgo es la resistencia de asesores tradicionales a la adopción digital y la desconfianza de los propietarios respecto a la calidad del servicio ofrecido.
+9. Esto se resolverá con validación rigurosa de talleres, capacitación a asesores, sistemas de reputación digital y soporte técnico constante para ambos segmentos.
+#### User outcomes
+* Los dueños de vehículos acceden fácilmente a talleres confiables y gestionan sus servicios automotrices de manera clara y transparente.
+* Los asesores de talleres automotrices optimizan la captación y gestión de clientes usando herramientas digitales, incrementando eficiencia y reputación.
+* Ambos segmentos encuentran valor en la digitalización de procesos, la comunicación clara y la gestión centralizada del historial de servicios.
+#### Business outcomes
+* Aumentar la adopción de Prime-Fix entre propietarios de vehículos y asesores de talleres en Lima y expandirse nacionalmente.
+* Generar acuerdos estratégicos con talleres y marcas automotrices para fortalecer la base de usuarios.
+* Lograr ingresos recurrentes por comisiones, suscripciones y publicidad dirigida a ambos segmentos.
+* Posicionar a FixTech como referente tecnológico en gestión automotriz y mantener alta retención en ambas audiencias.
 #### 1.2.2.3. Lean UX Hypothesis Statements
 #### 1.2.2.4. Lean UX Canvas
 
