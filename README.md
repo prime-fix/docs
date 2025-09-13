@@ -182,8 +182,40 @@ Con FixTech nace Prime-Fix, una plataforma digital cuyo objetivo es facilitar el
 ### 1.2.1. Antecedentes y problemática
 ### 1.2.2. Lean UX Process
 #### 1.2.2.1. Lean UX Problem Statements
+#### Dueños de vehículos
+* Nuestro contexto demanda una solución digital que facilite a los propietarios de vehículos el acceso a talleres confiables y eficientes en ciudades con alto tráfico. Con esta solución, los usuarios podrán gestionar mantenimientos y reparaciones de manera rápida, contando con información clara sobre costos, tiempos y calidad del servicio, lo que reduce la duda y las pérdidas de tiempo.
+* Hemos observado un factor crítico que afecta a este segmento: la falta de transparencia y organización en los talleres genera desconfianza y frustración en los dueños, quienes suelen enfrentarse a largas esperas, cobros inesperados o servicios de baja calidad.
+* ¿Cómo brindar a los dueños de vehículos una plataforma digital que les permita encontrar talleres confiables, reservar citas con facilidad y monitorear el servicio en tiempo real para asegurar transparencia, eficacia y satisfacción?
+
+#### Asesores de servicios de taller automotriz
+* Nuestro contexto demanda una solución tecnológica que permita a los asesores de talleres optimizar la gestión de clientes y servicios. Con esta solución, los asesores podrán organizar citas de forma eficiente, llevar un control ordenado de mantenimientos y reparaciones, y ofrecer un servicio más rápido y transparente, generando confianza y fidelización.
+* Hemos observado un factor crítico que afecta a este segmento: la falta de herramientas digitales integradas ocasiona errores en la programación de citas, retrasos en la atención y pérdida de oportunidades de fidelización, lo que impacta directamente en la reputación del taller.
+* ¿Cómo implementar una plataforma digital que permita a los asesores gestionar eficientemente citas, clientes y servicios, reduciendo errores y mejorando la experiencia general del usuario?
+
 #### 1.2.2.2. Lean UX Assumptions
+1. Consideramos que nuestros clientes, tanto dueños de vehículos como asesores de servicios de talleres automotrices, tienen la necesidad de gestionar de manera eficiente los servicios de mantenimiento y reparación automotriz.
+2. Esta necesidad se puede resolver mediante una plataforma digital que facilite el contacto entre propietarios de vehículos y asesores de talleres, proporcionando funciones como reserva de citas, cotización, seguimiento de servicios y calificación mutua.
+3. Nuestros clientes iniciales son dueños de vehículos particulares y asesores de servicios de talleres automotrices en Lima, que buscan digitalizar y simplificar la gestión y el acceso a servicios automotrices.
+4. La mayoría de los clientes se obtendrá por registros en la plataforma generados a través de campañas digitales, alianzas con talleres y recomendaciones entre usuarios y asesores.
+5. Los beneficios económicos provendrán de comisiones por servicios concretados, suscripciones premium para talleres que deseen mayor visibilidad y publicidad segmentada dirigida tanto a propietarios como a asesores.
+6. La competencia la constituyen directorios online, marketplaces automotrices, apps de gestión de talleres y métodos tradicionales de búsqueda y contacto.
+7. Resaltaremos frente a la competencia gracias a la confiabilidad de los talleres aliados, la digitalización del proceso de contacto y gestión, y las futuras integraciones tecnológicas para ambos tipos de usuarios.
+8. El mayor riesgo es la resistencia de asesores tradicionales a la adopción digital y la desconfianza de los propietarios respecto a la calidad del servicio ofrecido.
+9. Esto se resolverá con validación rigurosa de talleres, capacitación a asesores, sistemas de reputación digital y soporte técnico constante para ambos segmentos.
+#### User outcomes
+* Los dueños de vehículos acceden fácilmente a talleres confiables y gestionan sus servicios automotrices de manera clara y transparente.
+* Los asesores de talleres automotrices optimizan la captación y gestión de clientes usando herramientas digitales, incrementando eficiencia y reputación.
+* Ambos segmentos encuentran valor en la digitalización de procesos, la comunicación clara y la gestión centralizada del historial de servicios.
+#### Business outcomes
+* Aumentar la adopción de Prime-Fix entre propietarios de vehículos y asesores de talleres en Lima y expandirse nacionalmente.
+* Generar acuerdos estratégicos con talleres y marcas automotrices para fortalecer la base de usuarios.
+* Lograr ingresos recurrentes por comisiones, suscripciones y publicidad dirigida a ambos segmentos.
+* Posicionar a FixTech como referente tecnológico en gestión automotriz y mantener alta retención en ambas audiencias.
 #### 1.2.2.3. Lean UX Hypothesis Statements
+1. Creemos que al ofrecer una plataforma digital para agendar y gestionar servicios de mantenimiento automotriz, los dueños de vehículos podrán encontrar talleres confiables y realizar reservas en menos tiempo. Sabremos que hemos tenido éxito cuando al menos el 80% de los usuarios completen una reserva y califiquen positivamente la experiencia en la plataforma durante el primer mes de uso.
+2. Creemos que al proporcionar a los asesores de talleres automotrices herramientas de gestión digital (notificaciones, seguimiento, historial de servicios y organización de citas), podrán aumentar la eficiencia en la atención y captar más clientes. Sabremos que hemos tenido éxito cuando al menos el 70% de los asesores registrados reporten un incremento en la cantidad de clientes atendidos en el primer trimestre tras adoptar la plataforma.
+3. Creemos que, si integramos funciones de transparencia en cotizaciones, reseñas verificadas y soporte en tiempo real, tanto dueños de vehículos como talleres confiarán más en la plataforma y repetirán su uso. Sabremos que hemos tenido éxito cuando el índice de uso recurrente (clientes y asesores que repiten servicios) supere el 60% al cabo de seis meses.
+4. Creemos que si diseñamos una interfaz intuitiva, con funcionalidades accesibles para ambos tipos de usuario (dueños y asesores), lograremos que tanto talleres tradicionales como nuevos usuarios adopten la plataforma sin necesidad de capacitación extensiva. Sabremos que hemos tenido éxito cuando al menos el 65% de los asesores encuestados indiquen sentirse cómodos gestionando sus servicios en la aplicación sin soporte adicional después de un mes de uso continuo.
 #### 1.2.2.4. Lean UX Canvas
 
 ## 1.3. Segmentos objetivo
