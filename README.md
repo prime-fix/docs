@@ -151,6 +151,10 @@
 - [Anexos](#anexos)
 
 # Student Outcome  
+| Criterio específico                                                   | Acciones realizadas                                                                                     | Conclusiones |
+| --------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | ------------ |
+| Comunica oralmente con efectividad a diferentes rangos de audiencia   | Jiménez Guerra, Gianmarco Fabian<br>TB1<br>Texto<br><br>Aróstegui Alzamora, Cesar Augusto<br>TB1<br>Texto<br><br>Tenorio Medina, Piero Francesco<br>TB1<br>Texto<br><br>Montoya Torres, Alexander Gabriel<br>TB1<br>Texto<br><br>Navarro Chang, Alicia Avril<br>TB1<br>Texto| TB1: Texto   |
+| Comunica por escrito con efectividad a diferentes rangos de audiencia | Jiménez Guerra, Gianmarco Fabian<br>TB1<br>Texto<br><br>Aróstegui Alzamora, Cesar Augusto<br>TB1<br>Texto<br><br>Tenorio Medina, Piero Francesco<br>TB1<br>Texto<br><br>Montoya Torres, Alexander Gabriel<br>TB1<br>Texto<br><br>Navarro Chang, Alicia Avril<br>TB1<br>Texto| TB1: Texto   |
 
 ---
 
@@ -165,6 +169,14 @@ Con FixTech nace Prime-Fix, una plataforma digital cuyo objetivo es facilitar el
 <b>Visión: </b> Tenemos como objetivo posicionarnos como la plataforma líder en Perú para la gestión digital de servicios automotrices, considerando una posible expansión hacia toda América Latina. A su vez, en el futuro se buscará integrar a este proyecto aplicaciones móviles y dispositivos IoT que permitan un mantenmiento inteligente para los vehículos.
 
 ### 1.1.2. Perfiles de integrantes del equipo
+
+| Perfil del integrante | Código de alumno | Descripción                                                                                                                                                                                                                                                                                                                                                                                               |
+| --------------------- | ---------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Foto                  | U202318731       | Soy Piero Tenorio, estudio en la sede San Miguel de la UPC estudiando la carrera de Ingeniería de Software . Soy una persona colaborativa, responsable y comprometida con los trabajos en los que estoy implicado, tratando de ser lo más eficiente posible.Conocimientos en HTML, CSS, Java, C++, JavaScript y Python. Cada día trato de mejorar como persona y si llego a cometer algún error, tratar de aprender de ello. |
+| Foto                  | U202123843       | Soy Gianmarco Jiménez alumno de Ingeniería de Software. Me gusta trabajar en equipo pues me permite aprender sobre las ideas que tienen los participantes y contrastarlas con las mías. He utilizado lenguajes como C++, Python, SQL y Java. Estoy muy interesado en aprender todo sobre el desarrollo de aplicaciones web con frameworks.                                                                |
+| Foto                  | UXXXXXXX         | Texto de descripción                                                                                                                                                                                                                                                                                                                                                                                      |
+| Foto                  | UXXXXXXX         | Texto de descripción                                                                                                                                                                                                                                                                                                                                                                                      |
+| Foto                  | UXXXXXXX         | Texto de descripción                                                                                                                                                                                                                                                                                                                                                                                      |
 
 ## 1.2. Solution Profile
 ### 1.2.1. Antecedentes y problemática
@@ -290,6 +302,90 @@ Preguntas:
 12. ¿Estaría interesado en una plataforma que notifique al cliente el momento en que puede recoger su vehículo?
 
 ### 2.2.2. Registro de entrevistas
+
+En esta sección, el equipo hace entrevistas a personas pertenecientes a los segmentos respectivos.
+
+### Segmento #1: Dueños de Vehiculos
+
+**Entrevista N°1: Marcos Contreras**
+
+- Sexo: Masculino
+- Edad: 24
+- Link: [Enlace](https://youtu.be/jxewDa98VMM?si=WdTFbF1Z-Kl3YQhH)
+- Inicia en: 0:01
+- Duración: 5:40
+
+<img src="Assets/images_interview/interview1.1.png">
+
+**Resumen de la entrevista**
+
+
+**Entrevista N°2: Anyelo Alejos**
+
+- Sexo: Masculino
+- Edad: 23
+- Link: [Enlace](https://youtu.be/-Es-ANQGVr0?si=JypulX8ivOkZupZd)
+- Inicia en: 0:01
+- Duración: 6:45
+
+<img src="Assets/images_interview/interview1.2.png">
+
+**Resumen de la entrevista**
+
+
+**Entrevista N°3:**
+
+- Sexo:
+- Edad:
+- Link:
+- Inicia en:
+- Duración:
+
+
+**Resumen de la entrevista**
+
+### Segmento #2: Asesor de servicios de un taller automotriz
+
+**Entrevista N°1:**
+
+- Sexo: Masculino
+- Edad: 21
+- Link: [Enlace](https://youtu.be/Xq5C-dh-AVA)
+- Inicia en: 0:05
+- Duración: 6:31
+
+  <img src="Assets/images_interview/interview_gianmarco.png">
+
+Jesús Valenzuela es un joven asesor de servicios de reparación del taller Alvillantas, nos comenta que para atraer clientes, utiliza las redes sociales como Facebook y TikTok y una landing page. El entrevistado comenta que no siente que el taller donde trabaja sea afectado por la competencia dada su ubicación estratégica junto con la de sus otras sedes. Jesús menciona que la gestión de las solicitudes de servicios se realizan principalmente mediante WhatsApp, también reciben llamadas telefónicas y visitas directas al taller. En cuanto al desempeño de los técnicos y los servicios brindados, sí han recibido cierta retroalimentación. 
+Se menciona que la gestión de los técnicos y de su información es un poco desordenada; sin embargo, considera interesante la idea de digitalizar ello y permitir que los clientes puedan conocer la disponibilidad de los trabajadores en tiempo real.
+El asesor menciona que en su taller se hace uso de un software llamado Qumpa para la gestión de su inventario de llantas de manera organizada, pero le parece interesante una plataforma que pueda ser utilizada por el cliente para la gestión de visitas con el fin de agilizar el proceso. Jesús menciona que este aplicativo puede ser de gran utilidad si cuenta con notificaciones para que el cliente pueda estar atento al estado de su vehículo.
+El diagnóstico de las fallas que ofrecen en Alvillantas se realiza mediante un documento físico, por lo que Jesús considera que podría ser buena idea virtualizar esta función para que el cliente pueda obtener esta información en sus dispositivos.
+Para finalizar, recalcó lo importante que es tener una plataforma con todas las funcionalidades mencionadas para garatizarle un buen servicio al cliente.
+
+**Entrevista N°2:**
+
+- Sexo:
+- Edad:
+- Link:
+- Inicia en:
+- Duración:
+
+
+**Resumen de la entrevista**
+
+
+**Entrevista N°3:**
+
+- Sexo:
+- Edad:
+- Link:
+- Inicia en:
+- Duración:
+
+
+**Resumen de la entrevista**
+
+
 ### 2.2.3. Análisis de entrevistas
 
 ## 2.3. Needfinding
@@ -312,8 +408,63 @@ Preguntas:
 
 # Capítulo IV: Product Design
 ## 4.1. Style Guidelines
+
+En esta sección el equipo presenta la Guía de Estilos de Prime-Fix.
+
 ### 4.1.1. General Style Guidelines
+
+**Branding**
+
+El logo de FixTech representa el mensaje que nosotros queremos dar con nuestra StarUp que es una búsqueda de calidad en lo que talleres mecánicos se refiere. El logo se compone de un ícono de ubicación utilizado para referenciar el lugar en el que se encutran los talleres. Asimismo, se tiene un check dentro de este ícono, con esto queremos dar a entender que los vehiculos que son atendidos gracias al servicio de Prime-Fix, serán agendados a un mantenimiento vehicular que sea pertinente para el vehiculo. Los colores que hemos elegido para nuestro proyecto,transmiten una sensación de estar en un servicio que es enfocado en lo vehicular confiable y eficaz.
+
+**Variantes del Logo**
+
+<h3>Logo original</h3>
+<img src="Assets/logo/logo_fondo.png" width="150" height="180">
+
+<h3>Logo transparente sin letras</h3>
+<img src="Assets/logo/logo_transparente.png" width="150" height="150">
+
+<h3>Logo transparente con letras</h3>
+<img src="Assets/logo/logo_titulo.png" width="150" height="200">
+
+**Typography**
+
+Nuestra tipografía Exo proyecta una imagen de profesionalidad y confianza que se alinea con la misión de FixTech. Con su estilo moderno y geométrico, transmite una sensación de tecnología e innovación, mostrando que estamos al día con las últimas herramientas del mundo automotriz. Además, su claridad y legibilidad refuerzan la transparencia de nuestro servicio. Utilizaremos Exo en sus variantes más gruesas para títulos y llamadas a la acción, aportando un dinamismo que capta la atención. Para el cuerpo del texto, optaremos por un estilo más ligero, garantizando que toda la información sea fácil de leer, lo que contribuye a una experiencia de usuario que se percibe como limpia, ordenada y fiable. Todo esto se ve reforzado con los colores que impulsan y agilizan la lectura dentro de la página web. 
+
+**Colors**
+
+La paleta de colores elegida para la web de Prime-Fix fue diseñada para transmitir un mensaje dirigidos a los consumidores. El azul petróleo se asocia con la seguridad, la profesionalidad y la fiabilidad convirtiéndose en el color principal de la marca. El amarillo mostaza tiene la función de resaltar acciones importantes y de aportar energia al logo. El beige claro y el blanco se transmiten limpieza, simplicidad y frescura, con estos colores nuestra página es más ligera a la hora de navegar en ella. El color negro refuerza la seriedad a la sofisticación, al elegancia y la seriedad mientras que el gris medio aporta equilibrio. Finalmente, el azul grisáceo actúa como tono de apoyo.
+
+<h3>Estilos</h3>
+<img src="Assets/estilos.PNG" width="550" height="450">
+
+**Paleta de colores**
+| **Color**        | **Código Hex** | **Descripción de uso** |
+|------------------|----------------|-------------------------|
+| Azul petróleo     | `#114358`      | Color principal de la marca, se usa en fondos, sidebar, y elementos que transmiten confianza y profesionalidad. |
+| Amarillo mostaza  | `#F2AA1F`      | Color complementario y de acción; destaca botones principales y enlaces. |
+| Beige claro       | `#F1ECE7`      | Color de soporte; aplicado en tarjetas, fondos de secciones (landing page) y formularios para dar claridad y frescura. |
+| Blanco            | `#FFFFFF`      | Neutro principal para contraste; usado en textos que requieren limpieza visual. |
+| Negro             | `#090909`      | Neutro fuerte; aplicado en textos principales para dar sensación de seriedad y sofisticación. |
+| Gris medio        | `#B1B1B1`      | Secundario; usado para el trackeo de estados inactivos y elementos que requieren menor jerarquía. |
+| Azul grisáceo     | `#6491A4`      | Color adicional; utilizado en iconografía secundaria y visualización de pestañas activas|
+
+
 ### 4.1.2. Web Style Guidelines
+
+Respecto al estilo de la estructura de la web, se ha empleado el patrón Persistent Navigation, con una barra de navegación mediante la cual el usuario podrá tener acceso a las secciones principales sin perderse en el flujo y con la posibilidad de volver. Con este patrón se puede cumplir la heurística de visibilidad del estado del sistema donde el menú ne navegación resaltará la sección activa en todo momento.
+(imagen)
+
+El patrón de diseño Card Layout es visible en algunas secciones, este se encarga de organizar información relevante en bloques.
+(imagen)
+
+En la web de Prime-Fix se puede visualizar el uso de la huerística de brindar retroalimentación del usuario mediante la barra de progreso que permite rastrear el estado actual del vehículo.
+(imagen)
+
+En cuanto a los botones, destaca el patrón Primary Call to Action, con el que se permite destacar lo importante mediante un contraste y se guía al usuario hacia acciones críticas. 
+(imagen)
+
 
 ## 4.2. Information Architecture
 ### 4.2.1. Organization Systems
@@ -322,32 +473,46 @@ Preguntas:
 
 **Landing Page Title:** Prime-Fix
 
-**Description:** Prime-Fix es una startup que se especializa en el desarrollo de soluciones tecnológicas para web. Con Auto-Fix, facilitamos el acceso a los usuarios en los distintos servicios de mantenimiento y reparación automotriz, lo que facilita la conexión entre los talleres y dueños de vehículos.
+**Description:** Prime-Fix es una startup que se especializa en el desarrollo de soluciones tecnológicas para web. Con FixTech, facilitamos el acceso a los usuarios en los distintos servicios de mantenimiento y reparación automotriz, lo que facilita la conexión entre los talleres y dueños de vehículos.
 
 **Meta Keywords:** Mantenimiento automotriz, reparación de vehiculos, talleres confiables, gestion digital, tecnología automotriz.
 
-**Meta Author:** Prime-Fix
+**Meta Author:** FixTech
 
-**Meta Decription:** Facilitar la conexión entre los dueños de vehiculos que necesiten un mantenimiento y los talleres automotrices.  
+**Meta Decription:** Facilitar la conexión entre los dueños de vehículos que necesiten un mantenimiento y los talleres automotrices.  
 
-**Title:** Prime-Fix
+**Title:** FixTech
 
-**Description:**Auto-Fix, la plataforma digital de Prime-Fix, conecta a los dueños de vehiculos con talleres confiables, foreciendo servicios de mantenimiento y de reparación automotriz con una experiencia moderna, clara y de manera eficiente.
+**Description:** FixTech, la plataforma digital de Prime-Fix, conecta a los dueños de vehiculos con talleres confiables, foreciendo servicios de mantenimiento y de reparación automotriz con una experiencia moderna, clara y de manera eficiente.
 
-**Meta Author:** Prime-Fix
+**Meta Author:** FixTech
 
 ### 4.2.4. Searching Systems
 
-Auto-Fix cuenta con un sistema de búqueda que permite que el usuario poder buscar los talleres que sean más aptos para su vehiculo, esto a través de múltiples filtros:
+PrimeFix cuenta con un sistema de búqueda que permite que el usuario poder buscar los talleres que sean más aptos para su vehiculo, esto a través de múltiples filtros:
 
 | Filtros | Descripción |
 | --- | --- |
-| Ubicación | Filtro geográfico que ayuda a ecnontrar los talleres disponibles en una zona específica. |
-| Rango del Precio | Filtra los talleres según el presupuesto aproximado que el usuario esta dispuesto a pagar. |
+| Departamento | Filtro geográfico que ayuda a ecnontrar los talleres disponibles en una zona específica. |
+| Cantidad de Técnicos | Filtra los talleres según la cantidad de técnicos registrados en el taler. |
+| Técnicos Disponibles | Filtra la cantidad de técnicos disponibles en el taller. |
+| Reseñas  | Filtro que muestra los talleres que tienen mejor/pero reseña por parte de los usuarios. |
+| Distrito | Filtro que selecciona a los talleres que se encuentran en un rango limitado por distrito. |
 
 ### 4.2.5. Navigation Systems
 
-Los sistemas de navegación de Auto-Fix han sido diseñados para poder guiar de forma intuitiva a los usuarios a tráves de la Landing Page y dentro de la aplicación, facilitando la exploración del contenido y el acceso a las distintas funcionalidades que la aplicación ofrece. Auto-Fix sigue una estructura lógica clara que permite al usuario encontrar rápidamente lo que necesita mediante menús jerarquicos, enlaces destacados y botones de acción visibles para el usuario.
+Los sistemas de navegación de PrimeFix han sido diseñados para poder guiar de forma intuitiva a los usuarios a tráves de la Landing Page y dentro de la aplicación, facilitando la exploración del contenido y el acceso a las distintas funcionalidades que la aplicación ofrece. PrimeFix sigue una estructura lógica clara que permite al usuario encontrar rápidamente lo que necesita mediante menús jerarquicos, enlaces destacados y botones de acción visibles para el usuario.
+
+| Icono | Funcionalidad |
+|---|---|
+| <img src="Assets/figma_icons/figma_icon.png"> | Este ícono permite que el usuario pueda dirigirse a la pantalla inicial que brinda información vital sobre el funcionamiento de PrimeFix.  |
+| <img src="Assets/figma_icons/figma_icon_2.png"> | Este ícono, que pertenece al lado del dueños de vehiculos, permite visualizar los coches que el usuario ha registrado. |
+| <img src="Assets/figma_icons/figma_icon_3.png"> | Este ícono permite buscar un taller que se adecue a la situación del usuario. |
+| <img src="Assets/figma_icons/figma_icon_4.png"> | Este ícono dirige al usuario al apartado de Historial, donde podrá visualizar los mantenimientos anteriores de su vehículo. |
+| <img src="Assets/figma_icons/figma_icon_5.png"> | Permite visualizar el estado de los distintos vehiculos registrados dentro de PrimeFix |
+| <img src="Assets/figma_icons/figma_icon_6.png"> | Permite visualizar las solicitudes que están pednientes dentro del taller. |
+| <img src="Assets/figma_icons/figma_icon_7.png"> | Permite gestionar y viualizar a los distintos técnicos dentro del taller registrado. |
+| <img src="Assets/figma_icons/figma_icon_8.png"> | Permite al usuario visualizar el perfil con el que se ha registrado, brindado información pertinente como Nombres, contraseña, etc. |
 
 
 ## 4.3. Landing Page UI Design
