@@ -174,17 +174,39 @@ Con FixTech nace Prime-Fix, una plataforma digital cuyo objetivo es facilitar el
 | --------------------- | ---------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Foto                  | U202318731       | Soy Piero Tenorio, estudio en la sede San Miguel de la UPC estudiando la carrera de Ingeniería de Software . Soy una persona colaborativa, responsable y comprometida con los trabajos en los que estoy implicado, tratando de ser lo más eficiente posible.Conocimientos en HTML, CSS, Java, C++, JavaScript y Python. Cada día trato de mejorar como persona y si llego a cometer algún error, tratar de aprender de ello. |
 | Foto                  | U202123843       | Soy Gianmarco Jiménez alumno de Ingeniería de Software. Me gusta trabajar en equipo pues me permite aprender sobre las ideas que tienen los participantes y contrastarlas con las mías. He utilizado lenguajes como C++, Python, SQL y Java. Estoy muy interesado en aprender todo sobre el desarrollo de aplicaciones web con frameworks.                                                                |
-| Foto                  | UXXXXXXX         | Texto de descripción                                                                                                                                                                                                                                                                                                                                                                                      |
+| Foto                 |  U20231b424         | Soy Alexander Gabriel Montoya, estudiante de la carrera de Ingenieria de Sofware en la UPC, tengo 20 años actualmente, con respecto a mi carrera he aprendido a manejar lenguajes de programación como C++, MySQL, Python, HTML y CSS. Con respecto a lo personal, me gusta dedicar tiempo y esfuerzo a todo lo que hago ya sean actividades academicas o mis hobbies     |
 | Foto                  | UXXXXXXX         | Texto de descripción                                                                                                                                                                                                                                                                                                                                                                                      |
 | Foto                  | UXXXXXXX         | Texto de descripción                                                                                                                                                                                                                                                                                                                                                                                      |
 
 ## 1.2. Solution Profile
 ### 1.2.1. Antecedentes y problemática
+El sector automotriz en el Perú y en gran parte de Latinoamérica aún se encuentra rezagado en términos de digitalización de servicios, debido a que, la mayoria de talleres funcionan con procesos manuales, tales como agendas físicas, llamadas telefonicas y mensajeria web afectando la trazabilidad de reparaciones y la atención que reciben los dueños de vehiculos generando dificultades sobre ellos al obstaculizar la busqueda de talleres confiables hoy en día.
+
+A nivel global, ya existen plataformas que conectan a usuarios con talleres y servicios automotrices, lo que demuestra que hay una tendencia hacia la digitalización dentro de este sector, sin embargo en el Perú este modelo no ha sido consolidado y por ende se ha retrasado la modernización del servicio al cliente dentro de este sector y se ha aumentando la desorganización en la gestion de talleres, debido a que no se cuenta con sistemas digitales de registro de citas ni sistemas para facilitar el seguimiento de las reparaciones.
+
+En este contexto,Fixtech surge como una startup de base tecnológica que busca cerrar la brecha entre talleres y clientes mediante mediante la creación de nuestro aplicativo PrimeFix, el cual tiene como objetivo centralizar la oferta de talleres en un entorno digital que otorgue transparencia, accesibilidad y confianza a los usuarios
+
+
 ### 1.2.2. Lean UX Process
 #### 1.2.2.1. Lean UX Problem Statements
 #### 1.2.2.2. Lean UX Assumptions
 #### 1.2.2.3. Lean UX Hypothesis Statements
 #### 1.2.2.4. Lean UX Canvas
+| **Business Problem** | **Business Outcomes** |
+|-----------------------|------------------------|
+| - El sector automotriz en Perú carece de digitalización.<br>- Dueños de vehículos no encuentran talleres confiables ni transparentes.<br>- Talleres tienen procesos manuales e ineficientes. | - Incrementar talleres afiliados.<br>- Reducir tiempo de búsqueda y agendamiento.<br>- Aumentar confianza con transparencia en precios y reseñas.<br>- Posicionar a FixTech como líder en Perú y LATAM. |
+
+| **Users** | **User Outcomes & Benefits** |
+|-----------|------------------------------|
+| - Dueños de vehículos: buscan confianza, transparencia y facilidad.<br>- Talleres: necesitan digitalizar su gestión, captar clientes y mejorar organización. | - Dueños de vehículos: mayor confianza, ahorro de tiempo, historial de mantenimientos.<br>- Talleres: más visibilidad, captación de clientes y mejor gestión. |
+
+| **Hypotheses** | **Solutions** |
+|----------------|---------------|
+| - Creemos que los **dueños de vehículos** usarán Prime-Fix porque encontrarán confianza y transparencia.<br>- Creemos que los **talleres** se afiliarán para captar más clientes y organizar su gestión.<br>- Creemos que digitalizar procesos reducirá tiempos y aumentará satisfacción. | - Plataforma digital que conecte dueños de vehículos con talleres.<br>- Agenda en línea con recordatorios.<br>- Perfiles de talleres con reseñas y catálogo.<br>- Historial digital de mantenimientos.<br>- Futuras integraciones con app móvil e IoT. |
+
+| **What’s the most important thing we need to learn first?** | **What’s the least amount of work we need to do to learn the next most important thing?** |
+|-------------------------------------------------------------|------------------------------------------------------------------------------------------------|
+| - Validar si los usuarios confían en la plataforma para agendar servicios.<br>- Verificar si los talleres están dispuestos a afiliarse y pagar por visibilidad. | - Entrevistar a un grupo reducido de talleres y usuarios.<br>- Recoger feedback y medir uso real. |
 
 ## 1.3. Segmentos objetivo
 
