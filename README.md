@@ -398,6 +398,12 @@ Para finalizar, recalcó lo importante que es tener una plataforma con todas las
 <img src="Assets/chapter-1/user-persona-2.png" alt="">
 
 ### 2.3.2. User Task Matrix
+#### Segmento 1 - Dueño de vehículo
+User Task Matrix - José Paredes
+<img src="Assets/chapter-1/user-task-matrix-1.png" alt="">
+#### Segmento 2 - Asesor de taller automotriz
+User Task Matrix - Luis Chávez
+<img src="Assets/chapter-1/user-task-matrix-2.png" alt="">
 ### 2.3.3. User Journey Mapping
 ### 2.3.4. Empathy Mapping
 
