@@ -401,6 +401,27 @@ Para finalizar, recalcó lo importante que es tener una plataforma con todas las
 
 # Capítulo III: Requirements Specification
 ## 3.1. User Stories
+### 3.1.1 Epics
+### 3.1.2 User Stories
+
+|Story ID| Titulo  | Descripción | Criterios de Aceptación  | Relacionado de Epic (ID) |
+|---|---|---|---|---|
+| US-01  | --- |---|---|---|
+| --- | --- |---|---|---|
+| US - | Agregar Vehiculo del usuario | Como dueño de un vehículo, quiero agregar un nuevo auto a mi Lista de Vehículos, para agregar los distintos vehículos que puedan necesitar un mantenimiento. | **Scenario 1: Agregar un vehículo** <br>Given me encuentro en la sección de agregar vehículo <br>And deseo agregar mi vehículo que necesita reparación <br>When selecciono la opcion de agregar vehículo <br>Then me redirecciona a la sección Agregar Coches |---|
+|---| Registrar modelo de Vehículo |Como dueño de vehículo, quiero agregar el modelo de vehículos en la sección de Registrar Vehículos, para ejemplificar o dar una idea del tipo de vehículo que se está registrando.| **Scenario 1: Añadir modelo de vehículo manualmente** <br>Given estoy en la sección de Agregar Coches <br>And quiero especificar el modelo de mi vehículo <br> When me dirija a la opción de Modelo de Vehículo <br> Then la página me daría la opción de escribir un modelo específico de modelo de Auto. <br>**Scenario 2: Saltar la opción de modelo de vehículo** <br> Given me encuentro en la sección de Agregar Coches <br> When seleccione la opción de Modelo de Vehículo <br> And no ingrese nada <br> Then la pagina me dice que la información es necesaria.|---|
+|---|---|---|---|---|
+|---|---|---|---|---|
+|---|---|---|---|---|
+|---|---|---|---|---|
+|---|---|---|---|---|
+|---|---|---|---|---|
+|---|---|---|---|---|
+|---|---|---|---|---|
+|---|---|---|---|---|
+|---|---|---|---|---|
+|---|---|---|---|---|
+|---|---|---|---|---|
 ## 3.2. Impact Mapping
 ## 3.3. Product Backlog
 
@@ -530,7 +551,13 @@ Los sistemas de navegación de PrimeFix han sido diseñados para poder guiar de 
 ## 4.6. Domain-Driven Software Architecture
 ### 4.6.1. Design-Level Event Storming
 ### 4.6.2. Software Architecture Context Diagram
+
+<img src="Assets/diagrams/Context_Diagram.png">
+
 ### 4.6.3. Software Architecture Container Diagrams
+
+<img src="Assets/diagrams/Container_Diagram.png">
+
 ### 4.6.4. Software Architecture Components Diagrams
 
 ## 4.7. Software Object-Oriented Design
