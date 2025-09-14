@@ -307,6 +307,12 @@ Preguntas:
 
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
+#### Segmento 1 - Dueño de vehículo
+<img src="Assets/chapter-1/user-persona-1.png" alt="">
+
+#### Segmento 2 - Asesor de taller automotriz
+<img src="Assets/chapter-1/user-persona-2.png" alt="">
+
 ### 2.3.2. User Task Matrix
 ### 2.3.3. User Journey Mapping
 ### 2.3.4. Empathy Mapping
