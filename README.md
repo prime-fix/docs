@@ -303,6 +303,90 @@ Preguntas:
 12. ¿Estaría interesado en una plataforma que notifique al cliente el momento en que puede recoger su vehículo?
 
 ### 2.2.2. Registro de entrevistas
+
+En esta sección, el equipo hace entrevistas a personas pertenecientes a los segmentos respectivos.
+
+### Segmento #1: Dueños de Vehiculos
+
+**Entrevista N°1: Marcos Contreras**
+
+- Sexo: Masculino
+- Edad: 24
+- Link: [Enlace](https://youtu.be/jxewDa98VMM?si=WdTFbF1Z-Kl3YQhH)
+- Inicia en: 0:01
+- Duración: 5:40
+
+<img src="Assets/images_interview/interview1.1.png">
+
+**Resumen de la entrevista**
+
+
+**Entrevista N°2: Anyelo Alejos**
+
+- Sexo: Masculino
+- Edad: 23
+- Link: [Enlace](https://youtu.be/-Es-ANQGVr0?si=JypulX8ivOkZupZd)
+- Inicia en: 0:01
+- Duración: 6:45
+
+<img src="Assets/images_interview/interview1.2.png">
+
+**Resumen de la entrevista**
+
+
+**Entrevista N°3:**
+
+- Sexo:
+- Edad:
+- Link:
+- Inicia en:
+- Duración:
+
+
+**Resumen de la entrevista**
+
+### Segmento #2: Asesor de servicios de un taller automotriz
+
+**Entrevista N°1:**
+
+- Sexo: Masculino
+- Edad: 21
+- Link: [Enlace](https://youtu.be/Xq5C-dh-AVA)
+- Inicia en: 0:05
+- Duración: 6:31
+
+  <img src="Assets/images_interview/interview_gianmarco.png">
+
+Jesús Valenzuela es un joven asesor de servicios de reparación del taller Alvillantas, nos comenta que para atraer clientes, utiliza las redes sociales como Facebook y TikTok y una landing page. El entrevistado comenta que no siente que el taller donde trabaja sea afectado por la competencia dada su ubicación estratégica junto con la de sus otras sedes. Jesús menciona que la gestión de las solicitudes de servicios se realizan principalmente mediante WhatsApp, también reciben llamadas telefónicas y visitas directas al taller. En cuanto al desempeño de los técnicos y los servicios brindados, sí han recibido cierta retroalimentación. 
+Se menciona que la gestión de los técnicos y de su información es un poco desordenada; sin embargo, considera interesante la idea de digitalizar ello y permitir que los clientes puedan conocer la disponibilidad de los trabajadores en tiempo real.
+El asesor menciona que en su taller se hace uso de un software llamado Qumpa para la gestión de su inventario de llantas de manera organizada, pero le parece interesante una plataforma que pueda ser utilizada por el cliente para la gestión de visitas con el fin de agilizar el proceso. Jesús menciona que este aplicativo puede ser de gran utilidad si cuenta con notificaciones para que el cliente pueda estar atento al estado de su vehículo.
+El diagnóstico de las fallas que ofrecen en Alvillantas se realiza mediante un documento físico, por lo que Jesús considera que podría ser buena idea virtualizar esta función para que el cliente pueda obtener esta información en sus dispositivos.
+Para finalizar, recalcó lo importante que es tener una plataforma con todas las funcionalidades mencionadas para garatizarle un buen servicio al cliente.
+
+**Entrevista N°2:**
+
+- Sexo:
+- Edad:
+- Link:
+- Inicia en:
+- Duración:
+
+
+**Resumen de la entrevista**
+
+
+**Entrevista N°3:**
+
+- Sexo:
+- Edad:
+- Link:
+- Inicia en:
+- Duración:
+
+
+**Resumen de la entrevista**
+
+
 ### 2.2.3. Análisis de entrevistas
 
 ## 2.3. Needfinding
@@ -412,16 +496,30 @@ En cuanto a los botones, destaca el patrón Primary Call to Action, con el que s
 
 ### 4.2.4. Searching Systems
 
-Auto-Fix cuenta con un sistema de búqueda que permite que el usuario poder buscar los talleres que sean más aptos para su vehiculo, esto a través de múltiples filtros:
+PrimeFix cuenta con un sistema de búqueda que permite que el usuario poder buscar los talleres que sean más aptos para su vehiculo, esto a través de múltiples filtros:
 
 | Filtros | Descripción |
 | --- | --- |
-| Ubicación | Filtro geográfico que ayuda a ecnontrar los talleres disponibles en una zona específica. |
-| Rango del Precio | Filtra los talleres según el presupuesto aproximado que el usuario esta dispuesto a pagar. |
+| Departamento | Filtro geográfico que ayuda a ecnontrar los talleres disponibles en una zona específica. |
+| Cantidad de Técnicos | Filtra los talleres según la cantidad de técnicos registrados en el taler. |
+| Técnicos Disponibles | Filtra la cantidad de técnicos disponibles en el taller. |
+| Reseñas  | Filtro que muestra los talleres que tienen mejor/pero reseña por parte de los usuarios. |
+| Distrito | Filtro que selecciona a los talleres que se encuentran en un rango limitado por distrito. |
 
 ### 4.2.5. Navigation Systems
 
-Los sistemas de navegación de Auto-Fix han sido diseñados para poder guiar de forma intuitiva a los usuarios a tráves de la Landing Page y dentro de la aplicación, facilitando la exploración del contenido y el acceso a las distintas funcionalidades que la aplicación ofrece. Auto-Fix sigue una estructura lógica clara que permite al usuario encontrar rápidamente lo que necesita mediante menús jerarquicos, enlaces destacados y botones de acción visibles para el usuario.
+Los sistemas de navegación de PrimeFix han sido diseñados para poder guiar de forma intuitiva a los usuarios a tráves de la Landing Page y dentro de la aplicación, facilitando la exploración del contenido y el acceso a las distintas funcionalidades que la aplicación ofrece. PrimeFix sigue una estructura lógica clara que permite al usuario encontrar rápidamente lo que necesita mediante menús jerarquicos, enlaces destacados y botones de acción visibles para el usuario.
+
+| Icono | Funcionalidad |
+|---|---|
+| <img src="Assets/figma_icons/figma_icon.png"> | Este ícono permite que el usuario pueda dirigirse a la pantalla inicial que brinda información vital sobre el funcionamiento de PrimeFix.  |
+| <img src="Assets/figma_icons/figma_icon_2.png"> | Este ícono, que pertenece al lado del dueños de vehiculos, permite visualizar los coches que el usuario ha registrado. |
+| <img src="Assets/figma_icons/figma_icon_3.png"> | Este ícono permite buscar un taller que se adecue a la situación del usuario. |
+| <img src="Assets/figma_icons/figma_icon_4.png"> | Este ícono dirige al usuario al apartado de Historial, donde podrá visualizar los mantenimientos anteriores de su vehículo. |
+| <img src="Assets/figma_icons/figma_icon_5.png"> | Permite visualizar el estado de los distintos vehiculos registrados dentro de PrimeFix |
+| <img src="Assets/figma_icons/figma_icon_6.png"> | Permite visualizar las solicitudes que están pednientes dentro del taller. |
+| <img src="Assets/figma_icons/figma_icon_7.png"> | Permite gestionar y viualizar a los distintos técnicos dentro del taller registrado. |
+| <img src="Assets/figma_icons/figma_icon_8.png"> | Permite al usuario visualizar el perfil con el que se ha registrado, brindado información pertinente como Nombres, contraseña, etc. |
 
 
 ## 4.3. Landing Page UI Design
