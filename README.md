@@ -459,6 +459,7 @@ En esta sección, el equipo hace entrevistas a personas pertenecientes a los seg
 - Inicia en: 0:01
 - Duración: 6:31
 
+<img src="Assets/images_interview/interview1.3.png">
 
 **Resumen de la entrevista**
 
