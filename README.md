@@ -1124,6 +1124,10 @@ Para el control de versiones y colaboración, utilizamos Git junto con GitHub, l
 En cuanto al diseño de experiencia de usuario, usamos UXPressia para crear y compartir documentos como user personas, mapas de empatía y journey maps, lo que ayudó a nuestro equipo a entender mejor a los usuarios y validar las ideas antes de empezar la implementación.
 
 ### 5.1.2. Source Code Management
+Repositorio de github - Landing Page de Prime Fix
+<img src="Assets/chapter-1/captura-repositorio-landingpage.png" alt="">
+URL: https://github.com/prime-fix/landing-page
+
 ### 5.1.3. Source Code Style Guide & Conventions
 ### 5.1.4. Software Deployment Configuration
 
