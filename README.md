@@ -559,7 +559,7 @@ Los sistemas de navegación de PrimeFix han sido diseñados para poder guiar de 
 
 | Icono | Funcionalidad |
 |---|---|
-| <img src="Assets/figma_icons/figma_icon.png"> | Este ícono permite que el usuario pueda dirigirse a la pantalla inicial que brinda información vital sobre el funcionamiento de PrimeFix.  |
+| <img src="Assets/figma_icons/figma_icon.png"> | Este ícono permite que el usuario pueda dirigirse a la pantalla inicial que brinda información vital sobre el funcionamiento de PrimeFix.  |N
 | <img src="Assets/figma_icons/figma_icon_2.png"> | Este ícono, que pertenece al lado del dueños de vehiculos, permite visualizar los coches que el usuario ha registrado. |
 | <img src="Assets/figma_icons/figma_icon_3.png"> | Este ícono permite buscar un taller que se adecue a la situación del usuario. |
 | <img src="Assets/figma_icons/figma_icon_4.png"> | Este ícono dirige al usuario al apartado de Historial, donde podrá visualizar los mantenimientos anteriores de su vehículo. |
@@ -575,9 +575,389 @@ Los sistemas de navegación de PrimeFix han sido diseñados para poder guiar de 
 
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
+
+En este apartado se presentarán los Wireframes más relevantes del proyecto
+
+**Formulario de registro de dueño de coche**
+
+<img src="Assets/Wireframes/registro_dueño.png">
+<hr>
+
+**Plan de pago para dueño de coche**
+
+<img src="Assets/Wireframes/plan_dueño.png">
+<hr>
+
+**Menú inicial para dueño de coche**
+
+<img src="Assets/Wireframes/menu_inicial_dueño1.png">
+<img src="Assets/Wireframes/menu_inicial_dueño2.png">
+<hr>
+
+**Configuración para dueño de coche**
+
+<img src="Assets/Wireframes/configuracion_dueño1.png">
+<hr>
+
+**Perfil de dueño de coche**
+
+<img src="Assets/Wireframes/perfil_dueño.png">
+<hr>
+
+**Registro de coches del usuario dueño de coche**
+
+<img src="Assets/Wireframes/coches_dueño.png">
+<img src="Assets/Wireframes/coches_dueño_editar.png">
+
+<hr>
+
+**Búsqueda da taller y programación de visita**
+
+<img src="Assets/Wireframes/buscar_taller_dueño1.png">
+<img src="Assets/Wireframes/buscar_taller_dueño2.png">
+<img src="Assets/Wireframes/buscar_taller_dueño_visita.png">
+
+<hr>
+
+**Historial de visitas realizadas**
+
+<img src="Assets/Wireframes/historial_dueño.png">
+
+<hr>
+
+
+**Seguimiento de estado de coche**
+
+<img src="Assets/Wireframes/trackear_dueño_estado1.png">
+
+<hr>
+
+**Realizacion de pago del servicio**
+
+<img src="Assets/Wireframes/pagar_dueño.png">
+<img src="Assets/Wireframes/pagar_dueño_pagado.png">
+
+<hr>
+
+**Formulario de registro del taller**
+
+<img src="Assets/Wireframes/registro_taller.png">
+<hr>
+
+**Planes de pago para el taller**
+
+<img src="Assets/Wireframes/plan_taller.png">
+<hr>
+
+**Menú inicial para el taller**
+
+<img src="Assets/Wireframes/menu_inicial_taller1.png">
+<img src="Assets/Wireframes/menu_inicial_taller4.png">
+<hr>
+
+**Configuración para el taller**
+
+<img src="Assets/Wireframes/configuración_taller1.png">
+<hr>
+
+**Perfil de taller**
+
+<img src="Assets/Wireframes/perfil_taller.png">
+<hr>
+
+**Información del taller**
+
+<img src="Assets/Wireframes/taller_taller.png">
+<hr>
+
+**Solicitudes de servicio para el taller**
+
+<img src="Assets/Wireframes/soliicitudes_taller.png">
+<hr>
+
+**Gestión de técnicos del taller**
+
+<img src="Assets/Wireframes/getionar_taller1.png">
+<img src="Assets/Wireframes/getionar_taller2.png">
+<hr>
+
+**Estado de coches desde la vista del taller**
+
+<img src="Assets/Wireframes/estado_coches_taller.png">
+<hr>
+
 ### 4.4.2. Web Applications Wireflow Diagrams
+
+**En este apartado se mostrarán mediante los Wireframes los flujos de actividades a realizar para que el usuario pueda alcanzar sus respectivas metas**
+
+**Ambos usuarios**
+
+**User Goal 1: Registro, inicio de sesión y acceso al aplicativo**<br>
+En esta meta, ambos usuarios deberán registrarse seleccionando su tipo de usuario correspondente, luego llenando el formulario de su información y finalmente realizando el pago del plan que van a comprar para poder tener acceso a las funcionalidades.
+
+<img src="Assets/Flow/Wireframe flows/UG1.PNG">
+<hr>
+
+
+<hr>
+
+**Apartado de dueños de coches**
+
+**User Goal 2: Reservar cita con taller**<br>
+Para esta meta, el usuario comenzará desde el menú inicial para lugo dirigirse al apartado "Buscar taller", luego procede a llenar la información correspondiente a la ubicación donde querrá ser atendido. Posteriormente, se le muestra una lista de talleres disponibles con información útil para que el usuario pueda elegir entre lo que mejor le parezca. Finalmente, procede a llenar el formulario para la programación de visita y recibe las notificaciones correspondientes: si el taller no acepta la solicitud se muestra que no será posible agendar la visita; caso contrario, se comentará que la visita fue programada con éxito.
+
+<img src="Assets/Flow/Wireframe flows/UG2.PNG">
+<hr>
+
+**User Goal 3: Seguir estado de coche en reparación**<br>
+En esta meta, se procederá a acceder a "Seguir estado". Luego se selecciona el auto que está siendo reparado y a continuación se mostrará el estado actual del coche. Cada vez que se actualice el estado, se enviará una notificación. Esto sucede hasta que la reparación halla culminado.
+
+<img src="Assets/Flow/Wireframe flows/UG3.PNG">
+<hr>
+
+**User Goal 4: Realizar pago**<br>
+Luego de realizar el seguimiento debido, se le ofrece al usuario la posibilidad de pagar tanto con efectivo o por medio del aplicativo. En caso se opte por utilizar el aplicativo, el usuario deberá agregar/elegir su método para luego recibir la notificación de que el pago fue confirmado. Si opta por el pago en efectivo, la notificación de servicio pagado será enviada una vez el taller confirme el pago.
+
+<img src="Assets/Flow/Wireframe flows/UG4.PNG">
+<hr>
+
+**User Goal 5: Calificar servicio**<br>
+Este flujo se sigue luego del pago para que el usuario brinde una calificación del servicio voluntaria. Si el usuario decide calificarlo, tendrá un sistema de puntuación de 1 a 5 y la posibilidad de dejar un comentario opcional.
+
+<img src="Assets/Flow/Wireframe flows/UG5.PNG">
+<hr>
+
+**User Goal 6: Configurar información**<br>
+El usuario tendrá 3 apartados para configurar información privada:
+ - En "Configuración" podrá modificar su contraseña, métodos de pago, suscripción y ajustes del sistema.
+ - En "Perfil" podrá modificar su nombre de usuario, dirección y contraseña.
+ - En "Coches", puede agregar, editar o eliminar los coches registrados
+
+<img src="Assets/Flow/Wireframe flows/UG6.PNG">
+<hr>
+
+**Apartado de talleres**
+
+
+**User Goal 7: Actualizar estado de coche**<br>
+El usuario deberá cambiar el estado del coche en reparación desde "Estado de coches"
+
+<img src="Assets/Flow/Wireframe flows/UG7.PNG">
+<hr>
+
+**User Goal 8: Gestionar técnicos**<br>
+El usuario deberá dirigirse al apartado "Gestionar ténicos" y llenar el formulario correspondiente tanto para agregar a un nuevo técnico como para editar información de uno ya existente.
+
+<img src="Assets/Flow/Wireframe flows/UG8.PNG">
+<hr>
+
+**User Goal 9: Gestionar solicitudes**<br>
+El usuario deberá dirigirse al apartado "Gestionar solicitudes" y decidir si acepta o no alguna solicitud pendiente.
+
+<img src="Assets/Flow/Wireframe flows/UG9.PNG">
+<hr>
+
+**User Goal 10: Configurar información**<br>
+El usuario tendrá 3 apartados para configurar información privada:
+ - En "Configuración" podrá modificar su contraseña, métodos de pago, suscripción y ajustes del sistema.
+ - En "Perfil" podrá modificar su nombre de usuario, dirección y contraseña.
+ - En "Taller", puede cambiar el nombre, la dirección y la ubicación en mapa con el marcador.
+
+<img src="Assets/Flow/Wireframe flows/UG10.PNG">
+<hr>
+
 ### 4.4.2. Web Applications Mock-ups
+
+En este apartado se presentarán los Mock-ups más relevantes del proyecto
+
+**Formulario de registro de dueño de coche**
+
+<img src="Assets/Mockups/registro_dueño.png">
+<hr>
+
+**Plan de pago para dueño de coche**
+
+<img src="Assets/Mockups/plan_dueño.png">
+<hr>
+
+**Menú inicial para dueño de coche**
+
+<img src="Assets/Mockups/menu_inicial_dueño1.png">
+<img src="Assets/Mockups/menu_inicial_dueño2.png">
+<hr>
+
+**Configuración para dueño de coche**
+
+<img src="Assets/Mockups/configuracion_dueño1.png">
+<hr>
+
+**Perfil de dueño de coche**
+
+<img src="Assets/Mockups/perfil_dueño.png">
+<hr>
+
+**Registro de coches del usuario dueño de coche**
+
+<img src="Assets/Mockups/coches_dueño.png">
+<img src="Assets/Mockups/coches_dueño_editar.png">
+
+<hr>
+
+**Búsqueda da taller y programación de visita**
+
+<img src="Assets/Mockups/buscar_taller_dueño1.png">
+<img src="Assets/Mockups/buscar_taller_dueño2.png">
+<img src="Assets/Mockups/buscar_taller_dueño_visita.png">
+
+<hr>
+
+**Historial de visitas realizadas**
+
+<img src="Assets/Mockups/historial_dueño.png">
+
+<hr>
+
+
+**Seguimiento de estado de coche**
+
+<img src="Assets/Mockups/trackear_dueño_estado1.png">
+
+<hr>
+
+**Realizacion de pago del servicio**
+
+<img src="Assets/Mockups/pagar_dueño.png">
+<img src="Assets/Mockups/pagar_dueño_pagado.png">
+
+<hr>
+
+**Formulario de registro del taller**
+
+<img src="Assets/Mockups/registro_taller.png">
+<hr>
+
+**Planes de pago para el taller**
+
+<img src="Assets/Mockups/plan_taller.png">
+<hr>
+
+**Menú inicial para el taller**
+
+<img src="Assets/Mockups/menu_inicial_taller1.png">
+<img src="Assets/Mockups/menu_inicial_taller4.png">
+<hr>
+
+**Configuración para el taller**
+
+<img src="Assets/Mockups/configuración_taller1.png">
+<hr>
+
+**Perfil de taller**
+
+<img src="Assets/Mockups/perfil_taller.png">
+<hr>
+
+**Información del taller**
+
+<img src="Assets/Mockups/taller_taller.png">
+<hr>
+
+**Solicitudes de servicio para el taller**
+
+<img src="Assets/Mockups/soliicitudes_taller.png">
+<hr>
+
+**Gestión de técnicos del taller**
+
+<img src="Assets/Mockups/getionar_taller1.png">
+<img src="Assets/Mockups/getionar_taller2.png">
+<hr>
+
+**Estado de coches desde la vista del taller**
+
+<img src="Assets/Mockups/estado_coches_taller.png">
+<hr>
+
+
 ### 4.4.3. Web Applications User Flow Diagrams
+
+**En este apartado se mostrarán los flujos de actividades a realizar para que el usuario pueda alcanzar sus respectivas metas**
+
+**Ambos usuarios**
+
+**User Goal 1: Registro, inicio de sesión y acceso al aplicativo**<br>
+En esta meta, ambos usuarios deberán registrarse seleccionando su tipo de usuario correspondente, luego llenando el formulario de su información y finalmente realizando el pago del plan que van a comprar para poder tener acceso a las funcionalidades.
+
+<img src="Assets/Flow/Mockups flows/UG1.PNG">
+<hr>
+
+
+<hr>
+
+**Apartado de dueños de coches**
+
+**User Goal 2: Reservar cita con taller**<br>
+Para esta meta, el usuario comenzará desde el menú inicial para lugo dirigirse al apartado "Buscar taller", luego procede a llenar la información correspondiente a la ubicación donde querrá ser atendido. Posteriormente, se le muestra una lista de talleres disponibles con información útil para que el usuario pueda elegir entre lo que mejor le parezca. Finalmente, procede a llenar el formulario para la programación de visita y recibe las notificaciones correspondientes: si el taller no acepta la solicitud se muestra que no será posible agendar la visita; caso contrario, se comentará que la visita fue programada con éxito.
+
+<img src="Assets/Flow/Mockups flows/UG2.PNG">
+<hr>
+
+**User Goal 3: Seguir estado de coche en reparación**<br>
+En esta meta, se procederá a acceder a "Seguir estado". Luego se selecciona el auto que está siendo reparado y a continuación se mostrará el estado actual del coche. Cada vez que se actualice el estado, se enviará una notificación. Esto sucede hasta que la reparación halla culminado.
+
+<img src="Assets/Flow/Mockups flows/UG3.PNG">
+<hr>
+
+**User Goal 4: Realizar pago**<br>
+Luego de realizar el seguimiento debido, se le ofrece al usuario la posibilidad de pagar tanto con efectivo o por medio del aplicativo. En caso se opte por utilizar el aplicativo, el usuario deberá agregar/elegir su método para luego recibir la notificación de que el pago fue confirmado. Si opta por el pago en efectivo, la notificación de servicio pagado será enviada una vez el taller confirme el pago.
+
+<img src="Assets/Flow/Mockups flows/UG4.PNG">
+<hr>
+
+**User Goal 5: Calificar servicio**<br>
+Este flujo se sigue luego del pago para que el usuario brinde una calificación del servicio voluntaria. Si el usuario decide calificarlo, tendrá un sistema de puntuación de 1 a 5 y la posibilidad de dejar un comentario opcional.
+
+<img src="Assets/Flow/Mockups flows/UG5.PNG">
+<hr>
+
+**User Goal 6: Configurar información**<br>
+El usuario tendrá 3 apartados para configurar información privada:
+ - En "Configuración" podrá modificar su contraseña, métodos de pago, suscripción y ajustes del sistema.
+ - En "Perfil" podrá modificar su nombre de usuario, dirección y contraseña.
+ - En "Coches", puede agregar, editar o eliminar los coches registrados
+
+<img src="Assets/Flow/Mockups flows/UG6.PNG">
+<hr>
+
+**Apartado de talleres**
+
+
+**User Goal 7: Actualizar estado de coche**<br>
+El usuario deberá cambiar el estado del coche en reparación desde "Estado de coches"
+
+<img src="Assets/Flow/Mockups flows/UG7.PNG">
+<hr>
+
+**User Goal 8: Gestionar técnicos**<br>
+El usuario deberá dirigirse al apartado "Gestionar ténicos" y llenar el formulario correspondiente tanto para agregar a un nuevo técnico como para editar información de uno ya existente.
+
+<img src="Assets/Flow/Mockups flows/UG8.PNG">
+<hr>
+
+**User Goal 9: Gestionar solicitudes**<br>
+El usuario deberá dirigirse al apartado "Gestionar solicitudes" y decidir si acepta o no alguna solicitud pendiente.
+
+<img src="Assets/Flow/Mockups flows/UG9.PNG">
+<hr>
+
+**User Goal 10: Configurar información**<br>
+El usuario tendrá 3 apartados para configurar información privada:
+ - En "Configuración" podrá modificar su contraseña, métodos de pago, suscripción y ajustes del sistema.
+ - En "Perfil" podrá modificar su nombre de usuario, dirección y contraseña.
+ - En "Taller", puede cambiar el nombre, la dirección y la ubicación en mapa con el marcador.
+
+<img src="Assets/Flow/Mockups flows/UG10.PNG">
+<hr>
 
 ## 4.5. Web Applications Prototyping
 
