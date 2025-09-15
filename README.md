@@ -495,6 +495,7 @@ En esta sección se detallará parte importante de la estructura y etiquetado de
 
 ### 4.2.1. Organization Systems
 
+<img src="Assets/Organization Systems/organization_ systems.png">
 
 
 ### 4.2.2. Labeling Systems
