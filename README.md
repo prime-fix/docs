@@ -250,8 +250,104 @@ En este contexto,Fixtech surge como una startup de base tecnológica que busca c
 # Capítulo II: Requirements Elicitation & Analysis
 ## 2.1. Competidores
 ### 2.1.1. Análisis competitivo
-### 2.1.2. Estrategias y tácticas frente a competidores
+<table>
+  <tr>
+    <th>Sección</th>
+    <th>Criterio</th>
+    <th>FixTech (Prime-Fix)</th>
+    <th>Autolab</th>
+    <th>TallerActual</th>
+    <th>Drivana</th>
+  </tr>
+  <tr>
+    <td rowspan="2"><b>Perfil</b></td>
+    <td>Overview</td>
+    <td>Startup peruana que conecta dueños de vehículos con talleres de confianza, centralizando citas e historial de servicios.</td>
+    <td>Startup colombiana que ofrece diagnóstico, agenda y marketplace de talleres certificados.</td>
+    <td>Portal español con red de talleres y formación técnica.</td>
+    <td>SaaS mexicano para digitalizar talleres + marketplace.</td>
+  </tr>
+  <tr>
+    <td>Ventaja Competitiva</td>
+    <td>Foco local (Perú), apoyo a talleres medianos/pequeños aún no digitalizados, confianza y transparencia.</td>
+    <td>Marca reconocida en LatAm, fuerte inversión y alianzas con aseguradoras/marcas.</td>
+    <td>Amplia base de contenido técnico y visibilidad internacional.</td>
+    <td>Modelo integral (software + marketplace), experiencia en IoT.</td>
+  </tr>
+  <tr>
+    <td rowspan="2"><b>Marketing</b></td>
+    <td>Mercado objetivo</td>
+    <td>Dueños de autos en Lima y talleres pequeños/medianos sin digitalización.</td>
+    <td>Usuarios urbanos en LatAm con alta adopción digital.</td>
+    <td>Talleres y mecánicos interesados en visibilidad y formación.</td>
+    <td>Talleres medianos/grandes que buscan digitalización avanzada.</td>
+  </tr>
+  <tr>
+    <td>Estrategia</td>
+    <td>Marketing digital local, alianzas con talleres, campañas centradas en confianza/transparencia.</td>
+    <td>Campañas masivas, acuerdos con aseguradoras y marcas de autos.</td>
+    <td>Generación de contenidos y publicidad técnica.</td>
+    <td>Ventas B2B, modelo SaaS + marketplace, enfoque en tecnología.</td>
+  </tr>
+  <tr>
+    <td rowspan="3"><b>Producto</b></td>
+    <td>Servicios</td>
+    <td>Marketplace de talleres, gestión de citas, historial de servicios.</td>
+    <td>Agenda de citas, diagnósticos, talleres certificados, garantías.</td>
+    <td>Directorio de talleres, contenidos técnicos y formación.</td>
+    <td>SaaS de gestión, marketplace, reportes IoT, pagos digitales.</td>
+  </tr>
+  <tr>
+    <td>Precios & Costos</td>
+    <td>Comisiones por transacción + suscripciones + publicidad segmentada.</td>
+    <td>Comisiones + tarifas premium por visibilidad + alianzas.</td>
+    <td>Membresías de talleres + publicidad.</td>
+    <td>Modelo SaaS (mensualidades) + comisiones.</td>
+  </tr>
+  <tr>
+    <td>Canales de distribución</td>
+    <td>Plataforma web (futuro: app móvil).</td>
+    <td>App móvil + web.</td>
+    <td>Web.</td>
+    <td>Web + app móvil.</td>
+  </tr>
+  <tr>
+    <td rowspan="4"><b>SWOT</b></td>
+    <td>Fortalezas</td>
+    <td>Enfoque local con conocimiento del mercado peruano.</td>
+    <td>Startup joven sin marca consolidada.</td>
+    <td>Mercado peruano rezagado en digitalización, espacio libre para crecer.</td>
+    <td>Ingreso de competidores regionales con más capital (Autolab, Drivana).</td>
+  </tr>
+  <tr>
+    <td>Debilidades</td>
+    <td>Primeros en digitalizar talleres pequeños y medianos.</td>
+    <td>Escalabilidad limitada frente a competidores con capital extranjero.</td>
+    <td>Expansión nacional y regional en LatAm.</td>
+    <td>Reticencia de talleres tradicionales a digitalizarse.</td>
+  </tr>
+  <tr>
+    <td>Oportunidades</td>
+    <td>Plataforma amigable e intuitiva.</td>
+    <td>Falta de app móvil en la primera etapa.</td>
+    <td>Posibles alianzas con aseguradoras, marcas y grifos.</td>
+    <td>Preferencia cultural por el trato directo (llamadas/visitas).</td>
+  </tr>
+  <tr>
+    <td>Amenazas</td>
+    <td>Estrategia basada en confianza y transparencia.</td>
+    <td>Dependencia inicial del mercado limeño.</td>
+    <td>Futuro con IoT y mantenimiento predictivo.</td>
+    <td>Riesgo de bajo financiamiento frente a competidores.</td>
+  </tr>
+</table>
 
+### 2.1.2. Estrategias y tácticas frente a competidores
+FixTech se posiciona como una solución tecnológica que responde a una necesidad aún insatisfecha en el Perú: la digitalización de talleres pequeños y medianos. Su mayor beneficio radica en la cercanía con el mercado local y el conocimiento profundo de la realidad automotriz peruana, donde la mayoría de procesos aún son manuales. A través de Prime-Fix, los dueños de vehículos acceden a talleres confiables, gestionan citas y mantienen un historial transparente de servicios, mientras los talleres optimizan su captación de clientes y su reputación en el mercado.
+
+Dentro del mercado regional, existen actores que ya han dado pasos hacia la digitalización de servicios automotrices. Autolab en Colombia ha crecido con el respaldo de alianzas con aseguradoras y marcas, consolidándose como un referente en varios países de Latinoamérica. TallerActual, desde España, combina red de talleres con formación y contenidos técnicos, ganando visibilidad internacional. Por otro lado, Drivana en México ha apostado por un modelo integral de SaaS y marketplace con un componente tecnológico más avanzado, incluso incorporando IoT. Aunque cada uno de estos competidores presenta fortalezas, ninguno ha logrado consolidar el espacio peruano, lo que deja una ventana clara de oportunidad para FixTech.
+
+Para competir con estos actores, FixTech debe desplegar tácticas adaptadas a cada rival. Frente a Autolab, resulta clave diferenciarse mediante alianzas con aseguradoras locales y un modelo accesible para talleres pequeños que la competencia internacional no suele priorizar. Contra TallerActual, el foco debe ponerse en generar contenidos prácticos y educativos dirigidos al mercado peruano, ocupando el vacío de información contextualizada que existe en el país. Y frente a Drivana, la estrategia más efectiva será ofrecer un producto más simple y económico, pensado para talleres tradicionales que aún no pueden implementar soluciones de alta tecnología.
 ## 2.2. Entrevistas
 ### 2.2.1. Diseño de entrevistas
 
@@ -298,6 +394,7 @@ Preguntas:
 ### 2.3.1. User Personas
 ### 2.3.2. User Task Matrix
 ### 2.3.3. User Journey Mapping
+
 ### 2.3.4. Empathy Mapping
 
 ## 2.4. Big Picture Event Storming
