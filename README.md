@@ -453,11 +453,11 @@ En esta sección, el equipo hace entrevistas a personas pertenecientes a los seg
 
 **Entrevista N°3:**
 
-- Sexo:
-- Edad:
-- Link:
-- Inicia en:
-- Duración:
+- Sexo: Masculino
+- Edad: 21
+- Link: [Enlace](https://www.youtube.com/watch?v=ntdm1xhTE1c)
+- Inicia en: 0:01
+- Duración: 6:31
 
 
 **Resumen de la entrevista**
