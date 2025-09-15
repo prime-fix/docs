@@ -174,12 +174,19 @@ Con FixTech nace Prime-Fix, una plataforma digital cuyo objetivo es facilitar el
 | --------------------- | ---------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Foto                  | U202318731       | Soy Piero Tenorio, estudio en la sede San Miguel de la UPC estudiando la carrera de Ingeniería de Software . Soy una persona colaborativa, responsable y comprometida con los trabajos en los que estoy implicado, tratando de ser lo más eficiente posible.Conocimientos en HTML, CSS, Java, C++, JavaScript y Python. Cada día trato de mejorar como persona y si llego a cometer algún error, tratar de aprender de ello. |
 | Foto                  | U202123843       | Soy Gianmarco Jiménez alumno de Ingeniería de Software. Me gusta trabajar en equipo pues me permite aprender sobre las ideas que tienen los participantes y contrastarlas con las mías. He utilizado lenguajes como C++, Python, SQL y Java. Estoy muy interesado en aprender todo sobre el desarrollo de aplicaciones web con frameworks.                                                                |
-| Foto                  | UXXXXXXX         | Texto de descripción                                                                                                                                                                                                                                                                                                                                                                                      |
+| Foto                 |  U20231b424         | Soy Alexander Gabriel Montoya, estudiante de la carrera de Ingenieria de Sofware en la UPC, tengo 20 años actualmente, con respecto a mi carrera he aprendido a manejar lenguajes de programación como C++, MySQL, Python, HTML y CSS. Con respecto a lo personal, me gusta dedicar tiempo y esfuerzo a todo lo que hago ya sean actividades academicas o mis hobbies     |
 | Foto                  | UXXXXXXX         | Texto de descripción                                                                                                                                                                                                                                                                                                                                                                                      |
 | Foto                  | UXXXXXXX         | Texto de descripción                                                                                                                                                                                                                                                                                                                                                                                      |
 
 ## 1.2. Solution Profile
 ### 1.2.1. Antecedentes y problemática
+El sector automotriz en el Perú y en gran parte de Latinoamérica aún se encuentra rezagado en términos de digitalización de servicios, debido a que, la mayoria de talleres funcionan con procesos manuales, tales como agendas físicas, llamadas telefonicas y mensajeria web afectando la trazabilidad de reparaciones y la atención que reciben los dueños de vehiculos generando dificultades sobre ellos al obstaculizar la busqueda de talleres confiables hoy en día.
+
+A nivel global, ya existen plataformas que conectan a usuarios con talleres y servicios automotrices, lo que demuestra que hay una tendencia hacia la digitalización dentro de este sector, sin embargo en el Perú este modelo no ha sido consolidado y por ende se ha retrasado la modernización del servicio al cliente dentro de este sector y se ha aumentando la desorganización en la gestion de talleres, debido a que no se cuenta con sistemas digitales de registro de citas ni sistemas para facilitar el seguimiento de las reparaciones.
+
+En este contexto,Fixtech surge como una startup de base tecnológica que busca cerrar la brecha entre talleres y clientes mediante mediante la creación de nuestro aplicativo PrimeFix, el cual tiene como objetivo centralizar la oferta de talleres en un entorno digital que otorgue transparencia, accesibilidad y confianza a los usuarios
+
+
 ### 1.2.2. Lean UX Process
 #### 1.2.2.1. Lean UX Problem Statements
 #### Dueños de vehículos
@@ -217,6 +224,21 @@ Con FixTech nace Prime-Fix, una plataforma digital cuyo objetivo es facilitar el
 3. Creemos que, si integramos funciones de transparencia en cotizaciones, reseñas verificadas y soporte en tiempo real, tanto dueños de vehículos como talleres confiarán más en la plataforma y repetirán su uso. Sabremos que hemos tenido éxito cuando el índice de uso recurrente (clientes y asesores que repiten servicios) supere el 60% al cabo de seis meses.
 4. Creemos que si diseñamos una interfaz intuitiva, con funcionalidades accesibles para ambos tipos de usuario (dueños y asesores), lograremos que tanto talleres tradicionales como nuevos usuarios adopten la plataforma sin necesidad de capacitación extensiva. Sabremos que hemos tenido éxito cuando al menos el 65% de los asesores encuestados indiquen sentirse cómodos gestionando sus servicios en la aplicación sin soporte adicional después de un mes de uso continuo.
 #### 1.2.2.4. Lean UX Canvas
+| **Business Problem** | **Business Outcomes** |
+|-----------------------|------------------------|
+| - El sector automotriz en Perú carece de digitalización.<br>- Dueños de vehículos no encuentran talleres confiables ni transparentes.<br>- Talleres tienen procesos manuales e ineficientes. | - Incrementar talleres afiliados.<br>- Reducir tiempo de búsqueda y agendamiento.<br>- Aumentar confianza con transparencia en precios y reseñas.<br>- Posicionar a FixTech como líder en Perú y LATAM. |
+
+| **Users** | **User Outcomes & Benefits** |
+|-----------|------------------------------|
+| - Dueños de vehículos: buscan confianza, transparencia y facilidad.<br>- Talleres: necesitan digitalizar su gestión, captar clientes y mejorar organización. | - Dueños de vehículos: mayor confianza, ahorro de tiempo, historial de mantenimientos.<br>- Talleres: más visibilidad, captación de clientes y mejor gestión. |
+
+| **Hypotheses** | **Solutions** |
+|----------------|---------------|
+| - Creemos que los **dueños de vehículos** usarán Prime-Fix porque encontrarán confianza y transparencia.<br>- Creemos que los **talleres** se afiliarán para captar más clientes y organizar su gestión.<br>- Creemos que digitalizar procesos reducirá tiempos y aumentará satisfacción. | - Plataforma digital que conecte dueños de vehículos con talleres.<br>- Agenda en línea con recordatorios.<br>- Perfiles de talleres con reseñas y catálogo.<br>- Historial digital de mantenimientos.<br>- Futuras integraciones con app móvil e IoT. |
+
+| **What’s the most important thing we need to learn first?** | **What’s the least amount of work we need to do to learn the next most important thing?** |
+|-------------------------------------------------------------|------------------------------------------------------------------------------------------------|
+| - Validar si los usuarios confían en la plataforma para agendar servicios.<br>- Verificar si los talleres están dispuestos a afiliarse y pagar por visibilidad. | - Entrevistar a un grupo reducido de talleres y usuarios.<br>- Recoger feedback y medir uso real. |
 
 ## 1.3. Segmentos objetivo
 
@@ -260,8 +282,104 @@ Con FixTech nace Prime-Fix, una plataforma digital cuyo objetivo es facilitar el
 # Capítulo II: Requirements Elicitation & Analysis
 ## 2.1. Competidores
 ### 2.1.1. Análisis competitivo
-### 2.1.2. Estrategias y tácticas frente a competidores
+<table>
+  <tr>
+    <th>Sección</th>
+    <th>Criterio</th>
+    <th>FixTech (Prime-Fix)</th>
+    <th>Autolab</th>
+    <th>TallerActual</th>
+    <th>Drivana</th>
+  </tr>
+  <tr>
+    <td rowspan="2"><b>Perfil</b></td>
+    <td>Overview</td>
+    <td>Startup peruana que conecta dueños de vehículos con talleres de confianza, centralizando citas e historial de servicios.</td>
+    <td>Startup colombiana que ofrece diagnóstico, agenda y marketplace de talleres certificados.</td>
+    <td>Portal español con red de talleres y formación técnica.</td>
+    <td>SaaS mexicano para digitalizar talleres + marketplace.</td>
+  </tr>
+  <tr>
+    <td>Ventaja Competitiva</td>
+    <td>Foco local (Perú), apoyo a talleres medianos/pequeños aún no digitalizados, confianza y transparencia.</td>
+    <td>Marca reconocida en LatAm, fuerte inversión y alianzas con aseguradoras/marcas.</td>
+    <td>Amplia base de contenido técnico y visibilidad internacional.</td>
+    <td>Modelo integral (software + marketplace), experiencia en IoT.</td>
+  </tr>
+  <tr>
+    <td rowspan="2"><b>Marketing</b></td>
+    <td>Mercado objetivo</td>
+    <td>Dueños de autos en Lima y talleres pequeños/medianos sin digitalización.</td>
+    <td>Usuarios urbanos en LatAm con alta adopción digital.</td>
+    <td>Talleres y mecánicos interesados en visibilidad y formación.</td>
+    <td>Talleres medianos/grandes que buscan digitalización avanzada.</td>
+  </tr>
+  <tr>
+    <td>Estrategia</td>
+    <td>Marketing digital local, alianzas con talleres, campañas centradas en confianza/transparencia.</td>
+    <td>Campañas masivas, acuerdos con aseguradoras y marcas de autos.</td>
+    <td>Generación de contenidos y publicidad técnica.</td>
+    <td>Ventas B2B, modelo SaaS + marketplace, enfoque en tecnología.</td>
+  </tr>
+  <tr>
+    <td rowspan="3"><b>Producto</b></td>
+    <td>Servicios</td>
+    <td>Marketplace de talleres, gestión de citas, historial de servicios.</td>
+    <td>Agenda de citas, diagnósticos, talleres certificados, garantías.</td>
+    <td>Directorio de talleres, contenidos técnicos y formación.</td>
+    <td>SaaS de gestión, marketplace, reportes IoT, pagos digitales.</td>
+  </tr>
+  <tr>
+    <td>Precios & Costos</td>
+    <td>Comisiones por transacción + suscripciones + publicidad segmentada.</td>
+    <td>Comisiones + tarifas premium por visibilidad + alianzas.</td>
+    <td>Membresías de talleres + publicidad.</td>
+    <td>Modelo SaaS (mensualidades) + comisiones.</td>
+  </tr>
+  <tr>
+    <td>Canales de distribución</td>
+    <td>Plataforma web (futuro: app móvil).</td>
+    <td>App móvil + web.</td>
+    <td>Web.</td>
+    <td>Web + app móvil.</td>
+  </tr>
+  <tr>
+    <td rowspan="4"><b>SWOT</b></td>
+    <td>Fortalezas</td>
+    <td>Enfoque local con conocimiento del mercado peruano.</td>
+    <td>Startup joven sin marca consolidada.</td>
+    <td>Mercado peruano rezagado en digitalización, espacio libre para crecer.</td>
+    <td>Ingreso de competidores regionales con más capital (Autolab, Drivana).</td>
+  </tr>
+  <tr>
+    <td>Debilidades</td>
+    <td>Primeros en digitalizar talleres pequeños y medianos.</td>
+    <td>Escalabilidad limitada frente a competidores con capital extranjero.</td>
+    <td>Expansión nacional y regional en LatAm.</td>
+    <td>Reticencia de talleres tradicionales a digitalizarse.</td>
+  </tr>
+  <tr>
+    <td>Oportunidades</td>
+    <td>Plataforma amigable e intuitiva.</td>
+    <td>Falta de app móvil en la primera etapa.</td>
+    <td>Posibles alianzas con aseguradoras, marcas y grifos.</td>
+    <td>Preferencia cultural por el trato directo (llamadas/visitas).</td>
+  </tr>
+  <tr>
+    <td>Amenazas</td>
+    <td>Estrategia basada en confianza y transparencia.</td>
+    <td>Dependencia inicial del mercado limeño.</td>
+    <td>Futuro con IoT y mantenimiento predictivo.</td>
+    <td>Riesgo de bajo financiamiento frente a competidores.</td>
+  </tr>
+</table>
 
+### 2.1.2. Estrategias y tácticas frente a competidores
+FixTech se posiciona como una solución tecnológica que responde a una necesidad aún insatisfecha en el Perú: la digitalización de talleres pequeños y medianos. Su mayor beneficio radica en la cercanía con el mercado local y el conocimiento profundo de la realidad automotriz peruana, donde la mayoría de procesos aún son manuales. A través de Prime-Fix, los dueños de vehículos acceden a talleres confiables, gestionan citas y mantienen un historial transparente de servicios, mientras los talleres optimizan su captación de clientes y su reputación en el mercado.
+
+Dentro del mercado regional, existen actores que ya han dado pasos hacia la digitalización de servicios automotrices. Autolab en Colombia ha crecido con el respaldo de alianzas con aseguradoras y marcas, consolidándose como un referente en varios países de Latinoamérica. TallerActual, desde España, combina red de talleres con formación y contenidos técnicos, ganando visibilidad internacional. Por otro lado, Drivana en México ha apostado por un modelo integral de SaaS y marketplace con un componente tecnológico más avanzado, incluso incorporando IoT. Aunque cada uno de estos competidores presenta fortalezas, ninguno ha logrado consolidar el espacio peruano, lo que deja una ventana clara de oportunidad para FixTech.
+
+Para competir con estos actores, FixTech debe desplegar tácticas adaptadas a cada rival. Frente a Autolab, resulta clave diferenciarse mediante alianzas con aseguradoras locales y un modelo accesible para talleres pequeños que la competencia internacional no suele priorizar. Contra TallerActual, el foco debe ponerse en generar contenidos prácticos y educativos dirigidos al mercado peruano, ocupando el vacío de información contextualizada que existe en el país. Y frente a Drivana, la estrategia más efectiva será ofrecer un producto más simple y económico, pensado para talleres tradicionales que aún no pueden implementar soluciones de alta tecnología.
 ## 2.2. Entrevistas
 ### 2.2.1. Diseño de entrevistas
 
@@ -392,6 +510,7 @@ Para finalizar, recalcó lo importante que es tener una plataforma con todas las
 ### 2.3.1. User Personas
 ### 2.3.2. User Task Matrix
 ### 2.3.3. User Journey Mapping
+
 ### 2.3.4. Empathy Mapping
 
 ## 2.4. Big Picture Event Storming
