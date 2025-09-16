@@ -720,8 +720,19 @@ Los sistemas de navegación de PrimeFix han sido diseñados para poder guiar de 
 
 
 ## 4.3. Landing Page UI Design
+
+A continuación se mostrarán los diseños realizados en Figma para la creación de la landing page de Prime-Fix
+
 ### 4.3.1. Landing Page Wireframe
+
+<img src="Assets/landing_page/landing_wireframe1.png">
+<img src="Assets/landing_page/landing_wireframe2.png">
+
 ### 4.3.2. Landing Page Mock-up
+
+<img src="Assets/landing_page/landing_mockup1.png">
+<img src="Assets/landing_page/landing_mockup2.png">
+
 
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
