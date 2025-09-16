@@ -48,7 +48,7 @@
 | Versión | Fecha       | Autor(es)                                                                 | Descripción de modificación |
 |---------|-------------|---------------------------------------------------------------------------|------------------------------|
 |   TB1   | 16/09/2025  | Gianmarco Fabian Jiménez Guerra                                           | Realicé la Descripción de la Startup, User Stories, Product Backlog, Organization Systems, Labeling Systems, Landing Page Wireframe, Landing Page Mock-up, Web Applications Wireframes, Web Applications Wireflow Diagrams, Web Applications Mock-ups, Web Applications User Flow Diagrams, Web Applications Prototyping|
-|   TB1   | 16/09/2025  | Cesar Augusto Arostegui Alzamora                                          | Realicé ... |
+|   TB1   | 16/09/2025  | Cesar Augusto Arostegui Alzamora                                          | Realicé el Ubiquitous Language, Web Applications UX/UI Design, Domain-Driven Software Architecture.Class Diagrams. Primera versión de la Landing Page, Services & Applications Implementation. |
 |   TB1   | 16/09/2025  | Alexander Gabriel Montoya Torres                                          | Realicé los Antecedentes y problemática, Lean UX Canvas, Análisis competitivo, las Estrategias y tacticas frente a competidores, entrevistas, User Journey Mapping, Empathy Mapping, User Stories, Source Code Style Guide & Conventiones y Software Deployment & Conventions|
 |   TB1   | 16/09/2025  | Alicia Avril Navarro Chang                                                | Realicé artefactos de Lean UX como lean ux problem statements, lean ux hyphotesis, lean ux assumptios. También desarrollé secciones del Needfinding como los user personas, impact mapping y user task matriz. Además del software development environment configuration y source code management. |
 |   TB1   | 16/09/2025  | Piero Francesco Tenorio Medina                                            | Realicé la secciones de User Stories, evaluando cada escenario posible de cada funcionalidad.Tambien el Diagrama de Clase en una versión temprana. Además de hacer los segmentos objetivos del proyecto. Evaluando los posibles usuarios a los que va dirijido el trabajo.  |
@@ -1339,7 +1339,7 @@ URL: [Enlace del Diagrama](https://lucid.app/lucidchart/a5dcb0f8-65f4-41c3-986a-
 ## 4.8. Database Design
 ### 4.8.1. Database Diagrams
 
----
+<img src="Assets/diagrams/Diagram_Database.png">
 
 # Capítulo V: Product Implementation, Validation & Deployment
 ## 5.1. Software Configuration Management
