@@ -153,8 +153,8 @@
 # Student Outcome  
 | Criterio específico                                                   | Acciones realizadas                                                                                     | Conclusiones |
 | --------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | ------------ |
-| Comunica oralmente con efectividad a diferentes rangos de audiencia   | Jiménez Guerra, Gianmarco Fabian<br>TB1<br>Texto<br><br>Aróstegui Alzamora, Cesar Augusto<br>TB1<br>Texto<br><br>Tenorio Medina, Piero Francesco<br>TB1<br>Texto<br><br>Montoya Torres, Alexander Gabriel<br>TB1<br>Texto<br><br>Navarro Chang, Alicia Avril<br>TB1<br>Texto| TB1: Texto   |
-| Comunica por escrito con efectividad a diferentes rangos de audiencia | Jiménez Guerra, Gianmarco Fabian<br>TB1<br>Texto<br><br>Aróstegui Alzamora, Cesar Augusto<br>TB1<br>Texto<br><br>Tenorio Medina, Piero Francesco<br>TB1<br>Texto<br><br>Montoya Torres, Alexander Gabriel<br>TB1<br>Texto<br><br>Navarro Chang, Alicia Avril<br>TB1<br>Texto| TB1: Texto   |
+| Comunica oralmente con efectividad a diferentes rangos de audiencia   | Jiménez Guerra, Gianmarco Fabian<br>TB1<br>Texto<br><br>Aróstegui Alzamora, Cesar Augusto<br>TB1<br>Texto<br><br>Tenorio Medina, Piero Francesco<br>TB1<br> <br>Dentro de esta parte del trabajo, he planteado distintas ideas de como se podria desarrollar el trabajo con los demás integrantes de mi equipo.Estas ideas considerando las dimensiones y el alcnace del trabajo. Se ha desarrollado secciones como Entrevistas a Uusarios, donde sse ha llegado a plasmar de manera correcta la idea de nuestro proyecto.<br>Montoya Torres, Alexander Gabriel<br>TB1<br>Texto<br><br>Navarro Chang, Alicia Avril<br>TB1<br>Texto| TB1: Texto   |
+| Comunica por escrito con efectividad a diferentes rangos de audiencia | Jiménez Guerra, Gianmarco Fabian<br>TB1<br>Texto<br><br>Aróstegui Alzamora, Cesar Augusto<br>TB1<br>Texto<br><br>Tenorio Medina, Piero Francesco<br>TB1<br>Dentro de esta parte del trabajo, he desarrollado y planteado ideas que sean de acordes a los distintos segmentos objetivos. Estas ideas se basan en la experiencia y el malestar de cada uno de los usuarios, como por ejemplo: el planteamiento de facilidades al usuario a la hora de utilizar la plataforma, brindandole distintas herramientas que mejoren su experiencia a la hora de utilizar nuestro Servicio. <br><br>Montoya Torres, Alexander Gabriel<br>TB1<br>Texto<br><br>Navarro Chang, Alicia Avril<br>TB1<br>Texto| TB1: Texto   |
 
 ---
 
@@ -429,7 +429,7 @@ En esta sección, el equipo hace entrevistas a personas pertenecientes a los seg
 
 - Sexo: Masculino
 - Edad: 24
-- Link: [Enlace](https://youtu.be/jxewDa98VMM?si=WdTFbF1Z-Kl3YQhH)
+- Link: [Enlace](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318731_upc_edu_pe/EU-OfAcUkxlLsrpkalhCNRQBkang9sWzDtFzbJ4EEzaXvQ?e=Rq6OAR&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 - Inicia en: 0:01
 - Duración: 5:40
 
@@ -437,12 +437,13 @@ En esta sección, el equipo hace entrevistas a personas pertenecientes a los seg
 
 **Resumen de la entrevista**
 
+Marcos Contreras es un joven qde 24 años quien trabaja y estudia de manera paralela. Marcos nos cuenta que el tiene un vehiculo por la cual facilita movilizarse dentro de la ciudad. Marcos nos comenta que a la hora de encontrar un buen servicio que pueda atender a su vehículo, más que nada resalta que no llega a encontrar un lugar accesible. Marcos tambien nos cuenta que utiliza Google Maps,WhastApp e incluso Fcaebook para poder encontrar un taller que sea recomendado. Nos dice que valora la confianza y la calidad sobre el precio dentro de un servicio. Dentro de las experiencia negativas nos cuenta que si llego a presentar alguna, en la entrega de su vehículo. Finalmente, Marcos resalta que una aplicación que le ayude a gestionar los talleres a los que va, le puede hacer de mucha utilidad en su día a día. Que implemente funcionalidades que sean pertinentes para él como las agendas y las ubicaciones en mapas.
 
 **Entrevista N°2: Anyelo Alejos**
 
 - Sexo: Masculino
 - Edad: 23
-- Link: [Enlace](https://youtu.be/-Es-ANQGVr0?si=JypulX8ivOkZupZd)
+- Link: [Enlace](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318731_upc_edu_pe/EbUouuLCEqlGvWQEGCCiPf4B8TQJNZIvqrxVh6ufl-rZQQ?e=zp4nf9&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 - Inicia en: 0:01
 - Duración: 6:45
 
@@ -450,6 +451,7 @@ En esta sección, el equipo hace entrevistas a personas pertenecientes a los seg
 
 **Resumen de la entrevista**
 
+Anyelo Alejos es un chico de 23 años de edad, el solo estudia pero cuenta con un Vehiculo para movilizarse a su centro de estudios. El comenta que utiliza apliaciones como Google Maps para poder encontrar un taller que le sea pertinente, pero tambien lo busca de manera manual. Él valora aspectos como la confiabilidad dentro de un taller. Además, cuenta que no tuvo problemas con los talleres. El suele solicitar servicios por un móvil y raras veces de manera manual. Anyelo comenta que le gustaría tener una aplicación que le ayude a a gendar citas en talleres para su vehículo, teniendo funcionalidades como reseña, precios y calificaciones de talleres.
 
 **Entrevista N°3:**
 
@@ -1184,11 +1186,11 @@ Link del prototipo: [Prototype](https://www.figma.com/proto/wf74HMrT48NvWY5Bq8Mg
 ## 4.6. Domain-Driven Software Architecture
 ### 4.6.1. Design-Level Event Storming
 ### 4.6.2. Software Architecture Context Diagram
-
+Diagrama de Conexto de PrimeFix
 <img src="Assets/diagrams/Context_Diagram.png">
 
 ### 4.6.3. Software Architecture Container Diagrams
-
+Diagrama de Contenedores de PrimeFix
 <img src="Assets/diagrams/Container_Diagram.png">
 
 ### 4.6.4. Software Architecture Components Diagrams
