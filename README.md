@@ -396,7 +396,7 @@ Preguntas:
 7. ¿Con qué dispositivo suele solicitar el servicio de mantenimiento?
 8. ¿Qué herramientas o software utiliza para encontrar algún taller cerca de una ubicación específica?
 9. Una vez terminado el servicio ¿Qué medios de pago utiliza? (efectivo, transferencia, etc)
-11. ¿Estaría interesado en usar una plataforma que le permita agendar visita en talleres de su zoma? ¿Por qué?
+11. ¿Estaría interesado en usar una plataforma que le permita agendar visita en talleres de su zona? ¿Por qué?
 12. ¿Qué funcionalidades cree que harían que esta plataforma sea útil para el día a día?
 13. ¿Se sentiría cómodo recibiendo algunos recordatorios de mantenimiento preventivo desde una app?
 14. ¿Estaría de acuerdo con utilizar un aplicativo web para agilizar la programación de sus visitas?
@@ -451,7 +451,7 @@ En esta sección, el equipo hace entrevistas a personas pertenecientes a los seg
 **Resumen de la entrevista**
 
 
-**Entrevista N°3:**
+**Entrevista N°3: Michael Montoya**
 
 - Sexo: Masculino
 - Edad: 21
@@ -461,7 +461,9 @@ En esta sección, el equipo hace entrevistas a personas pertenecientes a los seg
 
 <img src="Assets/images_interview/interview1.3.png">
 
-**Resumen de la entrevista**
+Michael Montoya es propietario de un automóvil, comenta que por la zona por donde reside hay varios talleres y no sabe a cual ir , por lo que suele pedir recomendaciones a sus conocidos para poder elegir un taller en especifico. Señala que el único aplicativo que utiliza para lograr localizar talleres cerca de su zona es Google Maps, sumado a esto nos cuenta que dentro de un servicio de taller lo que más valora es la disponibilidad y experiencia de un taller. 
+Michael comparte que ha tenido malas experiencias en algunos talleres: en ocasiones no lograron reparar su vehículo de manera adecuada y los precios cobrados le parecieron injustos. También menciona que no lleva un registro de los mantenimientos realizados a su auto, por lo que suele preguntar directamente en los talleres las fechas de las reparaciones pasadas. Asimismo, comenta que en varias ocasiones ha tenido que dejar su vehículo por varios días en un taller, y únicamente recibió la notificación de que estaba listo mediante mensajes por WhatsApp. El unico dispositivo que utiliza para solicitar un mantenimiento es por medio de su celular y desconoce si existe algun software que simplifique la comunicación entre talleres en Perú.
+El entrevistador utiliza como método de pago su tarjeta de credito. Nos comenta que le interesaria mucho una plataforma que le ayude a agendar citas para el mantenimiento de su vehiculo, asimismo nos cuenta que le gustaria que una plataforma de esta índole que tenga la función de educar a los propietarios de coches acerca del funcionamiento de su propio auto. Finalmente, expresa que le interesaría contar con una plataforma digital que le permita agendar citas de mantenimiento, recibir recordatorios sobre el estado de su vehículo y acceder a un seguimiento en tiempo real del servicio en el taller. Además, considera valioso que una aplicación de este tipo incluya funciones educativas que ayuden a los propietarios de autos a comprender mejor el funcionamiento de sus vehículos.
 
 ### Segmento #2: Asesor de servicios de un taller automotriz
 
@@ -511,11 +513,15 @@ Para finalizar, recalcó lo importante que es tener una plataforma con todas las
 ### 2.3.1. User Personas
 ### 2.3.2. User Task Matrix
 ### 2.3.3. User Journey Mapping
-**José Paredes** 
+**Segmento 1 - Dueño de vehículo** 
+
+User Journey Mapping - José Paredes
 
 <img src="Assets/chapter-1/User-Journey-mapping-1.png">
 
-**Luis Chávez**
+**Segmento 2 - Asesor de taller automotriz**
+
+User Journey Mapping - Luis Chávez
 
 <img src="Assets/chapter-1/User-Journey-mapping-2.png">
 
