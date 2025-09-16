@@ -597,6 +597,14 @@ Empathy Mapping - Luis Chávez
 <img src="Assets/chapter-1/Empathy-mapping-2.png">
 
 ## 2.4. Big Picture Event Storming
+
+
+**1) Resultado de la sesión y flujo extremo a extremo.** En una sesión colaborativa de alto nivel, el equipo mapeó el servicio completo desde la creación de la solicitud hasta la calificación posterior: solicitud de servicio creada, verificación y registro del taller y de sus técnicos, registro de datos del vehículo y ubicación, búsqueda con filtros y consulta de disponibilidad, aceptación del servicio por el taller, diagnóstico inicial con lista de verificación e inspección, actualizaciones de estado de mantenimiento, control de calidad completado, programación de la entrega, procesamiento y confirmación del pago, emisión del comprobante, confirmación de la entrega y registro de la calificación del cliente.
+
+**2) Bounded contexts y reglas de orquestación clave.** Del mapa emergieron cinco límites de contexto naturales: Registro de talleres, Catálogo de talleres, Recopilación y diagnóstico, Seguimiento de mantenimiento y entrega del auto, y Pago del servicio; se identificaron integraciones con identidad y acceso para el alta de talleres, pasarela de pagos para transacciones y comprobantes, equipos de diagnóstico como fuente opcional de datos y base transaccional en PostgreSQL; se establecieron reglas de paso críticas como no permitir programar ni confirmar entrega sin control de calidad aprobado y no permitir marcar la orden como entregada cuando el medio de pago es electrónico sin pago confirmado.
+
+**3) Riesgos y oportunidades priorizadas y próximos pasos.** Se priorizaron transparencia y confianza mediante línea de tiempo con evidencias y controles auditables, orquestación robusta de estados para evitar transiciones inválidas y experiencia del usuario en tiempo real con manejo explícito de retrasos; como siguientes acciones se acordó profundizar cada límite de contexto con un Design-Level Event Storming, especificar políticas operativas y validaciones técnicas no triviales, y definir métricas iniciales centradas en órdenes completadas con satisfacción y tiempos de ciclo por etapa para guiar los experimentos y el roadmap.
+<img src="Assets/event_storming/BigPicture.png">
 ## 2.5. Ubiquitous Language
 
 En esta sección, presentaremos el lenguaje ubicuo del proyecto.
