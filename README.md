@@ -396,7 +396,7 @@ Preguntas:
 7. ¿Con qué dispositivo suele solicitar el servicio de mantenimiento?
 8. ¿Qué herramientas o software utiliza para encontrar algún taller cerca de una ubicación específica?
 9. Una vez terminado el servicio ¿Qué medios de pago utiliza? (efectivo, transferencia, etc)
-11. ¿Estaría interesado en usar una plataforma que le permita agendar visita en talleres de su zoma? ¿Por qué?
+11. ¿Estaría interesado en usar una plataforma que le permita agendar visita en talleres de su zona? ¿Por qué?
 12. ¿Qué funcionalidades cree que harían que esta plataforma sea útil para el día a día?
 13. ¿Se sentiría cómodo recibiendo algunos recordatorios de mantenimiento preventivo desde una app?
 14. ¿Estaría de acuerdo con utilizar un aplicativo web para agilizar la programación de sus visitas?
@@ -453,16 +453,19 @@ Marcos Contreras es un joven qde 24 años quien trabaja y estudia de manera para
 
 Anyelo Alejos es un chico de 23 años de edad, el solo estudia pero cuenta con un Vehiculo para movilizarse a su centro de estudios. El comenta que utiliza apliaciones como Google Maps para poder encontrar un taller que le sea pertinente, pero tambien lo busca de manera manual. Él valora aspectos como la confiabilidad dentro de un taller. Además, cuenta que no tuvo problemas con los talleres. El suele solicitar servicios por un móvil y raras veces de manera manual. Anyelo comenta que le gustaría tener una aplicación que le ayude a a gendar citas en talleres para su vehículo, teniendo funcionalidades como reseña, precios y calificaciones de talleres.
 
-**Entrevista N°3:**
+**Entrevista N°3: Michael Montoya**
 
-- Sexo:
-- Edad:
-- Link:
-- Inicia en:
-- Duración:
+- Sexo: Masculino
+- Edad: 21
+- Link: [Enlace](https://www.youtube.com/watch?v=ntdm1xhTE1c)
+- Inicia en: 0:01
+- Duración: 6:31
 
+<img src="Assets/images_interview/interview1.3.png">
 
-**Resumen de la entrevista**
+Michael Montoya es propietario de un automóvil, comenta que por la zona por donde reside hay varios talleres y no sabe a cual ir , por lo que suele pedir recomendaciones a sus conocidos para poder elegir un taller en especifico. Señala que el único aplicativo que utiliza para lograr localizar talleres cerca de su zona es Google Maps, sumado a esto nos cuenta que dentro de un servicio de taller lo que más valora es la disponibilidad y experiencia de un taller. 
+Michael comparte que ha tenido malas experiencias en algunos talleres: en ocasiones no lograron reparar su vehículo de manera adecuada y los precios cobrados le parecieron injustos. También menciona que no lleva un registro de los mantenimientos realizados a su auto, por lo que suele preguntar directamente en los talleres las fechas de las reparaciones pasadas. Asimismo, comenta que en varias ocasiones ha tenido que dejar su vehículo por varios días en un taller, y únicamente recibió la notificación de que estaba listo mediante mensajes por WhatsApp. El unico dispositivo que utiliza para solicitar un mantenimiento es por medio de su celular y desconoce si existe algun software que simplifique la comunicación entre talleres en Perú.
+El entrevistador utiliza como método de pago su tarjeta de credito. Nos comenta que le interesaria mucho una plataforma que le ayude a agendar citas para el mantenimiento de su vehiculo, asimismo nos cuenta que le gustaria que una plataforma de esta índole que tenga la función de educar a los propietarios de coches acerca del funcionamiento de su propio auto. Finalmente, expresa que le interesaría contar con una plataforma digital que le permita agendar citas de mantenimiento, recibir recordatorios sobre el estado de su vehículo y acceder a un seguimiento en tiempo real del servicio en el taller. Además, considera valioso que una aplicación de este tipo incluya funciones educativas que ayuden a los propietarios de autos a comprender mejor el funcionamiento de sus vehículos.
 
 ### Segmento #2: Asesor de servicios de un taller automotriz
 
@@ -567,8 +570,31 @@ User Task Matrix - José Paredes
 User Task Matrix - Luis Chávez
 <img src="Assets/chapter-1/user-task-matrix-2.png" alt="">
 ### 2.3.3. User Journey Mapping
+**Segmento 1 - Dueño de vehículo** 
+
+User Journey Mapping - José Paredes
+
+<img src="Assets/chapter-1/User-Journey-mapping-1.png">
+
+**Segmento 2 - Asesor de taller automotriz**
+
+User Journey Mapping - Luis Chávez
+
+<img src="Assets/chapter-1/User-Journey-mapping-2.png">
 
 ### 2.3.4. Empathy Mapping
+
+**Segmento 1 - Dueño de vehículo** 
+
+Empathy Mapping - José Paredes
+
+<img src="Assets/chapter-1/Empathy-mapping-1.png">
+
+**Segmento 2 - Asesor de taller automotriz**
+
+Empathy Mapping - Luis Chávez
+
+<img src="Assets/chapter-1/Empathy-mapping-2.png">
 
 ## 2.4. Big Picture Event Storming
 ## 2.5. Ubiquitous Language
@@ -1272,6 +1298,17 @@ Repositorio de github - Landing Page de Prime Fix
 URL: https://github.com/prime-fix/landing-page
 
 ### 5.1.3. Source Code Style Guide & Conventions
+En esta sección se detallan las convenciones de estilo y buenas prácticas que se deben seguir al momento de escribir código en los lenguajes y frameworks seleccionados para el proyecto.
+
+| Tecnología    | Convenciones principales |
+|---------------|--------------------------|
+| **Tailwind CSS** | - Usar solo clases utilitarias de Tailwind. <br> - Ordenar clases en bloques: Layout → Box Model → Tipografía → Colores/Fondos → Otros. <br> - Mantener legibilidad en clases largas. |
+| **HTML** | - Usar etiquetas semánticas (`header`, `main`, `section`, etc.). <br> - Indentación de **2 espacios**. <br> - Atributos entre comillas dobles `" "`. <br> - Orden de atributos: `id`, `class` → accesibilidad (`aria-*`) → funcionales (`src`, `href`, `alt`). <br> - Nombres en **kebab-case** (`main-section`). |
+| **TypeScript** | - Variables/funciones en **camelCase**. <br> - Clases/interfaces en **PascalCase**. <br> - Constantes en **UPPER_SNAKE_CASE**. <br> - Tipado obligatorio en variables, parámetros y retornos. <br> - Ordenar imports de externos a internos. <br> - Evitar `any`. Usar `readonly` y `private` cuando corresponda. |
+| **Astro** | - Archivos `.astro` en **PascalCase**. <br> - Orden del archivo: `frontmatter` → HTML/JSX → estilos `<style>`. <br> - Props siempre tipadas con TypeScript. <br> - Importaciones cortas y claras. <br> - Componentes pequeños y reutilizables. |
+| **Gherkin** | - Los escenarios deben escribirse en **lenguaje claro y entendible**. <br> - Seguir la estructura: `Given`, `When`, `Then`, y opcionalmente `And`. <br> - Un escenario debe reflejar un caso de uso específico. <br> - Las historias de usuario deben agruparse en **Features**. <br> - Mantener consistencia en la redacción (tiempos verbales en presente). |
+
+
 ### 5.1.4. Software Deployment Configuration
 
 ## 5.2. Landing Page, Services & Applications Implementation
