@@ -1306,10 +1306,26 @@ Diagrama de Contenedores de PrimeFix
 
 ### 4.6.4. Software Architecture Components Diagrams
 
+Diagrama de Componente Auto Repair Registration
+<img src="Assets/diagrams/autoRepairRegistration_Component.png">
+
+Diagrama de Componente Auto Repair Catalaog
+<img src="Assets/diagrams/autoRepairCatalog_Component.png">
+
+Diagrama de Componente Collection Diagnosis 
+<img src="Assets/diagrams/collectionDiagnosis_Component.png">
+
+Diagrama de Componente de Maintenance Tracking
+<img src="Assets/diagrams/maintenanceTracking_Component.png">
+
+Diagrama de Componente de Payment Service
+<img src="Assets/diagrams/paymentService_Component.png">
+
+
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
 
-<img src="/docs/Assets/diagrams/Class_Diagram.png">
+<img src="/Assets/diagrams/Class_Diagram.png">
 
 ## 4.8. Database Design
 ### 4.8.1. Database Diagrams
@@ -1425,7 +1441,7 @@ Accedemos a esta dirección desde el navegador para confirmar que el sitio está
 
 - Similarweb. (2024, octubre 22). *Inversión publicitaria digital y tráfico web en la industria automotriz de LATAM: Octubre 2024*. Similarweb Blog. [https://www.similarweb.com/blog/es/marketing/inversion-publicitaria-digital-y-trafico-web-en-la-industria-automotriz-de-latam-octubre-2024/](https://www.similarweb.com/blog/es/marketing/inversion-publicitaria-digital-y-trafico-web-en-la-industria-automotriz-de-latam-octubre-2024/)
 
-- OpusLine (2023,19 de diciembre) *Etapas y consejos para el proceso productivo de un taller mecánico*. OpusLine. Recuperado el 9 de setiembre de 2025, de: https://opus-line.es/proceso-productivo-taller-mecanico/
+- OpusLine (2023,19 de diciembre) *Etapas y consejos para el proceso productivo de un taller mecánico*. OpusLine. Recuperado el 9 de setiembre de 2025, de: [https://opus-line.es/proceso-productivo-taller-mecanico/](https://opus-line.es/proceso-productivo-taller-mecanico/)
 
 
 # Anexos
