@@ -1337,3 +1337,14 @@ En esta sección se detallan las convenciones de estilo y buenas prácticas que 
 # Bibliografía
 # Anexos
 
+Link de la organización de Github de la Startup: [https://github.com/prime-fix](https://github.com/prime-fix)
+
+Link del repositorio de Github del reporte del trabajo: [https://github.com/prime-fix/docs](https://github.com/prime-fix/docs)
+
+Link del repositorio de Github de la Landing Page: [https://github.com/prime-fix/landing-page](https://github.com/prime-fix/landing-page)
+
+Link del repositorio de Github del Frontend Web Applications: [https://github.com/prime-fix/frontend](https://github.com/prime-fix/frontend)
+
+Link del repositorio de Github del RESTful Web Services: [https://github.com/prime-fix/backend](https://github.com/prime-fix/backend)
+
+Link de la Landing Page: [https://landing-page-pearl-kappa-37.vercel.app/](https://landing-page-pearl-kappa-37.vercel.app/)
