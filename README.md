@@ -511,6 +511,13 @@ Para finalizar, recalcó lo importante que es tener una plataforma con todas las
 ### 2.3.1. User Personas
 ### 2.3.2. User Task Matrix
 ### 2.3.3. User Journey Mapping
+**José Paredes** 
+
+<img src="Assets/chapter-1/User-Journey-mapping-1.png">
+
+**Luis Chávez**
+
+<img src="Assets/chapter-1/User-Journey-mapping-2.png">
 
 ### 2.3.4. Empathy Mapping
 
