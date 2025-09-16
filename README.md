@@ -47,11 +47,11 @@
 
 | Versión | Fecha       | Autor(es)                                                                 | Descripción de modificación |
 |---------|-------------|---------------------------------------------------------------------------|------------------------------|
-|   TB1   | XX/09/2025  | Gianmarco Fabian Jiménez Guerra                                           | Realicé ... |
-|   TB1   | XX/09/2025  | Cesar Augusto Arostegui Alzamora                                          | Realicé ... |
-|   TB1   | XX/09/2025  | Alexander Gabriel Montoya Torres                                          | Realicé los Antecedentes y problemática, Lean UX Canvas, Análisis competitivo, las Estrategias y tacticas frente a competidores, entrevistas, User Journey Mapping, Empathy Mapping, User Stories, Source Code Style Guide & Conventiones y Software Deployment & Conventions |
-|   TB1   | XX/09/2025  | Alicia Avril Navarro Chang                                                | Realicé ... |
-|   TB1   | XX/09/2025  | Piero Francesco Tenorio Medina                                            | Realicé ... |
+|   TB1   | 16/09/2025  | Gianmarco Fabian Jiménez Guerra                                           | Realicé la Descripción de la Startup, User Stories, Product Backlog, Organization Systems, Labeling Systems, Landing Page Wireframe, Landing Page Mock-up, Web Applications Wireframes, Web Applications Wireflow Diagrams, Web Applications Mock-ups, Web Applications User Flow Diagrams, Web Applications Prototyping|
+|   TB1   | 16/09/2025  | Cesar Augusto Arostegui Alzamora                                          | Realicé ... |
+|   TB1   | 16/09/2025  | Alexander Gabriel Montoya Torres                                          | Realicé los Antecedentes y problemática, Lean UX Canvas, Análisis competitivo, las Estrategias y tacticas frente a competidores, entrevistas, User Journey Mapping, Empathy Mapping, User Stories, Source Code Style Guide & Conventiones y Software Deployment & Conventions|
+|   TB1   | 16/09/2025  | Alicia Avril Navarro Chang                                                | Realicé artefactos de Lean UX como lean ux problem statements, lean ux hyphotesis, lean ux assumptios. También desarrollé secciones del Needfinding como los user personas, impact mapping y user task matriz. Además del software development environment configuration y source code management. |
+|   TB1   | 16/09/2025  | Piero Francesco Tenorio Medina                                            | Realicé ... |
 
 </div>
 
@@ -153,8 +153,8 @@
 # Student Outcome  
 | Criterio específico                                                   | Acciones realizadas                                                                                     | Conclusiones |
 | --------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | ------------ |
-| Comunica oralmente con efectividad a diferentes rangos de audiencia   | Jiménez Guerra, Gianmarco Fabian<br>TB1<br>Texto<br><br>Aróstegui Alzamora, Cesar Augusto<br>TB1<br>Texto<br><br>Tenorio Medina, Piero Francesco<br>TB1<br>Texto<br><br>Montoya Torres, Alexander Gabriel<br>TB1 <br>Durante la fase inicial de este proyecto hemos mantenido una buena comunicación con el equipo, de manera que logramos determinar un plan para llevar a cabo los avances pertinentes del proyecto y reforzar nuestro trabajo colaborativo. Sumado a esto, logre aportar con varios puntos del trabajo, desde entrevistas, parte del needfinding cómo la definición de funcionalidades de la plataforma, <br><br>Navarro Chang, Alicia Avril<br>TB1<br>Texto| TB1: Texto   |
-| Comunica por escrito con efectividad a diferentes rangos de audiencia | Jiménez Guerra, Gianmarco Fabian<br>TB1<br>Texto<br><br>Aróstegui Alzamora, Cesar Augusto<br>TB1<br>Texto<br><br>Tenorio Medina, Piero Francesco<br>TB1<br>Texto<br><br>Montoya Torres, Alexander Gabriel<br>TB1<br>En esta fase inicial, he definido la problematica principal que nuestro proyecto busca resolver, de manera que podamos empezar desde una base analitica con respecto a las dolencias del mercado y de esa forma definir nuestros segmentos objetivos y llevar a cabo el Needfinding. Sumado a esto, se ha mantenido una comunicación asertiva con todos los integrantes del equipo, mateniendo una eficiencia colaborativa mediante la comunicación<br><br>Navarro Chang, Alicia Avril<br>TB1<br>Texto| TB1: Texto   |
+| Comunica oralmente con efectividad a diferentes rangos de audiencia   | Jiménez Guerra, Gianmarco Fabian<br>TB1<br>Para esta entrega pude contribuir en todos los capítulos a desarrollar. Ayudé a definir el proyecto y las funcionalidadaes de manera correcta y pude comunicarme de forma correcta y ordenada con los integrantes del grupo.<br><br>Aróstegui Alzamora, Cesar Augusto<br>TB1<br>En el inicio de este proyecto planifiqué lo necesario para los avances del prototipo de la aplicación web y el diseño UX/UI, facilité sesiones de Design-Level Event Storming para alinear vocabulario y flujos. También planifiqué la primera versión de la Landing Page.<br><br>Tenorio Medina, Piero Francesco<br>TB1<br> <br>Dentro de esta parte del trabajo, he planteado distintas ideas de como se podria desarrollar el trabajo con los demás integrantes de mi equipo.Estas ideas considerando las dimensiones y el alcnace del trabajo. Se ha desarrollado secciones como Entrevistas a Uusarios, donde sse ha llegado a plasmar de manera correcta la idea de nuestro proyecto.<br>Montoya Torres, Alexander Gabriel<br>TB1<br>Durante la fase inicial de este proyecto hemos mantenido una buena comunicación con el equipo, de manera que logramos determinar un plan para llevar a cabo los avances pertinentes del proyecto y reforzar nuestro trabajo colaborativo. Sumado a esto, logre aportar con varios puntos del trabajo, desde entrevistas, parte del needfinding cómo la definición de funcionalidades de la plataforma.<br><br>Navarro Chang, Alicia Avril<br>TB1<br> Trabajé en conjunto con mis compañeros de equipo para poder plasmar el concepto de nuestro proyecto, además de estar al mismo tiempo comunicando ideas y/u opiniones que puedan ayudar al desarrollo del trabajo.| TB1: Texto   |
+| Comunica por escrito con efectividad a diferentes rangos de audiencia | Jiménez Guerra, Gianmarco Fabian<br>TB1<br>Para el desarrollo de mi parte del proyecto, pude redactar de manera adecuada lo que correspondía en mi parte del informe. Además, la comunicación que realicé con algunos segmentos objetivos inicialmente fue vía escrita. Finalmente, hubo coordinaciones con los demás integrantes por escrito.<br><br>Aróstegui Alzamora, Cesar Augusto<br>TB1<br>En el inicio de este proyecto desarrollé los avances del prototipo de la aplicación web y el diseño UX/UI, también completó el avance del Design-Level Event Storming para alinear vocabulario y flujos. También desarrollé la primera versión de la Landing Page.<br><br>Tenorio Medina, Piero Francesco<br>TB1<br>Dentro de esta parte del trabajo, he desarrollado y planteado ideas que sean de acordes a los distintos segmentos objetivos. Estas ideas se basan en la experiencia y el malestar de cada uno de los usuarios, como por ejemplo: el planteamiento de facilidades al usuario a la hora de utilizar la plataforma, brindandole distintas herramientas que mejoren su experiencia a la hora de utilizar nuestro Servicio. <br><br>Montoya Torres, Alexander Gabriel<br>TB1<br>En esta fase inicial, he definido la problematica principal que nuestro proyecto busca resolver, de manera que podamos empezar desde una base analitica con respecto a las dolencias del mercado y de esa forma definir nuestros segmentos objetivos y llevar a cabo el Needfinding. Sumado a esto, se ha mantenido una comunicación asertiva con todos los integrantes del equipo, mateniendo una eficiencia colaborativa mediante la comunicación<br><br>Navarro Chang, Alicia Avril<br>TB1<br> En esta entregá realicé varios artefactos lean ux que buscan comunicar ideas y planificar en base a la experiencia del usuario. Además también desarrollé la parte de needfindg (user personas, impact mapping , user stories) , que nos ayudan a estar en sintonía con la perspectiva del usuario y poder plasmarla de acuerdo a nuestro proyecto. | TB1: Texto   |
 
 ---
 
@@ -173,10 +173,10 @@ Con FixTech nace Prime-Fix, una plataforma digital cuyo objetivo es facilitar el
 | Perfil del integrante | Código de alumno | Descripción                                                                                                                                                                                                                                                                                                                                                                                               |
 | --------------------- | ---------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Foto                  | U202318731       | Soy Piero Tenorio, estudio en la sede San Miguel de la UPC estudiando la carrera de Ingeniería de Software . Soy una persona colaborativa, responsable y comprometida con los trabajos en los que estoy implicado, tratando de ser lo más eficiente posible.Conocimientos en HTML, CSS, Java, C++, JavaScript y Python. Cada día trato de mejorar como persona y si llego a cometer algún error, tratar de aprender de ello. |
-| Foto                  | U202123843       | Soy Gianmarco Jiménez alumno de Ingeniería de Software. Me gusta trabajar en equipo pues me permite aprender sobre las ideas que tienen los participantes y contrastarlas con las mías. He utilizado lenguajes como C++, Python, SQL y Java. Estoy muy interesado en aprender todo sobre el desarrollo de aplicaciones web con frameworks.                                                                |
-| <img src="Assets/integrantes/montoya.png"> |  U20231b424         | Soy Alexander Gabriel Montoya, estudiante de la carrera de Ingenieria de Sofware en la UPC, tengo 20 años actualmente, con respecto a mi carrera he aprendido a manejar lenguajes de programación como C++, MySQL, Python, HTML y CSS. Con respecto a lo personal, me gusta dedicar tiempo y esfuerzo a todo lo que hago ya sean actividades academicas o mis hobbies     |
-| Foto                  | UXXXXXXX         | Texto de descripción                                                                                                                                                                                                                                                                                                                                                                                      |
-| Foto                  | UXXXXXXX         | Texto de descripción                                                                                                                                                                                                                                                                                                                                                                                      |
+| <img src="Assets/integrantes/gianmarco.png" width="500" heigth="450">                  | U202123843       | Soy Gianmarco Jiménez alumno de Ingeniería de Software. Me gusta trabajar en equipo pues me permite aprender sobre las ideas que tienen los participantes y contrastarlas con las mías. He utilizado lenguajes como C++, Python, SQL y Java. Estoy muy interesado en aprender todo sobre el desarrollo de aplicaciones web con frameworks.                                                                |
+| <img src="Assets/integrantes/montoya.png"  width="500" heigth="450">  |  U20231b424         | Soy Alexander Gabriel Montoya, estudiante de la carrera de Ingenieria de Sofware en la UPC, tengo 20 años actualmente, con respecto a mi carrera he aprendido a manejar lenguajes de programación como C++, MySQL, Python, HTML y CSS. Con respecto a lo personal, me gusta dedicar tiempo y esfuerzo a todo lo que hago ya sean actividades academicas o mis hobbies     |
+| Foto                  | U202114548         | Soy César Augusto, estudiante de Ingeniería de Software, actualmente con 21 años, mi lenguaje más utilizado y favorito es Python, actualmente adaptándome en JavaScript y estudiando frameworks  relacionados para el Desarrollo Web.                                                                                                                                                                                                                                                                                                                                                                          |
+| Foto                  | U20231D637         | Soy Alicia Navarro, estudiante de Ingeniería de Software en la UPC, con conocimientos básicos en programación en C++ y Python, fundamentos en bases de datos, diseño y modelado de software utilizando UML y diagramas, así como algoritmos y estructuras de datos básicos. Además, poseo habilidades de empatía y comunicación efectiva que me permiten colaborar de manera eficiente en equipo, facilitando la comunicación clara y asertiva para contribuir a un entorno de trabajo productivo y colaborativo.                                                                                                                                                                                                                                                                                                                                                                                     |
 
 ## 1.2. Solution Profile
 ### 1.2.1. Antecedentes y problemática
@@ -429,7 +429,7 @@ En esta sección, el equipo hace entrevistas a personas pertenecientes a los seg
 
 - Sexo: Masculino
 - Edad: 24
-- Link: [Enlace](https://youtu.be/jxewDa98VMM?si=WdTFbF1Z-Kl3YQhH)
+- Link: [Enlace](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318731_upc_edu_pe/EU-OfAcUkxlLsrpkalhCNRQBkang9sWzDtFzbJ4EEzaXvQ?e=Rq6OAR&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 - Inicia en: 0:01
 - Duración: 5:40
 
@@ -437,12 +437,13 @@ En esta sección, el equipo hace entrevistas a personas pertenecientes a los seg
 
 **Resumen de la entrevista**
 
+Marcos Contreras es un joven qde 24 años quien trabaja y estudia de manera paralela. Marcos nos cuenta que el tiene un vehiculo por la cual facilita movilizarse dentro de la ciudad. Marcos nos comenta que a la hora de encontrar un buen servicio que pueda atender a su vehículo, más que nada resalta que no llega a encontrar un lugar accesible. Marcos tambien nos cuenta que utiliza Google Maps,WhastApp e incluso Fcaebook para poder encontrar un taller que sea recomendado. Nos dice que valora la confianza y la calidad sobre el precio dentro de un servicio. Dentro de las experiencia negativas nos cuenta que si llego a presentar alguna, en la entrega de su vehículo. Finalmente, Marcos resalta que una aplicación que le ayude a gestionar los talleres a los que va, le puede hacer de mucha utilidad en su día a día. Que implemente funcionalidades que sean pertinentes para él como las agendas y las ubicaciones en mapas.
 
 **Entrevista N°2: Anyelo Alejos**
 
 - Sexo: Masculino
 - Edad: 23
-- Link: [Enlace](https://youtu.be/-Es-ANQGVr0?si=JypulX8ivOkZupZd)
+- Link: [Enlace](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318731_upc_edu_pe/EbUouuLCEqlGvWQEGCCiPf4B8TQJNZIvqrxVh6ufl-rZQQ?e=zp4nf9&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 - Inicia en: 0:01
 - Duración: 6:45
 
@@ -450,6 +451,7 @@ En esta sección, el equipo hace entrevistas a personas pertenecientes a los seg
 
 **Resumen de la entrevista**
 
+Anyelo Alejos es un chico de 23 años de edad, el solo estudia pero cuenta con un Vehiculo para movilizarse a su centro de estudios. El comenta que utiliza apliaciones como Google Maps para poder encontrar un taller que le sea pertinente, pero tambien lo busca de manera manual. Él valora aspectos como la confiabilidad dentro de un taller. Además, cuenta que no tuvo problemas con los talleres. El suele solicitar servicios por un móvil y raras veces de manera manual. Anyelo comenta que le gustaría tener una aplicación que le ayude a a gendar citas en talleres para su vehículo, teniendo funcionalidades como reseña, precios y calificaciones de talleres.
 
 **Entrevista N°3: Michael Montoya**
 
@@ -485,33 +487,88 @@ Para finalizar, recalcó lo importante que es tener una plataforma con todas las
 
 **Entrevista N°2:**
 
-- Sexo:
-- Edad:
-- Link:
-- Inicia en:
-- Duración:
+- Sexo: Masculino
+- Edad: 47
+- Link: [Enlace](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114548_upc_edu_pe/EYKmpMYFGk5BnxR4GI37EcsBrQaCB2q7n-PhGydUdeJAvg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=zfkZrQ)
+- Inicia en: 0:01
+- Duración: 3:53
 
+  <img src="Assets/images_interview/interview_cesar_1.png">
 
-**Resumen de la entrevista**
-
+William Espinoza se desempeña en el área de almacén, repuestos y mantenimiento de un taller automotriz. Comenta que la captación de clientes se realiza principalmente a través de redes sociales y avisos publicitarios en la puerta del local. Para la programación de visitas utilizan una computadora con Excel. Señala que no perciben dificultades frente a talleres más grandes, ya que la atención depende más de la capacidad instalada que de la competencia.
+La gestión de pedidos se lleva a cabo mediante un diagnóstico inicial, tras el cual se presenta al cliente una cotización del repuesto y del servicio requerido. Ha recibido algunos reclamos relacionados con la actitud o comunicación de los técnicos, normalmente de forma presencial. Explica que cuentan con una base de datos para evaluar la trayectoria de los técnicos y destaca la importancia de mostrar la disponibilidad de los mismos en tiempo real, pues considera que esto transmite confianza y rapidez al cliente.
+Respecto a la posibilidad de digitalizar procesos, considera útil una plataforma que permita registrar el taller, técnicos y reseñas de clientes, resaltando que dicha información debería estar disponible también para los usuarios externos. Actualmente, la comunicación del estado del vehículo y los diagnósticos finales se realiza mediante WhatsApp, enviando fotos o videos desde el área técnica al área administrativa y de allí al cliente. Valora positivamente la idea de una plataforma que notifique cuándo el vehículo está listo para ser recogido y que permita al técnico subir directamente la información para que el cliente la consulte en línea. En conclusión, William considera que una herramienta digital con estas funcionalidades resultaría de gran utilidad para mejorar la transparencia y la experiencia del cliente.
 
 **Entrevista N°3:**
 
-- Sexo:
-- Edad:
-- Link:
-- Inicia en:
-- Duración:
+- Sexo: Masculino
+- Edad: 35
+- Link: [Enlace](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114548_upc_edu_pe/EWUY_frgM_RKtA929ZLKHA0Bd6suNWEVHuj-_ofQHR_Ecg?e=1yRvjo&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+- Inicia en: 0:01
+- Duración: 5:26
 
+  <img src="Assets/images_interview/interview_cesar_2.png">
 
-**Resumen de la entrevista**
-
+Héctor Cárdenas, jefe de taller, señala que la captación de clientes se realiza principalmente mediante plataformas digitales como Facebook e Instagram, aprovechando los medios virtuales y redes sociales. Para la programación de visitas utilizan tanto computadoras como celulares, apoyándose en canales como WhatsApp y Messenger. Reconoce que sí enfrentan dificultades frente a talleres más grandes debido a que estos cuentan con mejores implementaciones y ubicaciones estratégicas. En cuanto a la gestión de pedidos, explica que los clientes solicitan cotizaciones virtualmente (por WhatsApp o correo), tras lo cual se procede con la atención. Hasta el momento no han recibido reclamos significativos, ya que cuentan con un control de calidad antes de la entrega de cada unidad. La información sobre los técnicos se administra en una bitácora donde se registran horas-hombre, asignación de trabajos y avances, lo que también sirve para organizar pagos. Considera que mostrar la disponibilidad de técnicos en tiempo real depende de la magnitud y tipo de reparación, aunque reconoce que esta información es importante para la planificación. En relación con plataformas digitales, menciona que en el sector se utilizan programas como SAT que permiten gestionar órdenes de trabajo y técnicos asignados. Héctor resalta la importancia de mantener al cliente informado en todo momento y considera valiosa una plataforma que notifique sobre avances y disponibilidad del vehículo para recogerlo. En conclusión dice que estas herramientas fortalecen la confianza y mejoran la experiencia del cliente.
 
 ### 2.2.3. Análisis de entrevistas
 
+En este apartado se procederá a analizar las entrevistas realizadas a ambos segmentos objetivos:
+
+
+
+**Segmento #2**
+
+Total de entrevistados: 3
+
+Datos sobre las preguntas:
+  - 100% usa las redes sociales para promocionarse
+  - 33% tiene dificultades al momento de competir con talleres más grandes
+  - 67% no maneja una base de datos para la gestión de técnicos
+  - 100% opina que la plataforma es buena idea
+
+En resumen, la información brindada por este segmento es muy similar a lo previsto. Todos los talleres tienen algunas dificultados para mejorar la calidad de su servicio y todos consideran que Prime-Fix podría ser una muy buena plataforma que implementarían en sus talleres.
+
+A continuación se mostrará de manera gráfica el análisis de las preguntas más relevantes:
+
+**Redes sociales para promoción**
+
+<img src="Assets/análisis_entrevistas/redes_sociales.png" width="550" height="350">
+<hr>
+
+**Competencia con talleres más grandes**
+
+<img src="Assets/análisis_entrevistas/dificultades.png" width="550" height="350">
+<hr>
+
+**Base de datos para los técnicos**
+
+<img src="Assets/análisis_entrevistas/bd_tecnicos.png" width="550" height="350">
+<hr>
+
+**Opinión de Prime-Fix**
+
+<img src="Assets/análisis_entrevistas/buena_idea.png" width="550" height="350">
+<hr>
+
+
+
+
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
+#### Segmento 1 - Dueño de vehículo
+<img src="Assets/chapter-1/user-persona-1.png" alt="">
+
+#### Segmento 2 - Asesor de taller automotriz
+<img src="Assets/chapter-1/user-persona-2.png" alt="">
+
 ### 2.3.2. User Task Matrix
+#### Segmento 1 - Dueño de vehículo
+User Task Matrix - José Paredes
+<img src="Assets/chapter-1/user-task-matrix-1.png" alt="">
+#### Segmento 2 - Asesor de taller automotriz
+User Task Matrix - Luis Chávez
+<img src="Assets/chapter-1/user-task-matrix-2.png" alt="">
 ### 2.3.3. User Journey Mapping
 **Segmento 1 - Dueño de vehículo** 
 
@@ -542,35 +599,148 @@ Empathy Mapping - Luis Chávez
 ## 2.4. Big Picture Event Storming
 ## 2.5. Ubiquitous Language
 
+En esta sección, presentaremos el lenguaje ubicuo del proyecto.
+
+**Glosario del Dominio del Negocio - PrimeFix**
+
+Este glosario contiene términos relacionados al dominio del proyecto PrimeFix. Los a presentar estan en inglés, seguido de su equivalente en español entre paréntesis. Las definiciones redactadas están en el idioma español, explicando de manera clara y sin ambigüedades sus significados. Esto se hace para facilitar la comunicación entre todos los miembros del equipo y los stakeholders.  
+
+**1. Stakeholders & Roles**
+- Technician (Técnico de Taller): Persona asignada a un taller en específico. Enacragdo del mantenimiento de los vehiculos que llegan al taller.
+
+- Vehicle Owner: Persona que es dueña de un vehículo y busca un taller adecuado para el mantenimiento de su vehículo.
+
+**2. Funcionalidades de la Plataforma**
+- Register Auto Repair (Registro de Taller): Proceso en la que el usuario registra el taller al sistema.
+
+- Register Technician (Registro de Técnico): Proceso en la que el encargado del taller registra a los técnicos asignados del taller.
+
+- Register Vehicle (Registro de Vehículo): Proceso en la que el usuario registra el vehúclo con sus especificaciones dentro de la plataforma.
+
+- Search Auto Repair (Búsqueda de Taller mecánico): Proceso en la cual el usuario busca los talleres para su vehículo por medio de las especificaciones que él mismo ingrese. 
+
+- Follow Status (Seguimiento de estado): Apartado donde se puede visualizar el estado en la que el vehículo registrado se encuentra. 
+
+**3. Otros conceptos del dominio**
+- Auto Repair (Taller mecánico): Se refiere al taller que es registrado por el usuario. Contiene información clave como técnicos asignados, ubicación, valoraciones, entre otros.
+
+- Visit Schedule (Programación de Visita): Referido a la visita que es programada por el usuario, donde se especifica el costo, el vehículo a antender y los problemas que este presenta.
+
+- Visit Attended (Vista en espera): Visita programada que ya a sido antendida por el taller.
+
+- Record (Historial): Historial donde el usuario puede visualizar las Visitas completadas en el pasado.
+
+- Rating (Valoración): Apartado donde el usuario puede escribir un comentario sobre el servicio ofrecido.
+
 ---
 
 # Capítulo III: Requirements Specification
 ## 3.1. User Stories
 ### 3.1.1 Epics
+
+| Epic ID | Título                                       | Descripción                                                                                                                                                                                  |
+| ------- | -------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| EP-01   | Acceso de Usuarios                           | Como usuario del aplicativo, quiero un sistema de registro y acceso específico y completo para poder ingresar mediante mis credenciales.                                                     |
+| EP-02   | Claridad Durante la Autenticación de Usuario | Como usuario, quiero brindar la información solicitada de manera clara para autorizar mi acceso al aplicativo sin confusiones.                                                               |
+| EP-03   | Planes de Pago                               | Como usuario, quiero conocer los planes de pago para conocer las funcionalidades a las cuales no podré acceder                                                                               |
+| EP-04   | Configuración de la Información de la Cuenta | Como usuario, quiero poder modificar la información previamente brindada para actualizar estos datos cuando corresponda.                                                                     |
+| EP-05   | Personalización del Aplicativo               | Como usuario, quiero personalizar algunas funciones del aplicativo para mejorar mi experiencia de usuario según lo necesite.                                                                 |
+| EP-06   | Navegación Inmediata                         | Como usuario, quiero tener a simple vista el acceso a diferentes funcionalidades del aplicativo, para agilizar la navegación y poder realizar mis tareas de manera rápida y sencilla.        |
+| EP-07   | Notificaciones y Avisos                      | Como usuario, quiero recibir notificaciones o avisos de los procesos que esté realizando en la aplicación, para mantenerme informado en tiempo real sobre lo que está sucediendo.            |
+| EP-08-  | Página Informativa                           | Como usuario, quiero tener acceso a una Landing Page que me informe sobre los servicios ofrecidos por Prime-Fix para saber a qué funcionalidades tendré acceso cuando adquiera el producto.  |
+| EP-09   | Contacto desde la Landing Page               | Como usuario, quiero que la Landing Page me permita conocer los medios de contacto de Prime-Fix para poder realizar las preguntar pertinentes sobre el producto.                             |
+| EP-10   | Información del Taller                       | Como asesor de servicios de un taller, quiero registrar datos relevante sobre el negocio y los trabajadores para que el cliente pueda estar informado sobre el negocio durante la búsqueda.  |
+| EP-11   | Búsqueda de Talleres                         | Como dueño de coche, quiero buscar talleres según parámetros de ubicación para poder llevar el coche a lugares cercanos.                                                                     |
+| EP-12   | Programación de Visita                       | Como dueño de coche, quiero programar mi visita al taller para un determinado momento brindando la información necesaria sobre mi visita, para que el taller pueda prepararse adecuadamente. |
+| EP-13   | Gestión de Visita                            | Como asesor de servicios de un taller, quiero tener control e información de la solicitud de visitas para poder tomar la decisión de agendarla.                                              |
+| EP-14   | Proceso y Avance del Servicio                | Como usuario, quiero formar parte del proceso de reparación del vehículo para poder realizar el seguimiento correcto.                                                                        |
+| EP-15   | Finalización del Servicio                    | Como dueño de coche, quiero pagar y calificar el servicio para culminar con la atención de forma correcta.                                                                                    |
+
 ### 3.1.2 User Stories
 
-|Story ID| Titulo  | Descripción | Criterios de Aceptación  | Relacionado de Epic (ID) |
-|---|---|---|---|---|
-| US-01  | --- |---|---|---|
-| --- | --- |---|---|---|
-| US - | Agregar Vehiculo del usuario | Como dueño de un vehículo, quiero agregar un nuevo auto a mi Lista de Vehículos, para agregar los distintos vehículos que puedan necesitar un mantenimiento. | **Scenario 1: Agregar un vehículo** <br>Given me encuentro en la sección de agregar vehículo <br>And deseo agregar mi vehículo que necesita reparación <br>When selecciono la opcion de agregar vehículo <br>Then me redirecciona a la sección Agregar Coches |---|
-|---| Registrar modelo de Vehículo |Como dueño de vehículo, quiero agregar el modelo de vehículos en la sección de Registrar Vehículos, para ejemplificar o dar una idea del tipo de vehículo que se está registrando.| **Scenario 1: Añadir modelo de vehículo manualmente** <br>Given estoy en la sección de Agregar Coches <br>And quiero especificar el modelo de mi vehículo <br> When me dirija a la opción de Modelo de Vehículo <br> Then la página me daría la opción de escribir un modelo específico de modelo de Auto. <br><br>**Scenario 2: Saltar la opción de modelo de vehículo** <br> Given me encuentro en la sección de Agregar Coches <br> When seleccione la opción de Modelo de Vehículo <br> And no ingrese nada <br> Then la pagina me dice que la información es necesaria.|---|
-|---|Registrar placa de Vehículo| Como dueño de vehículo, quiero registrar la placa de un nuevo vehículo, para manejar un identificador único de mi vehículo que sea reconocible para mí.|**Scenario 1: Añadir placa de vehículo** <br> Given estoy en la sección de Agregar Coches <br> And quiero agregar la placa de mi vehículo <br> When me dirija a la opción de Agregar Placa <br> Then la página me daría la opción de escribir la placa de mi vehículo. <br><br>**Scenario 2: Saltar la opción de placa de vehículo**<br> Given me encuentro en la sección de Agregar Coches <br> When seleccione la opción de Agregar Placa <br> And no ingrese nada <br> Then la pagina me dice que la información es necesaria.|---|
-|---|Registrar color de vehículo|Como dueño de vehículo,quiero registrar el color del vehículo que se está añadiendo,  para identificar de una manera visual a mi vehículo.| **Scenario 1: Añadir color de vehículo** <br> Given estoy en la sección de Agregar Coches<br> And quiero agregar el color del vehículo a registrar <br> When me dirija a la opción de Color <br> Then la página me daría la opción de añadir el color del vehículo.|---|
-|---|Buscar talleres dentro de la sección de Búsqueda | Como dueño de vehiculos quiero dirigirme a la sección de Búsqueda de Talleres para encontrar el taller necesario y adecuado para mi vehículo |**Scenario 1: Ingresar a la sección de Búsqueda**<br> Given quiero buscar un taller adecuado para mi vehículo <br> When me muevo por los distintos apartados de la página <br> Then seleccionar la opción de Taller <br> And me redirige al apartado que sirve para la búsqueda de talleres.|---|
-|---|Seleccionar el departamento de residencia|Como dueño de vehículo, quiero seleccionar un departamento de residencia como referencia geográfica, para centralizar los talleres en una zona/distrito específico. | **Scenario 1: Seleccionar departamento de manera escrita**<br> Given estoy dentro del apartado de buscar Taller <br> When me dirijo al apartado de departamento <br> And selecciono esa opción <br> Then la página me deja escribir el departamento en donde me ubico. <br><br>**Scenario 2: Seleccionar departamento de manera visual**<br> Given estoy dentro del apartado de buscar Taller <br> When me dirijo al apartado de departamento <br> And selecciono esa opción <br> Then la página me deja elegir los distintos departamentos disponibles.|---|
-|---|Seleccionar el distrito de residencia|Como dueño de vehículo, quiero seleccionar el distrito en donde me encuentro, para garantizar encontrar talleres cercanos a mi ubicación|**Scenario 1: Seleccionar distrito de manera escrita**<br> Given estoy dentro del apartado de buscar Taller <br> When me dirijo al apartado de distrito <br> And selecciono esa opción <br> Then la página me deja escribir el distrito en donde me ubico. <br><br>**Scenario 2: Seleccionar distrito de manera visual**<br> Given estoy dentro del apartado de buscar Taller <br> When me dirijo al apartado de distrito <br> And selecciono esa opción <br> Then la página me deja elegir los distintos distritos disponibles.|---|
-|---|Buscar los talleres con los distintos requerimientos|Como dueño del vehículo quiero visualizar los distintos talleres recomendados por la aplicación para decidir cuál taller se adecua a mis posibilidades como usuario. |**Scenario 1: Visualizar los talleres una vez completado los filtros**<br> Given me encuentro en la sección de Talleres <br> When completo todas los requisitos de búsqueda <br> Then la pagina me recomienda distintos talleres que tengan esos atributos|---|
-|---|Seleccionar los distintos talleres mostrados|Como dueño de vehículo, quiero seleccionar en los distintos talleres para poder detallar mi problema sobre el vehículo.|**Scenario 1: Seleccionar el taller de preferencia** <br> Given visualizo la lista talleres <br> When encuentro el taller de preferencia <br> And selecciono el taller <br> Then me dirija a la sección de Programación de visita|---|
-|---| Seleccionar el vehículo registrado en la sección de Agendar Visita | Como dueño de vehículo, quiero seleccionar uno de los vehículos anteriormente registrados, para agendar una visita en el taller con el vehículo que presenta fallas|**Scenario 1: Seleccionar el vehículo registrado de manera manual**<br> Given estoy dentro de la sección Programación de Visita <br> When me dirijo a la sección de Modelo de Coche <br> Then selecciono el vehículo a reparar <br><br>**Scenario 2: Seleccionar el vehículo registrado de automática** <br> Given estoy dentro de la sección Programación de Visita <br> When me dirijo a la sección de Modelo de Coche <br>And no selecciono un modelo en especifico <br>And solo hay un modelo registrado <br>Then se selecciona el modelo de manguera automáticamente. <br><br>**Scenario 3: No se selecciona ningún modelo** <br>Given estoy dentro de la sección Programación de Visita <br>When me dirijo a la sección de Modelo de Coche <br>And no selecciono ningun coche <br>Then la página me recomienda seleccionar alguno.|---|
-|---|Completar registro de fallas|Como dueño de vehículo,quiero registrar las fallas de mi vehículo en un espacio determinado para detallar al técnico del taller que está fallando dentro de mi vehículo|**Scenario 1: Registrar fallas del vehículo** <br>Given me encuentro en la sección de Programación de Visita <br>When me dirijo a la sección de Fallas <br>Then escribo las fallas registradas en mi vehiculos|---|
-|---|Agendar fecha de visita|Como dueño de vehículo, quiero agendar una fecha de visita al taller para acceder al servicio del taller en una fecha cómoda para mí.| **Scenario 1: Registrar fallas del vehículo** <br>Given me encuentro en la sección de Programación de Visita <br>When me dirijo a la sección de Fallas <br>Then escribo las fallas registradas en mi vehiculos <br><br>**Scenario 2: No escribir las fallas del vehículo**<br>Given me encuentro en la sección de Programación de Visita<br>When me dirijo a la sección de Fallas<br>And no escribo las fallas en la sección<br>Then la pagina me recomienda completar esta sección|---|
-|US-001|Agendar Visita completando los campos requeridos|Como dueño de vehículo, quiero agendar la visita al taller con los datos necesarios, para reparar las fallas de mi vehículo de manera satisfactoria.|**Scenario 1: Enviar solicitud de Vista al Taller**<br>Given rellené los espacios requeridos<br>When selecciono la opción de Enviar<br>Then se envía la solicitud al taller<br>And se habilita la opción de espera|---|
-|---|Visualizar Solicitudes disponibles|Como asesor de taller, quiero visualizar las distintas solicitudes pendientes de nuestro taller,para tener un control general de las distintas visitas.|**Scenario 1: Visualizar las solicitudes pendientes**<br>Given deseo visualizar las solicitudes del taller <br>When me dirijo a la sección de Solicitudes<br>Then se mostrarán las solicitudes pendientes del taller|---|
-|---|Administrar Solicitudes|Como asesor de taller, quiero administrar las distintas solicitudes de nuestro taller, para aceptar o no los clientes de nuestro taller.|**Scenario 1: Aceptar las solicitud del taller** <br>Given estoy dentro de la sección de Solicitudes <br>When quiero aceptar la solicitud del taller <br>Then selecciono la opción de Aceptar <br><br>**Scenario 2: Rechazar la solicitud del taller** <br>Given estoy dentro de la sección de Solicitudes <br>When quiero aceptar la solicitud del taller <br>And selecciono la opción de Rechazar<br>Then la solicitud desaparece de la lista de Solicitudes|---|
+| Epic/StoryID | Título | Descripción | Criterios de aceptación | Relacionado con epica |
+| ------------ | ------ | ----------- | ----------------------- | --------------------- |
+| US-01        | Ingreso con nombre de usuario  | Como usuario del aplicativo, quiero iniciar sesión con mi nombre de usuario elegido para facilitar el acceso a mi cuenta       | Scenario 1:Ingreso exitoso Given tengo un nombre de usuario definido para el aplicativo When inicio sesiòn con la información de usuario correspondiente Then se produce un inicio de sesión de manera exitosa Scenario 2: Ingreso fallido Given tengo entendido que puedo ingresar con el correo electrónico When inicio sesión con el correo electrónico en lugar del nombre de usuario Then se muestra un mensaje de error y no se realiza el inicio de sesión.| EP-01                 |
+| US-02        | Selección del departamento de residencia  | Como dueño de vehículo, quiero seleccionar un departamento de residencia como referencia geográfica, para centralizar los talleres en una zona/distrito específico.       | Scenario 1: Seleccionar departamento de manera escrita Given estoy dentro del apartado de buscar Taller When me dirijo al apartado de departamento And selecciono esa opción Then la página me deja escribir el departamento en donde me ubico. Scenario 2: Seleccionar departamento de manera visual Given estoy dentro del apartado de buscar Taller When me dirijo al apartado de departamento And selecciono esa opción Then la página me deja elegir los distintos departamentos disponibles.| EP-01                 |
+| US-03        | Selección del distrito de residencia  | Como dueño de vehículo, quiero seleccionar el distrito en donde me encuentro, para garantizar encontrar talleres cercanos a mi ubicación       | Scenario 1: Seleccionar distrito de manera escrita Given estoy dentro del apartado de buscar Taller When me dirijo al apartado de distrito And selecciono esa opción Then la página me deja escribir el distrito en donde me ubico. Scenario 2: Seleccionar distrito de manera visual Given estoy dentro del apartado de buscar Taller When me dirijo al apartado de distrito And selecciono esa opción Then la página me deja elegir los distintos distritos disponibles.                   | EP-01                 |
+| US-04        | Restauración de Contraseña  | Como usuario, quiero recuperar mi clave para poder acceder si la olvido.       | Scenario 1: Solicitud de link de recuperación Given olvido mi contraseña When ingreso mi correo Then recibo un link para restablecer clave Scenario 2: Correo no registrado Given ingreso correo no registrado When solicito recuperación Then recibo un mensaje de error| EP-01                 |
+| US-05        | Registro de cuenta con campos comprensibles  | Como usuario, quiero que los campos del registro de cuenta sean completamente entendibles para poder inscribirme de manera correcta.       | Scenario 1: Registro exitoso Given quiero crear mi cuenta para dueño de coche en Prime-Fix When ingreso cada campo de manera correcta Then se concreta el registro y aparece el mensaje de “Registro Exitoso” Scenario 2: Registro erróneo Given quiero crear mi cuenta para taller en Prime-Fix When aparece el apartado de correo electrónico Y lo lleno con mi correo personal Then se ha realizado un registro equivocado del taller, por lo que debo editar esta información.| EP-02                 |
+| US-06        | Visualización planes de pago disponibles  | Como usuario, quiero visualizar los diferentes planes de pago disponibles con sus precios y funcionalidades, para entender los beneficios que puedo obtener con cada plan y las funciones que no estarán disponibles en otros planes       | Scenario 1: Visualización de planes de pago Given que el usuario accede a la sección “Planes de Pago” en la aplicación When el sistema carga la página con los planes Then se deben mostrar tres planes distintos: Básico, Estándar, Premium And cada plan debe incluir el precio y la lista de funcionalidades disponibles Scenario 2: Selección de un plan Given que el usuario se encuentra en la sección ”Planes de Pago” When el usuario selecciona el botón “Elegir plan” en el plan estándar Then el sistema debe registrar la elección And mostrar un mensaje de confirmación con los detalles del plan.| EP-03                 |
+| US-07        | Cambio de contraseña  | Como usuario, quiero cambiar mi contraseña desde la sección configuración para mantener la seguridad de mi cuenta y evitar accesos no autorizados       | Scenario 1: Cambio exitoso de contraseña Given que el usuario está en la sección de configuración de la cuenta And ha validado correctamente la contraseña actual When hacer clic en el botón “Guardar cambios” Then el sistema debe mostrar el mensaje “Tu contraseña se ha actualizado correctamente” And actualizar la contraseña Scenario 2: Error por contraseña actual incorrecta Given que el usuario está en la sección de configuración de la cuenta And ha ingresado la contraseña actual de manera incorrecta When hace clic en “Guardar cambios” Then se muestra el mensaje “La contraseña actual no es correcta| EP-04                 |
+| US-08        | Edición del perfil  | Como usuario, quiero modificar mi información para mantener mi perfil actualizado.       | Scenario 1: Actualización exitosa Given acceso a mi perfil When modifico datos y guardo Then se actualizan correctamente| EP-04                 |
+| US-09        | Adición del vehiculo del usuario  | Como dueño de un vehículo, quiero agregar un nuevo auto a mi Lista de Vehículos, para agregar los distintos vehículos que puedan necesitar un mantenimiento.       | Scenario 1: Agregar un vehículo Given me encuentro en la sección de agregar vehículo And deseo agregar mi vehículo que necesita reparación When selecciono la opcion de agregar vehículo Then me redirecciona a la sección Agregar Coches| EP-04                 |
+| US-10        | Adición del modelo de Vehículo  | Como dueño de vehículo, quiero agregar el modelo de vehículos en la sección de Registrar Vehículos, para ejemplificar o dar una idea del tipo de vehículo que se está registrando.       | Scenario 1: Añadir modelo de vehículo manualmente Given estoy en la sección de Agregar Coches And quiero especificar el modelo de mi vehículo When me dirija a la opción de Modelo de Vehículo Then la página me daría la opción de escribir un modelo específico de modelo de Auto. Scenario 2: Saltar la opción de modelo de vehículo Given me encuentro en la sección de Agregar Coches When seleccione la opción de Modelo de Vehículo And no ingrese nada Then la pagina me dice que la información es necesaria.                   | EP-04                 |
+| US-11        | Adición de la placa de vehículo  | Como dueño de vehículo, quiero registrar la placa de un nuevo vehículo, para manejar un identificador único de mi vehículo que sea reconocible para mí.       | Scenario 1: Añadir placa de vehículo Given estoy en la sección de Agregar Coches And quiero agregar la placa de mi vehículo When me dirija a la opción de Agregar Placa Then la página me daría la opción de escribir la placa de mi vehículo. Scenario 2: Saltar la opción de placa de vehículo Given me encuentro en la sección de Agregar Coches When seleccione la opción de Agregar Placa And no ingrese nada Then la pagina me dice que la información es necesaria.| EP-04                 |
+| US-12        | Cambio de idioma  | Como usuario del aplicativo, quiero ver las funcionalidades en español para no equivocarme al utilizar el aplicativo.       | Scenario 1: Aplicativo en español Given accedo al aplicativo, When leo las etiquetas Then todas estan en español por lo que comprendo todo Scenario 2: Aplicativo en inglés Given accedo al aplicativo When leo las etiquetas, noto que todo está en inglés Then no me siento seguro de utilizar el aplicativo ya que puedo reservar una cita por equivocación| EP-05                 |
+| US-13        | Cambio de tema de la interfaz  | Como usuario registrado quiero poder elegir entre un tema claro u oscuro en el aplicativo para personalizar mi experiencia visual y mejorar la comodidad al usarlo       | Scenario 1: Cambio al tema oscuro Given que el usuario está en la sección “Configuración de Personalización” And está usando el tema claro When selecciona la opción “Tema oscuro” Then el sistema debe actualizar la interfaz al tema oscuro de inmediato Scenario 2: persistencia de la preferencia de tema Given que el usuario ha seleccionado el tema oscuro en una sesión anterior  When inicia sesión nuevamente en el aplicativo Then el sistema debe cargar la interfaz automáticamente en el tema oscuro| EP-05                 |
+| US-14        | Cancelación de Reserva  | Como dueño de vehículo, quiero poder cancelar una reserva en caso de imprevisto, para reorganizar mi agenda con facilidad.       | Scenario 1: Cancelar reserva válidamente Given tengo una reserva activa When selecciono cancelar Then la reserva queda eliminada y el taller es notificado Scenario 2: Intentar cancelar reserva ya pasada Given la cita ya ocurrió When intento cancelar Then recibo un mensaje de error indicando que no es posible cancelar| EP-06                 |
+| US-15        | Acceso rápido desde la pantalla principal  | Como usuario del aplicativo quiero tener accesos directos a las funcionalidades más utilizadas para poder navegar rápidamente       | Scenario 1: Visualización de funcionalidades Given que el usuario accede al aplicativo desde la pantalla principal When se carga la sección de navegación inmediata Then el sistema debe mostrar las funcionalidades principales Scenario 2: Acceso rápido a agendar cita Given que el usuario está en la pantalla principal del aplicativo When selecciona el acceso rápido “Agendar cita” Then el sistema debe llevarlo directamente al formulario de agendamiento de citas| EP-06                 |
+| US-16        | Notificación de Promociones  | Como usuario, quiero recibir avisos sobre promociones activas para aprovechar descuentos.       | Scenario 1: Recibir notificación al registrarme a promos Given estoy suscrito When se activa una promoción nueva Then recibo aviso en la app| EP-07                 |
+| US-17        | Notificaciones próxima cita  | Como dueño de vehículo, quiero recibir notificaciones cuando se acerque la fecha de mi cita en el taller, para no olvidar el mantenimiento.       | Scenario 1: Recibir notificación 24 horas antes Given tengo una cita agendada When falten 24 horas para la cita Then recibo una notificación recordatoria Scenario 2: No recibir notificación si la cita es cancelada Given cancelé mi cita When se acerque la fecha original de la cita Then no recibo ninguna notificación| EP-07                 |
+| US-18        | Información general del producto  | Como usuario, quiero ver un resumen claro de qué es Prime-Fix para entender la plataforma y sus funcionalidades       | Scenario 1: Información clara Given entro a la landing page de Prime-Fix When busco una sección donde se explique el producto Then puedo comprender de una mejor manera el producto Scenario 2: Información ambigüa Given entro a la landing page de Prime-Fix para conocer el producto When busco una sección donde me brinde explicaciones Then no encuentro nada por lo que opto por no suscribirme al servicio| EP-08                 |
+| US-19        | Visualización de información de contacto  | Como usuario, quiero ver los medios de contacto (correo, teléfono, redes), para saber cómo comunicarme con Prime-Fix.       | Scenario 1: Contacto por red social Given el usuario necesita contactarse con Prime-Fix When llega a la sección de Contactos Then busca la cuenta de Instagram que ofrece Prime-Fix Scenario 2: Contacto por número Given el usuario necesita contactarse con Prime-Fix When llega a la sección de Contactos Then busca el número de  Prime-Fix y procede a realizar una llamada| EP-09                 |
+| US-20        | Adición de la información general del taller  | Como asesor de servicios de un taller quiero registrar la información básica en mi taller para que los clientes puedan conocer mejor mi negocio       | Scenario 1: Registro exitoso de la información del taller Given que el asesor de servicios accede a la sección “Información del taller” And relleno los campos nombre, dirección, teléfono, horario y servicios When hace clic en “Guardar” Then el sistema mostrará el mensaje “La información del taller ha sido registrada correctamente” Scenario 2: Error por campos incompletos Given que el asesor de servicios accede a la sección “Información del taller” And no ha rellenado los campos When hace clic en “Guardar” Then el sistema muestra el mensaje: “Por favor completa todos los campos obligatorios”| EP-10                 |
+| US-21        | Adición de trabajadores del taller  | Como dueño de un taller de autos quiero registrar la información de los trabajadores para que los clientes puedan conocer a mi equipo y confiar en nuestro taller       | Scenario 1: Registro exitoso de un trabajador Given que el asesor accede a la sección “Trabajadores del taller” And ha ingresado el nombre, especialidad y experiencia del trabajador When hace clic en “Guardar” Then el sistema mostrará el mensaje “El trabajador ha sido registrado correctamente” Scenario 2: Given que el asesor accede a la sección “Trabajadores del taller” And ha dejado vacío el campo de nombre y especialidad When hace clic en “Guardar” Then el sistema debe mostrar el mensaje “Por favor completa los campos obligatorios”| EP-10                 |
+| US-22        | Visualización de los talleres con los distintos requerimientos  | Como dueño del vehículo quiero visualizar los distintos talleres recomendados por la aplicación para decidir cuál taller se adecua a mis posibilidades como usuario.     | Scenario 1: Visualizar los talleres una vez completado los filtros Given me encuentro en la sección de Talleres When completo todas los requisitos de búsqueda Then la pagina me recomienda distintos talleres que tengan esos atributos| EP-11                 |
+| US-23        | Visualización de los talleres dentro de la sección de Búsqueda  | Como dueño de vehiculos quiero dirigirme a la sección de Búsqueda de Talleres para encontrar el taller necesario y adecuado para mi vehículo       | Scenario 1: Ingresar a la sección de Búsqueda Given quiero buscar un taller adecuado para mi vehículo When me muevo por los distintos apartados de la página Then seleccionar la opción de Taller And me redirige al apartado que sirve para la búsqueda de talleres.| EP-11                 |
+| US-24        | Visualización reseñas de Talleres  | Como dueño de vehículo, quiero ver calificaciones y comentarios para elegir un taller confiable.       | Scenario 1: Visualizar reseñas existentes Given ingreso al perfil de un taller When solicito ver reseñas Then se muestra la lista de reseñas con puntajes Scenario 2: No hay reseñas aún Given el taller no tiene reseñas When intento ver reseñas Then el sistema muestra “No hay reseñas disponibles”| EP-11                 |
+| US-25        | Selección del vehículo registrado en la sección de Agendar Visita  | Como dueño de vehículo, quiero seleccionar uno de los vehículos anteriormente registrados, para agendar una visita en el taller con el vehículo que presenta fallas       | Scenario 1: Seleccionar el vehículo registrado de manera manual Given estoy dentro de la sección Programación de Visita When me dirijo a la sección de Modelo de Coche Then selecciono el vehículo a reparar Scenario 2: Seleccionar el vehículo registrado de automática Given estoy dentro de la sección Programación de Visita When me dirijo a la sección de Modelo de Coche And no selecciono un modelo en especifico And solo hay un modelo registrado Then se selecciona el modelo de manguera automáticamente.Scenario 3: No se selecciona ningún modelo Given estoy dentro de la sección Programación de Visita When me dirijo a la sección de Modelo de Coche And no selecciono ningun coche Then la página me recomienda seleccionar alguno.| EP-12                 |
+| US-26        | Selección de fecha y hora  | Como dueño de coche, quiero seleccionar la fecha y hora de mi visita al taller, para ajustar la atención de mi vehículo a mi disponibilidad.       | Scenario 1: Selección de fecha y hora correcta Given el dueño del coche quiere agendar una visita When programa su visita, selecciona las fechas que tenía previstas Then agenda la visita de manera correcta. Scenario 2: Selección de fecha y hora erróneas Given el dueño del coche quiere agendar una visita When programa su visita, selecciona una fecha distinta a la que planeaba Then agenda la visita de manera incorrecta y luego tendrá que cancelar la visita.| EP-12                 |
+| US-27        | Finalización de registro de fallas  | Como dueño de vehículo,quiero registrar las fallas de mi vehículo en un espacio determinado para detallar al técnico del taller que está fallando dentro de mi vehículo       | Scenario 1: Registrar fallas del vehículo Given me encuentro en la sección de Programación de Visita When me dirijo a la sección de Fallas Then escribo las fallas registradas en mi vehiculos| EP-12                 |
+| US-28        | Visualización de Solicitudes disponibles  | Como asesor de taller, quiero visualizar las distintas solicitudes pendientes de nuestro taller,para tener un control general de las distintas visitas.       | Scenario 1: Visualizar las solicitudes pendientes Given deseo visualizar las solicitudes del taller When me dirijo a la sección de Solicitudes Then se mostrarán las solicitudes pendientes del taller| EP-13                 |
+| US-29        | Verificación de solicitudes de visita  | Como asesor de servicios de un taller quiero poder visualizar las solicitudes de visita que envían los clientes para evaluar la disponibilidad y decidir si agendarlas o no       | Scenario 1: Visualización de solicitudes pendientes Given que el asesor accede al módulo “Gestión de visitas” When consulta la lista de solicitudes then el sistema debe mostrar todas las solicitudes con estado “pendiente” And despegar la información básica como cliente, vehículo, fecha y motivo de la visita Scenario 2: Aceptación de una solicitud Given que el asesor accede al módulo “Gestión de Visitas” And selecciona una solicitud pendiente When hace clic en aceptar Then el sistema debe actualizar el estado de la solicitud a “Aceptada” And enviar una notificación al cliente confirmando la cita| EP-13                 |
+| US-30        | Consulta de Historial de Servicios  | Como dueño de vehículo, quiero revisar las visitas pasadas para controlar el mantenimiento.       | Scenario 1: Listar historial completo Given tengo servicios registrados When accedo a historial Then se presentan fechas, talleres y tipos de servicio Scenario 2: No hay historial registrado Given no he realizado servicios When accedo a historial Then aparece mensaje “No hay registros”| EP-14                 |
+| US-31        | Visualización de estado y avance  | Como dueño de vehículo, quiero ver el estado actual de mi orden de servicio y el porcentaje de avance con la hora de la última actualización y el responsable, para conocer con precisión cómo progresa el trabajo.       | Scenario 1: Given una orden activa, When abro Seguimiento, Then veo estado, porcentaje de avance, hora de última actualización y responsable. Scenario 2: Given un cambio de estado, When permanezco en Seguimiento, Then la información se actualiza automáticamente sin recargar.| EP-14                 |
+| US-32        | Línea de tiempo con hitos y evidencias  | Como dueño de vehículo, quiero consultar una línea de tiempo con hitos, fotografías, documentos digitales y notas del taller.       | Scenario 1: Given una orden, When abro la línea de tiempo, Then veo hitos en orden cronológico con autor y fecha. Scenario 2: Given una evidencia, When la selecciono, Then puedo visualizarla y descargarla.| EP-14                 |
+| US-33        | Inquietudes desde el seguimiento  | Como dueño de vehículo, quiero registrar una inquietud con texto y fotografías desde el seguimiento, para resolver dudas sobre mi servicio.       | Scenario 1: Dado que envío una inquietud, When se registra, Then se crea un caso vinculado y el asesor es notificado. Scenario 2: Given una respuesta del asesor, When abro la inquietud, Then veo el estado y el historial de mensajes.| EP-14                 |
+| US-34        | Programación entrega del vehículo  | Como dueño de vehículo, quiero seleccionar y confirmar una franja horaria disponible para la entrega, para coordinar el retiro de manera conveniente.       | Scenario 1: Dado una orden en Listo para entrega, cuando abro el agendamiento, entonces selecciono y confirmo una franja disponible. Scenario 2: Given una reprogramación del taller, When proponga una nueva franja, Then confirmo y ambos recibimos notificación.| EP-14                 |
+| US-35        | Pago completo del mantenimiento  | Como dueño de vehículo, quiero pagar el monto total del mantenimiento de mi vehículo desde la aplicación con el medio de pago de mi preferencia, para finalizar el servicio y recibir el comprobante de pago de manera inmediata.       | Scenario 1: Given que la orden de servicio tiene un monto total aprobado, When confirmo el medio de pago y autorizo la operación, Then el pago se registra como aprobado y la orden de servicio cambia a estado pagado. Scenario 2: Given que el pago fue aprobado, When finaliza la transacción, Then recibo el comprobante digital y puedo descargarlo y consultarlo en mi historial; si el pago es rechazado, entonces se muestra el motivo y se ofrece reintentar o cambiar el medio de pago.| EP-15                 |
+| US-36        | Encuesta de satisfacción y calificación  | Como dueño de vehículo, quiero responder una encuesta de satisfacción y calificar el servicio, para contribuir a la mejora continua.       | Scenario 1: Given una orden entregada, When abro la encuesta, Then puedo calificar y dejar comentarios. Given una calificación baja según el umbral de la empresa, When envío la encuesta, Then se crea una alerta interna para seguimientos.| EP-15                 |
+
 
 ## 3.2. Impact Mapping
 ## 3.3. Product Backlog
+
+| StoryID | Título | Descripción | Story Points (1/3/5/8) |
+| ------- | ------ | ----------- | ---------------------- |
+| US-18   | Información general del producto  | Como usuario, quiero ver un resumen claro de qué es Prime-Fix para entender la plataforma y sus funcionalidades       | 1                  |
+| US-19   | Visualización de información de contacto  | Como usuario, quiero ver los medios de contacto (correo, teléfono, redes), para saber cómo comunicarme con Prime-Fix.       | 1                  |
+| US-12   | Cambio de idioma  | Como usuario del aplicativo, quiero ver las funcionalidades en español para no equivocarme al utilizar el aplicativo.       | 3                  |
+| US-13   | Cambio de tema de la interfaz  | Como usuario registrado quiero poder elegir entre un tema claro u oscuro en el aplicativo para personalizar mi experiencia visual y mejorar la comodidad al usarlo       | 3                  |
+| US-01   | Ingreso con nombre de usuario  | Como usuario del aplicativo, quiero iniciar sesión con mi nombre de usuario elegido para facilitar el acceso a mi cuenta       | 1                  |
+| US-02   | Selección del departamento de residencia  | Como dueño de vehículo, quiero seleccionar un departamento de residencia como referencia geográfica, para centralizar los talleres en una zona/distrito específico.       | 2                  |
+| US-03   | Selección del distrito de residencia  | Como dueño de vehículo, quiero seleccionar el distrito en donde me encuentro, para garantizar encontrar talleres cercanos a mi ubicación       | 2                  |
+| US-04   | Restauración de Contraseña  | Como usuario, quiero recuperar mi clave para poder acceder si la olvido.       | 5                  |
+| US-05   | Registro de cuenta con campos comprensibles  | Como usuario, quiero que los campos del registro de cuenta sean completamente entendibles para poder inscribirme de manera correcta.       | 1                  |
+| US-06   | Visualización planes de pago disponibles  | Como usuario, quiero visualizar los diferentes planes de pago disponibles con sus precios y funcionalidades, para entender los beneficios que puedo obtener con cada plan y las funciones que no estarán disponibles en otros planes       | 2                  |
+| US-07   | Cambio de contraseña  | Como usuario, quiero cambiar mi contraseña desde la sección configuración para mantener la seguridad de mi cuenta y evitar accesos no autorizados       | 2                  |
+| US-08   | Edición de perfil  | Como usuario, quiero modificar mi información para mantener mi perfil actualizado.       | 2                  |
+| US-09   | Adición de vehiculo del usuario  | Como dueño de un vehículo, quiero agregar un nuevo auto a mi Lista de Vehículos, para agregar los distintos vehículos que puedan necesitar un mantenimiento.       | 3                  |
+| US-10   | Adición del modelo de Vehículo  | Como dueño de vehículo, quiero agregar el modelo de vehículos en la sección de Registrar Vehículos, para ejemplificar o dar una idea del tipo de vehículo que se está registrando.       | 3                  |
+| US-11   | Adición de la placa de vehículo  | Como dueño de vehículo, quiero registrar la placa de un nuevo vehículo, para manejar un identificador único de mi vehículo que sea reconocible para mí.       | 2                  |
+| US-14   | Cancelación de Reserva  | Como dueño de vehículo, quiero poder cancelar una reserva en caso de imprevisto, para reorganizar mi agenda con facilidad.       | 5                  |
+| US-15   | Acceso rápido desde la pantalla principal  | Como usuario del aplicativo quiero tener accesos directos a las funcionalidades más utilizadas para poder navegar rápidamente       | 2                  |
+| US-16   | Notificación de Promociones  | Como usuario, quiero recibir avisos sobre promociones activas para aprovechar descuentos.       | 3                  |
+| US-17   | Notificaciones próxima cita  | Como dueño de vehículo, quiero recibir notificaciones cuando se acerque la fecha de mi cita en el taller, para no olvidar el mantenimiento.       | 5                  |
+| US-20   | Registro de la información general del taller  | Como asesor de servicios de un taller quiero registrar la información básica en mi taller para que los clientes puedan conocer mejor mi negocio       | 2                  |
+| US-21   | Registro de trabajadores del taller  | Como dueño de un taller de autos quiero registrar la información de los trabajadores para que los clientes puedan conocer a mi equipo y confiar en nuestro taller       | 5                  |
+| US-22   | Visualización de los talleres con los distintos requerimientos  | Como dueño del vehículo quiero visualizar los distintos talleres recomendados por la aplicación para decidir cuál taller se adecua a mis posibilidades como usuario.       | 5                  |
+| US-23   | Visiaización de talleres dentro de la sección de Búsqueda  | Como dueño de vehiculos quiero dirigirme a la sección de Búsqueda de Talleres para encontrar el taller necesario y adecuado para mi vehículo       | 5                  |
+| US-24   | Visualización de reseñas de Talleres  | Como dueño de vehículo, quiero ver calificaciones y comentarios para elegir un taller confiable.       | 5                  |
+| US-25   | Selección del vehículo registrado en la sección de Agendar Visita  | Como dueño de vehículo, quiero seleccionar uno de los vehículos anteriormente registrados, para agendar una visita en el taller con el vehículo que presenta fallas       | 3                  |
+| US-26   | Selección de fecha y hora  | Como dueño de coche, quiero seleccionar la fecha y hora de mi visita al taller, para ajustar la atención de mi vehículo a mi disponibilidad.       | 5                  |
+| US-27   | Finalización registro de fallas  | Como dueño de vehículo,quiero registrar las fallas de mi vehículo en un espacio determinado para detallar al técnico del taller que está fallando dentro de mi vehículo       | 3                  |
+| US-28   | Visualización de Solicitudes disponibles  | Como asesor de taller, quiero visualizar las distintas solicitudes pendientes de nuestro taller,para tener un control general de las distintas visitas.	       | 3                  |
+| US-29   | Revisión de solicitudes de visita  | Como asesor de servicios de un taller quiero poder visualizar las solicitudes de visita que envían los clientes para evaluar la disponibilidad y decidir si agendarlas o no       | 3                  |
+| US-30   | Consulta Historial de Servicios  | Como dueño de vehículo, quiero revisar las visitas pasadas para controlar el mantenimiento.       | 4                  |
+| US-31   | Visualización de estado y avance  | Como dueño de vehículo, quiero ver el estado actual de mi orden de servicio y el porcentaje de avance con la hora de la última actualización y el responsable, para conocer con precisión cómo progresa el trabajo.       | 5                  |
+| US-32   | Línea de tiempo con hitos y evidencias  | Como dueño de vehículo, quiero consultar una línea de tiempo con hitos, fotografías, documentos digitales y notas del taller.       | 5                  |
+| US-33   | Inquietudes desde el seguimiento  | Como dueño de vehículo, quiero registrar una inquietud con texto y fotografías desde el seguimiento, para resolver dudas sobre mi servicio.       | 5                  |
+| US-34   | Programación entrega del vehículo  | Como dueño de vehículo, quiero seleccionar y confirmar una franja horaria disponible para la entrega, para coordinar el retiro de manera conveniente.       | 5                  |
+| US-35   | Pago completo del mantenimiento  | Como dueño de vehículo, quiero pagar el monto total del mantenimiento de mi vehículo desde la aplicación con el medio de pago de mi preferencia, para finalizar el servicio y recibir el comprobante de pago de manera inmediata.       | 7                  |
+| US-36   | Encuesta de satisfacción y calificación  | Como dueño de vehículo, quiero responder una encuesta de satisfacción y calificar el servicio, para contribuir a la mejora continua.       | 4                  |
+
+
 
 ---
 
@@ -715,8 +885,19 @@ Los sistemas de navegación de PrimeFix han sido diseñados para poder guiar de 
 
 
 ## 4.3. Landing Page UI Design
+
+A continuación se mostrarán los diseños realizados en Figma para la creación de la landing page de Prime-Fix
+
 ### 4.3.1. Landing Page Wireframe
+
+<img src="Assets/landing_page/landing_wireframe1.png">
+<img src="Assets/landing_page/landing_wireframe2.png">
+
 ### 4.3.2. Landing Page Mock-up
+
+<img src="Assets/landing_page/landing_mockup1.png">
+<img src="Assets/landing_page/landing_mockup2.png">
+
 
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
@@ -1106,20 +1287,29 @@ El usuario tendrá 3 apartados para configurar información privada:
 
 ## 4.5. Web Applications Prototyping
 
+A continuación, se presentarán los prototipos de la aplicación web que cuentan con un flujo definido e interactividad para algunos botones. Este prototipo nos permitirá conocer un poco más sobre lo pensado para el desarrollo de Prime-Fix.
+
+<img src="Assets/Mockups/menu_inicial_dueño1.png">
+
+Link del prototipo: [Prototype](https://www.figma.com/proto/wf74HMrT48NvWY5Bq8MgZi/Prime-Fix?node-id=111-2886&t=MyqoCycGjMiKmrHp-1&scaling=contain&content-scaling=fixed&page-id=1%3A2)
+
+
 ## 4.6. Domain-Driven Software Architecture
 ### 4.6.1. Design-Level Event Storming
 ### 4.6.2. Software Architecture Context Diagram
-
+Diagrama de Conexto de PrimeFix
 <img src="Assets/diagrams/Context_Diagram.png">
 
 ### 4.6.3. Software Architecture Container Diagrams
-
+Diagrama de Contenedores de PrimeFix
 <img src="Assets/diagrams/Container_Diagram.png">
 
 ### 4.6.4. Software Architecture Components Diagrams
 
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
+
+<img src="/docs/Assets/diagrams/Class_Diagram.png">
 
 ## 4.8. Database Design
 ### 4.8.1. Database Diagrams
@@ -1129,7 +1319,19 @@ El usuario tendrá 3 apartados para configurar información privada:
 # Capítulo V: Product Implementation, Validation & Deployment
 ## 5.1. Software Configuration Management
 ### 5.1.1. Software Development Environment Configuration
+Para la creación de la landing page utilizamos principalmente Astro, combinado con HTML y CSS para construir una página rápida, limpia y bien estructurada. Esta elección nos permitió tener control total sobre el diseño y la organización del código, sin depender demasiado de frameworks externos.
+
+Como entorno de desarrollo, trabajamos con Visual Studio Code, que nos brindó funciones útiles como resaltado de sintaxis, autocompletado y un terminal integrado para ejecutar comandos y manejar herramientas adicionales.
+
+Para el control de versiones y colaboración, utilizamos Git junto con GitHub, lo cual nos facilitó mantener un historial de cambios claro, compartir el código con el equipo y llevar un buen manejo de ramas y solicitudes de incorporación.
+
+En cuanto al diseño de experiencia de usuario, usamos UXPressia para crear y compartir documentos como user personas, mapas de empatía y journey maps, lo que ayudó a nuestro equipo a entender mejor a los usuarios y validar las ideas antes de empezar la implementación.
+
 ### 5.1.2. Source Code Management
+Repositorio de github - Landing Page de Prime Fix
+<img src="Assets/chapter-1/captura-repositorio-landingpage.png" alt="">
+URL: https://github.com/prime-fix/landing-page
+
 ### 5.1.3. Source Code Style Guide & Conventions
 En esta sección se detallan las convenciones de estilo y buenas prácticas que se deben seguir al momento de escribir código en los lenguajes y frameworks seleccionados para el proyecto.
 
@@ -1137,9 +1339,9 @@ En esta sección se detallan las convenciones de estilo y buenas prácticas que 
 |---------------|--------------------------|
 | **Tailwind CSS** | - Usar solo clases utilitarias de Tailwind. <br> - Ordenar clases en bloques: Layout → Box Model → Tipografía → Colores/Fondos → Otros. <br> - Mantener legibilidad en clases largas. |
 | **HTML** | - Usar etiquetas semánticas (`header`, `main`, `section`, etc.). <br> - Indentación de **2 espacios**. <br> - Atributos entre comillas dobles `" "`. <br> - Orden de atributos: `id`, `class` → accesibilidad (`aria-*`) → funcionales (`src`, `href`, `alt`). <br> - Nombres en **kebab-case** (`main-section`). |
-| **TypeScript** | - Variables/funciones en **camelCase**. <br> - Clases/interfaces en **PascalCase**. <br> - Constantes en **UPPER_SNAKE_CASE**. <br> - Tipado obligatorio en variables, parámetros y retornos. <br> - Ordenar imports de externos a internos. <br> - Evitar `any`. Usar `readonly` y `private` cuando corresponda. |
+| **TypeScript** | - Variables/funciones en **camelCase**. <br> - Clases/interfaces en **PascalCase**. <br> - Constantes en **UPPER_SNAKE_CASE**. <br> - Tipado obligatorio en variables, parámetros y retornos. <br> - Ordenar imports de externos a internos. |
 | **Astro** | - Archivos `.astro` en **PascalCase**. <br> - Orden del archivo: `frontmatter` → HTML/JSX → estilos `<style>`. <br> - Props siempre tipadas con TypeScript. <br> - Importaciones cortas y claras. <br> - Componentes pequeños y reutilizables. |
-| **Gherkin** | - Los escenarios deben escribirse en **lenguaje claro y entendible**. <br> - Seguir la estructura: `Given`, `When`, `Then`, y opcionalmente `And`. <br> - Un escenario debe reflejar un caso de uso específico. <br> - Las historias de usuario deben agruparse en **Features**. <br> - Mantener consistencia en la redacción (tiempos verbales en presente). |
+| **Gherkin** | - Los escenarios deben escribirse en **lenguaje claro y entendible**. <br> - Estructura: `Given`, `When`, `Then`, y opcionalmente `And`. <br> - Un escenario debe reflejar un caso de uso específico. <br> - Las historias de usuario deben agruparse en **Features**. <br> - Mantener consistencia en la redacción (tiempos verbales en presente). |
 
 
 ### 5.1.4. Software Deployment Configuration
@@ -1208,14 +1410,34 @@ Accedemos a esta dirección desde el navegador para confirmar que el sitio está
 ---
 
 # Conclusiones
-# Conclusiones y recomendaciones
+# Recomendaciones
+
+- Verificar de manera constante los avances de los demás integrantes para evitar confusiones a futuro. Especialmente de los integrates que son designados a partes fundamentales del proyecto sea documentacion o desarrollo.
+- Mejorar la distribución y la comunicación entre los integrantes del equipo en el aspecto de las entregas del trabajo.
+- Continuar y realizar validaciones a futuro con respecto a los avances del proyecto, para mantener la correlacion entre las necesidades reales y el desarrollo.
+
 # Video About-the-Team
 # Bibliografía
+
 ## Referencias
 
 - Manrique Olaechea, R. (2011). *Diseño de un sistema electrónico de reserva de citas para atención a clientes en talleres de autos utilizando tecnología Web e IVR* [Tesis de licenciatura, Pontificia Universidad Católica del Perú]. Repositorio PUCP.
 
 - Similarweb. (2024, octubre 22). *Inversión publicitaria digital y tráfico web en la industria automotriz de LATAM: Octubre 2024*. Similarweb Blog. [https://www.similarweb.com/blog/es/marketing/inversion-publicitaria-digital-y-trafico-web-en-la-industria-automotriz-de-latam-octubre-2024/](https://www.similarweb.com/blog/es/marketing/inversion-publicitaria-digital-y-trafico-web-en-la-industria-automotriz-de-latam-octubre-2024/)
 
+- OpusLine (2023,19 de diciembre) *Etapas y consejos para el proceso productivo de un taller mecánico*. OpusLine. Recuperado el 9 de setiembre de 2025, de: https://opus-line.es/proceso-productivo-taller-mecanico/
+
+
 # Anexos
 
+Link de la organización de Github de la Startup: [https://github.com/prime-fix](https://github.com/prime-fix)
+
+Link del repositorio de Github del reporte del trabajo: [https://github.com/prime-fix/docs](https://github.com/prime-fix/docs)
+
+Link del repositorio de Github de la Landing Page: [https://github.com/prime-fix/landing-page](https://github.com/prime-fix/landing-page)
+
+Link del repositorio de Github del Frontend Web Applications: [https://github.com/prime-fix/frontend](https://github.com/prime-fix/frontend)
+
+Link del repositorio de Github del RESTful Web Services: [https://github.com/prime-fix/backend](https://github.com/prime-fix/backend)
+
+Link de la Landing Page: [https://landing-page-pearl-kappa-37.vercel.app/](https://landing-page-pearl-kappa-37.vercel.app/)
