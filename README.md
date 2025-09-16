@@ -527,6 +527,18 @@ User Journey Mapping - Luis Chávez
 
 ### 2.3.4. Empathy Mapping
 
+**Segmento 1 - Dueño de vehículo** 
+
+Empathy Mapping - José Paredes
+
+<img src="Assets/chapter-1/Empathy-mapping-1.png">
+
+**Segmento 2 - Asesor de taller automotriz**
+
+Empathy Mapping - Luis Chávez
+
+<img src="Assets/chapter-1/Empathy-mapping-2.png">
+
 ## 2.4. Big Picture Event Storming
 ## 2.5. Ubiquitous Language
 
@@ -1119,6 +1131,17 @@ El usuario tendrá 3 apartados para configurar información privada:
 ### 5.1.1. Software Development Environment Configuration
 ### 5.1.2. Source Code Management
 ### 5.1.3. Source Code Style Guide & Conventions
+En esta sección se detallan las convenciones de estilo y buenas prácticas que se deben seguir al momento de escribir código en los lenguajes y frameworks seleccionados para el proyecto.
+
+| Tecnología    | Convenciones principales |
+|---------------|--------------------------|
+| **Tailwind CSS** | - Usar solo clases utilitarias de Tailwind. <br> - Ordenar clases en bloques: Layout → Box Model → Tipografía → Colores/Fondos → Otros. <br> - Mantener legibilidad en clases largas. |
+| **HTML** | - Usar etiquetas semánticas (`header`, `main`, `section`, etc.). <br> - Indentación de **2 espacios**. <br> - Atributos entre comillas dobles `" "`. <br> - Orden de atributos: `id`, `class` → accesibilidad (`aria-*`) → funcionales (`src`, `href`, `alt`). <br> - Nombres en **kebab-case** (`main-section`). |
+| **TypeScript** | - Variables/funciones en **camelCase**. <br> - Clases/interfaces en **PascalCase**. <br> - Constantes en **UPPER_SNAKE_CASE**. <br> - Tipado obligatorio en variables, parámetros y retornos. <br> - Ordenar imports de externos a internos. <br> - Evitar `any`. Usar `readonly` y `private` cuando corresponda. |
+| **Astro** | - Archivos `.astro` en **PascalCase**. <br> - Orden del archivo: `frontmatter` → HTML/JSX → estilos `<style>`. <br> - Props siempre tipadas con TypeScript. <br> - Importaciones cortas y claras. <br> - Componentes pequeños y reutilizables. |
+| **Gherkin** | - Los escenarios deben escribirse en **lenguaje claro y entendible**. <br> - Seguir la estructura: `Given`, `When`, `Then`, y opcionalmente `And`. <br> - Un escenario debe reflejar un caso de uso específico. <br> - Las historias de usuario deben agruparse en **Features**. <br> - Mantener consistencia en la redacción (tiempos verbales en presente). |
+
+
 ### 5.1.4. Software Deployment Configuration
 
 ## 5.2. Landing Page, Services & Applications Implementation
