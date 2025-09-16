@@ -49,7 +49,7 @@
 |---------|-------------|---------------------------------------------------------------------------|------------------------------|
 |   TB1   | 16/09/2025  | Gianmarco Fabian Jiménez Guerra                                           | Realicé la Descripción de la Startup, User Stories, Product Backlog, Organization Systems, Labeling Systems, Landing Page Wireframe, Landing Page Mock-up, Web Applications Wireframes, Web Applications Wireflow Diagrams, Web Applications Mock-ups, Web Applications User Flow Diagrams, Web Applications Prototyping|
 |   TB1   | 16/09/2025  | Cesar Augusto Arostegui Alzamora                                          | Realicé ... |
-|   TB1   | 16/09/2025  | Alexander Gabriel Montoya Torres                                          | Realicé ... |
+|   TB1   | 16/09/2025  | Alexander Gabriel Montoya Torres                                          | Realicé los Antecedentes y problemática, Lean UX Canvas, Análisis competitivo, las Estrategias y tacticas frente a competidores, entrevistas, User Journey Mapping, Empathy Mapping, User Stories, Source Code Style Guide & Conventiones y Software Deployment & Conventions|
 |   TB1   | 16/09/2025  | Alicia Avril Navarro Chang                                                | Realicé artefactos de Lean UX como lean ux problem statements, lean ux hyphotesis, lean ux assumptios. También desarrollé secciones del Needfinding como los user personas, impact mapping y user task matriz. Además del software development environment configuration y source code management. |
 |   TB1   | 16/09/2025  | Piero Francesco Tenorio Medina                                            | Realicé la secciones de User Stories, evaluando cada escenario posible de cada funcionalidad.Tambien el Diagrama de Clase en una versión temprana. Además de hacer los segmentos objetivos del proyecto. Evaluando los posibles usuarios a los que va dirijido el trabajo.  |
 
@@ -153,8 +153,8 @@
 # Student Outcome  
 | Criterio específico                                                   | Acciones realizadas                                                                                     | Conclusiones |
 | --------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | ------------ |
-| Comunica oralmente con efectividad a diferentes rangos de audiencia   | Jiménez Guerra, Gianmarco Fabian<br>TB1<br>Para esta entrega pude contribuir en todos los capítulos a desarrollar. Ayudé a definir el proyecto y las funcionalidadaes de manera correcta y pude comunicarme de forma correcta y ordenada con los integrantes del grupo.<br><br>Aróstegui Alzamora, Cesar Augusto<br>TB1<br>En el inicio de este proyecto planifiqué lo necesario para los avances del prototipo de la aplicación web y el diseño UX/UI, facilité sesiones de Design-Level Event Storming para alinear vocabulario y flujos. También planifiqué la primera versión de la Landing Page.<br><br>Tenorio Medina, Piero Francesco<br>TB1<br> <br>Dentro de esta parte del trabajo, he planteado distintas ideas de como se podria desarrollar el trabajo con los demás integrantes de mi equipo.Estas ideas considerando las dimensiones y el alcnace del trabajo. Se ha desarrollado secciones como Entrevistas a Uusarios, donde sse ha llegado a plasmar de manera correcta la idea de nuestro proyecto.<br>Montoya Torres, Alexander Gabriel<br>TB1<br>Texto<br><br>Navarro Chang, Alicia Avril<br>TB1<br> Trabajé en conjunto con mis compañeros de equipo para poder plasmar el concepto de nuestro proyecto, además de estar al mismo tiempo comunicando ideas y/u opiniones que puedan ayudar al desarrollo del trabajo.| TB1: Texto   |
-| Comunica por escrito con efectividad a diferentes rangos de audiencia | Jiménez Guerra, Gianmarco Fabian<br>TB1<br>Para el desarrollo de mi parte del proyecto, pude redactar de manera adecuada lo que correspondía en mi parte del informe. Además, la comunicación que realicé con algunos segmentos objetivos inicialmente fue vía escrita. Finalmente, hubo coordinaciones con los demás integrantes por escrito.<br><br>Aróstegui Alzamora, Cesar Augusto<br>TB1<br>En el inicio de este proyecto desarrollé los avances del prototipo de la aplicación web y el diseño UX/UI, también completó el avance del Design-Level Event Storming para alinear vocabulario y flujos. También desarrollé la primera versión de la Landing Page.<br><br>Tenorio Medina, Piero Francesco<br>TB1<br>Dentro de esta parte del trabajo, he desarrollado y planteado ideas que sean de acordes a los distintos segmentos objetivos. Estas ideas se basan en la experiencia y el malestar de cada uno de los usuarios, como por ejemplo: el planteamiento de facilidades al usuario a la hora de utilizar la plataforma, brindandole distintas herramientas que mejoren su experiencia a la hora de utilizar nuestro Servicio. <br><br>Montoya Torres, Alexander Gabriel<br>TB1<br>Texto<br><br>Navarro Chang, Alicia Avril<br>TB1<br> En esta entregá realicé varios artefactos lean ux que buscan comunicar ideas y planificar en base a la experiencia del usuario. Además también desarrollé la parte de needfindg (user personas, impact mapping , user stories) , que nos ayudan a estar en sintonía con la perspectiva del usuario y poder plasmarla de acuerdo a nuestro proyecto. | TB1: Texto   |
+| Comunica oralmente con efectividad a diferentes rangos de audiencia   | Jiménez Guerra, Gianmarco Fabian<br>TB1<br>Para esta entrega pude contribuir en todos los capítulos a desarrollar. Ayudé a definir el proyecto y las funcionalidadaes de manera correcta y pude comunicarme de forma correcta y ordenada con los integrantes del grupo.<br><br>Aróstegui Alzamora, Cesar Augusto<br>TB1<br>En el inicio de este proyecto planifiqué lo necesario para los avances del prototipo de la aplicación web y el diseño UX/UI, facilité sesiones de Design-Level Event Storming para alinear vocabulario y flujos. También planifiqué la primera versión de la Landing Page.<br><br>Tenorio Medina, Piero Francesco<br>TB1<br> <br>Dentro de esta parte del trabajo, he planteado distintas ideas de como se podria desarrollar el trabajo con los demás integrantes de mi equipo.Estas ideas considerando las dimensiones y el alcnace del trabajo. Se ha desarrollado secciones como Entrevistas a Uusarios, donde sse ha llegado a plasmar de manera correcta la idea de nuestro proyecto.<br>Montoya Torres, Alexander Gabriel<br>TB1<br>Durante la fase inicial de este proyecto hemos mantenido una buena comunicación con el equipo, de manera que logramos determinar un plan para llevar a cabo los avances pertinentes del proyecto y reforzar nuestro trabajo colaborativo. Sumado a esto, logre aportar con varios puntos del trabajo, desde entrevistas, parte del needfinding cómo la definición de funcionalidades de la plataforma.<br><br>Navarro Chang, Alicia Avril<br>TB1<br> Trabajé en conjunto con mis compañeros de equipo para poder plasmar el concepto de nuestro proyecto, además de estar al mismo tiempo comunicando ideas y/u opiniones que puedan ayudar al desarrollo del trabajo.| TB1: Texto   |
+| Comunica por escrito con efectividad a diferentes rangos de audiencia | Jiménez Guerra, Gianmarco Fabian<br>TB1<br>Para el desarrollo de mi parte del proyecto, pude redactar de manera adecuada lo que correspondía en mi parte del informe. Además, la comunicación que realicé con algunos segmentos objetivos inicialmente fue vía escrita. Finalmente, hubo coordinaciones con los demás integrantes por escrito.<br><br>Aróstegui Alzamora, Cesar Augusto<br>TB1<br>En el inicio de este proyecto desarrollé los avances del prototipo de la aplicación web y el diseño UX/UI, también completó el avance del Design-Level Event Storming para alinear vocabulario y flujos. También desarrollé la primera versión de la Landing Page.<br><br>Tenorio Medina, Piero Francesco<br>TB1<br>Dentro de esta parte del trabajo, he desarrollado y planteado ideas que sean de acordes a los distintos segmentos objetivos. Estas ideas se basan en la experiencia y el malestar de cada uno de los usuarios, como por ejemplo: el planteamiento de facilidades al usuario a la hora de utilizar la plataforma, brindandole distintas herramientas que mejoren su experiencia a la hora de utilizar nuestro Servicio. <br><br>Montoya Torres, Alexander Gabriel<br>TB1<br>En esta fase inicial, he definido la problematica principal que nuestro proyecto busca resolver, de manera que podamos empezar desde una base analitica con respecto a las dolencias del mercado y de esa forma definir nuestros segmentos objetivos y llevar a cabo el Needfinding. Sumado a esto, se ha mantenido una comunicación asertiva con todos los integrantes del equipo, mateniendo una eficiencia colaborativa mediante la comunicación<br><br>Navarro Chang, Alicia Avril<br>TB1<br> En esta entregá realicé varios artefactos lean ux que buscan comunicar ideas y planificar en base a la experiencia del usuario. Además también desarrollé la parte de needfindg (user personas, impact mapping , user stories) , que nos ayudan a estar en sintonía con la perspectiva del usuario y poder plasmarla de acuerdo a nuestro proyecto. | TB1: Texto   |
 
 ---
 
@@ -174,7 +174,7 @@ Con FixTech nace Prime-Fix, una plataforma digital cuyo objetivo es facilitar el
 | --------------------- | ---------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <img src="Assets/integrantes/piero.png">                 | U202318731       | Soy Piero Tenorio, estudio en la sede San Miguel de la UPC estudiando la carrera de Ingeniería de Software . Soy una persona colaborativa, responsable y comprometida con los trabajos en los que estoy implicado, tratando de ser lo más eficiente posible.Conocimientos en HTML, CSS, Java, C++, JavaScript y Python. Cada día trato de mejorar como persona y si llego a cometer algún error, tratar de aprender de ello. |
 | <img src="Assets/integrantes/gianmarco.png" width="500" heigth="450">                  | U202123843       | Soy Gianmarco Jiménez alumno de Ingeniería de Software. Me gusta trabajar en equipo pues me permite aprender sobre las ideas que tienen los participantes y contrastarlas con las mías. He utilizado lenguajes como C++, Python, SQL y Java. Estoy muy interesado en aprender todo sobre el desarrollo de aplicaciones web con frameworks.                                                                |
-| Foto                 |  U20231b424         | Soy Alexander Gabriel Montoya, estudiante de la carrera de Ingenieria de Sofware en la UPC, tengo 20 años actualmente, con respecto a mi carrera he aprendido a manejar lenguajes de programación como C++, MySQL, Python, HTML y CSS. Con respecto a lo personal, me gusta dedicar tiempo y esfuerzo a todo lo que hago ya sean actividades academicas o mis hobbies     |
+| <img src="Assets/integrantes/montoya.png"  width="500" heigth="450">  |  U20231b424         | Soy Alexander Gabriel Montoya, estudiante de la carrera de Ingenieria de Sofware en la UPC, tengo 20 años actualmente, con respecto a mi carrera he aprendido a manejar lenguajes de programación como C++, MySQL, Python, HTML y CSS. Con respecto a lo personal, me gusta dedicar tiempo y esfuerzo a todo lo que hago ya sean actividades academicas o mis hobbies     |
 | Foto                  | U202114548         | Soy César Augusto, estudiante de Ingeniería de Software, actualmente con 21 años, mi lenguaje más utilizado y favorito es Python, actualmente adaptándome en JavaScript y estudiando frameworks  relacionados para el Desarrollo Web.                                                                                                                                                                                                                                                                                                                                                                          |
 | Foto                  | U20231D637         | Soy Alicia Navarro, estudiante de Ingeniería de Software en la UPC, con conocimientos básicos en programación en C++ y Python, fundamentos en bases de datos, diseño y modelado de software utilizando UML y diagramas, así como algoritmos y estructuras de datos básicos. Además, poseo habilidades de empatía y comunicación efectiva que me permiten colaborar de manera eficiente en equipo, facilitando la comunicación clara y asertiva para contribuir a un entorno de trabajo productivo y colaborativo.                                                                                                                                                                                                                                                                                                                                                                                     |
 
@@ -182,9 +182,9 @@ Con FixTech nace Prime-Fix, una plataforma digital cuyo objetivo es facilitar el
 ### 1.2.1. Antecedentes y problemática
 El sector automotriz en el Perú y en gran parte de Latinoamérica aún se encuentra rezagado en términos de digitalización de servicios, debido a que, la mayoria de talleres funcionan con procesos manuales, tales como agendas físicas, llamadas telefonicas y mensajeria web afectando la trazabilidad de reparaciones y la atención que reciben los dueños de vehiculos generando dificultades sobre ellos al obstaculizar la busqueda de talleres confiables hoy en día.
 
-A nivel global, ya existen plataformas que conectan a usuarios con talleres y servicios automotrices, lo que demuestra que hay una tendencia hacia la digitalización dentro de este sector, sin embargo en el Perú este modelo no ha sido consolidado y por ende se ha retrasado la modernización del servicio al cliente dentro de este sector y se ha aumentando la desorganización en la gestion de talleres, debido a que no se cuenta con sistemas digitales de registro de citas ni sistemas para facilitar el seguimiento de las reparaciones.
+A nivel global, ya existen plataformas que conectan a usuarios con talleres y servicios automotrices, lo que demuestra que hay una tendencia hacia la digitalización dentro de este sector, sin embargo en el Perú este modelo no ha sido consolidado y por ende se ha retrasado la modernización del servicio al cliente dentro de este sector y se ha aumentando la desorganización en la gestion de talleres, debido a que no se cuenta con sistemas digitales de registro de citas ni sistemas para facilitar el seguimiento de las reparaciones. Según Manrique (2011) los talleres en el Perú requieren de sistemas electrónicos para reservar citas previas a la atención, con el fin de optimizar recursos del taller en cuanto a organización y planificación
 
-En este contexto,Fixtech surge como una startup de base tecnológica que busca cerrar la brecha entre talleres y clientes mediante mediante la creación de nuestro aplicativo PrimeFix, el cual tiene como objetivo centralizar la oferta de talleres en un entorno digital que otorgue transparencia, accesibilidad y confianza a los usuarios
+En este contexto,Fixtech surge como una startup de base tecnológica que busca cerrar la brecha entre talleres y clientes mediante mediante la creación de nuestro aplicativo PrimeFix, el cual tiene como objetivo centralizar la oferta de talleres en un entorno digital que otorgue transparencia, accesibilidad y confianza a los usuarios. Además, en Latinoamérica la inversión publicitaria digital en la industria automotriz está creciendo y señalando que los negocios del rubro están obligados a adaptarse al entorno digital para mantenerse competitivos; por ejemplo, en octubre de 2024, Perú representó aproximadamente un 2,67 % de la inversión digital en publicidad automotriz en LATAM, lo que indica interés y movimiento en el ecosistema digital automotriz del país (Similarweb, 2024).
 
 
 ### 1.2.2. Lean UX Process
@@ -1347,6 +1347,49 @@ En esta sección se detallan las convenciones de estilo y buenas prácticas que 
 
 
 ### 5.1.4. Software Deployment Configuration
+Para que nuestra landing page esté disponible para todos nuestros usuarios, la publicamos como un sitio web utilizando la plataforma de GitHub. El proceso se llevó a cabo de la siguiente manera: 
+
+**1. Registro en GitHub**  
+Creamos una cuenta en GitHub para poder gestionar los repositorios del proyecto y almacenar el código de la Landing Page de **Prime-Fix**.
+
+**2. Creación del repositorio**  
+- Hicimos clic en el botón **“New”** para generar un nuevo repositorio.  
+- Le asignamos el nombre **“landing-page”** dentro de nuestra organización **prime-fix**.
+  
+---
+**3. Configuración del repositorio**  
+- Nos aseguramos de que el repositorio tenga visibilidad **pública** para permitir la integración con Vercel.  
+- Añadimos un archivo `README.md` inicial y configuramos un `.gitignore` adecuado para excluir archivos innecesarios.  
+
+---
+**4. Carga de los archivos de la landing page**
+- Accedimos al repositorio creado.  
+- Subimos los archivos generados del proyecto (HTML, TailwindCSS, TypeScript, Astro).  
+- Verificamos que los cambios se hicieran en la rama principal (`main`).  
+- Finalmente, confirmamos la acción con **“Commit changes”** para guardar los archivos.  
+---
+**5. Configuración en Vercel**
+- Iniciamos sesión en [Vercel](https://vercel.com).  
+- Seleccionamos la opción **“New Project”** y vinculamos nuestra cuenta de GitHub.  
+- Importamos el repositorio **landing-page**.  
+- Configuramos el framework en **Astro** (Vercel lo detecta automáticamente en la mayoría de los casos).  
+- Definimos la rama de despliegue (`main`).  
+
+---
+**6. Verificación del sitio web**
+En pocos minutos, Vercel genera la URL pública del proyecto:  
+[https://landing-page-pearl-kappa-37.vercel.app/](https://landing-page-pearl-kappa-37.vercel.app/)  
+
+Accedemos a esta dirección desde el navegador para confirmar que el sitio está activo y funcionando correctamente.  
+
+---
+
+**7. Actualización del sitio**
+- Cuando necesitemos modificar el sitio, solo debemos realizar commits en el repositorio y hacer **push** hacia la rama `main`.  
+- Vercel detecta automáticamente los cambios, vuelve a compilar el proyecto y lo despliega en línea.  
+- Los cambios estarán disponibles en producción en cuestión de segundos.  
+
+---
 
 ## 5.2. Landing Page, Services & Applications Implementation
 ### 5.2.1. Sprint 1
@@ -1378,7 +1421,13 @@ En esta sección se detallan las convenciones de estilo y buenas prácticas que 
 # Video About-the-Team
 # Bibliografía
 
-OpusLine (2023,19 de diciembre) *Etapas y consejos para el proceso productivo de un taller mecánico*. OpusLine. Recuperado el 9 de setiembre de 2025, de: https://opus-line.es/proceso-productivo-taller-mecanico/
+## Referencias
+
+- Manrique Olaechea, R. (2011). *Diseño de un sistema electrónico de reserva de citas para atención a clientes en talleres de autos utilizando tecnología Web e IVR* [Tesis de licenciatura, Pontificia Universidad Católica del Perú]. Repositorio PUCP.
+
+- Similarweb. (2024, octubre 22). *Inversión publicitaria digital y tráfico web en la industria automotriz de LATAM: Octubre 2024*. Similarweb Blog. [https://www.similarweb.com/blog/es/marketing/inversion-publicitaria-digital-y-trafico-web-en-la-industria-automotriz-de-latam-octubre-2024/](https://www.similarweb.com/blog/es/marketing/inversion-publicitaria-digital-y-trafico-web-en-la-industria-automotriz-de-latam-octubre-2024/)
+
+- OpusLine (2023,19 de diciembre) *Etapas y consejos para el proceso productivo de un taller mecánico*. OpusLine. Recuperado el 9 de setiembre de 2025, de: https://opus-line.es/proceso-productivo-taller-mecanico/
 
 
 # Anexos
