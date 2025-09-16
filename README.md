@@ -508,6 +508,47 @@ Héctor Cárdenas, jefe de taller, señala que la captación de clientes se real
 
 ### 2.2.3. Análisis de entrevistas
 
+En este apartado se procederá a analizar las entrevistas realizadas a ambos segmentos objetivos:
+
+
+
+**Segmento #2**
+
+Total de entrevistados: 3
+
+Datos sobre las preguntas:
+  - 100% usa las redes sociales para promocionarse
+  - 33% tiene dificultades al momento de competir con talleres más grandes
+  - 67% no maneja una base de datos para la gestión de técnicos
+  - 100% opina que la plataforma es buena idea
+
+En resumen, la información brindada por este segmento es muy similar a lo previsto. Todos los talleres tienen algunas dificultados para mejorar la calidad de su servicio y todos consideran que Prime-Fix podría ser una muy buena plataforma que implementarían en sus talleres.
+
+A continuación se mostrará de manera gráfica el análisis de las preguntas más relevantes:
+
+**Redes sociales para promoción**
+
+<img src="Assets/análisis_entrevistas/redes_sociales.png" width="550" height="350">
+<hr>
+
+**Competencia con talleres más grandes**
+
+<img src="Assets/análisis_entrevistas/dificultades.png" width="550" height="350">
+<hr>
+
+**Base de datos para los técnicos**
+
+<img src="Assets/análisis_entrevistas/bd_tecnicos.png" width="550" height="350">
+<hr>
+
+**Opinión de Prime-Fix**
+
+<img src="Assets/análisis_entrevistas/buena_idea.png" width="550" height="350">
+<hr>
+
+
+
+
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
 #### Segmento 1 - Dueño de vehículo
