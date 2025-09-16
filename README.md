@@ -482,27 +482,29 @@ Para finalizar, recalcó lo importante que es tener una plataforma con todas las
 
 **Entrevista N°2:**
 
-- Sexo:
-- Edad:
-- Link:
-- Inicia en:
-- Duración:
+- Sexo: Masculino
+- Edad: 47
+- Link: [Enlace](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114548_upc_edu_pe/EYKmpMYFGk5BnxR4GI37EcsBrQaCB2q7n-PhGydUdeJAvg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=zfkZrQ)
+- Inicia en: 0:01
+- Duración: 3:53
 
+  <img src="Assets/images_interview/interview_cesar_1.png">
 
-**Resumen de la entrevista**
-
+William Espinoza se desempeña en el área de almacén, repuestos y mantenimiento de un taller automotriz. Comenta que la captación de clientes se realiza principalmente a través de redes sociales y avisos publicitarios en la puerta del local. Para la programación de visitas utilizan una computadora con Excel. Señala que no perciben dificultades frente a talleres más grandes, ya que la atención depende más de la capacidad instalada que de la competencia.
+La gestión de pedidos se lleva a cabo mediante un diagnóstico inicial, tras el cual se presenta al cliente una cotización del repuesto y del servicio requerido. Ha recibido algunos reclamos relacionados con la actitud o comunicación de los técnicos, normalmente de forma presencial. Explica que cuentan con una base de datos para evaluar la trayectoria de los técnicos y destaca la importancia de mostrar la disponibilidad de los mismos en tiempo real, pues considera que esto transmite confianza y rapidez al cliente.
+Respecto a la posibilidad de digitalizar procesos, considera útil una plataforma que permita registrar el taller, técnicos y reseñas de clientes, resaltando que dicha información debería estar disponible también para los usuarios externos. Actualmente, la comunicación del estado del vehículo y los diagnósticos finales se realiza mediante WhatsApp, enviando fotos o videos desde el área técnica al área administrativa y de allí al cliente. Valora positivamente la idea de una plataforma que notifique cuándo el vehículo está listo para ser recogido y que permita al técnico subir directamente la información para que el cliente la consulte en línea. En conclusión, William considera que una herramienta digital con estas funcionalidades resultaría de gran utilidad para mejorar la transparencia y la experiencia del cliente.
 
 **Entrevista N°3:**
 
-- Sexo:
-- Edad:
-- Link:
-- Inicia en:
-- Duración:
+- Sexo: Masculino
+- Edad: 35
+- Link: [Enlace](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114548_upc_edu_pe/EWUY_frgM_RKtA929ZLKHA0Bd6suNWEVHuj-_ofQHR_Ecg?e=1yRvjo&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+- Inicia en: 0:01
+- Duración: 5:26
 
+  <img src="Assets/images_interview/interview_cesar_2.png">
 
-**Resumen de la entrevista**
-
+Héctor Cárdenas, jefe de taller, señala que la captación de clientes se realiza principalmente mediante plataformas digitales como Facebook e Instagram, aprovechando los medios virtuales y redes sociales. Para la programación de visitas utilizan tanto computadoras como celulares, apoyándose en canales como WhatsApp y Messenger. Reconoce que sí enfrentan dificultades frente a talleres más grandes debido a que estos cuentan con mejores implementaciones y ubicaciones estratégicas. En cuanto a la gestión de pedidos, explica que los clientes solicitan cotizaciones virtualmente (por WhatsApp o correo), tras lo cual se procede con la atención. Hasta el momento no han recibido reclamos significativos, ya que cuentan con un control de calidad antes de la entrega de cada unidad. La información sobre los técnicos se administra en una bitácora donde se registran horas-hombre, asignación de trabajos y avances, lo que también sirve para organizar pagos. Considera que mostrar la disponibilidad de técnicos en tiempo real depende de la magnitud y tipo de reparación, aunque reconoce que esta información es importante para la planificación. En relación con plataformas digitales, menciona que en el sector se utilizan programas como SAT que permiten gestionar órdenes de trabajo y técnicos asignados. Héctor resalta la importancia de mantener al cliente informado en todo momento y considera valiosa una plataforma que notifique sobre avances y disponibilidad del vehículo para recogerlo. En conclusión dice que estas herramientas fortalecen la confianza y mejoran la experiencia del cliente.
 
 ### 2.2.3. Análisis de entrevistas
 
