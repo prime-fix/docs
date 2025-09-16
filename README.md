@@ -508,7 +508,19 @@ Para finalizar, recalcó lo importante que es tener una plataforma con todas las
 
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
+#### Segmento 1 - Dueño de vehículo
+<img src="Assets/chapter-1/user-persona-1.png" alt="">
+
+#### Segmento 2 - Asesor de taller automotriz
+<img src="Assets/chapter-1/user-persona-2.png" alt="">
+
 ### 2.3.2. User Task Matrix
+#### Segmento 1 - Dueño de vehículo
+User Task Matrix - José Paredes
+<img src="Assets/chapter-1/user-task-matrix-1.png" alt="">
+#### Segmento 2 - Asesor de taller automotriz
+User Task Matrix - Luis Chávez
+<img src="Assets/chapter-1/user-task-matrix-2.png" alt="">
 ### 2.3.3. User Journey Mapping
 
 ### 2.3.4. Empathy Mapping
@@ -1122,7 +1134,19 @@ El usuario tendrá 3 apartados para configurar información privada:
 # Capítulo V: Product Implementation, Validation & Deployment
 ## 5.1. Software Configuration Management
 ### 5.1.1. Software Development Environment Configuration
+Para la creación de la landing page utilizamos principalmente Astro, combinado con HTML y CSS para construir una página rápida, limpia y bien estructurada. Esta elección nos permitió tener control total sobre el diseño y la organización del código, sin depender demasiado de frameworks externos.
+
+Como entorno de desarrollo, trabajamos con Visual Studio Code, que nos brindó funciones útiles como resaltado de sintaxis, autocompletado y un terminal integrado para ejecutar comandos y manejar herramientas adicionales.
+
+Para el control de versiones y colaboración, utilizamos Git junto con GitHub, lo cual nos facilitó mantener un historial de cambios claro, compartir el código con el equipo y llevar un buen manejo de ramas y solicitudes de incorporación.
+
+En cuanto al diseño de experiencia de usuario, usamos UXPressia para crear y compartir documentos como user personas, mapas de empatía y journey maps, lo que ayudó a nuestro equipo a entender mejor a los usuarios y validar las ideas antes de empezar la implementación.
+
 ### 5.1.2. Source Code Management
+Repositorio de github - Landing Page de Prime Fix
+<img src="Assets/chapter-1/captura-repositorio-landingpage.png" alt="">
+URL: https://github.com/prime-fix/landing-page
+
 ### 5.1.3. Source Code Style Guide & Conventions
 ### 5.1.4. Software Deployment Configuration
 
