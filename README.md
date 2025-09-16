@@ -1398,6 +1398,8 @@ Creamos una cuenta en GitHub para poder gestionar los repositorios del proyecto 
 - Configuramos el framework en **Astro** (Vercel lo detecta automáticamente en la mayoría de los casos).  
 - Definimos la rama de despliegue (`main`).  
 
+<img src="Assets/evidences/vercel_evidence.png">
+
 ---
 **6. Verificación del sitio web**
 En pocos minutos, Vercel genera la URL pública del proyecto:  
@@ -1415,15 +1417,102 @@ Accedemos a esta dirección desde el navegador para confirmar que el sitio está
 ---
 
 ## 5.2. Landing Page, Services & Applications Implementation
-### 5.2.1. Sprint 1
+
+En esta sección se documenta el proceso de implementación, pruebas, documentación y despliegue del Landing Page, los Web Services y las Frontend Web Applications.
+Cada Sprint se registra con detalle en términos de producto, trabajo colaborativo y evidencias de revisión.
+
 #### 5.2.1.1. Sprint Planning 1
+
+| **Sprint #** | Sprint 1 |
+|--------------|----------|
+| **Sprint Planning Background** | |
+| **Date** | 2025-09-16 |
+| **Time** | 09:00 PM |
+| **Location** | Virtual (Discord) |
+| **Prepared By** | Aróstegui Alzamora, César Augusto |
+| **Attendees (to planning meeting)** | Aróstegui Alzamora, César Augusto / Jiménez Guerra, Gianmarco Fabian / Montoya Torres, Alexander Gabriel / Tenorio Medina, Piero Francesco / Navarro Chang, Alicia Avril / Navarro Chang, Alicia Avril |
+| **Sprint 0 Review Summary** | No aplica por que es el primer Sprint |
+| **Sprint 0 Retrospective Summary** | No aplica por que es el primer Sprint |
+| **Sprint Goal & User Stories** | |
+| **Sprint 1 Goal** | Desplegar la Landing Page inicial con estructura básica, estilos globales y primeras secciones funcionales. |
+| **Sprint 1 Velocity** | 20 Story Points |
+| **Sum of Story Points** | 20 Story Points |
+
 #### 5.2.1.2. Aspect Leaders and Collaborators
+
+En esta sección se presenta la **Leadership-and-Collaboration Matrix (LACX)**.  
+Se indican los aspectos principales considerados en el Sprint, especificando quién asume el rol de **Líder (L)** y quiénes participan como **Colaboradores (C)**.  
+Esta organización asegura claridad en la comunicación y coherencia en la selección de tareas del Sprint.
+
+| **Team Member (Last Name, First Name)** | **GitHub Username** | **Landing Page** (L / C) | **Services** (L / C) | **Applications** (L / C) | **Deployment** (L / C) |
+|-----------------------------------------|---------------------|--------------------------|----------------------|--------------------------|------------------------|
+| Aróstegui Alzamora, César Augusto        | Legendnt1             | L                        | C                    | C                        | L                      |
+| Jiménez Guerra, Gianmarco Fabián         | ZAICO21             | C                        | L                    | C                        | C                      |
+| Tenorio Medina, Piero Francesco          | PieroTM2005             | C                        | C                    | L                        | C                      |
+| Navarro Chang, Alicia Avril              | Alice-keys             | C                        | C                    | C                        | L                      |
+| Montoya Torres, Alexander Gabriel        | gabrielito4334             | C                        | C                    | C                        | C                      |
+
 #### 5.2.1.3. Sprint Backlog 1
+
+El Sprint Backlog 1 se centra en implementar las primeras funcionalidades de la solución, asegurando la construcción inicial de la **Landing Page**.  
+A continuación se muestra la tabla de control de estado para este Sprint.
+
+| **Sprint #** | Sprint 1 |
+|--------------|----------|
+
+| **User Story Id** | **User Story Title**        | **Task Id** | **Task Title**                   | **Description**                          | **Estimation (Hours)** | **Assigned To** | **Status**        |
+|-------------------|-----------------------------|-------------|----------------------------------|------------------------------------------|------------------------|-----------------|-------------------|
+| US-15             | Visualización de información de contacto  | T-01        | Estructura básica                | Maquetación base con Astro Build         | 8h                     | César           | Done             |
+| US-15             | Visualización de información de contacto  | T-02        | Configurar TailwindCSS v4        | Estilos globales y tipografía            | 6h                     | Gianmarco       | Done        |
+| US-15             | Visualización de información de contacto | T-03      | Cards de servicios               | Contenido dinámico con datos de ejemplo  | 10h                    | Piero           | Done             |
+| US-14             | Información general del producto          | T-04        | Hosting en Vercel/Netlify        | Configuración de CI/CD y despliegue      | 5h                     | Alicia          | Done         |
+| US-14             | Información general del producto        | T-05        | Traducción de idiomas                  | Configuración de carpeta i18n | 6h                     | Alexander       | Done              |
+
 #### 5.2.1.4. Development Evidence for Sprint Review
+
+En esta sección se presentan los avances de implementación relacionados con el Sprint, cubriendo los productos de la solución: **Landing Page**.  
+La tabla incluye los repositorios, ramas y commits más relevantes realizados durante el Sprint.
+
+| **Repository**              | **Branch**            | **Commit Id** | **Commit Message**                | **Commit Message Body**                                | **Committed on (Date)** |
+|------------------------------|-----------------------|---------------|-----------------------------------|--------------------------------------------------------|--------------------------|
+| prime-fix/landing-page       | development       | ed036a5       | feat: Implement internationalization        | Implement internationalization for feature, footer, header, home, and home guide components   | 2025-09-15               |
+| prime-fix/landing-page       | development      | 40901b9       |  feat: Refactor language      | Refactor language handling and UI translations; remove unused components and implement dynamic language support in pages       | 2025-09-15               |
+| prime-fix/landing-page        | development          | 646346e       | feat: introducing button change theme          | Added button change Theme     | 2025-09-15               |
+| prime-fix/landing-page           | development  | f9e84a7       | feat: Implement dark theme support and improve theme toggle functionality    | Improve toggle functionality      | 2025-09-15               |
+
 #### 5.2.1.5. Execution Evidence for Sprint Review
+
+Se completó la primera versión de la Landing Page con sección de bienvenida, navegación y estructura inicial de servicios.  
+
+Landing Page modo claro en inglés:
+<img src="Assets/evidences/landing_evidence_1.png">
+
+Landing Page modo oscuro en inglés:
+<img src="Assets/evidences/landing_evidence_2.png">
+
+Landing Page modo claro en español:
+<img src="Assets/evidences/landing_evidence_3.png">
+
+Landing Page modo oscuro en español:
+<img src="Assets/evidences/landing_evidence_4.png">
+
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
+
+No aplica por que el Sprint se centró en la Landing Page.
+
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
+
+- Se configuró un pipeline de CI/CD en GitHub Actions.  
+- Se desplegó la Landing Page en Vercel con integración automática desde la rama main.  
+- Se validaron configuraciones de DNS y HTTPS.  
+
+<img src="Assets/evidences/vercel_evidence.png">
+
 #### 5.2.1.8. Team Collaboration Insights during Sprint
+
+- El equipo trabajó con ramas **development/** y revisiones vía **pull requests**.  
+- Cada miembro realizó commits relacionados con su área principal.  
+<img src="Assets/evidences/landing_repository_evidence.png">
 
 ## 5.3. Validation Interviews
 ### 5.3.1. Diseño de Entrevistas
@@ -1466,3 +1555,5 @@ Link del repositorio de Github del Frontend Web Applications: [https://github.co
 Link del repositorio de Github del RESTful Web Services: [https://github.com/prime-fix/backend](https://github.com/prime-fix/backend)
 
 Link de la Landing Page: [https://landing-page-pearl-kappa-37.vercel.app/](https://landing-page-pearl-kappa-37.vercel.app/)
+
+Link del Diagrama de Clases: [https://lucid.app/lucidchart/a5dcb0f8-65f4-41c3-986a-8c6f758cf58c/edit?viewport_loc=1867%2C14304%2C9812%2C4039%2ChPaR5Cs4a9aQ&invitationId=inv_f24412cc-190d-48c4-a4b1-e6d6a94fb303](https://lucid.app/lucidchart/a5dcb0f8-65f4-41c3-986a-8c6f758cf58c/edit?viewport_loc=1867%2C14304%2C9812%2C4039%2ChPaR5Cs4a9aQ&invitationId=inv_f24412cc-190d-48c4-a4b1-e6d6a94fb303)
