@@ -153,8 +153,8 @@
 # Student Outcome  
 | Criterio específico                                                   | Acciones realizadas                                                                                     | Conclusiones |
 | --------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | ------------ |
-| Comunica oralmente con efectividad a diferentes rangos de audiencia   | Jiménez Guerra, Gianmarco Fabian<br>TB1<br>Texto<br><br>Aróstegui Alzamora, Cesar Augusto<br>TB1<br>Texto<br><br>Tenorio Medina, Piero Francesco<br>TB1<br>Texto<br><br>Montoya Torres, Alexander Gabriel<br>TB1<br>Texto<br><br>Navarro Chang, Alicia Avril<br>TB1<br>Texto| TB1: Texto   |
-| Comunica por escrito con efectividad a diferentes rangos de audiencia | Jiménez Guerra, Gianmarco Fabian<br>TB1<br>Texto<br><br>Aróstegui Alzamora, Cesar Augusto<br>TB1<br>Texto<br><br>Tenorio Medina, Piero Francesco<br>TB1<br>Texto<br><br>Montoya Torres, Alexander Gabriel<br>TB1<br>Texto<br><br>Navarro Chang, Alicia Avril<br>TB1<br>Texto| TB1: Texto   |
+| Comunica oralmente con efectividad a diferentes rangos de audiencia   | Jiménez Guerra, Gianmarco Fabian<br>TB1<br>Texto<br><br>Aróstegui Alzamora, Cesar Augusto<br>TB1<br>Texto<br><br>Tenorio Medina, Piero Francesco<br>TB1<br> <br>Dentro de esta parte del trabajo, he planteado distintas ideas de como se podria desarrollar el trabajo con los demás integrantes de mi equipo.Estas ideas considerando las dimensiones y el alcnace del trabajo. Se ha desarrollado secciones como Entrevistas a Uusarios, donde sse ha llegado a plasmar de manera correcta la idea de nuestro proyecto.<br>Montoya Torres, Alexander Gabriel<br>TB1<br>Texto<br><br>Navarro Chang, Alicia Avril<br>TB1<br>Texto| TB1: Texto   |
+| Comunica por escrito con efectividad a diferentes rangos de audiencia | Jiménez Guerra, Gianmarco Fabian<br>TB1<br>Texto<br><br>Aróstegui Alzamora, Cesar Augusto<br>TB1<br>Texto<br><br>Tenorio Medina, Piero Francesco<br>TB1<br>Dentro de esta parte del trabajo, he desarrollado y planteado ideas que sean de acordes a los distintos segmentos objetivos. Estas ideas se basan en la experiencia y el malestar de cada uno de los usuarios, como por ejemplo: el planteamiento de facilidades al usuario a la hora de utilizar la plataforma, brindandole distintas herramientas que mejoren su experiencia a la hora de utilizar nuestro Servicio. <br><br>Montoya Torres, Alexander Gabriel<br>TB1<br>Texto<br><br>Navarro Chang, Alicia Avril<br>TB1<br>Texto| TB1: Texto   |
 
 ---
 
@@ -396,7 +396,7 @@ Preguntas:
 7. ¿Con qué dispositivo suele solicitar el servicio de mantenimiento?
 8. ¿Qué herramientas o software utiliza para encontrar algún taller cerca de una ubicación específica?
 9. Una vez terminado el servicio ¿Qué medios de pago utiliza? (efectivo, transferencia, etc)
-11. ¿Estaría interesado en usar una plataforma que le permita agendar visita en talleres de su zoma? ¿Por qué?
+11. ¿Estaría interesado en usar una plataforma que le permita agendar visita en talleres de su zona? ¿Por qué?
 12. ¿Qué funcionalidades cree que harían que esta plataforma sea útil para el día a día?
 13. ¿Se sentiría cómodo recibiendo algunos recordatorios de mantenimiento preventivo desde una app?
 14. ¿Estaría de acuerdo con utilizar un aplicativo web para agilizar la programación de sus visitas?
@@ -429,7 +429,7 @@ En esta sección, el equipo hace entrevistas a personas pertenecientes a los seg
 
 - Sexo: Masculino
 - Edad: 24
-- Link: [Enlace](https://youtu.be/jxewDa98VMM?si=WdTFbF1Z-Kl3YQhH)
+- Link: [Enlace](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318731_upc_edu_pe/EU-OfAcUkxlLsrpkalhCNRQBkang9sWzDtFzbJ4EEzaXvQ?e=Rq6OAR&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 - Inicia en: 0:01
 - Duración: 5:40
 
@@ -437,12 +437,13 @@ En esta sección, el equipo hace entrevistas a personas pertenecientes a los seg
 
 **Resumen de la entrevista**
 
+Marcos Contreras es un joven qde 24 años quien trabaja y estudia de manera paralela. Marcos nos cuenta que el tiene un vehiculo por la cual facilita movilizarse dentro de la ciudad. Marcos nos comenta que a la hora de encontrar un buen servicio que pueda atender a su vehículo, más que nada resalta que no llega a encontrar un lugar accesible. Marcos tambien nos cuenta que utiliza Google Maps,WhastApp e incluso Fcaebook para poder encontrar un taller que sea recomendado. Nos dice que valora la confianza y la calidad sobre el precio dentro de un servicio. Dentro de las experiencia negativas nos cuenta que si llego a presentar alguna, en la entrega de su vehículo. Finalmente, Marcos resalta que una aplicación que le ayude a gestionar los talleres a los que va, le puede hacer de mucha utilidad en su día a día. Que implemente funcionalidades que sean pertinentes para él como las agendas y las ubicaciones en mapas.
 
 **Entrevista N°2: Anyelo Alejos**
 
 - Sexo: Masculino
 - Edad: 23
-- Link: [Enlace](https://youtu.be/-Es-ANQGVr0?si=JypulX8ivOkZupZd)
+- Link: [Enlace](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318731_upc_edu_pe/EbUouuLCEqlGvWQEGCCiPf4B8TQJNZIvqrxVh6ufl-rZQQ?e=zp4nf9&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 - Inicia en: 0:01
 - Duración: 6:45
 
@@ -450,17 +451,21 @@ En esta sección, el equipo hace entrevistas a personas pertenecientes a los seg
 
 **Resumen de la entrevista**
 
+Anyelo Alejos es un chico de 23 años de edad, el solo estudia pero cuenta con un Vehiculo para movilizarse a su centro de estudios. El comenta que utiliza apliaciones como Google Maps para poder encontrar un taller que le sea pertinente, pero tambien lo busca de manera manual. Él valora aspectos como la confiabilidad dentro de un taller. Además, cuenta que no tuvo problemas con los talleres. El suele solicitar servicios por un móvil y raras veces de manera manual. Anyelo comenta que le gustaría tener una aplicación que le ayude a a gendar citas en talleres para su vehículo, teniendo funcionalidades como reseña, precios y calificaciones de talleres.
 
-**Entrevista N°3:**
+**Entrevista N°3: Michael Montoya**
 
-- Sexo:
-- Edad:
-- Link:
-- Inicia en:
-- Duración:
+- Sexo: Masculino
+- Edad: 21
+- Link: [Enlace](https://www.youtube.com/watch?v=ntdm1xhTE1c)
+- Inicia en: 0:01
+- Duración: 6:31
 
+<img src="Assets/images_interview/interview1.3.png">
 
-**Resumen de la entrevista**
+Michael Montoya es propietario de un automóvil, comenta que por la zona por donde reside hay varios talleres y no sabe a cual ir , por lo que suele pedir recomendaciones a sus conocidos para poder elegir un taller en especifico. Señala que el único aplicativo que utiliza para lograr localizar talleres cerca de su zona es Google Maps, sumado a esto nos cuenta que dentro de un servicio de taller lo que más valora es la disponibilidad y experiencia de un taller. 
+Michael comparte que ha tenido malas experiencias en algunos talleres: en ocasiones no lograron reparar su vehículo de manera adecuada y los precios cobrados le parecieron injustos. También menciona que no lleva un registro de los mantenimientos realizados a su auto, por lo que suele preguntar directamente en los talleres las fechas de las reparaciones pasadas. Asimismo, comenta que en varias ocasiones ha tenido que dejar su vehículo por varios días en un taller, y únicamente recibió la notificación de que estaba listo mediante mensajes por WhatsApp. El unico dispositivo que utiliza para solicitar un mantenimiento es por medio de su celular y desconoce si existe algun software que simplifique la comunicación entre talleres en Perú.
+El entrevistador utiliza como método de pago su tarjeta de credito. Nos comenta que le interesaria mucho una plataforma que le ayude a agendar citas para el mantenimiento de su vehiculo, asimismo nos cuenta que le gustaria que una plataforma de esta índole que tenga la función de educar a los propietarios de coches acerca del funcionamiento de su propio auto. Finalmente, expresa que le interesaría contar con una plataforma digital que le permita agendar citas de mantenimiento, recibir recordatorios sobre el estado de su vehículo y acceder a un seguimiento en tiempo real del servicio en el taller. Además, considera valioso que una aplicación de este tipo incluya funciones educativas que ayuden a los propietarios de autos a comprender mejor el funcionamiento de sus vehículos.
 
 ### Segmento #2: Asesor de servicios de un taller automotriz
 
@@ -565,8 +570,31 @@ User Task Matrix - José Paredes
 User Task Matrix - Luis Chávez
 <img src="Assets/chapter-1/user-task-matrix-2.png" alt="">
 ### 2.3.3. User Journey Mapping
+**Segmento 1 - Dueño de vehículo** 
+
+User Journey Mapping - José Paredes
+
+<img src="Assets/chapter-1/User-Journey-mapping-1.png">
+
+**Segmento 2 - Asesor de taller automotriz**
+
+User Journey Mapping - Luis Chávez
+
+<img src="Assets/chapter-1/User-Journey-mapping-2.png">
 
 ### 2.3.4. Empathy Mapping
+
+**Segmento 1 - Dueño de vehículo** 
+
+Empathy Mapping - José Paredes
+
+<img src="Assets/chapter-1/Empathy-mapping-1.png">
+
+**Segmento 2 - Asesor de taller automotriz**
+
+Empathy Mapping - Luis Chávez
+
+<img src="Assets/chapter-1/Empathy-mapping-2.png">
 
 ## 2.4. Big Picture Event Storming
 ## 2.5. Ubiquitous Language
@@ -1236,11 +1264,11 @@ Link del prototipo: [Prototype](https://www.figma.com/proto/wf74HMrT48NvWY5Bq8Mg
 ## 4.6. Domain-Driven Software Architecture
 ### 4.6.1. Design-Level Event Storming
 ### 4.6.2. Software Architecture Context Diagram
-
+Diagrama de Conexto de PrimeFix
 <img src="Assets/diagrams/Context_Diagram.png">
 
 ### 4.6.3. Software Architecture Container Diagrams
-
+Diagrama de Contenedores de PrimeFix
 <img src="Assets/diagrams/Container_Diagram.png">
 
 ### 4.6.4. Software Architecture Components Diagrams
@@ -1270,6 +1298,17 @@ Repositorio de github - Landing Page de Prime Fix
 URL: https://github.com/prime-fix/landing-page
 
 ### 5.1.3. Source Code Style Guide & Conventions
+En esta sección se detallan las convenciones de estilo y buenas prácticas que se deben seguir al momento de escribir código en los lenguajes y frameworks seleccionados para el proyecto.
+
+| Tecnología    | Convenciones principales |
+|---------------|--------------------------|
+| **Tailwind CSS** | - Usar solo clases utilitarias de Tailwind. <br> - Ordenar clases en bloques: Layout → Box Model → Tipografía → Colores/Fondos → Otros. <br> - Mantener legibilidad en clases largas. |
+| **HTML** | - Usar etiquetas semánticas (`header`, `main`, `section`, etc.). <br> - Indentación de **2 espacios**. <br> - Atributos entre comillas dobles `" "`. <br> - Orden de atributos: `id`, `class` → accesibilidad (`aria-*`) → funcionales (`src`, `href`, `alt`). <br> - Nombres en **kebab-case** (`main-section`). |
+| **TypeScript** | - Variables/funciones en **camelCase**. <br> - Clases/interfaces en **PascalCase**. <br> - Constantes en **UPPER_SNAKE_CASE**. <br> - Tipado obligatorio en variables, parámetros y retornos. <br> - Ordenar imports de externos a internos. <br> - Evitar `any`. Usar `readonly` y `private` cuando corresponda. |
+| **Astro** | - Archivos `.astro` en **PascalCase**. <br> - Orden del archivo: `frontmatter` → HTML/JSX → estilos `<style>`. <br> - Props siempre tipadas con TypeScript. <br> - Importaciones cortas y claras. <br> - Componentes pequeños y reutilizables. |
+| **Gherkin** | - Los escenarios deben escribirse en **lenguaje claro y entendible**. <br> - Seguir la estructura: `Given`, `When`, `Then`, y opcionalmente `And`. <br> - Un escenario debe reflejar un caso de uso específico. <br> - Las historias de usuario deben agruparse en **Features**. <br> - Mantener consistencia en la redacción (tiempos verbales en presente). |
+
+
 ### 5.1.4. Software Deployment Configuration
 
 ## 5.2. Landing Page, Services & Applications Implementation
