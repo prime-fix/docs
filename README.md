@@ -597,6 +597,14 @@ Empathy Mapping - Luis Chávez
 <img src="Assets/chapter-1/Empathy-mapping-2.png">
 
 ## 2.4. Big Picture Event Storming
+
+
+**1) Resultado de la sesión y flujo extremo a extremo.** En una sesión colaborativa de alto nivel, el equipo mapeó el servicio completo desde la creación de la solicitud hasta la calificación posterior: solicitud de servicio creada, verificación y registro del taller y de sus técnicos, registro de datos del vehículo y ubicación, búsqueda con filtros y consulta de disponibilidad, aceptación del servicio por el taller, diagnóstico inicial con lista de verificación e inspección, actualizaciones de estado de mantenimiento, control de calidad completado, programación de la entrega, procesamiento y confirmación del pago, emisión del comprobante, confirmación de la entrega y registro de la calificación del cliente.
+
+**2) Bounded contexts y reglas de orquestación clave.** Del mapa emergieron cinco límites de contexto naturales: Registro de talleres, Catálogo de talleres, Recopilación y diagnóstico, Seguimiento de mantenimiento y entrega del auto, y Pago del servicio; se identificaron integraciones con identidad y acceso para el alta de talleres, pasarela de pagos para transacciones y comprobantes, equipos de diagnóstico como fuente opcional de datos y base transaccional en PostgreSQL; se establecieron reglas de paso críticas como no permitir programar ni confirmar entrega sin control de calidad aprobado y no permitir marcar la orden como entregada cuando el medio de pago es electrónico sin pago confirmado.
+
+**3) Riesgos y oportunidades priorizadas y próximos pasos.** Se priorizaron transparencia y confianza mediante línea de tiempo con evidencias y controles auditables, orquestación robusta de estados para evitar transiciones inválidas y experiencia del usuario en tiempo real con manejo explícito de retrasos; como siguientes acciones se acordó profundizar cada límite de contexto con un Design-Level Event Storming, especificar políticas operativas y validaciones técnicas no triviales, y definir métricas iniciales centradas en órdenes completadas con satisfacción y tiempos de ciclo por etapa para guiar los experimentos y el roadmap.
+<img src="Assets/event_storming/BigPicture.png">
 ## 2.5. Ubiquitous Language
 
 En esta sección, presentaremos el lenguaje ubicuo del proyecto.
@@ -1306,11 +1314,26 @@ Diagrama de Contenedores de PrimeFix
 
 ### 4.6.4. Software Architecture Components Diagrams
 
+Diagrama de Componente Auto Repair Registration
+<img src="Assets/diagrams/autoRepairRegistration_Component.png">
+
+Diagrama de Componente Auto Repair Catalaog
+<img src="Assets/diagrams/autoRepairCatalog_Component.png">
+
+Diagrama de Componente Collection Diagnosis 
+<img src="Assets/diagrams/collectionDiagnosis_Component.png">
+
+Diagrama de Componente de Maintenance Tracking
+<img src="Assets/diagrams/maintenanceTracking_Component.png">
+
+Diagrama de Componente de Payment Service
+<img src="Assets/diagrams/paymentService_Component.png">
+
+
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
 
 <img src="Assets/diagrams/Class_Diagram.png">
-
 URL: [Enlace del Diagrama](https://lucid.app/lucidchart/a5dcb0f8-65f4-41c3-986a-8c6f758cf58c/edit?viewport_loc=1867%2C14304%2C9812%2C4039%2ChPaR5Cs4a9aQ&invitationId=inv_f24412cc-190d-48c4-a4b1-e6d6a94fb303)
 
 ## 4.8. Database Design
@@ -1427,7 +1450,7 @@ Accedemos a esta dirección desde el navegador para confirmar que el sitio está
 
 - Similarweb. (2024, octubre 22). *Inversión publicitaria digital y tráfico web en la industria automotriz de LATAM: Octubre 2024*. Similarweb Blog. [https://www.similarweb.com/blog/es/marketing/inversion-publicitaria-digital-y-trafico-web-en-la-industria-automotriz-de-latam-octubre-2024/](https://www.similarweb.com/blog/es/marketing/inversion-publicitaria-digital-y-trafico-web-en-la-industria-automotriz-de-latam-octubre-2024/)
 
-- OpusLine (2023,19 de diciembre) *Etapas y consejos para el proceso productivo de un taller mecánico*. OpusLine. Recuperado el 9 de setiembre de 2025, de: https://opus-line.es/proceso-productivo-taller-mecanico/
+- OpusLine (2023,19 de diciembre) *Etapas y consejos para el proceso productivo de un taller mecánico*. OpusLine. Recuperado el 9 de setiembre de 2025, de: [https://opus-line.es/proceso-productivo-taller-mecanico/](https://opus-line.es/proceso-productivo-taller-mecanico/)
 
 
 # Anexos
