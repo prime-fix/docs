@@ -51,7 +51,7 @@
 |   TB1   | 16/09/2025  | Cesar Augusto Arostegui Alzamora                                          | Realicé ... |
 |   TB1   | 16/09/2025  | Alexander Gabriel Montoya Torres                                          | Realicé los Antecedentes y problemática, Lean UX Canvas, Análisis competitivo, las Estrategias y tacticas frente a competidores, entrevistas, User Journey Mapping, Empathy Mapping, User Stories, Source Code Style Guide & Conventiones y Software Deployment & Conventions|
 |   TB1   | 16/09/2025  | Alicia Avril Navarro Chang                                                | Realicé artefactos de Lean UX como lean ux problem statements, lean ux hyphotesis, lean ux assumptios. También desarrollé secciones del Needfinding como los user personas, impact mapping y user task matriz. Además del software development environment configuration y source code management. |
-|   TB1   | 16/09/2025  | Piero Francesco Tenorio Medina                                            | Realicé ... |
+|   TB1   | 16/09/2025  | Piero Francesco Tenorio Medina                                            | Realicé la secciones de User Stories, evaluando cada escenario posible de cada funcionalidad.Tambien el Diagrama de Clase en una versión temprana. Además de hacer los segmentos objetivos del proyecto. Evaluando los posibles usuarios a los que va dirijido el trabajo.  |
 
 </div>
 
@@ -172,7 +172,7 @@ Con FixTech nace Prime-Fix, una plataforma digital cuyo objetivo es facilitar el
 
 | Perfil del integrante | Código de alumno | Descripción                                                                                                                                                                                                                                                                                                                                                                                               |
 | --------------------- | ---------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Foto                  | U202318731       | Soy Piero Tenorio, estudio en la sede San Miguel de la UPC estudiando la carrera de Ingeniería de Software . Soy una persona colaborativa, responsable y comprometida con los trabajos en los que estoy implicado, tratando de ser lo más eficiente posible.Conocimientos en HTML, CSS, Java, C++, JavaScript y Python. Cada día trato de mejorar como persona y si llego a cometer algún error, tratar de aprender de ello. |
+| <img src="Assets/integrantes/piero.png">                 | U202318731       | Soy Piero Tenorio, estudio en la sede San Miguel de la UPC estudiando la carrera de Ingeniería de Software . Soy una persona colaborativa, responsable y comprometida con los trabajos en los que estoy implicado, tratando de ser lo más eficiente posible.Conocimientos en HTML, CSS, Java, C++, JavaScript y Python. Cada día trato de mejorar como persona y si llego a cometer algún error, tratar de aprender de ello. |
 | <img src="Assets/integrantes/gianmarco.png" width="500" heigth="450">                  | U202123843       | Soy Gianmarco Jiménez alumno de Ingeniería de Software. Me gusta trabajar en equipo pues me permite aprender sobre las ideas que tienen los participantes y contrastarlas con las mías. He utilizado lenguajes como C++, Python, SQL y Java. Estoy muy interesado en aprender todo sobre el desarrollo de aplicaciones web con frameworks.                                                                |
 | <img src="Assets/integrantes/montoya.png"  width="500" heigth="450">  |  U20231b424         | Soy Alexander Gabriel Montoya, estudiante de la carrera de Ingenieria de Sofware en la UPC, tengo 20 años actualmente, con respecto a mi carrera he aprendido a manejar lenguajes de programación como C++, MySQL, Python, HTML y CSS. Con respecto a lo personal, me gusta dedicar tiempo y esfuerzo a todo lo que hago ya sean actividades academicas o mis hobbies     |
 | Foto                  | U202114548         | Soy César Augusto, estudiante de Ingeniería de Software, actualmente con 21 años, mi lenguaje más utilizado y favorito es Python, actualmente adaptándome en JavaScript y estudiando frameworks  relacionados para el Desarrollo Web.                                                                                                                                                                                                                                                                                                                                                                          |
@@ -856,7 +856,7 @@ En esta sección se detallará parte importante de la estructura y etiquetado de
 
 **Meta Author:** FixTech
 
-**Meta Decription:** Facilitar la conexión entre los dueños de vehículos que necesiten un mantenimiento y los talleres automotrices.  
+**Meta Description:** Facilitar la conexión entre los dueños de vehículos que necesiten un mantenimiento y los talleres automotrices.  
 
 **Title:** FixTech
 
@@ -1333,7 +1333,8 @@ Diagrama de Componente de Payment Service
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
 
-<img src="/Assets/diagrams/Class_Diagram.png">
+<img src="Assets/diagrams/Class_Diagram.png">
+URL: [Enlace del Diagrama](https://lucid.app/lucidchart/a5dcb0f8-65f4-41c3-986a-8c6f758cf58c/edit?viewport_loc=1867%2C14304%2C9812%2C4039%2ChPaR5Cs4a9aQ&invitationId=inv_f24412cc-190d-48c4-a4b1-e6d6a94fb303)
 
 ## 4.8. Database Design
 ### 4.8.1. Database Diagrams
