@@ -49,7 +49,7 @@
 |---------|-------------|---------------------------------------------------------------------------|------------------------------|
 |   TB1   | XX/09/2025  | Gianmarco Fabian Jiménez Guerra                                           | Realicé ... |
 |   TB1   | XX/09/2025  | Cesar Augusto Arostegui Alzamora                                          | Realicé ... |
-|   TB1   | XX/09/2025  | Alexander Gabriel Montoya Torres                                          | Realicé ... |
+|   TB1   | XX/09/2025  | Alexander Gabriel Montoya Torres                                          | Realicé los Antecedentes y problemática, Lean UX Canvas, Análisis competitivo, las Estrategias y tacticas frente a competidores, entrevistas, User Journey Mapping, Empathy Mapping, User Stories, Source Code Style Guide & Conventiones y Software Deployment & Conventions |
 |   TB1   | XX/09/2025  | Alicia Avril Navarro Chang                                                | Realicé ... |
 |   TB1   | XX/09/2025  | Piero Francesco Tenorio Medina                                            | Realicé ... |
 
@@ -153,8 +153,8 @@
 # Student Outcome  
 | Criterio específico                                                   | Acciones realizadas                                                                                     | Conclusiones |
 | --------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | ------------ |
-| Comunica oralmente con efectividad a diferentes rangos de audiencia   | Jiménez Guerra, Gianmarco Fabian<br>TB1<br>Texto<br><br>Aróstegui Alzamora, Cesar Augusto<br>TB1<br>Texto<br><br>Tenorio Medina, Piero Francesco<br>TB1<br>Texto<br><br>Montoya Torres, Alexander Gabriel<br>TB1<br>Texto<br><br>Navarro Chang, Alicia Avril<br>TB1<br>Texto| TB1: Texto   |
-| Comunica por escrito con efectividad a diferentes rangos de audiencia | Jiménez Guerra, Gianmarco Fabian<br>TB1<br>Texto<br><br>Aróstegui Alzamora, Cesar Augusto<br>TB1<br>Texto<br><br>Tenorio Medina, Piero Francesco<br>TB1<br>Texto<br><br>Montoya Torres, Alexander Gabriel<br>TB1<br>Texto<br><br>Navarro Chang, Alicia Avril<br>TB1<br>Texto| TB1: Texto   |
+| Comunica oralmente con efectividad a diferentes rangos de audiencia   | Jiménez Guerra, Gianmarco Fabian<br>TB1<br>Texto<br><br>Aróstegui Alzamora, Cesar Augusto<br>TB1<br>Texto<br><br>Tenorio Medina, Piero Francesco<br>TB1<br>Texto<br><br>Montoya Torres, Alexander Gabriel<br>TB1 <br>Durante la fase inicial de este proyecto hemos mantenido una buena comunicación con el equipo, de manera que logramos determinar un plan para llevar a cabo los avances pertinentes del proyecto y reforzar nuestro trabajo colaborativo. Sumado a esto, logre aportar con varios puntos del trabajo, desde entrevistas, parte del needfinding cómo la definición de funcionalidades de la plataforma, <br><br>Navarro Chang, Alicia Avril<br>TB1<br>Texto| TB1: Texto   |
+| Comunica por escrito con efectividad a diferentes rangos de audiencia | Jiménez Guerra, Gianmarco Fabian<br>TB1<br>Texto<br><br>Aróstegui Alzamora, Cesar Augusto<br>TB1<br>Texto<br><br>Tenorio Medina, Piero Francesco<br>TB1<br>Texto<br><br>Montoya Torres, Alexander Gabriel<br>TB1<br>En esta fase inicial, he definido la problematica principal que nuestro proyecto busca resolver, de manera que podamos empezar desde una base analitica con respecto a las dolencias del mercado y de esa forma definir nuestros segmentos objetivos y llevar a cabo el Needfinding. Sumado a esto, se ha mantenido una comunicación asertiva con todos los integrantes del equipo, mateniendo una eficiencia colaborativa mediante la comunicación<br><br>Navarro Chang, Alicia Avril<br>TB1<br>Texto| TB1: Texto   |
 
 ---
 
@@ -182,9 +182,9 @@ Con FixTech nace Prime-Fix, una plataforma digital cuyo objetivo es facilitar el
 ### 1.2.1. Antecedentes y problemática
 El sector automotriz en el Perú y en gran parte de Latinoamérica aún se encuentra rezagado en términos de digitalización de servicios, debido a que, la mayoria de talleres funcionan con procesos manuales, tales como agendas físicas, llamadas telefonicas y mensajeria web afectando la trazabilidad de reparaciones y la atención que reciben los dueños de vehiculos generando dificultades sobre ellos al obstaculizar la busqueda de talleres confiables hoy en día.
 
-A nivel global, ya existen plataformas que conectan a usuarios con talleres y servicios automotrices, lo que demuestra que hay una tendencia hacia la digitalización dentro de este sector, sin embargo en el Perú este modelo no ha sido consolidado y por ende se ha retrasado la modernización del servicio al cliente dentro de este sector y se ha aumentando la desorganización en la gestion de talleres, debido a que no se cuenta con sistemas digitales de registro de citas ni sistemas para facilitar el seguimiento de las reparaciones.
+A nivel global, ya existen plataformas que conectan a usuarios con talleres y servicios automotrices, lo que demuestra que hay una tendencia hacia la digitalización dentro de este sector, sin embargo en el Perú este modelo no ha sido consolidado y por ende se ha retrasado la modernización del servicio al cliente dentro de este sector y se ha aumentando la desorganización en la gestion de talleres, debido a que no se cuenta con sistemas digitales de registro de citas ni sistemas para facilitar el seguimiento de las reparaciones. Según Manrique (2011) los talleres en el Perú requieren de sistemas electrónicos para reservar citas previas a la atención, con el fin de optimizar recursos del taller en cuanto a organización y planificación
 
-En este contexto,Fixtech surge como una startup de base tecnológica que busca cerrar la brecha entre talleres y clientes mediante mediante la creación de nuestro aplicativo PrimeFix, el cual tiene como objetivo centralizar la oferta de talleres en un entorno digital que otorgue transparencia, accesibilidad y confianza a los usuarios
+En este contexto,Fixtech surge como una startup de base tecnológica que busca cerrar la brecha entre talleres y clientes mediante mediante la creación de nuestro aplicativo PrimeFix, el cual tiene como objetivo centralizar la oferta de talleres en un entorno digital que otorgue transparencia, accesibilidad y confianza a los usuarios. Además, en Latinoamérica la inversión publicitaria digital en la industria automotriz está creciendo y señalando que los negocios del rubro están obligados a adaptarse al entorno digital para mantenerse competitivos; por ejemplo, en octubre de 2024, Perú representó aproximadamente un 2,67 % de la inversión digital en publicidad automotriz en LATAM, lo que indica interés y movimiento en el ecosistema digital automotriz del país (Similarweb, 2024).
 
 
 ### 1.2.2. Lean UX Process
@@ -1143,6 +1143,49 @@ En esta sección se detallan las convenciones de estilo y buenas prácticas que 
 
 
 ### 5.1.4. Software Deployment Configuration
+Para que nuestra landing page esté disponible para todos nuestros usuarios, la publicamos como un sitio web utilizando la plataforma de GitHub. El proceso se llevó a cabo de la siguiente manera: 
+
+**1. Registro en GitHub**  
+Creamos una cuenta en GitHub para poder gestionar los repositorios del proyecto y almacenar el código de la Landing Page de **Prime-Fix**.
+
+**2. Creación del repositorio**  
+- Hicimos clic en el botón **“New”** para generar un nuevo repositorio.  
+- Le asignamos el nombre **“landing-page”** dentro de nuestra organización **prime-fix**.
+  
+---
+**3. Configuración del repositorio**  
+- Nos aseguramos de que el repositorio tenga visibilidad **pública** para permitir la integración con Vercel.  
+- Añadimos un archivo `README.md` inicial y configuramos un `.gitignore` adecuado para excluir archivos innecesarios.  
+
+---
+**4. Carga de los archivos de la landing page**
+- Accedimos al repositorio creado.  
+- Subimos los archivos generados del proyecto (HTML, TailwindCSS, TypeScript, Astro).  
+- Verificamos que los cambios se hicieran en la rama principal (`main`).  
+- Finalmente, confirmamos la acción con **“Commit changes”** para guardar los archivos.  
+---
+**5. Configuración en Vercel**
+- Iniciamos sesión en [Vercel](https://vercel.com).  
+- Seleccionamos la opción **“New Project”** y vinculamos nuestra cuenta de GitHub.  
+- Importamos el repositorio **landing-page**.  
+- Configuramos el framework en **Astro** (Vercel lo detecta automáticamente en la mayoría de los casos).  
+- Definimos la rama de despliegue (`main`).  
+
+---
+**6. Verificación del sitio web**
+En pocos minutos, Vercel genera la URL pública del proyecto:  
+[https://landing-page-pearl-kappa-37.vercel.app/](https://landing-page-pearl-kappa-37.vercel.app/)  
+
+Accedemos a esta dirección desde el navegador para confirmar que el sitio está activo y funcionando correctamente.  
+
+---
+
+**7. Actualización del sitio**
+- Cuando necesitemos modificar el sitio, solo debemos realizar commits en el repositorio y hacer **push** hacia la rama `main`.  
+- Vercel detecta automáticamente los cambios, vuelve a compilar el proyecto y lo despliega en línea.  
+- Los cambios estarán disponibles en producción en cuestión de segundos.  
+
+---
 
 ## 5.2. Landing Page, Services & Applications Implementation
 ### 5.2.1. Sprint 1
@@ -1168,5 +1211,11 @@ En esta sección se detallan las convenciones de estilo y buenas prácticas que 
 # Conclusiones y recomendaciones
 # Video About-the-Team
 # Bibliografía
+## Referencias
+
+- Manrique Olaechea, R. (2011). *Diseño de un sistema electrónico de reserva de citas para atención a clientes en talleres de autos utilizando tecnología Web e IVR* [Tesis de licenciatura, Pontificia Universidad Católica del Perú]. Repositorio PUCP.
+
+- Similarweb. (2024, octubre 22). *Inversión publicitaria digital y tráfico web en la industria automotriz de LATAM: Octubre 2024*. Similarweb Blog. [https://www.similarweb.com/blog/es/marketing/inversion-publicitaria-digital-y-trafico-web-en-la-industria-automotriz-de-latam-octubre-2024/](https://www.similarweb.com/blog/es/marketing/inversion-publicitaria-digital-y-trafico-web-en-la-industria-automotriz-de-latam-octubre-2024/)
+
 # Anexos
 
