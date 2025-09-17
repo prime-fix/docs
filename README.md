@@ -713,6 +713,9 @@ Este glosario contiene términos relacionados al dominio del proyecto PrimeFix. 
 
 
 ## 3.2. Impact Mapping
+
+<img src="Assets/chapter-1/impact-mapping.png">
+
 ## 3.3. Product Backlog
 
 | StoryID | Título | Descripción | Story Points (1/3/5/8) |
