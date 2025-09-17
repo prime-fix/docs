@@ -1,10 +1,12 @@
-<h2 align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png" alt="logo-upc" width="200px" height="200px" align="center">
+<h2 style="text-align:center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"
+       alt="logo-upc" width="200" height="200"
+       style="display:block; margin:0 auto;">
 </h2>
 
-<h1 align="center">Universidad Peruana de Ciencias Aplicadas</h1>
+<h1 style="text-align:center">Universidad Peruana de Ciencias Aplicadas</h1>
 
-<h3 align="center">
+<h3 style="text-align:center; margin-top:18px; margin-bottom:18px;">
   Ingeniería de Software
   <br><br>
   Curso: Desarrollo de Aplicaciones Open Source
@@ -22,19 +24,24 @@
   Producto: Prime-Fix
 </h3>
 
-<div align="center">
+<table style="margin: 0 auto; width: auto; display: table; border-collapse: collapse; font-size: 12pt;">
+  <thead>
+    <tr>
+      <th style="border:1px solid #000; padding:6px 12px; text-align:center;">Alumno</th>
+      <th style="border:1px solid #000; padding:6px 12px; text-align:center;">Código</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td style="border:1px solid #000; padding:6px 12px; text-align:center;">Cesar Augusto Arostegui Alzamora</td><td style="border:1px solid #000; padding:6px 12px; text-align:center;">u202114548</td></tr>
+    <tr><td style="border:1px solid #000; padding:6px 12px; text-align:center;">Gianmarco Fabian Jiménez Guerra</td><td style="border:1px solid #000; padding:6px 12px; text-align:center;">u202123843</td></tr>
+    <tr><td style="border:1px solid #000; padding:6px 12px; text-align:center;">Alexander Gabriel Montoya Torres</td><td style="border:1px solid #000; padding:6px 12px; text-align:center;">u20231b424</td></tr>
+    <tr><td style="border:1px solid #000; padding:6px 12px; text-align:center;">Alicia Avril Navarro Chang</td><td style="border:1px solid #000; padding:6px 12px; text-align:center;">u20231d637</td></tr>
+    <tr><td style="border:1px solid #000; padding:6px 12px; text-align:center;">Piero Francesco Tenorio Medina</td><td style="border:1px solid #000; padding:6px 12px; text-align:center;">u202318731</td></tr>
+  </tbody>
+</table>
 
-| <div style="width:300px">Alumno</div> | <div style="width:125px">Código</div> |
-|:-------------------------------------------:|:-------------------------------------------:|
-|       Cesar Augusto Arostegui Alzamora      |            u202114548                       |
-|       Gianmarco Fabian Jiménez Guerra       |            u202123843                       |
-|       Alexander Gabriel Montoya Torres      |            u20231b424                       |
-|       Alicia Avril Navarro Chang            |            u20231d637                       |
-|       Piero Francesco Tenorio Medina        |            u202318731                       |
 
-</div>
-
-<div align="center"> Setiembre 2025 </div>
+<div style="text-align:center; margin-top:18px;"> Setiembre 2025 </div>
 
 <hr>
 
@@ -429,7 +436,7 @@ En esta sección, el equipo hace entrevistas a personas pertenecientes a los seg
 
 - Sexo: Masculino
 - Edad: 24
-- Link: [Enlace](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318731_upc_edu_pe/EU-OfAcUkxlLsrpkalhCNRQBkang9sWzDtFzbJ4EEzaXvQ?e=Rq6OAR&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+- Link: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114548_upc_edu_pe/Ec446Td3V-pAv4ADSyKNcHQBMzFFaUlnkknCbbxv0RQU1w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=6PIPrP](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114548_upc_edu_pe/Ec446Td3V-pAv4ADSyKNcHQBMzFFaUlnkknCbbxv0RQU1w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=6PIPrP)
 - Inicia en: 0:01
 - Duración: 5:40
 
@@ -443,7 +450,7 @@ Marcos Contreras es un joven qde 24 años quien trabaja y estudia de manera para
 
 - Sexo: Masculino
 - Edad: 23
-- Link: [Enlace](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318731_upc_edu_pe/EbUouuLCEqlGvWQEGCCiPf4B8TQJNZIvqrxVh6ufl-rZQQ?e=zp4nf9&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+- Link: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114548_upc_edu_pe/EY-4s_VfU1FIjJVBr5JWfF4BMrWhNSH117MqUmvxqa6UAg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Acn8bl](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114548_upc_edu_pe/EY-4s_VfU1FIjJVBr5JWfF4BMrWhNSH117MqUmvxqa6UAg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Acn8bl)
 - Inicia en: 0:01
 - Duración: 6:45
 
@@ -457,7 +464,7 @@ Anyelo Alejos es un chico de 23 años de edad, el solo estudia pero cuenta con u
 
 - Sexo: Masculino
 - Edad: 21
-- Link: [Enlace](https://www.youtube.com/watch?v=ntdm1xhTE1c)
+- Link: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114548_upc_edu_pe/Ed9_K3Q1aERJrGE6Fv-LSq4BvoYlLkUhzYx4Gmjwbdpa9Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=W9qBRV](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114548_upc_edu_pe/Ed9_K3Q1aERJrGE6Fv-LSq4BvoYlLkUhzYx4Gmjwbdpa9Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=W9qBRV)
 - Inicia en: 0:01
 - Duración: 6:31
 
@@ -473,7 +480,7 @@ El entrevistador utiliza como método de pago su tarjeta de credito. Nos comenta
 
 - Sexo: Masculino
 - Edad: 21
-- Link: [Enlace](https://youtu.be/Xq5C-dh-AVA)
+- Link: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114548_upc_edu_pe/ERVk6DaQKYJFrmZmnSWAcXgBspgna30p08fHhM1TDhFwJQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=HKH67w](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114548_upc_edu_pe/ERVk6DaQKYJFrmZmnSWAcXgBspgna30p08fHhM1TDhFwJQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=HKH67w)
 - Inicia en: 0:05
 - Duración: 6:31
 
@@ -1523,7 +1530,7 @@ No aplica por que el Sprint se centró en la Landing Page.
 
 # Conclusiones
 
-Prime-Fix nace de una propuesta para el sector automotriz, que impulsa la modernización del sector, siendo una plataforma que conecta a dueños de vehículos con talleres confiables, ofreciendo una experiencia de gestión accesible, clara y eficiente para los uauarios.
+Prime-Fix nace de una propuesta para el sector automotriz, que impulsa la modernización del sector, siendo una plataforma que conecta a dueños de vehículos con talleres confiables, ofreciendo una experiencia de gestión accesible, clara y eficiente para los usuarios.
 
 La misión de Fixtech como startup es simplificar el acceso a servicios de mantenimiento mediante una interfaz amigable que fortalece la relación entre clientes y los talleres. Con esto queremos reducir la carga y la propia informalidad y mejorando la transparencia.
 
@@ -1562,3 +1569,5 @@ Link del repositorio de Github del RESTful Web Services: [https://github.com/pri
 Link de la Landing Page: [https://landing-page-pearl-kappa-37.vercel.app/](https://landing-page-pearl-kappa-37.vercel.app/)
 
 Link del Diagrama de Clases: [https://lucid.app/lucidchart/a5dcb0f8-65f4-41c3-986a-8c6f758cf58c/edit?viewport_loc=1867%2C14304%2C9812%2C4039%2ChPaR5Cs4a9aQ&invitationId=inv_f24412cc-190d-48c4-a4b1-e6d6a94fb303](https://lucid.app/lucidchart/a5dcb0f8-65f4-41c3-986a-8c6f758cf58c/edit?viewport_loc=1867%2C14304%2C9812%2C4039%2ChPaR5Cs4a9aQ&invitationId=inv_f24412cc-190d-48c4-a4b1-e6d6a94fb303)
+
+Link de Onedrive de todos los Videos: [https://upcedupe-my.sharepoint.com/:f:/g/personal/u202114548_upc_edu_pe/EiLLDeOoWmJNm24m5RYVwxQBTyqjsnvqSXfrQJIP7HZN7A?e=hLCeax](https://upcedupe-my.sharepoint.com/:f:/g/personal/u202114548_upc_edu_pe/EiLLDeOoWmJNm24m5RYVwxQBTyqjsnvqSXfrQJIP7HZN7A?e=hLCeax)
