@@ -182,7 +182,7 @@ Con FixTech nace Prime-Fix, una plataforma digital cuyo objetivo es facilitar el
 | <img src="Assets/integrantes/gianmarco.png" width="500" heigth="450">                  | U202123843       | Soy Gianmarco Jiménez alumno de Ingeniería de Software. Me gusta trabajar en equipo pues me permite aprender sobre las ideas que tienen los participantes y contrastarlas con las mías. He utilizado lenguajes como C++, Python, SQL y Java. Estoy muy interesado en aprender todo sobre el desarrollo de aplicaciones web con frameworks.                                                                |
 | <img src="Assets/integrantes/montoya.png"  width="500" heigth="450">  |  U20231b424         | Soy Alexander Gabriel Montoya, estudiante de la carrera de Ingenieria de Sofware en la UPC, tengo 20 años actualmente, con respecto a mi carrera he aprendido a manejar lenguajes de programación como C++, MySQL, Python, HTML y CSS. Con respecto a lo personal, me gusta dedicar tiempo y esfuerzo a todo lo que hago ya sean actividades academicas o mis hobbies     |
 | Foto                  | U202114548         | Soy César Augusto, estudiante de Ingeniería de Software, actualmente con 21 años, mi lenguaje más utilizado y favorito es Python, actualmente adaptándome en JavaScript y estudiando frameworks  relacionados para el Desarrollo Web.                                                                                                                                                                                                                                                                                                                                                                          |
-| Foto                  | U20231D637         | Soy Alicia Navarro, estudiante de Ingeniería de Software en la UPC, con conocimientos básicos en programación en C++ y Python, fundamentos en bases de datos, diseño y modelado de software utilizando UML y diagramas, así como algoritmos y estructuras de datos básicos. Además, poseo habilidades de empatía y comunicación efectiva que me permiten colaborar de manera eficiente en equipo, facilitando la comunicación clara y asertiva para contribuir a un entorno de trabajo productivo y colaborativo.                                                                                                                                                                                                                                                                                                                                                                                     |
+| <img src="Assets/integrantes/alicia-perfil.jpeg"  width="500" heigth="450">   | U20231D637         | Soy Alicia Navarro, estudiante de Ingeniería de Software en la UPC, con conocimientos básicos en programación en C++ y Python, fundamentos en bases de datos, diseño y modelado de software utilizando UML y diagramas, así como algoritmos y estructuras de datos básicos. Además, poseo habilidades de empatía y comunicación efectiva que me permiten colaborar de manera eficiente en equipo, facilitando la comunicación clara y asertiva para contribuir a un entorno de trabajo productivo y colaborativo.                                                                                                                                                                                                                                                                                                                                                                                     |
 
 ## 1.2. Solution Profile
 ### 1.2.1. Antecedentes y problemática
@@ -521,7 +521,40 @@ Héctor Cárdenas, jefe de taller, señala que la captación de clientes se real
 
 En este apartado se procederá a analizar las entrevistas realizadas a ambos segmentos objetivos:
 
+**Segmento #1**
 
+Total de entrevistados: 3
+
+Datos sobre las preguntas:
+  - 67% utiliza Google Maps como herramienta principal para localizar talleres.
+  - 33% también emplea WhatsApp o Facebook para encontrar servicios recomendados.
+  - 67% no lleva un registro de mantenimientos y considera útil que una plataforma lo gestione.
+  - 67% ha tenido experiencias negativas en los talleres (retrasos en entrega, reparaciones inadecuadas o precios injustos).
+  - 100% considera que una aplicación que permita agendar citas, ubicar talleres y recibir recordatorios sería de gran utilidad.
+
+En resumen, la información brindada por este segmento refleja una necesidad clara de contar con una plataforma digital que facilite la localización de talleres confiables, la gestión de citas y el registro de mantenimientos.
+
+A continuación se mostrará de manera gráfica el análisis de las preguntas más relevantes:
+
+**Aplicativos utilizados**
+
+<img src="Assets/análisis_entrevistas/Aplicativos.png" width="550" height="350">
+<hr>
+
+**Experiencias negativas con talleres**
+
+<img src="Assets/análisis_entrevistas/Experiencias.png" width="550" height="350">
+<hr>
+
+**Registro de mantenimiento**
+
+<img src="Assets/análisis_entrevistas/historial_mantenimiento.png" width="550" height="350">
+<hr>
+
+**Opinion de la plataforma**
+
+<img src="Assets/análisis_entrevistas/opiniones.png" width="550" height="350">
+<hr>
 
 **Segmento #2**
 
@@ -718,6 +751,9 @@ Este glosario contiene términos relacionados al dominio del proyecto PrimeFix. 
 
 
 ## 3.2. Impact Mapping
+
+<img src="Assets/chapter-1/impact-mapping.png">
+
 ## 3.3. Product Backlog
 
 | Epic/StoryID | Título                                           | Descripción                                                                                                                                                                                                                      | Story Points |
