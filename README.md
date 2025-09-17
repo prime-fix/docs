@@ -1610,6 +1610,13 @@ No aplica por que el Sprint se centró en la Landing Page.
 ---
 
 # Conclusiones
+
+- Prime-Fix nace de una propuesta para el sector automotriz, que impulsa la modernización del sector, siendo una plataforma que conecta a dueños de vehículos con talleres confiables, ofreciendo una experiencia de gestión accesible, clara y eficiente para los usuarios.
+
+- La misión de Fixtech como startup es simplificar el acceso a servicios de mantenimiento mediante una interfaz amigable que fortalece la relación entre clientes y los talleres. Con esto queremos reducir la carga y la propia informalidad y mejorando la transparencia.
+
+- Con FixTech queremos proyectar a futuro para poder integrar aplicaciones móviles e IoT, garantizar escalabilidad y la competitividad a futuro.
+
 # Recomendaciones
 
 - Verificar de manera constante los avances de los demás integrantes para evitar confusiones a futuro. Especialmente de los integrates que son designados a partes fundamentales del proyecto sea documentacion o desarrollo.
