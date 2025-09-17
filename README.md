@@ -184,7 +184,7 @@ El sector automotriz en el Perú y en gran parte de Latinoamérica aún se encue
 
 A nivel global, ya existen plataformas que conectan a usuarios con talleres y servicios automotrices, lo que demuestra que hay una tendencia hacia la digitalización dentro de este sector, sin embargo en el Perú este modelo no ha sido consolidado y por ende se ha retrasado la modernización del servicio al cliente dentro de este sector y se ha aumentando la desorganización en la gestion de talleres, debido a que no se cuenta con sistemas digitales de registro de citas ni sistemas para facilitar el seguimiento de las reparaciones. Según Manrique (2011) los talleres en el Perú requieren de sistemas electrónicos para reservar citas previas a la atención, con el fin de optimizar recursos del taller en cuanto a organización y planificación
 
-En este contexto,Fixtech surge como una startup de base tecnológica que busca cerrar la brecha entre talleres y clientes mediante mediante la creación de nuestro aplicativo PrimeFix, el cual tiene como objetivo centralizar la oferta de talleres en un entorno digital que otorgue transparencia, accesibilidad y confianza a los usuarios. Además, en Latinoamérica la inversión publicitaria digital en la industria automotriz está creciendo y señalando que los negocios del rubro están obligados a adaptarse al entorno digital para mantenerse competitivos; por ejemplo, en octubre de 2024, Perú representó aproximadamente un 2,67 % de la inversión digital en publicidad automotriz en LATAM, lo que indica interés y movimiento en el ecosistema digital automotriz del país (Similarweb, 2024).
+En este contexto,Fixtech surge como una startup de base tecnológica que busca cerrar la brecha entre talleres y clientes mediante mediante la creación de nuestro aplicativo Prime-Fix, el cual tiene como objetivo centralizar la oferta de talleres en un entorno digital que otorgue transparencia, accesibilidad y confianza a los usuarios. Además, en Latinoamérica la inversión publicitaria digital en la industria automotriz está creciendo y señalando que los negocios del rubro están obligados a adaptarse al entorno digital para mantenerse competitivos; por ejemplo, en octubre de 2024, Perú representó aproximadamente un 2,67 % de la inversión digital en publicidad automotriz en LATAM, lo que indica interés y movimiento en el ecosistema digital automotriz del país (Similarweb, 2024).
 
 
 ### 1.2.2. Lean UX Process
@@ -552,8 +552,6 @@ A continuación se mostrará de manera gráfica el análisis de las preguntas m�
 <hr>
 
 
-
-
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
 #### Segmento 1 - Dueño de vehículo
@@ -609,9 +607,9 @@ Empathy Mapping - Luis Chávez
 
 En esta sección, presentaremos el lenguaje ubicuo del proyecto.
 
-**Glosario del Dominio del Negocio - PrimeFix**
+**Glosario del Dominio del Negocio - Prime-Fix**
 
-Este glosario contiene términos relacionados al dominio del proyecto PrimeFix. Los a presentar estan en inglés, seguido de su equivalente en español entre paréntesis. Las definiciones redactadas están en el idioma español, explicando de manera clara y sin ambigüedades sus significados. Esto se hace para facilitar la comunicación entre todos los miembros del equipo y los stakeholders.  
+Este glosario contiene términos relacionados al dominio del proyecto Prime-Fix. Los a presentar estan en inglés, seguido de su equivalente en español entre paréntesis. Las definiciones redactadas están en el idioma español, explicando de manera clara y sin ambigüedades sus significados. Esto se hace para facilitar la comunicación entre todos los miembros del equipo y los stakeholders.  
 
 **1. Stakeholders & Roles**
 - Technician (Técnico de Taller): Persona asignada a un taller en específico. Enacragdo del mantenimiento de los vehiculos que llegan al taller.
@@ -850,7 +848,7 @@ En esta sección se detallará parte importante de la estructura y etiquetado de
 
 **Landing Page Title:** Prime-Fix
 
-**Description:** Prime-Fix es una startup que se especializa en el desarrollo de soluciones tecnológicas para web. Con FixTech, facilitamos el acceso a los usuarios en los distintos servicios de mantenimiento y reparación automotriz, lo que facilita la conexión entre los talleres y dueños de vehículos.
+**Description:** FixTech es una startup que se especializa en el desarrollo de soluciones tecnológicas para web. Con Prime-Fix, facilitamos el acceso a los usuarios en los distintos servicios de mantenimiento y reparación automotriz, lo que facilita la conexión entre los talleres y dueños de vehículos.
 
 **Meta Keywords:** Mantenimiento automotriz, reparación de vehiculos, talleres confiables, gestion digital, tecnología automotriz.
 
@@ -858,15 +856,15 @@ En esta sección se detallará parte importante de la estructura y etiquetado de
 
 **Meta Description:** Facilitar la conexión entre los dueños de vehículos que necesiten un mantenimiento y los talleres automotrices.  
 
-**Title:** FixTech
+**Title:** Prime-Fix
 
-**Description:** FixTech, la plataforma digital de Prime-Fix, conecta a los dueños de vehiculos con talleres confiables, foreciendo servicios de mantenimiento y de reparación automotriz con una experiencia moderna, clara y de manera eficiente.
+**Description:** Prime-Fix, la plataforma digital de FixTech, conecta a los dueños de vehiculos con talleres confiables, foreciendo servicios de mantenimiento y de reparación automotriz con una experiencia moderna, clara y de manera eficiente.
 
-**Meta Author:** FixTech
+**Meta Author:** Prime-Fix
 
 ### 4.2.4. Searching Systems
 
-PrimeFix cuenta con un sistema de búqueda que permite que el usuario poder buscar los talleres que sean más aptos para su vehiculo, esto a través de múltiples filtros:
+Prime-Fix cuenta con un sistema de búqueda que permite que el usuario poder buscar los talleres que sean más aptos para su vehiculo, esto a través de múltiples filtros:
 
 | Filtros | Descripción |
 | --- | --- |
@@ -878,15 +876,15 @@ PrimeFix cuenta con un sistema de búqueda que permite que el usuario poder busc
 
 ### 4.2.5. Navigation Systems
 
-Los sistemas de navegación de PrimeFix han sido diseñados para poder guiar de forma intuitiva a los usuarios a tráves de la Landing Page y dentro de la aplicación, facilitando la exploración del contenido y el acceso a las distintas funcionalidades que la aplicación ofrece. PrimeFix sigue una estructura lógica clara que permite al usuario encontrar rápidamente lo que necesita mediante menús jerarquicos, enlaces destacados y botones de acción visibles para el usuario.
+Los sistemas de navegación de Prime-Fix han sido diseñados para poder guiar de forma intuitiva a los usuarios a tráves de la Landing Page y dentro de la aplicación, facilitando la exploración del contenido y el acceso a las distintas funcionalidades que la aplicación ofrece. Prime-Fix sigue una estructura lógica clara que permite al usuario encontrar rápidamente lo que necesita mediante menús jerarquicos, enlaces destacados y botones de acción visibles para el usuario.
 
 | Icono | Funcionalidad |
 |---|---|
-| <img src="Assets/figma_icons/figma_icon.png"> | Este ícono permite que el usuario pueda dirigirse a la pantalla inicial que brinda información vital sobre el funcionamiento de PrimeFix.  |N
+| <img src="Assets/figma_icons/figma_icon.png"> | Este ícono permite que el usuario pueda dirigirse a la pantalla inicial que brinda información vital sobre el funcionamiento de Prime-Fix.  |N
 | <img src="Assets/figma_icons/figma_icon_2.png"> | Este ícono, que pertenece al lado del dueños de vehiculos, permite visualizar los coches que el usuario ha registrado. |
 | <img src="Assets/figma_icons/figma_icon_3.png"> | Este ícono permite buscar un taller que se adecue a la situación del usuario. |
 | <img src="Assets/figma_icons/figma_icon_4.png"> | Este ícono dirige al usuario al apartado de Historial, donde podrá visualizar los mantenimientos anteriores de su vehículo. |
-| <img src="Assets/figma_icons/figma_icon_5.png"> | Permite visualizar el estado de los distintos vehiculos registrados dentro de PrimeFix |
+| <img src="Assets/figma_icons/figma_icon_5.png"> | Permite visualizar el estado de los distintos vehiculos registrados dentro de Prime-Fix |
 | <img src="Assets/figma_icons/figma_icon_6.png"> | Permite visualizar las solicitudes que están pednientes dentro del taller. |
 | <img src="Assets/figma_icons/figma_icon_7.png"> | Permite gestionar y viualizar a los distintos técnicos dentro del taller registrado. |
 | <img src="Assets/figma_icons/figma_icon_8.png"> | Permite al usuario visualizar el perfil con el que se ha registrado, brindado información pertinente como Nombres, contraseña, etc. |
@@ -1305,11 +1303,11 @@ Link del prototipo: [Prototype](https://www.figma.com/proto/wf74HMrT48NvWY5Bq8Mg
 ## 4.6. Domain-Driven Software Architecture
 ### 4.6.1. Design-Level Event Storming
 ### 4.6.2. Software Architecture Context Diagram
-Diagrama de Conexto de PrimeFix
+Diagrama de Conexto de Prime-Fix
 <img src="Assets/diagrams/Context_Diagram.png">
 
 ### 4.6.3. Software Architecture Container Diagrams
-Diagrama de Contenedores de PrimeFix
+Diagrama de Contenedores de Prime-Fix
 <img src="Assets/diagrams/Container_Diagram.png">
 
 ### 4.6.4. Software Architecture Components Diagrams
@@ -1524,6 +1522,13 @@ No aplica por que el Sprint se centró en la Landing Page.
 ---
 
 # Conclusiones
+
+Prime-Fix nace de una propuesta para el sector automotriz, que impulsa la modernización del sector, siendo una plataforma que conecta a dueños de vehículos con talleres confiables, ofreciendo una experiencia de gestión accesible, clara y eficiente para los uauarios.
+
+La misión de Fixtech como startup es simplificar el acceso a servicios de mantenimiento mediante una interfaz amigable que fortalece la relación entre clientes y los talleres. Con esto queremos reducir la carga y la propia informalidad y mejorando la transparencia.
+
+Con FixTech queremos proyectar a futuro para poder integrar aplicaciones móviles e IoT, garantizar escalabilidad y la competitividad a futuro. 
+
 # Recomendaciones
 
 - Verificar de manera constante los avances de los demás integrantes para evitar confusiones a futuro. Especialmente de los integrates que son designados a partes fundamentales del proyecto sea documentacion o desarrollo.
