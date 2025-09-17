@@ -521,7 +521,40 @@ Héctor Cárdenas, jefe de taller, señala que la captación de clientes se real
 
 En este apartado se procederá a analizar las entrevistas realizadas a ambos segmentos objetivos:
 
+**Segmento #1**
 
+Total de entrevistados: 3
+
+Datos sobre las preguntas:
+  - 67% utiliza Google Maps como herramienta principal para localizar talleres.
+  - 33% también emplea WhatsApp o Facebook para encontrar servicios recomendados.
+  - 67% no lleva un registro de mantenimientos y considera útil que una plataforma lo gestione.
+  - 67% ha tenido experiencias negativas en los talleres (retrasos en entrega, reparaciones inadecuadas o precios injustos).
+  - 100% considera que una aplicación que permita agendar citas, ubicar talleres y recibir recordatorios sería de gran utilidad.
+
+En resumen, la información brindada por este segmento refleja una necesidad clara de contar con una plataforma digital que facilite la localización de talleres confiables, la gestión de citas y el registro de mantenimientos.
+
+A continuación se mostrará de manera gráfica el análisis de las preguntas más relevantes:
+
+**Aplicativos utilizados**
+
+<img src="Assets/análisis_entrevistas/Aplicativos.png" width="550" height="350">
+<hr>
+
+**Experiencias negativas con talleres**
+
+<img src="Assets/análisis_entrevistas/Experiencias.png" width="550" height="350">
+<hr>
+
+**Registro de mantenimiento**
+
+<img src="Assets/análisis_entrevistas/historial_mantenimiento.png" width="550" height="350">
+<hr>
+
+**Opinion de la plataforma**
+
+<img src="Assets/análisis_entrevistas/opiniones.png" width="550" height="350">
+<hr>
 
 **Segmento #2**
 
