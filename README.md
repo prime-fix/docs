@@ -1406,7 +1406,9 @@ Creamos una cuenta en GitHub para poder gestionar los repositorios del proyecto 
 **2. Creación del repositorio**  
 - Hicimos clic en el botón **“New”** para generar un nuevo repositorio.  
 - Le asignamos el nombre **“landing-page”** dentro de nuestra organización **prime-fix**.
-  
+
+<img src="Assets/evidences/landing_github_evidence.png">
+
 ---
 **3. Configuración del repositorio**  
 - Nos aseguramos de que el repositorio tenga visibilidad **pública** para permitir la integración con Vercel.  
@@ -1424,7 +1426,7 @@ Creamos una cuenta en GitHub para poder gestionar los repositorios del proyecto 
 - Seleccionamos la opción **“New Project”** y vinculamos nuestra cuenta de GitHub.  
 - Importamos el repositorio **landing-page**.  
 - Configuramos el framework en **Astro** (Vercel lo detecta automáticamente en la mayoría de los casos).  
-- Definimos la rama de despliegue (`main`).  
+- Definimos la rama de despliegue (`master`).  
 
 <img src="Assets/evidences/vercel_evidence.png">
 
@@ -1434,7 +1436,7 @@ En pocos minutos, Vercel genera la URL pública del proyecto:
 [https://landing-page-pearl-kappa-37.vercel.app/](https://landing-page-pearl-kappa-37.vercel.app/)  
 
 Accedemos a esta dirección desde el navegador para confirmar que el sitio está activo y funcionando correctamente.  
-
+<img src="Assets/evidences/vercel_deployment_evidence.png">
 ---
 
 **7. Actualización del sitio**
