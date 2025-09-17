@@ -532,11 +532,23 @@ A continuación se mostrará de manera gráfica el análisis de las preguntas m�
 
 **Aplicativos utilizados**
 
+<img src="Assets/análisis_entrevistas/Aplicativos.png" width="550" height="350">
+<hr>
+
 **Experiencias negativas con talleres**
+
+<img src="Assets/análisis_entrevistas/Experiencias.png" width="550" height="350">
+<hr>
 
 **Registro de mantenimiento**
 
+<img src="Assets/análisis_entrevistas/historial_mantenimiento.png" width="550" height="350">
+<hr>
+
 **Opinion de la plataforma**
+
+<img src="Assets/análisis_entrevistas/opiniones.png" width="550" height="350">
+<hr>
 
 **Segmento #2**
 
