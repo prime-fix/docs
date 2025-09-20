@@ -850,16 +850,9 @@ La paleta de colores elegida para la web de Prime-Fix fue diseñada para transmi
 ### 4.1.2. Web Style Guidelines
 
 Respecto al estilo de la estructura de la web, se ha empleado el patrón Persistent Navigation, con una barra de navegación mediante la cual el usuario podrá tener acceso a las secciones principales sin perderse en el flujo y con la posibilidad de volver. Con este patrón se puede cumplir la heurística de visibilidad del estado del sistema donde el menú ne navegación resaltará la sección activa en todo momento.
-(imagen)
-
 El patrón de diseño Card Layout es visible en algunas secciones, este se encarga de organizar información relevante en bloques.
-(imagen)
-
 En la web de Prime-Fix se puede visualizar el uso de la huerística de brindar retroalimentación del usuario mediante la barra de progreso que permite rastrear el estado actual del vehículo.
-(imagen)
-
 En cuanto a los botones, destaca el patrón Primary Call to Action, con el que se permite destacar lo importante mediante un contraste y se guía al usuario hacia acciones críticas. 
-(imagen)
 
 
 ## 4.2. Information Architecture
@@ -1150,7 +1143,7 @@ El usuario tendrá 3 apartados para configurar información privada:
 <img src="Assets/Flow/Wireframe flows/UG10.PNG">
 <hr>
 
-### 4.4.2. Web Applications Mock-ups
+### 4.4.3. Web Applications Mock-ups
 
 En este apartado se presentarán los Mock-ups más relevantes del proyecto
 
@@ -1263,7 +1256,7 @@ En este apartado se presentarán los Mock-ups más relevantes del proyecto
 <hr>
 
 
-### 4.4.3. Web Applications User Flow Diagrams
+### 4.4.4. Web Applications User Flow Diagrams
 
 **En este apartado se mostrarán los flujos de actividades a realizar para que el usuario pueda alcanzar sus respectivas metas**
 
