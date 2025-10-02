@@ -1583,7 +1583,6 @@ En cuanto al diseño de experiencia de usuario, usamos **UXPressia** para crear 
 
 Ruta de Referencia: <br> 
 **UXpressia** - [Enlace](https://uxpressia.com) <br>
->>>>>>> ae8530a (docs: Add URLs Software Development Environment Configuration)
 
 ### 5.1.2. Source Code Management
 
@@ -1600,6 +1599,13 @@ A continuación, se muestran las convenciones para los nombres de las ramas feat
 Aquí se encuentran los repositorios de GitHub utilizados para el desarrollo del proyecto Prime Fix:
 
 #### Repositorio de github - Landing Page de Prime Fix
+=======
+**Repositorios de GitHub:**
+
+Organización de GitHub: https://github.com/prime-fix
+
+Landing Page de Prime Fix:
+>>>>>>> 36e357d (docs: Implement the fixes)
 <img src="Assets/chapter-1/captura-repositorio-landingpage.png" alt="">
 
 URL: [https://github.com/prime-fix/landing-page](https://github.com/prime-fix/landing-page)
@@ -1615,6 +1621,38 @@ URL: [https://github.com/prime-fix/frontend](https://github.com/prime-fix/fronte
 URL: [https://github.com/prime-fix/backend](https://github.com/prime-fix/backend)
 
 
+Fronted Web Applications: https://github.com/prime-fix/frontend
+
+Web Services: https://github.com/prime-fix/backend
+
+**Flujo de trabajo GitFlow:**
+
+<img src="Assets/GitFlowDiagram.svg" alt="">
+
+#### Estructura de Ramas (Branches)
+
+##### Rama principal (Main branch)
+Esta rama será la base del proyecto y contendrá las versiones **estables y definitivas** de la aplicación.  
+Únicamente se integrarán cambios que hayan sido previamente **probados y validados** en ramas de desarrollo o prueba.  
+
+##### Rama de desarrollo (Develop branch)
+Su propósito es centralizar el trabajo en equipo y mantener el código en constante evolución.  
+Aquí se integran las diferentes funcionalidades antes de pasar a la rama principal.  
+
+##### Ramas de funcionalidades (Feature branches)
+Cada nueva característica o módulo se desarrollará en una rama independiente.  
+Una vez completada y validada, se fusionará con la rama de desarrollo. Las convenciones para nombrar las ramas de funcionalidad seguirán un patrón descriptivo, por ejemplo, `feature/nombre-de-la-funcionalidad`.  
+
+##### Ramas de lanzamiento (Release branches)
+Estas ramas se emplearán para preparar **versiones estables** del proyecto que provienen de la rama de desarrollo y que están listas para integrarse en la rama principal.  
+
+##### Ramas de corrección (Hotfix branches)
+Se crearán para resolver **errores críticos** detectados en la rama principal que afectan de forma significativa a los usuarios.  
+
+**Convenciones de Commits:** Para los mensajes de los commits realizados, se utilizará la especificación Conventional Commits basada en Angular Commit Guidelines.
+
+`git commit -m "<type>[optional scope]: <description">`
+
 ### 5.1.3. Source Code Style Guide & Conventions
 En esta sección se detallan las convenciones de estilo y buenas prácticas que se deben seguir al momento de escribir código en los lenguajes y frameworks seleccionados para el proyecto. <br></br>
 
@@ -1627,6 +1665,17 @@ En esta sección se detallan las convenciones de estilo y buenas prácticas que 
 | **TypeScript** | - Variables/funciones en `camelCase`.<br>- Clases/interfaces en `PascalCase`.<br>- Constantes en `UPPER_SNAKE_CASE`.<br>- Tipado obligatorio en variables, parámetros y retornos.<br>- Ordenar imports de externos a internos. | - Usar `readonly` para propiedades que no deben cambiar.<br>- Preferir funciones puras y evitar efectos secundarios.<br> - Usar destructuración para extraer valores de objetos y arrays. |
 | **Astro** | - Archivos `.astro` en `PascalCase`.<br>- Orden del archivo: frontmatter → HTML/JSX → estilos `\<style>`.<br>- Props siempre tipadas con TypeScript.<br>- Importaciones cortas y claras.<br>- Componentes pequeños y reutilizables. | - Mantener la lógica de los componentes en el archivo `.astro` y evitar la lógica compleja en el frontmatter. - Usar `Astro.fetch` para obtener datos de manera eficiente.<br> - Utilización de props para comunicación entre componentes. |
 
+=======
+| Tecnología    | Convenciones principales |
+|---------------|--------------------------|
+| **Tailwind CSS** | - Usar solo clases utilitarias de Tailwind. <br> - Ordenar clases en bloques: Layout → Box Model → Tipografía → Colores/Fondos → Otros. <br> - Mantener legibilidad en clases largas. |
+| **HTML** | - Usar etiquetas semánticas (`header`, `main`, `section`, etc.). <br> - Indentación de **2 espacios**. <br> - Atributos entre comillas dobles `" "`. <br> - Orden de atributos: `id`, `class` → accesibilidad (`aria-*`) → funcionales (`src`, `href`, `alt`). <br> - Nombres en **kebab-case** (`main-section`). |
+| **TypeScript** | - Variables/funciones en **camelCase**. <br> - Clases/interfaces en **PascalCase**. <br> - Constantes en **UPPER_SNAKE_CASE**. <br> - Tipado obligatorio en variables, parámetros y retornos. <br> - Ordenar imports de externos a internos. |
+| **Astro** | - Archivos `.astro` en **PascalCase**. <br> - Orden del archivo: `frontmatter` → HTML/JSX → estilos `<style>`. <br> - Props siempre tipadas con TypeScript. <br> - Importaciones cortas y claras. <br> - Componentes pequeños y reutilizables. |
+| **Gherkin** | - Los escenarios deben escribirse en **lenguaje claro y entendible**. <br> - Estructura: `Given`, `When`, `Then`, y opcionalmente `And`. <br> - Un escenario debe reflejar un caso de uso específico. <br> - Las historias de usuario deben agruparse en **Features**. <br> - Mantener consistencia en la redacción (tiempos verbales en presente). |
+| **JavaScript** | - Variables y funciones en **camelCase**. <br> - Clases en **PascalCase**. <br> - Constantes en **UPPER_SNAKE_CASE**. <br> - Evitar `var`, usar siempre `let` o `const`. <br> - Uso de `===` en lugar de `==`. |
+| **Java** | - Nombres de clases en **PascalCase**. <br> - Variables y métodos en **camelCase**. <br> - Constantes en **UPPER_SNAKE_CASE**. <br> - Indentación de **4 espacios**. <br> - Un archivo por clase pública. |
+>>>>>>> 36e357d (docs: Implement the fixes)
 
 ### Front-End:
 
