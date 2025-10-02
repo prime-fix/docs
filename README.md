@@ -202,6 +202,35 @@ A nivel global, ya existen plataformas que conectan a usuarios con talleres y se
 
 En este contexto,Fixtech surge como una startup de base tecnológica que busca cerrar la brecha entre talleres y clientes mediante mediante la creación de nuestro aplicativo PrimeFix, el cual tiene como objetivo centralizar la oferta de talleres en un entorno digital que otorgue transparencia, accesibilidad y confianza a los usuarios. Además, en Latinoamérica la inversión publicitaria digital en la industria automotriz está creciendo y señalando que los negocios del rubro están obligados a adaptarse al entorno digital para mantenerse competitivos; por ejemplo, en octubre de 2024, Perú representó aproximadamente un 2,67 % de la inversión digital en publicidad automotriz en LATAM, lo que indica interés y movimiento en el ecosistema digital automotriz del país (Similarweb, 2024).
 
+#### Problemática (5W + 2H)
+
+##### Who (Quiénes)
+
+Los principales afectados son los propietarios de vehículos, quienes enfrentan dificultades para encontrar talleres confiables y dar seguimiento a sus reparaciones. Asimismo, los talleres automotrices se ven perjudicados por la falta de procesos organizados y de herramientas digitales para gestionar citas y clientes. La mayoría de estos talleres son pequeños negocios con recursos limitados, lo que dificulta su modernización (Perú21, 2023).
+
+##### What (Qué)
+
+El problema central radica en la escasa digitalización de los talleres automotrices, que genera desorganización en la programación de citas, pérdida de información y falta de transparencia hacia el cliente. La digitalización ha demostrado mejorar eficiencia y competitividad: según Telefónica (2024), el 52 % de las PYMES peruanas incrementó sus ventas y un 25 % mejoró su productividad al implementar herramientas digitales.
+
+##### Where (Dónde)
+
+La problemática se presenta a nivel nacional, pero es más significativa en ciudades intermedias y zonas menos tecnificadas, donde los talleres enfrentan mayores barreras de acceso a tecnología y capacitación.
+
+##### When (Cuándo)
+
+El problema se ha intensificado en los últimos años, especialmente tras la pandemia, cuando la digitalización se volvió esencial para la operación empresarial. A pesar de los avances en otros sectores, los talleres automotrices en Perú siguen rezagados. Según el Sondeo de Adopción Digital Pymes 2025 de Movistar Empresas, muchas PYMES reconocen la importancia de digitalizarse, aunque aún enfrentan barreras por falta de conocimiento y recursos (América Sistemas, 2025).
+
+##### Why (Por qué)
+
+La problemática persiste debido a la resistencia a la digitalización y la falta de recursos en los talleres, la mayoría pequeños negocios familiares. Además, aproximadamente el 38 % de los trabajadores peruanos carece de habilidades digitales necesarias, limitando la adopción de sistemas modernos (Radio Nacional, 2023).
+
+##### How (Cómo):
+
+Se manifiesta en la operación diaria mediante procesos manuales, como llamadas telefónicas, agendas físicas o mensajería por WhatsApp, que generan desorden en las citas, pérdida de información y poca trazabilidad en las reparaciones. De acuerdo con Microsoft (2022), el 95 % de las PYMES peruanas aceleró su digitalización tras la pandemia, pero muchos talleres automotrices aún no implementan soluciones digitales específicas, quedando rezagados frente a otros sectores.
+
+##### How Much (Cuánto):
+
+La magnitud del problema se evidencia en el alto número de talleres que no cuentan con recursos para digitalizarse, afectando a miles de usuarios a nivel nacional. Esto se refleja en el hecho de que la mayoría de los más de 78,000 talleres mecánicos en Perú operan con recursos limitados y procesos manuales, para un parque automotor de aproximadamente 2.9 millones de vehículos (Perú21, 2023).
 
 ### 1.2.2. Lean UX Process
 #### 1.2.2.1. Lean UX Problem Statements
