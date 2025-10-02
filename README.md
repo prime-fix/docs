@@ -1536,13 +1536,15 @@ URL: [Enlace del Diagrama](https://lucid.app/lucidchart/a5dcb0f8-65f4-41c3-986a-
 # Capítulo V: Product Implementation, Validation & Deployment
 ## 5.1. Software Configuration Management
 ### 5.1.1. Software Development Environment Configuration
+
 Para la creación de la landing page utilizamos principalmente Astro, combinado con HTML, TypeScript y TailwindCSS para construir una página rápida, limpia y bien estructurada. Esta elección nos permitió tener control total sobre el diseño y la organización del código, sin depender demasiado de frameworks externos.
 
 Para la creación de nuestro Frontend Web Aplication, utilizamos Angular, HTML, CSS y TypeScript. Angular nos proporcionó una estructura sólida para desarrollar aplicaciones web escalables y mantenibles, mientras que TypeScript añadió tipado estático, lo que ayudó a detectar errores en tiempo de desarrollo y mejorar la calidad del código.
 
 Para la creación de nuestro RESTful Web Services, utilizamos Spring Boot con Java. Spring Boot nos permitió desarrollar servicios robustos y escalables de manera rápida, gracias a su configuración automática y su amplia gama de herramientas integradas. Además, Java es un lenguaje ampliamente utilizado en el desarrollo backend, lo que nos brindó acceso a una gran cantidad de bibliotecas y recursos.
 
-Como entorno de desarrollo, trabajamos con Visual Studio Code, que nos brindó funciones útiles como resaltado de sintaxis, autocompletado y un terminal integrado para ejecutar comandos y manejar herramientas adicionales.
+#### **Frontend Development**
+Para la creación de la landing page utilizamos principalmente Astro, combinado con **HTML** y **CSS** para construir una página rápida, limpia y bien estructurada. Esta elección nos permitió tener control total sobre el diseño y la organización del código, sin depender demasiado de frameworks externos. <br>
 
 Para el control de versiones y colaboración, utilizamos Git junto con GitHub, lo cual nos facilitó mantener un historial de cambios claro, compartir el código con el equipo y llevar un buen manejo de ramas y solicitudes de incorporación. También utlizamos Git Flow como una estrategia de ramificación para gestionar el desarrollo de manera organizada, permitiendo trabajar en nuevas funcionalidades, correcciones y lanzamientos de forma paralela sin afectar la rama principal. 
 
@@ -1556,6 +1558,32 @@ Para el control de versiones y colaboración, utilizamos Git junto con GitHub, l
 - Link oficial de la documentación de Mozilla para Java: [https://docs.oracle.com/en/java/](https://docs.oracle.com/en/java/)
 - Link oficial de Spring Boot: [https://spring.io/projects/spring-boot](https://spring.io/projects/spring-boot)
 - Link oficial de Visual Studio Code: [https://code.visualstudio.com/](https://code.visualstudio.com/)
+
+Ruta de referencia: <br>
+**Astro** - [Ruta](https://astro.build/) <br>
+**HTML** - [Ruta](https://developer.mozilla.org/es/docs/Web/HTML) <br>
+**CSS** - [Ruta](https://developer.mozilla.org/es/docs/Web/CSS) <br>
+
+#### **Software Development**
+
+Como entorno de desarrollo, trabajamos con **Visual Studio Code**, que nos brindó funciones útiles como resaltado de sintaxis, autocompletado y un terminal integrado para ejecutar comandos y manejar herramientas adicionales. <br>
+
+Ruta de referencia: <br>
+**Visual Studio Code** - [Ruta](https://code.visualstudio.com/)
+
+Para el control de versiones y colaboración, utilizamos **Git** junto con **GitHub**, lo cual nos facilitó mantener un historial de cambios claro, compartir el código con el equipo y llevar un buen manejo de ramas y solicitudes de incorporación.
+
+Ruta de Referencia: <br> 
+**Git** - [Enlace](https://git-scm.com/) <br>
+**GitHub** - [Enlace](https://github.com/) <br>
+
+#### **Diseño UX/UI de Producto**
+
+En cuanto al diseño de experiencia de usuario, usamos **UXPressia** para crear y compartir documentos como user personas, mapas de empatía y journey maps, lo que ayudó a nuestro equipo a entender mejor a los usuarios y validar las ideas antes de empezar la implementación.
+
+Ruta de Referencia: <br> 
+**UXpressia** - [Enlace](https://uxpressia.com) <br>
+>>>>>>> ae8530a (docs: Add URLs Software Development Environment Configuration)
 
 ### 5.1.2. Source Code Management
 
