@@ -146,6 +146,15 @@
       - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
       - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
       - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
+    - [5.2.2. Sprint 2](#522-sprint-2)
+      - [5.2.2.1. Sprint Planning 2](#5221-sprint-planning-2)
+      - [5.2.2.2. Aspect Leaders and Collaborators](#5222-aspect-leaders-and-collaborators)
+      - [5.2.2.3. Sprint Backlog 2](#5223-sprint-backlog-2)
+      - [5.2.2.4. Development Evidence for Sprint Review](#5224-development-evidence-for-sprint-review)
+      - [5.2.2.5. Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)
+      - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
+      - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
+      - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
   - [5.3. Validation Interviews](#53-validation-interviews)
     - [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)
     - [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)
@@ -617,10 +626,31 @@ A continuación, se presentan las matrices de tareas para cada segmento, donde s
 #### Segmento 1 - Dueño de vehículo
 User Task Matrix - José Paredes
 <img src="Assets/chapter-1/user-task-matrix-1.png" alt="">
+
 #### Segmento 2 - Asesor de taller automotriz
+
 User Task Matrix - Luis Chávez
 <img src="Assets/chapter-1/user-task-matrix-2.png" alt="">
+
 ### 2.3.3. User Journey Mapping
+
+El User Journey Mapping es una herramienta fundamental que nos permite visualizar y comprender la experiencia completa de nuestros usuarios a lo largo de todo su recorrido con Prime-Fix. Esta metodología nos ayuda a identificar puntos críticos de contacto, emociones, oportunidades de mejora y momentos clave en la interacción entre nuestros segmentos objetivo y la plataforma.
+
+**End-to-End Journey Overview:**
+
+Para Prime-Fix, hemos mapeado dos journeys distintos pero interconectados que representan la experiencia completa desde el descubrimiento inicial hasta el post-servicio:
+
+**Journey del Dueño de Vehículo (José Paredes):**
+El recorrido completo abarca desde el momento en que el usuario identifica la necesidad de mantenimiento para su vehículo hasta la evaluación post-servicio. Este journey incluye seis etapas críticas: *Descubrimiento* (cuando busca soluciones confiables para el mantenimiento), *Consideración* (evaluando opciones y comparando talleres), *Decisión* (seleccionando el taller y agendando la cita), *Servicio* (experimentando el proceso de reparación con seguimiento en tiempo real), y *Post-servicio* (evaluando la experiencia y manteniendo el historial de mantenimientos).
+
+**Journey del Asesor de Taller (Luis Chávez):**
+Este journey complementario se enfoca en la perspectiva del proveedor de servicios, desde el descubrimiento de la plataforma hasta la optimización continua de su negocio. Las etapas incluyen: *Descubrimiento* (conociendo Prime-Fix como herramienta de crecimiento), *Consideración* (evaluando la inversión en digitalización), *Decisión* (adoptando la plataforma y configurando servicios), *Servicio* (gestionando clientes y optimizando procesos), y *Post-servicio* (analizando métricas y mejorando la reputación del taller).
+
+**Puntos de Intersección Críticos:**
+Ambos journeys se intersectan en momentos clave como la confirmación de citas, el seguimiento del estado del vehículo, y la evaluación post-servicio, creando una experiencia integrada que beneficia a ambos segmentos y fortalece el ecosistema de Prime-Fix.
+
+A continuación se presentan los mapas detallados para cada segmento:
+
 **Segmento 1 - Dueño de vehículo** 
 
 User Journey Mapping - José Paredes
@@ -731,6 +761,33 @@ Este glosario contiene términos relacionados al dominio del proyecto PrimeFix. 
 
 # Capítulo III: Requirements Specification
 ## 3.1. User Stories
+
+En esta sección se presentan las User Stories que definen los requerimientos funcionales de Prime-Fix desde la perspectiva de los usuarios finales. Las User Stories constituyen el núcleo de nuestro enfoque ágil de desarrollo, proporcionando una descripción clara y concisa de las funcionalidades que el sistema debe ofrecer para satisfacer las necesidades identificadas durante el proceso de Requirements Elicitation & Analysis.
+
+**Metodología de Estructuración:**
+
+Las User Stories se han organizado utilizando una jerarquía de dos niveles que facilita la comprensión y gestión de los requerimientos:
+
+1. **Epics (Épicas):** Representan grupos amplios de funcionalidades relacionadas que abordan objetivos de negocio de alto nivel. Cada épica encapsula un conjunto cohesivo de historias de usuario que contribuyen a una capacidad mayor del sistema Prime-Fix.
+
+2. **User Stories (Historias de Usuario):** Son descripciones específicas y detalladas de funcionalidades individuales, escritas desde la perspectiva del usuario final. Cada historia sigue el formato estándar "Como [tipo de usuario], quiero [funcionalidad] para [beneficio/valor]" y está acompañada de criterios de aceptación específicos que definen las condiciones que deben cumplirse para considerar la historia como completada.
+
+**Alineación con Segmentos Objetivo:**
+
+Las User Stories han sido diseñadas considerando las necesidades específicas de nuestros dos segmentos objetivo principales:
+
+- **Dueños de vehículos:** Historias enfocadas en facilitar la búsqueda de talleres confiables, la gestión de citas, el seguimiento de servicios y la transparencia en los procesos de mantenimiento.
+
+- **Asesores de talleres automotrices:** Historias orientadas a optimizar la gestión de clientes, mejorar la organización de servicios, aumentar la visibilidad del negocio y digitalizar procesos operativos.
+
+**Criterios de Aceptación y Validación:**
+
+Cada User Story incluye criterios de aceptación detallados escritos en formato Gherkin (Given-When-Then), lo que proporciona:
+- Claridad en la definición de comportamientos esperados
+- Base para la creación de casos de prueba automatizados
+- Criterios objetivos para validar la implementación correcta de cada funcionalidad
+- Facilita la comunicación entre equipos de desarrollo, testing y stakeholders
+
 ### 3.1.1 Epics
 
 | Epic ID | Título                                       | Descripción                                                                                                                                                                                  |
@@ -1655,9 +1712,18 @@ Cada Sprint se registra con detalle en términos de producto, trabajo colaborati
 
 #### 5.2.1.2. Aspect Leaders and Collaborators
 
-En esta sección se presenta la **Leadership-and-Collaboration Matrix (LACX)**.  
-Se indican los aspectos principales considerados en el Sprint, especificando quién asume el rol de **Líder (L)** y quiénes participan como **Colaboradores (C)**.  
-Esta organización asegura claridad en la comunicación y coherencia en la selección de tareas del Sprint. Cada miembro del equipo tiene asignado un rol específico para cada aspecto, facilitando la coordinación y el cumplimiento de los objetivos del Sprint.
+En esta sección se presenta la **Leadership-and-Collaboration Matrix (LACX)**, una herramienta organizacional fundamental que define claramente los roles y responsabilidades de cada miembro del equipo durante el Sprint 1. Esta matriz establece una estructura de liderazgo distribuido que optimiza la eficiencia del trabajo colaborativo y garantiza la accountability en cada aspecto crítico del desarrollo.
+
+**Principales Aspectos Considerados en el Sprint:**
+
+Para el Sprint 1, se han identificado cuatro aspectos fundamentales que abarcan todo el ciclo de desarrollo y entrega de la Landing Page de Prime-Fix:
+
+**Landing Page (Desarrollo Front-end):** Este aspecto engloba todo el desarrollo de la interfaz de usuario, incluyendo la implementación de componentes visuales, funcionalidades de internacionalización, sistema de cambio de tema, diseño responsive y optimización de la experiencia de usuario. Es el componente principal del Sprint 1.
+
+
+**Metodología de Asignación de Roles:**
+
+Se indican los aspectos principales considerados en el Sprint, especificando quién asume el rol de **Líder (L)** y quiénes participan como **Colaboradores (C)**. Esta organización asegura claridad en la comunicación y coherencia en la selección de tareas del Sprint. Cada miembro del equipo tiene asignado un rol específico para cada aspecto, facilitando la coordinación y el cumplimiento de los objetivos del Sprint.
 
 | **Team Member (Last Name, First Name)** | **GitHub Username** | **Landing Page** (L / C) | **Services** (L / C) | **Applications** (L / C) | **Deployment** (L / C) |
 |-----------------------------------------|---------------------|--------------------------|----------------------|--------------------------|------------------------|
