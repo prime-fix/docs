@@ -37,6 +37,7 @@
     <tr><td style="border:1px solid #000; padding:6px 12px; text-align:center;">Alexander Gabriel Montoya Torres</td><td style="border:1px solid #000; padding:6px 12px; text-align:center;">u20231b424</td></tr>
     <tr><td style="border:1px solid #000; padding:6px 12px; text-align:center;">Alicia Avril Navarro Chang</td><td style="border:1px solid #000; padding:6px 12px; text-align:center;">u20231d637</td></tr>
     <tr><td style="border:1px solid #000; padding:6px 12px; text-align:center;">Piero Francesco Tenorio Medina</td><td style="border:1px solid #000; padding:6px 12px; text-align:center;">u202318731</td></tr>
+    <tr><td style="border:1px solid #000; padding:6px 12px; text-align:center;">Renso Anthony Julca Cruz</td><td style="border:1px solid #000; padding:6px 12px; text-align:center;">u202121579</td></tr>
   </tbody>
 </table>
 
