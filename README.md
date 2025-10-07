@@ -1379,19 +1379,22 @@ Diagrama de Contenedores de PrimeFix
 
 ### 4.6.4. Software Architecture Components Diagrams
 
-Diagrama de Componente Auto Repair Registration
+Diagrama de Componentes Auto Repair Registration
 <img src="Assets/diagrams/autoRepairRegistration_Component.png">
 
-Diagrama de Componente Auto Repair Catalaog
+Diagrama de Componentes Auto Repair Catalaog
 <img src="Assets/diagrams/autoRepairCatalog_Component.png">
 
-Diagrama de Componente Collection Diagnosis 
-<img src="Assets/diagrams/collectionDiagnosis_Component.png">
+Diagrama de Componentes Data Collection
+<img src="Assets/diagrams/dataCollectionComponent.png">
 
-Diagrama de Componente de Maintenance Tracking
+Diagrama de Componentes Vehicle Maintenance Status
+<img src="Assets/diagrams/vehicleMaintenanceStatus_Component.png">
+
+Diagrama de Componentes de Maintenance Tracking
 <img src="Assets/diagrams/maintenanceTracking_Component.png">
 
-Diagrama de Componente de Payment Service
+Diagrama de Componentes de Payment Service
 <img src="Assets/diagrams/paymentService_Component.png">
 
 
