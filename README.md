@@ -945,6 +945,10 @@ En esta sección se presenta el Product Backlog de Prime-Fix, organizado según 
 | US-37        | Registro de cuenta con campos comprensibles      | Como usuario, quiero que los campos del registro de cuenta sean entendibles para inscribirme correctamente.                                                                                                                      | 5            |
 | US-38        | Visualización de planes de pago                  | Como usuario, quiero visualizar los diferentes planes de pago con precios y funcionalidades, para entender beneficios y limitaciones de cada plan.                                                                                | 8            |
 
+<img src="Assets/evidences/trello_evidence.png">
+
+Link de Trello: [https://trello.com/invite/b/68e553625941b3277a631f79/ATTIbdc7ed65f50e7fba04796f3c4c17e9660F991CC5/prime-fix](https://trello.com/invite/b/68e553625941b3277a631f79/ATTIbdc7ed65f50e7fba04796f3c4c17e9660F991CC5/prime-fix)
+
 ---
 
 # Capítulo IV: Product Design
@@ -2299,6 +2303,25 @@ Durante el Sprint 2, se estableció la infraestructura completa de despliegue pa
 - Monitoreo de errores JavaScript en tiempo real
 - Dashboard de estadísticas de tráfico y conversión
 
+Evidencia de Data Collection: 
+
+<img src="Assets/evidences/DataCollection_Deploy.jpg">
+
+Link: [https://datacollection-6296f.web.app](https://datacollection-6296f.web.app)
+
+
+Evidencia de Diagnosis Vehicle:
+
+Link: [https://meek-sfogliatella-22eaf3.netlify.app/vehicle-status](https://meek-sfogliatella-22eaf3.netlify.app/vehicle-status)
+
+
+Evidencia de Maintenance Status Tracking:
+
+<img src="Assets/evidences/vercel_frontend_deployment_evidence.png">
+
+Link : [https://frontend-dusky-rho-85.vercel.app/](https://frontend-dusky-rho-85.vercel.app/)
+
+
 #### 5.2.2.8. Team Collaboration Insights during Sprint
 
 Durante el Sprint 2, el equipo de FixTech demostró una colaboración excepcionalmente efectiva en el desarrollo de la Frontend Web Application de Prime-Fix. La implementación de una aplicación Angular completa con múltiples módulos y funcionalidades complejas requirió coordinación técnica precisa y comunicación constante entre todos los miembros del equipo.
@@ -2313,38 +2336,6 @@ El trabajo se organizó de manera estratégica, asignando a cada miembro módulo
 - **Piero Francesco** desarrolló el sistema de reseñas y navegación principal, estableciendo la base de la experiencia de usuario
 - **Renso Anthony** implementó la gestión de vehículos e internacionalización, componentes técnicamente complejos
 
-**Metodología de colaboración:**
-
-El equipo adoptó prácticas ágiles adaptadas al desarrollo frontend:
-- **Daily standups virtuales** para sincronización de avances y resolución de impedimentos de UI/UX
-- **Component reviews obligatorios** en todos los pull requests para mantener consistencia visual y funcional
-- **Pair programming sessions** para resolver problemas complejos de integración entre componentes
-- **Cross-browser testing colaborativo** para validar la compatibilidad y responsive design
-
-**Herramientas de colaboración utilizadas:**
-
-- **GitHub Projects**: Para tracking detallado de componentes y estados de desarrollo
-- **Discord**: Para comunicación en tiempo real y resolución rápida de dudas técnicas
-- **Figma**: Para revisión de diseños y especificaciones visuales durante desarrollo
-- **Browser Developer Tools**: Para debugging colaborativo y optimización de performance
-
-**Challenges superados como equipo:**
-
-1. **Consistencia Visual**: Se estableció un sistema de componentes reutilizables y guías de estilo uniformes
-2. **Integración de Módulos**: Se resolvieron conflictos de routing y navegación mediante arquitectura modular clara
-3. **Responsive Design**: Se implementó un sistema grid consistente que funciona en todos los dispositivos
-4. **Performance Optimization**: Se aplicó lazy loading y optimizaciones de bundle para mejorar tiempos de carga
-
-**Métricas de colaboración:**
-
-<img src="[github_insights_image]">
-*GitHub Insights mostrando la distribución de commits y colaboración entre miembros*
-
-**Evidencia de trabajo colaborativo:**
-- **Total de commits**: [number] commits distribuidos equitativamente  
-- **Pull requests**: [number] PRs con reviews completos de al menos 2 miembros
-- **Code coverage**: [percentage]% de cobertura de pruebas alcanzada colaborativamente
-- **Documentation**: [number] páginas de documentación técnica creadas en equipo
 
 El Sprint 2 consolidó al equipo como una unidad técnica cohesiva especializada en desarrollo frontend, estableciendo las bases para la integración futura con servicios backend y la evolución continua de la experiencia de usuario de Prime-Fix.
 
@@ -2400,6 +2391,8 @@ Link de la Landing Page: [https://landing-page-pearl-kappa-37.vercel.app/](https
 Link del Frontend Web Applications: [https://frontend-dusky-rho-85.vercel.app/](https://frontend-dusky-rho-85.vercel.app/)
 
 Link del Diagrama de Clases: [https://lucid.app/lucidchart/a5dcb0f8-65f4-41c3-986a-8c6f758cf58c/edit?viewport_loc=1867%2C14304%2C9812%2C4039%2ChPaR5Cs4a9aQ&invitationId=inv_f24412cc-190d-48c4-a4b1-e6d6a94fb303](https://lucid.app/lucidchart/a5dcb0f8-65f4-41c3-986a-8c6f758cf58c/edit?viewport_loc=1867%2C14304%2C9812%2C4039%2ChPaR5Cs4a9aQ&invitationId=inv_f24412cc-190d-48c4-a4b1-e6d6a94fb303)
+
+Link de Trello: [https://trello.com/invite/b/68e553625941b3277a631f79/ATTIbdc7ed65f50e7fba04796f3c4c17e9660F991CC5/prime-fix](https://trello.com/invite/b/68e553625941b3277a631f79/ATTIbdc7ed65f50e7fba04796f3c4c17e9660F991CC5/prime-fix)
 
 Link oficial de Github: [https://github.com](https://github.com)
 
