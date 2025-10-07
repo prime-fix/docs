@@ -1386,9 +1386,13 @@ Catálogo de talleres Bounded Context
 
 <img src="Assets/event_storming/AutoRepairCatalogBC.png">
 
-Recopilación y Diagnóstico Bounded Context
+Recopilación Bounded Context
 
-<img src="Assets/event_storming/CollectionDiagnosisBC.png">
+<img src="Assets/event_storming/CollectionBC.png">
+
+Diagnóstico Bounded Context
+
+<img src="Assets/event_storming/DiagnosisBC.png">
 
 Seguimiento del estado de mantenimiento del vehículo Bounded Context
 
