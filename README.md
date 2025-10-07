@@ -37,6 +37,7 @@
     <tr><td style="border:1px solid #000; padding:6px 12px; text-align:center;">Alexander Gabriel Montoya Torres</td><td style="border:1px solid #000; padding:6px 12px; text-align:center;">u20231b424</td></tr>
     <tr><td style="border:1px solid #000; padding:6px 12px; text-align:center;">Alicia Avril Navarro Chang</td><td style="border:1px solid #000; padding:6px 12px; text-align:center;">u20231d637</td></tr>
     <tr><td style="border:1px solid #000; padding:6px 12px; text-align:center;">Piero Francesco Tenorio Medina</td><td style="border:1px solid #000; padding:6px 12px; text-align:center;">u202318731</td></tr>
+    <tr><td style="border:1px solid #000; padding:6px 12px; text-align:center;">Renso Anthony Julca Cruz</td><td style="border:1px solid #000; padding:6px 12px; text-align:center;">u202121579</td></tr>
   </tbody>
 </table>
 
@@ -194,6 +195,7 @@ Con FixTech nace Prime-Fix, una plataforma digital cuyo objetivo es facilitar el
 | <img src="Assets/integrantes/montoya.png"  width="500" heigth="450">  |  U20231b424         | Soy Alexander Gabriel Montoya, estudiante de la carrera de Ingenieria de Sofware en la UPC, tengo 20 años actualmente, con respecto a mi carrera he aprendido a manejar lenguajes de programación como C++, MySQL, Python, HTML y CSS. Con respecto a lo personal, me gusta dedicar tiempo y esfuerzo a todo lo que hago ya sean actividades academicas o mis hobbies     |
 | <img src="Assets/integrantes/cesar.jpg" width="500" heigth="450">                  | U202114548         | Soy César Augusto, estudiante de Ingeniería de Software, actualmente con 21 años, mi lenguaje más utilizado y favorito es Python, actualmente adaptándome en JavaScript y estudiando frameworks  relacionados para el Desarrollo Web.                                                                                                                                                                                                                                                                                                                                                                          |
 | <img src="Assets/integrantes/alicia-perfil.jpeg"  width="500" heigth="450">   | U20231D637         | Soy Alicia Navarro, estudiante de Ingeniería de Software en la UPC, con conocimientos básicos en programación en C++ y Python, fundamentos en bases de datos, diseño y modelado de software utilizando UML y diagramas, así como algoritmos y estructuras de datos básicos. Además, poseo habilidades de empatía y comunicación efectiva que me permiten colaborar de manera eficiente en equipo, facilitando la comunicación clara y asertiva para contribuir a un entorno de trabajo productivo y colaborativo.                                                                                                                                                                                                                                                                                                                                                                                     |
+| <img src="Assets/integrantes/renso.png"  width="500" heigth="450">   | U202121579         | Estudiante de Ingenieria de Software, actualmente curso el 5to ciclo de esta carrera. Me apasiona programar y ser autodidacta para poder mejorar mis habilidades en el desarrollo de software, quisiera dedicarme a la parte de gestion bancaria.	|
 
 ## 1.2. Solution Profile
 ### 1.2.1. Antecedentes y problemática
@@ -203,6 +205,35 @@ A nivel global, ya existen plataformas que conectan a usuarios con talleres y se
 
 En este contexto,Fixtech surge como una startup de base tecnológica que busca cerrar la brecha entre talleres y clientes mediante mediante la creación de nuestro aplicativo PrimeFix, el cual tiene como objetivo centralizar la oferta de talleres en un entorno digital que otorgue transparencia, accesibilidad y confianza a los usuarios. Además, en Latinoamérica la inversión publicitaria digital en la industria automotriz está creciendo y señalando que los negocios del rubro están obligados a adaptarse al entorno digital para mantenerse competitivos; por ejemplo, en octubre de 2024, Perú representó aproximadamente un 2,67 % de la inversión digital en publicidad automotriz en LATAM, lo que indica interés y movimiento en el ecosistema digital automotriz del país (Similarweb, 2024).
 
+#### Problemática (5W + 2H)
+
+##### Who (Quiénes)
+
+Los principales afectados son los propietarios de vehículos, quienes enfrentan dificultades para encontrar talleres confiables y dar seguimiento a sus reparaciones. Asimismo, los talleres automotrices se ven perjudicados por la falta de procesos organizados y de herramientas digitales para gestionar citas y clientes. La mayoría de estos talleres son pequeños negocios con recursos limitados, lo que dificulta su modernización (Perú21, 2023).
+
+##### What (Qué)
+
+El problema central radica en la escasa digitalización de los talleres automotrices, que genera desorganización en la programación de citas, pérdida de información y falta de transparencia hacia el cliente. La digitalización ha demostrado mejorar eficiencia y competitividad: según Telefónica (2024), el 52 % de las PYMES peruanas incrementó sus ventas y un 25 % mejoró su productividad al implementar herramientas digitales.
+
+##### Where (Dónde)
+
+La problemática se presenta a nivel nacional, pero es más significativa en ciudades intermedias y zonas menos tecnificadas, donde los talleres enfrentan mayores barreras de acceso a tecnología y capacitación.
+
+##### When (Cuándo)
+
+El problema se ha intensificado en los últimos años, especialmente tras la pandemia, cuando la digitalización se volvió esencial para la operación empresarial. A pesar de los avances en otros sectores, los talleres automotrices en Perú siguen rezagados. Según el Sondeo de Adopción Digital Pymes 2025 de Movistar Empresas, muchas PYMES reconocen la importancia de digitalizarse, aunque aún enfrentan barreras por falta de conocimiento y recursos (América Sistemas, 2025).
+
+##### Why (Por qué)
+
+La problemática persiste debido a la resistencia a la digitalización y la falta de recursos en los talleres, la mayoría pequeños negocios familiares. Además, aproximadamente el 38 % de los trabajadores peruanos carece de habilidades digitales necesarias, limitando la adopción de sistemas modernos (Radio Nacional, 2023).
+
+##### How (Cómo):
+
+Se manifiesta en la operación diaria mediante procesos manuales, como llamadas telefónicas, agendas físicas o mensajería por WhatsApp, que generan desorden en las citas, pérdida de información y poca trazabilidad en las reparaciones. De acuerdo con Microsoft (2022), el 95 % de las PYMES peruanas aceleró su digitalización tras la pandemia, pero muchos talleres automotrices aún no implementan soluciones digitales específicas, quedando rezagados frente a otros sectores.
+
+##### How Much (Cuánto):
+
+La magnitud del problema se evidencia en el alto número de talleres que no cuentan con recursos para digitalizarse, afectando a miles de usuarios a nivel nacional. Esto se refleja en el hecho de que la mayoría de los más de 78,000 talleres mecánicos en Perú operan con recursos limitados y procesos manuales, para un parque automotor de aproximadamente 2.9 millones de vehículos (Perú21, 2023).
 
 ### 1.2.2. Lean UX Process
 #### 1.2.2.1. Lean UX Problem Statements
@@ -872,47 +903,47 @@ En esta sección se presenta el Product Backlog de Prime-Fix, organizado según 
 | Epic/StoryID | Título                                           | Descripción                                                                                                                                                                                                                      | Story Points |
 |--------------|--------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|
 | **LANDING PAGE** |
-| US-18        | Visualización de servicios principales            | Como visitante, quiero conocer los servicios principales que ofrece Prime-Fix para entender qué problemas resuelve.                                                                                                               | 5            |
-| US-19        | Comprensión del proceso de funcionamiento         | Como usuario interesado, quiero entender cómo funciona Prime-Fix para saber qué pasos seguir.                                                                                                                                      | 5            |
-| US-20        | Acceso a información detallada de características | Como potencial usuario, quiero acceder a información detallada sobre características de la plataforma para evaluar si satisface mis necesidades.                                                                                  | 5            |
-| US-42        | Navegación intuitiva en landing page             | Como visitante, quiero navegar de forma intuitiva por la landing page para encontrar rápidamente la información que busco.                                                                                                        | 3            |
-| US-43        | Información clara de beneficios                  | Como potencial usuario, quiero conocer claramente los beneficios de Prime-Fix para tomar una decisión informada sobre su uso.                                                                                                     | 3            |
-| US-44        | Testimonios y casos de éxito                     | Como potencial usuario, quiero leer testimonios reales y casos de éxito para generar confianza en la plataforma.                                                                                                                  | 5            |
-| US-45        | Call-to-action prominente                        | Como visitante interesado, quiero encontrar fácilmente cómo registrarme o comenzar a usar Prime-Fix.                                                                                                                              | 3            |
-| US-46        | Información de precios transparente              | Como potencial usuario, quiero conocer los precios y planes disponibles para evaluar la inversión requerida.                                                                                                                      | 5            |
-| US-21        | Acceso a información de contacto                  | Como usuario interesado, quiero encontrar fácilmente la información de contacto para comunicarme con Prime-Fix.                                                                                                                   | 3            |
-| US-22        | Múltiples canales de comunicación                 | Como usuario, quiero tener múltiples medios de contacto para elegir el canal conveniente.                                                                                                                                         | 3            |
-| US-23        | Botón de cambio de idioma                         | Como visitante internacional, quiero cambiar idioma entre español e inglés para comprender la información.                                                                                                                        | 3            |
-| US-24        | Botón de cambio de tema visual                    | Como usuario, quiero cambiar entre modo claro y oscuro para mejorar accesibilidad y comodidad visual.                                                                                                                             | 3            |
+| US-01        | Visualización de servicios principales            | Como visitante, quiero conocer los servicios principales que ofrece Prime-Fix para entender qué problemas resuelve.                                                                                                               | 5            |
+| US-02        | Comprensión del proceso de funcionamiento         | Como usuario interesado, quiero entender cómo funciona Prime-Fix para saber qué pasos seguir.                                                                                                                                      | 5            |
+| US-03        | Acceso a información detallada de características | Como potencial usuario, quiero acceder a información detallada sobre características de la plataforma para evaluar si satisface mis necesidades.                                                                                  | 5            |
+| US-04        | Navegación intuitiva en landing page             | Como visitante, quiero navegar de forma intuitiva por la landing page para encontrar rápidamente la información que busco.                                                                                                        | 3            |
+| US-05        | Información clara de beneficios                  | Como potencial usuario, quiero conocer claramente los beneficios de Prime-Fix para tomar una decisión informada sobre su uso.                                                                                                     | 3            |
+| US-06        | Testimonios y casos de éxito                     | Como potencial usuario, quiero leer testimonios reales y casos de éxito para generar confianza en la plataforma.                                                                                                                  | 5            |
+| US-07        | Call-to-action prominente                        | Como visitante interesado, quiero encontrar fácilmente cómo registrarme o comenzar a usar Prime-Fix.                                                                                                                              | 3            |
+| US-08        | Información de precios transparente              | Como potencial usuario, quiero conocer los precios y planes disponibles para evaluar la inversión requerida.                                                                                                                      | 5            |
+| US-09        | Acceso a información de contacto                  | Como usuario interesado, quiero encontrar fácilmente la información de contacto para comunicarme con Prime-Fix.                                                                                                                   | 3            |
+| US-10        | Múltiples canales de comunicación                 | Como usuario, quiero tener múltiples medios de contacto para elegir el canal conveniente.                                                                                                                                         | 3            |
+| US-11        | Botón de cambio de idioma                         | Como visitante internacional, quiero cambiar idioma entre español e inglés para comprender la información.                                                                                                                        | 3            |
+| US-12        | Botón de cambio de tema visual                    | Como usuario, quiero cambiar entre modo claro y oscuro para mejorar accesibilidad y comodidad visual.                                                                                                                             | 3            |
 | **CRUD OPERATIONS** |
-| US-25        | Adición de información general del taller         | Como asesor de servicios, quiero registrar la información básica de mi taller para que clientes lo conozcan.                                                                                                                       | 5            |
-| US-26        | Adición de trabajadores del taller                | Como dueño de taller, quiero registrar información de mis trabajadores para que los clientes confíen en mi equipo.                                                                                                                | 5            |
-| US-09        | Adición del vehículo                             | Como dueño de vehículo, quiero agregar un nuevo auto a mi lista de vehículos, para incluir todos los que requieran mantenimiento.                                                                                                | 5            |
-| US-10        | Adición del modelo de vehículo                   | Como dueño de vehículo, quiero agregar el modelo de vehículos en la sección de registro para especificar tipo de vehículo registrado.                                                                                            | 3            |
-| US-11        | Adición de la placa de vehículo                  | Como dueño de vehículo, quiero registrar la placa de un nuevo vehículo, para usarlo como identificador único.                                                                                                                     | 3            |
-| US-08        | Edición del perfil                               | Como usuario, quiero modificar mi información para mantener mi perfil actualizado.                                                                                                                                               | 3            |
+| US-13        | Adición de información general del taller         | Como asesor de servicios, quiero registrar la información básica de mi taller para que clientes lo conozcan.                                                                                                                       | 5            |
+| US-14        | Adición de trabajadores del taller                | Como dueño de taller, quiero registrar información de mis trabajadores para que los clientes confíen en mi equipo.                                                                                                                | 5            |
+| US-15        | Adición del vehículo                             | Como dueño de vehículo, quiero agregar un nuevo auto a mi lista de vehículos, para incluir todos los que requieran mantenimiento.                                                                                                | 5            |
+| US-16        | Adición del modelo de vehículo                   | Como dueño de vehículo, quiero agregar el modelo de vehículos en la sección de registro para especificar tipo de vehículo registrado.                                                                                            | 3            |
+| US-17        | Adición de la placa de vehículo                  | Como dueño de vehículo, quiero registrar la placa de un nuevo vehículo, para usarlo como identificador único.                                                                                                                     | 3            |
+| US-18        | Edición del perfil                               | Como usuario, quiero modificar mi información para mantener mi perfil actualizado.                                                                                                                                               | 3            |
 | **CORE BUSINESS LOGIC** |
-| US-27        | Visualización de talleres con requerimientos      | Como dueño de vehículo, quiero visualizar talleres recomendados según filtros, para decidir cuál se adapta mejor.                                                                                                                 | 5            |
-| US-28        | Visualización de talleres en búsqueda             | Como dueño de vehículo, quiero ingresar a la sección de búsqueda de talleres para encontrar el adecuado.                                                                                                                           | 3            |
-| US-29        | Visualización de reseñas de talleres              | Como dueño de vehículo, quiero ver calificaciones y comentarios para elegir un taller confiable.                                                                                                                                   | 5            |
-| US-30        | Selección de vehículo registrado                  | Como dueño de vehículo, quiero seleccionar uno de mis vehículos registrados para agendar visita.                                                                                                                                   | 5            |
-| US-31        | Selección de fecha y hora                         | Como dueño de vehículo, quiero seleccionar fecha y hora de visita para ajustar atención a mi disponibilidad.                                                                                                                       | 5            |
-| US-32        | Finalización de registro de fallas                | Como dueño de vehículo, quiero registrar las fallas de mi auto para informar al técnico.                                                                                                                                           | 3            |
-| US-33        | Visualización de solicitudes disponibles          | Como asesor de taller, quiero visualizar solicitudes pendientes de visitas para controlarlas.                                                                                                                                      | 5            |
-| US-34        | Verificación de solicitudes de visita             | Como asesor de servicios, quiero ver y aceptar solicitudes de visita enviadas por clientes.                                                                                                                                        | 5            |
-| US-36        | Visualización de estado y avance                  | Como dueño de vehículo, quiero ver estado y avance de mi orden de servicio con hora de última actualización y responsable.                                                                                                        | 5            |
-| US-37        | Línea de tiempo con hitos y evidencias            | Como dueño de vehículo, quiero consultar línea de tiempo con hitos, fotos, documentos y notas.                                                                                                                                     | 8            |
-| US-38        | Inquietudes desde el seguimiento                  | Como dueño de vehículo, quiero registrar inquietudes con texto y fotos desde seguimiento para resolver dudas.                                                                                                                      | 5            |
-| US-39        | Programación entrega del vehículo                 | Como dueño de vehículo, quiero seleccionar y confirmar una franja horaria disponible para coordinar el retiro de mi auto.                                                                                                         | 5            |
-| US-40        | Pago completo del mantenimiento                   | Como dueño de vehículo, quiero pagar el monto total del mantenimiento de mi vehículo desde la aplicación con el medio de pago de mi preferencia, para finalizar el servicio y recibir el comprobante.                               | 8            |
-| US-41        | Encuesta de satisfacción y calificación           | Como dueño de vehículo, quiero responder una encuesta de satisfacción y calificar el servicio, para contribuir a la mejora continua.                                                                                              | 3            |
+| US-19        | Visualización de talleres con requerimientos      | Como dueño de vehículo, quiero visualizar talleres recomendados según filtros, para decidir cuál se adapta mejor.                                                                                                                 | 5            |
+| US-20        | Visualización de talleres en búsqueda             | Como dueño de vehículo, quiero ingresar a la sección de búsqueda de talleres para encontrar el adecuado.                                                                                                                           | 3            |
+| US-21        | Visualización de reseñas de talleres              | Como dueño de vehículo, quiero ver calificaciones y comentarios para elegir un taller confiable.                                                                                                                                   | 5            |
+| US-22        | Selección de vehículo registrado                  | Como dueño de vehículo, quiero seleccionar uno de mis vehículos registrados para agendar visita.                                                                                                                                   | 5            |
+| US-23        | Selección de fecha y hora                         | Como dueño de vehículo, quiero seleccionar fecha y hora de visita para ajustar atención a mi disponibilidad.                                                                                                                       | 5            |
+| US-24        | Finalización de registro de fallas                | Como dueño de vehículo, quiero registrar las fallas de mi auto para informar al técnico.                                                                                                                                           | 3            |
+| US-25        | Visualización de solicitudes disponibles          | Como asesor de taller, quiero visualizar solicitudes pendientes de visitas para controlarlas.                                                                                                                                      | 5            |
+| US-26        | Verificación de solicitudes de visita             | Como asesor de servicios, quiero ver y aceptar solicitudes de visita enviadas por clientes.                                                                                                                                        | 5            |
+| US-27        | Visualización de estado y avance                  | Como dueño de vehículo, quiero ver estado y avance de mi orden de servicio con hora de última actualización y responsable.                                                                                                        | 5            |
+| US-28        | Línea de tiempo con hitos y evidencias            | Como dueño de vehículo, quiero consultar línea de tiempo con hitos, fotos, documentos y notas.                                                                                                                                     | 8            |
+| US-29        | Inquietudes desde el seguimiento                  | Como dueño de vehículo, quiero registrar inquietudes con texto y fotos desde seguimiento para resolver dudas.                                                                                                                      | 5            |
+| US-30        | Programación entrega del vehículo                 | Como dueño de vehículo, quiero seleccionar y confirmar una franja horaria disponible para coordinar el retiro de mi auto.                                                                                                         | 5            |
+| US-31        | Pago completo del mantenimiento                   | Como dueño de vehículo, quiero pagar el monto total del mantenimiento de mi vehículo desde la aplicación con el medio de pago de mi preferencia, para finalizar el servicio y recibir el comprobante.                               | 8            |
+| US-32        | Encuesta de satisfacción y calificación           | Como dueño de vehículo, quiero responder una encuesta de satisfacción y calificar el servicio, para contribuir a la mejora continua.                                                                                              | 3            |
 | **IAM** |
-| US-01        | Ingreso con nombre de usuario                    | Como usuario del aplicativo, quiero iniciar sesión con mi nombre de usuario elegido para facilitar el acceso a mi cuenta.                                                                                                        | 3            |
-| US-02        | Selección del departamento de residencia         | Como dueño de vehículo, quiero seleccionar un departamento de residencia como referencia geográfica, para centralizar los talleres en una zona/distrito específico.                                                             | 5            |
-| US-03        | Selección del distrito de residencia             | Como dueño de vehículo, quiero seleccionar el distrito en donde me encuentro, para garantizar encontrar talleres cercanos a mi ubicación.                                                                                        | 5            |
-| US-04        | Restauración de contraseña                       | Como usuario, quiero recuperar mi clave para poder acceder si la olvido.                                                                                                                                                         | 3            |
-| US-05        | Registro de cuenta con campos comprensibles      | Como usuario, quiero que los campos del registro de cuenta sean entendibles para inscribirme correctamente.                                                                                                                      | 5            |
-| US-06        | Visualización de planes de pago                  | Como usuario, quiero visualizar los diferentes planes de pago con precios y funcionalidades, para entender beneficios y limitaciones de cada plan.                                                                                | 8            |
+| US-33        | Ingreso con nombre de usuario                    | Como usuario del aplicativo, quiero iniciar sesión con mi nombre de usuario elegido para facilitar el acceso a mi cuenta.                                                                                                        | 3            |
+| US-34        | Selección del departamento de residencia         | Como dueño de vehículo, quiero seleccionar un departamento de residencia como referencia geográfica, para centralizar los talleres en una zona/distrito específico.                                                             | 5            |
+| US-35        | Selección del distrito de residencia             | Como dueño de vehículo, quiero seleccionar el distrito en donde me encuentro, para garantizar encontrar talleres cercanos a mi ubicación.                                                                                        | 5            |
+| US-36        | Restauración de contraseña                       | Como usuario, quiero recuperar mi clave para poder acceder si la olvido.                                                                                                                                                         | 3            |
+| US-37        | Registro de cuenta con campos comprensibles      | Como usuario, quiero que los campos del registro de cuenta sean entendibles para inscribirme correctamente.                                                                                                                      | 5            |
+| US-38        | Visualización de planes de pago                  | Como usuario, quiero visualizar los diferentes planes de pago con precios y funcionalidades, para entender beneficios y limitaciones de cada plan.                                                                                | 8            |
 
 ---
 
@@ -1507,13 +1538,15 @@ URL: [Enlace del Diagrama](https://lucid.app/lucidchart/a5dcb0f8-65f4-41c3-986a-
 # Capítulo V: Product Implementation, Validation & Deployment
 ## 5.1. Software Configuration Management
 ### 5.1.1. Software Development Environment Configuration
+
 Para la creación de la landing page utilizamos principalmente Astro, combinado con HTML, TypeScript y TailwindCSS para construir una página rápida, limpia y bien estructurada. Esta elección nos permitió tener control total sobre el diseño y la organización del código, sin depender demasiado de frameworks externos.
 
 Para la creación de nuestro Frontend Web Aplication, utilizamos Angular, HTML, CSS y TypeScript. Angular nos proporcionó una estructura sólida para desarrollar aplicaciones web escalables y mantenibles, mientras que TypeScript añadió tipado estático, lo que ayudó a detectar errores en tiempo de desarrollo y mejorar la calidad del código.
 
 Para la creación de nuestro RESTful Web Services, utilizamos Spring Boot con Java. Spring Boot nos permitió desarrollar servicios robustos y escalables de manera rápida, gracias a su configuración automática y su amplia gama de herramientas integradas. Además, Java es un lenguaje ampliamente utilizado en el desarrollo backend, lo que nos brindó acceso a una gran cantidad de bibliotecas y recursos.
 
-Como entorno de desarrollo, trabajamos con Visual Studio Code, que nos brindó funciones útiles como resaltado de sintaxis, autocompletado y un terminal integrado para ejecutar comandos y manejar herramientas adicionales.
+#### **Frontend Development**
+Para la creación de la landing page utilizamos principalmente Astro, combinado con **HTML** y **CSS** para construir una página rápida, limpia y bien estructurada. Esta elección nos permitió tener control total sobre el diseño y la organización del código, sin depender demasiado de frameworks externos. <br>
 
 Para el control de versiones y colaboración, utilizamos Git junto con GitHub, lo cual nos facilitó mantener un historial de cambios claro, compartir el código con el equipo y llevar un buen manejo de ramas y solicitudes de incorporación. También utlizamos Git Flow como una estrategia de ramificación para gestionar el desarrollo de manera organizada, permitiendo trabajar en nuevas funcionalidades, correcciones y lanzamientos de forma paralela sin afectar la rama principal. 
 
@@ -1527,6 +1560,31 @@ Para el control de versiones y colaboración, utilizamos Git junto con GitHub, l
 - Link oficial de la documentación de Mozilla para Java: [https://docs.oracle.com/en/java/](https://docs.oracle.com/en/java/)
 - Link oficial de Spring Boot: [https://spring.io/projects/spring-boot](https://spring.io/projects/spring-boot)
 - Link oficial de Visual Studio Code: [https://code.visualstudio.com/](https://code.visualstudio.com/)
+
+Ruta de referencia: <br>
+**Astro** - [Ruta](https://astro.build/) <br>
+**HTML** - [Ruta](https://developer.mozilla.org/es/docs/Web/HTML) <br>
+**CSS** - [Ruta](https://developer.mozilla.org/es/docs/Web/CSS) <br>
+
+#### **Software Development**
+
+Como entorno de desarrollo, trabajamos con **Visual Studio Code**, que nos brindó funciones útiles como resaltado de sintaxis, autocompletado y un terminal integrado para ejecutar comandos y manejar herramientas adicionales. <br>
+
+Ruta de referencia: <br>
+**Visual Studio Code** - [Ruta](https://code.visualstudio.com/)
+
+Para el control de versiones y colaboración, utilizamos **Git** junto con **GitHub**, lo cual nos facilitó mantener un historial de cambios claro, compartir el código con el equipo y llevar un buen manejo de ramas y solicitudes de incorporación.
+
+Ruta de Referencia: <br> 
+**Git** - [Enlace](https://git-scm.com/) <br>
+**GitHub** - [Enlace](https://github.com/) <br>
+
+#### **Diseño UX/UI de Producto**
+
+En cuanto al diseño de experiencia de usuario, usamos **UXPressia** para crear y compartir documentos como user personas, mapas de empatía y journey maps, lo que ayudó a nuestro equipo a entender mejor a los usuarios y validar las ideas antes de empezar la implementación.
+
+Ruta de Referencia: <br> 
+**UXpressia** - [Enlace](https://uxpressia.com) <br>
 
 ### 5.1.2. Source Code Management
 
@@ -1543,6 +1601,13 @@ A continuación, se muestran las convenciones para los nombres de las ramas feat
 Aquí se encuentran los repositorios de GitHub utilizados para el desarrollo del proyecto Prime Fix:
 
 #### Repositorio de github - Landing Page de Prime Fix
+=======
+**Repositorios de GitHub:**
+
+Organización de GitHub: https://github.com/prime-fix
+
+Landing Page de Prime Fix:
+>>>>>>> 36e357d (docs: Implement the fixes)
 <img src="Assets/chapter-1/captura-repositorio-landingpage.png" alt="">
 
 URL: [https://github.com/prime-fix/landing-page](https://github.com/prime-fix/landing-page)
@@ -1558,6 +1623,38 @@ URL: [https://github.com/prime-fix/frontend](https://github.com/prime-fix/fronte
 URL: [https://github.com/prime-fix/backend](https://github.com/prime-fix/backend)
 
 
+Fronted Web Applications: https://github.com/prime-fix/frontend
+
+Web Services: https://github.com/prime-fix/backend
+
+**Flujo de trabajo GitFlow:**
+
+<img src="Assets/GitFlowDiagram.svg" alt="">
+
+#### Estructura de Ramas (Branches)
+
+##### Rama principal (Main branch)
+Esta rama será la base del proyecto y contendrá las versiones **estables y definitivas** de la aplicación.  
+Únicamente se integrarán cambios que hayan sido previamente **probados y validados** en ramas de desarrollo o prueba.  
+
+##### Rama de desarrollo (Develop branch)
+Su propósito es centralizar el trabajo en equipo y mantener el código en constante evolución.  
+Aquí se integran las diferentes funcionalidades antes de pasar a la rama principal.  
+
+##### Ramas de funcionalidades (Feature branches)
+Cada nueva característica o módulo se desarrollará en una rama independiente.  
+Una vez completada y validada, se fusionará con la rama de desarrollo. Las convenciones para nombrar las ramas de funcionalidad seguirán un patrón descriptivo, por ejemplo, `feature/nombre-de-la-funcionalidad`.  
+
+##### Ramas de lanzamiento (Release branches)
+Estas ramas se emplearán para preparar **versiones estables** del proyecto que provienen de la rama de desarrollo y que están listas para integrarse en la rama principal.  
+
+##### Ramas de corrección (Hotfix branches)
+Se crearán para resolver **errores críticos** detectados en la rama principal que afectan de forma significativa a los usuarios.  
+
+**Convenciones de Commits:** Para los mensajes de los commits realizados, se utilizará la especificación Conventional Commits basada en Angular Commit Guidelines.
+
+`git commit -m "<type>[optional scope]: <description">`
+
 ### 5.1.3. Source Code Style Guide & Conventions
 En esta sección se detallan las convenciones de estilo y buenas prácticas que se deben seguir al momento de escribir código en los lenguajes y frameworks seleccionados para el proyecto. <br></br>
 
@@ -1569,7 +1666,6 @@ En esta sección se detallan las convenciones de estilo y buenas prácticas que 
 | **HTML** | - Usar etiquetas semánticas (`header`, `main`, `section`, etc.).<br>- Indentación de 2 espacios.<br>- Atributos entre comillas dobles `"`.<br>- Orden de atributos: `id`, `class` → accesibilidad (`aria-*`) → funcionales (`src`, `href`, `alt`).<br>- Nombres en kebab-case (`main-section`). | - Mantener el HTML limpio y libre de código comentado.<br>- Usar comentarios para secciones complejas o importantes.<br> - Usar `data-*` atributos para información adicional.<br> - Evitar el uso de inline styles. |
 | **TypeScript** | - Variables/funciones en `camelCase`.<br>- Clases/interfaces en `PascalCase`.<br>- Constantes en `UPPER_SNAKE_CASE`.<br>- Tipado obligatorio en variables, parámetros y retornos.<br>- Ordenar imports de externos a internos. | - Usar `readonly` para propiedades que no deben cambiar.<br>- Preferir funciones puras y evitar efectos secundarios.<br> - Usar destructuración para extraer valores de objetos y arrays. |
 | **Astro** | - Archivos `.astro` en `PascalCase`.<br>- Orden del archivo: frontmatter → HTML/JSX → estilos `\<style>`.<br>- Props siempre tipadas con TypeScript.<br>- Importaciones cortas y claras.<br>- Componentes pequeños y reutilizables. | - Mantener la lógica de los componentes en el archivo `.astro` y evitar la lógica compleja en el frontmatter. - Usar `Astro.fetch` para obtener datos de manera eficiente.<br> - Utilización de props para comunicación entre componentes. |
-
 
 ### Front-End:
 
@@ -1760,15 +1856,20 @@ A continuación, se detallan las **User Stories** y las **Tareas** asignadas a c
 | US-02      | Comprensión del proceso de funcionamiento      | T-06        | Diseño gráfico de ilustraciones        | Incluir íconos o diagramas representativos de los pasos                          | 2                     | Alicia          | Done      |
 | US-03      | Acceso a información detallada de características | T-07     | Maquetación de la sección              | Implementar bloque con funcionalidades detalladas para usuarios                 | 1                     | César           | Done      |
 | US-03      | Acceso a información detallada de características | T-08     | Integrar listas de características     | Organizar funcionalidades específicas para talleres y dueños de vehículos       | 6                     | Gianmarco       | Done      |
-| US-04      | Acceso a información de contacto                | T-10        | Implementar sección de contacto        | Crear footer con dirección de correo y teléfono                                 | 1                     | Cesar       | Done      |
-| US-04      | Acceso a información de contacto                | T-11        | Vincular menú de navegación            | Agregar enlace desde el menú principal a la sección de contacto                  | 1                     | Gianmarco       | Done      |
-| US-05      | Múltiples canales de comunicación               | T-13        | Configuración de email clickeable      | Integrar enlace `mailto:` para abrir cliente de correo automáticamente          | 1                     | César           | Done      |
-| US-05      | Múltiples canales de comunicación               | T-14        | Integración de teléfono                | Mostrar número de contacto con enlace directo a llamada                         | 1                     | César           | Done      |
-| US-05      | Múltiples canales de comunicación               | T-15        | Enlace a redes sociales                | Incluir enlace a Instagram con íconos representativos                           | 1                     | César          | Done      |
-| US-06             | Botón de cambio de idioma (ES/EN)           | T-06        | Implementación de selector de idioma | Agregar botón para alternar entre español e inglés en la interfaz | 2                      | Piero       | Done  |
-| US-06             | Botón de cambio de idioma (ES/EN)           | T-07        | Configuración de archivos i18n       | Crear y organizar archivos de traducción para ES y EN            | 3                     | Gianmarco       | Done       |
-| US-07            | Botón de cambio de tema    | T-09        | Implementar switch de tema           | Desarrollar botón que permita cambiar entre modo claro y oscuro  | 3                    | Alicia           | Done       |
-| US-07             | Botón de cambio de tema    | T-10        | Configuración de estilos en Tailwind | Definir variables y clases para ambos temas en Tailwind          | 3                     | Alexander           | Done       |
+| US-04      | Navegación intuitiva en landing page | T-07     | Maquetación intuitiva              | Implementar tarjetas con información accesible para todos los usuarios                  | 1                     | César           | Done      |
+| US-05      | Información clara de beneficios | T-07     | Maquetación de la sección              | Brindar información clara y fácil de entender                  | 1                     | César           | Done      |
+| US-06      | Testimonios y casos de éxito | T-07     | Maquetación de la sección              | Brindar información sobre experiencias de usuarios                  | 1                     | César           | To Do      |
+| US-07      | Call-to-action prominente | T-07     | Maquetación de botones              | Mostrar botones que puedan direccionar hacia la aplicación web                  | 1                     | César           | Done      |
+| US-08      | Información de precios transparente | T-07     | Informar sobre precios              | Brindar información sobre los precios del producto                  | 1                     | César           | To Do      |
+| US-09      | Acceso a información de contacto                | T-10        | Implementar sección de contacto        | Crear footer con dirección de correo y teléfono                                 | 1                     | Cesar       | Done      |
+| US-09      | Acceso a información de contacto                | T-11        | Vincular menú de navegación            | Agregar enlace desde el menú principal a la sección de contacto                  | 1                     | Gianmarco       | Done      |
+| US-10      | Múltiples canales de comunicación               | T-13        | Configuración de email clickeable      | Integrar enlace `mailto:` para abrir cliente de correo automáticamente          | 1                     | César           | Done      |
+| US-10      | Múltiples canales de comunicación               | T-14        | Integración de teléfono                | Mostrar número de contacto con enlace directo a llamada                         | 1                     | César           | Done      |
+| US-10      | Múltiples canales de comunicación               | T-15        | Enlace a redes sociales                | Incluir enlace a Instagram con íconos representativos                           | 1                     | César          | Done      |
+| US-11             | Botón de cambio de idioma (ES/EN)           | T-06        | Implementación de selector de idioma | Agregar botón para alternar entre español e inglés en la interfaz | 2                      | Piero       | Done  |
+| US-11             | Botón de cambio de idioma (ES/EN)           | T-07        | Configuración de archivos i18n       | Crear y organizar archivos de traducción para ES y EN            | 3                     | Gianmarco       | Done       |
+| US-12            | Botón de cambio de tema    | T-09        | Implementar switch de tema           | Desarrollar botón que permita cambiar entre modo claro y oscuro  | 3                    | Alicia           | Done       |
+| US-12             | Botón de cambio de tema    | T-10        | Configuración de estilos en Tailwind | Definir variables y clases para ambos temas en Tailwind          | 3                     | Alexander           | Done       |
 
 #### 5.2.1.4. Development Evidence for Sprint Review
 
