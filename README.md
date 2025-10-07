@@ -145,6 +145,15 @@
       - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
       - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
       - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
+    - [5.2.2. Sprint 2](#522-sprint-2)
+      - [5.2.2.1. Sprint Planning 2](#5221-sprint-planning-2)
+      - [5.2.2.2. Aspect Leaders and Collaborators](#5222-aspect-leaders-and-collaborators)
+      - [5.2.2.3. Sprint Backlog 2](#5223-sprint-backlog-2)
+      - [5.2.2.4. Development Evidence for Sprint Review](#5224-development-evidence-for-sprint-review)
+      - [5.2.2.5. Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)
+      - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
+      - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
+      - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
   - [5.3. Validation Interviews](#53-validation-interviews)
     - [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)
     - [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)
@@ -751,6 +760,33 @@ Este glosario contiene términos relacionados al dominio del proyecto PrimeFix. 
 
 # Capítulo III: Requirements Specification
 ## 3.1. User Stories
+
+En esta sección se presentan las User Stories que definen los requerimientos funcionales de Prime-Fix desde la perspectiva de los usuarios finales. Las User Stories constituyen el núcleo de nuestro enfoque ágil de desarrollo, proporcionando una descripción clara y concisa de las funcionalidades que el sistema debe ofrecer para satisfacer las necesidades identificadas durante el proceso de Requirements Elicitation & Analysis.
+
+**Metodología de Estructuración:**
+
+Las User Stories se han organizado utilizando una jerarquía de dos niveles que facilita la comprensión y gestión de los requerimientos:
+
+1. **Epics (Épicas):** Representan grupos amplios de funcionalidades relacionadas que abordan objetivos de negocio de alto nivel. Cada épica encapsula un conjunto cohesivo de historias de usuario que contribuyen a una capacidad mayor del sistema Prime-Fix.
+
+2. **User Stories (Historias de Usuario):** Son descripciones específicas y detalladas de funcionalidades individuales, escritas desde la perspectiva del usuario final. Cada historia sigue el formato estándar "Como [tipo de usuario], quiero [funcionalidad] para [beneficio/valor]" y está acompañada de criterios de aceptación específicos que definen las condiciones que deben cumplirse para considerar la historia como completada.
+
+**Alineación con Segmentos Objetivo:**
+
+Las User Stories han sido diseñadas considerando las necesidades específicas de nuestros dos segmentos objetivo principales:
+
+- **Dueños de vehículos:** Historias enfocadas en facilitar la búsqueda de talleres confiables, la gestión de citas, el seguimiento de servicios y la transparencia en los procesos de mantenimiento.
+
+- **Asesores de talleres automotrices:** Historias orientadas a optimizar la gestión de clientes, mejorar la organización de servicios, aumentar la visibilidad del negocio y digitalizar procesos operativos.
+
+**Criterios de Aceptación y Validación:**
+
+Cada User Story incluye criterios de aceptación detallados escritos en formato Gherkin (Given-When-Then), lo que proporciona:
+- Claridad en la definición de comportamientos esperados
+- Base para la creación de casos de prueba automatizados
+- Criterios objetivos para validar la implementación correcta de cada funcionalidad
+- Facilita la comunicación entre equipos de desarrollo, testing y stakeholders
+
 ### 3.1.1 Epics
 
 | Epic ID | Título                                       | Descripción                                                                                                                                                                                  |
