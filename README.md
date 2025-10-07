@@ -888,7 +888,7 @@ Cada User Story incluye criterios de aceptación detallados escritos en formato 
 
 ## 3.2. Impact Mapping
 
-<img src="Assets/chapter-1/impact-mapping.png">
+<img src="Assets/chapter-1/impact-mapping-up.png">
 
 ## 3.3. Product Backlog
 
