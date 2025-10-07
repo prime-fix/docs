@@ -670,7 +670,7 @@ Este Bounded Context se ocupa de la gestión del catálogo de talleres disponibl
 ## **Recopilación de información Bounded Context**
 Este Bounded Context se centra en la recopilación y gestión de información relacionada con los vehículos y sus propietarios. Incluye el registro de datos del vehículo, como marca, modelo, año, número de identificación del vehículo (VIN) y historial de mantenimiento. Además, este contexto puede manejar la recopilación de información del propietario, como nombre, contacto y preferencias de servicio.
 
-<img src="Assets/event_storming/InformationGatheringBC.png">
+<img src="Assets/event_storming/DataCollectionBC.png">
 
 ## **Diagnóstico de vehículos Bounded Context**
 Este Bounded Context se encarga del diagnóstico inicial del vehículo una vez que ha sido recibido en el taller. Incluye la inspección del vehículo, la identificación de problemas y la generación de un informe de diagnóstico. Además, este contexto puede manejar la comunicación del diagnóstico al propietario del vehículo, proporcionando detalles sobre los problemas encontrados y las recomendaciones de reparación.
@@ -1829,6 +1829,24 @@ El análisis de los commits muestra una distribución equilibrada del trabajo en
 - **Vercel:** Para despliegues automatizados y preview de cambios
 
 <img src="Assets/evidences/landing_repository_evidence.png">
+
+### 5.2.2. Sprint 2
+
+#### 5.2.2.1. Sprint Planning 2
+
+#### 5.2.2.2. Aspect Leaders and Collaborators
+
+#### 5.2.2.3. Sprint Backlog 2
+
+#### 5.2.2.4. Development Evidence for Sprint Review
+
+#### 5.2.2.5. Execution Evidence for Sprint Review
+
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review
+
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review
+
+#### 5.2.2.8. Team Collaboration Insights during Sprint
 
 ## 5.3. Validation Interviews
 ### 5.3.1. Diseño de Entrevistas
