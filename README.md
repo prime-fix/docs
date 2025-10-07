@@ -602,6 +602,17 @@ A continuación se mostrará de manera gráfica el análisis de las preguntas m�
 <img src="Assets/chapter-1/user-persona-2.png" alt="">
 
 ### 2.3.2. User Task Matrix
+
+El User Task Matrix es una herramienta fundamental que nos permite analizar y comparar las tareas que realizan nuestros diferentes segmentos de usuarios en relación con el contexto del problema que Prime-Fix busca resolver. Esta matriz nos ayuda a identificar las actividades más críticas y frecuentes de cada segmento objetivo, así como el nivel de importancia que cada tarea tiene para ellos.
+
+Para el desarrollo de este proyecto, hemos identificado y analizaremos dos segmentos principales de usuarios:
+
+**Segmento 1 - Dueños de vehículos:** Representado por nuestro user persona José Paredes, este segmento incluye a propietarios de vehículos particulares que necesitan servicios de mantenimiento y reparación automotriz. Estos usuarios buscan talleres confiables, transparencia en los servicios y facilidad para gestionar el mantenimiento de sus vehículos.
+
+**Segmento 2 - Asesores de talleres automotrices:** Representado por nuestro user persona Luis Chávez, este segmento comprende a profesionales que trabajan en talleres automotrices, incluyendo dueños, administradores y asesores de servicios. Estos usuarios necesitan herramientas para optimizar la gestión de clientes, mejorar la organización de servicios y aumentar la visibilidad de sus talleres.
+
+A continuación, se presentan las matrices de tareas para cada segmento, donde se evalúa la frecuencia e importancia de las actividades relacionadas con la búsqueda, gestión y seguimiento de servicios automotrices:
+
 #### Segmento 1 - Dueño de vehículo
 User Task Matrix - José Paredes
 <img src="Assets/chapter-1/user-task-matrix-1.png" alt="">
@@ -640,10 +651,46 @@ Empathy Mapping - Luis Chávez
 
 **1) Resultado de la sesión y flujo extremo a extremo.** En una sesión colaborativa de alto nivel, el equipo mapeó el servicio completo desde la creación de la solicitud hasta la calificación posterior: solicitud de servicio creada, verificación y registro del taller y de sus técnicos, registro de datos del vehículo y ubicación, búsqueda con filtros y consulta de disponibilidad, aceptación del servicio por el taller, diagnóstico inicial con lista de verificación e inspección, actualizaciones de estado de mantenimiento, control de calidad completado, programación de la entrega, procesamiento y confirmación del pago, emisión del comprobante, confirmación de la entrega y registro de la calificación del cliente.
 
-**2) Bounded contexts y reglas de orquestación clave.** Del mapa emergieron cinco límites de contexto naturales: Registro de talleres, Catálogo de talleres, Recopilación y diagnóstico, Seguimiento de mantenimiento y entrega del auto, y Pago del servicio; se identificaron integraciones con identidad y acceso para el alta de talleres, pasarela de pagos para transacciones y comprobantes, equipos de diagnóstico como fuente opcional de datos y base transaccional en PostgreSQL; se establecieron reglas de paso críticas como no permitir programar ni confirmar entrega sin control de calidad aprobado y no permitir marcar la orden como entregada cuando el medio de pago es electrónico sin pago confirmado.
+**2) Bounded contexts y reglas de orquestación clave.** Del mapa emergieron seis límites de contexto naturales: Registro de talleres, Catálogo de talleres, Recopilación de información, Diagnóstico de vehículos, Seguimiento de mantenimiento y entrega del auto, y Pago del servicio; se identificaron integraciones con identidad y acceso para el alta de talleres, pasarela de pagos para transacciones y comprobantes, equipos de diagnóstico como fuente opcional de datos y base transaccional en PostgreSQL; se establecieron reglas de paso críticas como no permitir programar ni confirmar entrega sin control de calidad aprobado y no permitir marcar la orden como entregada cuando el medio de pago es electrónico sin pago confirmado.
 
 **3) Riesgos y oportunidades priorizadas y próximos pasos.** Se priorizaron transparencia y confianza mediante línea de tiempo con evidencias y controles auditables, orquestación robusta de estados para evitar transiciones inválidas y experiencia del usuario en tiempo real con manejo explícito de retrasos; como siguientes acciones se acordó profundizar cada límite de contexto con un Design-Level Event Storming, especificar políticas operativas y validaciones técnicas no triviales, y definir métricas iniciales centradas en órdenes completadas con satisfacción y tiempos de ciclo por etapa para guiar los experimentos y el roadmap.
-<img src="Assets/event_storming/BigPicture.png">
+
+### **Registro de talleres Bounded Context**
+
+Este Bounded Context se encarga de gestionar el registro de talleres mecánicos en la plataforma Prime-Fix. Incluye la creación y almacenamiento de información relevante sobre cada taller, como su nombre, ubicación, servicios ofrecidos, horarios de atención y datos de contacto. Además, este contexto puede manejar la verificación y validación de los talleres para asegurar que cumplen con ciertos estándares de calidad antes de ser listados en la plataforma.
+
+<img src="Assets/event_storming/AutoRepairRegisterBC.png">
+
+## **Catálogo de talleres Bounded Context**
+
+Este Bounded Context se ocupa de la gestión del catálogo de talleres disponibles en la plataforma Prime-Fix. Incluye la búsqueda, filtrado y visualización de talleres según diferentes criterios, como ubicación, servicios ofrecidos y calificaciones de usuarios. También puede manejar la actualización de la información del taller y la gestión de su disponibilidad.
+
+<img src="Assets/event_storming/AutoRepairCatalogBC.png">
+
+## **Recopilación de información Bounded Context**
+Este Bounded Context se centra en la recopilación y gestión de información relacionada con los vehículos y sus propietarios. Incluye el registro de datos del vehículo, como marca, modelo, año, número de identificación del vehículo (VIN) y historial de mantenimiento. Además, este contexto puede manejar la recopilación de información del propietario, como nombre, contacto y preferencias de servicio.
+
+<img src="Assets/event_storming/InformationGatheringBC.png">
+
+## **Diagnóstico de vehículos Bounded Context**
+Este Bounded Context se encarga del diagnóstico inicial del vehículo una vez que ha sido recibido en el taller. Incluye la inspección del vehículo, la identificación de problemas y la generación de un informe de diagnóstico. Además, este contexto puede manejar la comunicación del diagnóstico al propietario del vehículo, proporcionando detalles sobre los problemas encontrados y las recomendaciones de reparación.
+
+<img src="Assets/event_storming/VehicleDiagnosisBC.png">
+
+## **Seguimiento del estado de mantenimiento del vehículo Bounded Context**
+
+Este Bounded Context se enfoca en el seguimiento del estado de mantenimiento del vehículo a lo largo del proceso de reparación. Incluye la actualización y monitoreo del progreso del servicio, desde la recepción del vehículo hasta la finalización del mantenimiento. Además, este contexto puede manejar la comunicación con el cliente, proporcionando actualizaciones en tiempo real sobre el estado de su vehículo y notificando cuando esté listo para ser recogido.
+
+<img src="Assets/event_storming/MaintenanceStatusTrackingBC.png">
+
+
+## **Pago de servicio Bounded Context**
+
+Este Bounded Context se encarga de la gestión del pago por los servicios de mantenimiento y reparación ofrecidos a través de la plataforma Prime-Fix. Incluye la integración con pasarelas de pago para procesar transacciones de manera segura, la generación y envío de comprobantes de pago, y la gestión de diferentes métodos de pago, como tarjetas de crédito, débito y transferencias bancarias. Además, este contexto puede manejar la conciliación de pagos y la resolución de disputas relacionadas con las transacciones.
+
+<img src="Assets/event_storming/PaymentServiceBC.png">
+
+
 ## 2.5. Ubiquitous Language
 
 En esta sección, presentaremos el lenguaje ubicuo del proyecto.
@@ -1348,26 +1395,7 @@ Link del prototipo: [Prototype](https://www.figma.com/proto/wf74HMrT48NvWY5Bq8Mg
 ## 4.6. Domain-Driven Software Architecture
 ### 4.6.1. Design-Level Event Storming
 
-Registro de talleres Bounded Context
-
-<img src="Assets/event_storming/AutoRepairRegisterBC.png">
-
-Catálogo de talleres Bounded Context
-
-<img src="Assets/event_storming/AutoRepairCatalogBC.png">
-
-Recopilación y Diagnóstico Bounded Context
-
-<img src="Assets/event_storming/CollectionDiagnosisBC.png">
-
-Seguimiento del estado de mantenimiento del vehículo Bounded Context
-
-<img src="Assets/event_storming/MaintenanceStatusTrackingBC.png">
-
-
-Pago de servicio Bounded Context
-
-<img src="Assets/event_storming/PaymentServiceBC.png">
+En este apartado se presentará el Event Storming realizado para la creación de PrimeFix. Este diagrama nos permitió identificar los distintos eventos que se pueden presentar en el sistema, así como las entidades, comandos y agregados involucrados. Se utilizó la plataforma de Structurizr para la creación de los diagramas de contexto, contenedores y componentes. Se va utilizar el patrón CQRS (Command Query Responsibility Segregation) para la separación de responsabilidades entre comandos y consultas.
 
 ### 4.6.2. Software Architecture Context Diagram
 Diagrama de Conexto de PrimeFix
@@ -1388,8 +1416,8 @@ Diagrama de Componentes Auto Repair Catalaog
 Diagrama de Componentes Data Collection
 <img src="Assets/diagrams/dataCollectionComponent.png">
 
-Diagrama de Componentes Vehicle Maintenance Status
-<img src="Assets/diagrams/vehicleMaintenanceStatus_Component.png">
+Diagrama de Componentes Vehicle Diagnosis
+<img src="Assets/diagrams/vehicleDiagnosis_Component.png">
 
 Diagrama de Componentes de Maintenance Tracking
 <img src="Assets/diagrams/maintenanceTracking_Component.png">
@@ -1412,32 +1440,99 @@ URL: [Enlace del Diagrama](https://lucid.app/lucidchart/a5dcb0f8-65f4-41c3-986a-
 # Capítulo V: Product Implementation, Validation & Deployment
 ## 5.1. Software Configuration Management
 ### 5.1.1. Software Development Environment Configuration
-Para la creación de la landing page utilizamos principalmente Astro, combinado con HTML y CSS para construir una página rápida, limpia y bien estructurada. Esta elección nos permitió tener control total sobre el diseño y la organización del código, sin depender demasiado de frameworks externos.
+Para la creación de la landing page utilizamos principalmente Astro, combinado con HTML, TypeScript y TailwindCSS para construir una página rápida, limpia y bien estructurada. Esta elección nos permitió tener control total sobre el diseño y la organización del código, sin depender demasiado de frameworks externos.
+
+Para la creación de nuestro Frontend Web Aplication, utilizamos Angular, HTML, CSS y TypeScript. Angular nos proporcionó una estructura sólida para desarrollar aplicaciones web escalables y mantenibles, mientras que TypeScript añadió tipado estático, lo que ayudó a detectar errores en tiempo de desarrollo y mejorar la calidad del código.
+
+Para la creación de nuestro RESTful Web Services, utilizamos Spring Boot con Java. Spring Boot nos permitió desarrollar servicios robustos y escalables de manera rápida, gracias a su configuración automática y su amplia gama de herramientas integradas. Además, Java es un lenguaje ampliamente utilizado en el desarrollo backend, lo que nos brindó acceso a una gran cantidad de bibliotecas y recursos.
 
 Como entorno de desarrollo, trabajamos con Visual Studio Code, que nos brindó funciones útiles como resaltado de sintaxis, autocompletado y un terminal integrado para ejecutar comandos y manejar herramientas adicionales.
 
-Para el control de versiones y colaboración, utilizamos Git junto con GitHub, lo cual nos facilitó mantener un historial de cambios claro, compartir el código con el equipo y llevar un buen manejo de ramas y solicitudes de incorporación.
+Para el control de versiones y colaboración, utilizamos Git junto con GitHub, lo cual nos facilitó mantener un historial de cambios claro, compartir el código con el equipo y llevar un buen manejo de ramas y solicitudes de incorporación. También utlizamos Git Flow como una estrategia de ramificación para gestionar el desarrollo de manera organizada, permitiendo trabajar en nuevas funcionalidades, correcciones y lanzamientos de forma paralela sin afectar la rama principal. 
 
-En cuanto al diseño de experiencia de usuario, usamos UXPressia para crear y compartir documentos como user personas, mapas de empatía y journey maps, lo que ayudó a nuestro equipo a entender mejor a los usuarios y validar las ideas antes de empezar la implementación.
+- Link oficial de Github: [https://github.com](https://github.com)
+- Link oficial de Angular: [https://angular.io/](https://angular.io/)
+- Link oficial de Tailwind CSS: [https://tailwindcss.com/](https://tailwindcss.com/)
+- Link oficial de Astro: [https://astro.build/](https://astro.build/)
+- Link oficial de la documentación de Mozilla para HTML: [https://developer.mozilla.org/es/docs/Web/HTML](https://developer.mozilla.org/es/docs/Web/HTML)
+- Link oficial de la documentación de Mozilla para CSS: [https://developer.mozilla.org/es/docs/Web/CSS](https://developer.mozilla.org/es/docs/Web/CSS)
+- Link oficial de la documentación de Mozilla para TypeScript: [https://www.typescriptlang.org/docs/](https://www.typescriptlang.org/docs/)
+- Link oficial de la documentación de Mozilla para Java: [https://docs.oracle.com/en/java/](https://docs.oracle.com/en/java/)
+- Link oficial de Spring Boot: [https://spring.io/projects/spring-boot](https://spring.io/projects/spring-boot)
+- Link oficial de Visual Studio Code: [https://code.visualstudio.com/](https://code.visualstudio.com/)
 
 ### 5.1.2. Source Code Management
-Repositorio de github - Landing Page de Prime Fix
+
+A continuación, se muestran las convenciones para los nombres de las ramas features:
+
+| Tipo de rama | Prefijo | Convención | Ejemplo |
+|--------------|---------|------------|---------|
+| Feature      | feature/ | snake_case | feature/login-form |
+| Bugfix       | bugfix/  | snake_case | bugfix/fix-navbar |
+| Hotfix       | hotfix/  | snake_case | hotfix/fix-critical-bug |
+| Release      | release/ | semantic_versioning | release/v0.1.0 |
+
+
+Aquí se encuentran los repositorios de GitHub utilizados para el desarrollo del proyecto Prime Fix:
+
+#### Repositorio de github - Landing Page de Prime Fix
 <img src="Assets/chapter-1/captura-repositorio-landingpage.png" alt="">
-URL: https://github.com/prime-fix/landing-page
+
+URL: [https://github.com/prime-fix/landing-page](https://github.com/prime-fix/landing-page)
+
+#### Repositorio de github - Frontend Web Application de Prime Fix
+<img src="Assets/chapter-1/captura-repositorio-frontend.png" alt="">
+
+URL: [https://github.com/prime-fix/frontend](https://github.com/prime-fix/frontend)
+
+#### Repositorio de github - RESTful Web Services de Prime Fix
+<img src="Assets/chapter-1/captura-repositorio-backend.png" alt="">
+
+URL: [https://github.com/prime-fix/backend](https://github.com/prime-fix/backend)
+
 
 ### 5.1.3. Source Code Style Guide & Conventions
-En esta sección se detallan las convenciones de estilo y buenas prácticas que se deben seguir al momento de escribir código en los lenguajes y frameworks seleccionados para el proyecto.
+En esta sección se detallan las convenciones de estilo y buenas prácticas que se deben seguir al momento de escribir código en los lenguajes y frameworks seleccionados para el proyecto. <br></br>
 
-| Tecnología    | Convenciones principales |
-|---------------|--------------------------|
-| **Tailwind CSS** | - Usar solo clases utilitarias de Tailwind. <br> - Ordenar clases en bloques: Layout → Box Model → Tipografía → Colores/Fondos → Otros. <br> - Mantener legibilidad en clases largas. |
-| **HTML** | - Usar etiquetas semánticas (`header`, `main`, `section`, etc.). <br> - Indentación de **2 espacios**. <br> - Atributos entre comillas dobles `" "`. <br> - Orden de atributos: `id`, `class` → accesibilidad (`aria-*`) → funcionales (`src`, `href`, `alt`). <br> - Nombres en **kebab-case** (`main-section`). |
-| **TypeScript** | - Variables/funciones en **camelCase**. <br> - Clases/interfaces en **PascalCase**. <br> - Constantes en **UPPER_SNAKE_CASE**. <br> - Tipado obligatorio en variables, parámetros y retornos. <br> - Ordenar imports de externos a internos. |
-| **Astro** | - Archivos `.astro` en **PascalCase**. <br> - Orden del archivo: `frontmatter` → HTML/JSX → estilos `<style>`. <br> - Props siempre tipadas con TypeScript. <br> - Importaciones cortas y claras. <br> - Componentes pequeños y reutilizables. |
-| **Gherkin** | - Los escenarios deben escribirse en **lenguaje claro y entendible**. <br> - Estructura: `Given`, `When`, `Then`, y opcionalmente `And`. <br> - Un escenario debe reflejar un caso de uso específico. <br> - Las historias de usuario deben agruparse en **Features**. <br> - Mantener consistencia en la redacción (tiempos verbales en presente). |
+### Landing Page:
+**Resumen:** Como principales tecnologías, usaremos Astro, Tailwind CSS, HTML y TypeScript. Componentes pequeños y tipados, comunicación clara por props, y estilos utilitarios y organizados.
+| **Tecnología** | **Convenciones principales** | **Convenciones para código** |
+|---|---|---|
+| **Tailwind CSS** | - Usar solo clases utilitarias de Tailwind.<br>- Ordenar clases en bloques: Layout → Box Model → Tipografía → Colores/Fondos → Otros.<br>- Mantener legibilidad en clases largas. | - Usar `@apply` para estilos reutilizables.<br>- Evitar clases condicionales en el HTML. - Usar clases de estado (hover, focus, etc.) en lugar de JavaScript para interacciones simples.<br> - Mantener la estructura de carpetas organizada y coherente.<br> - Reutilizar el máximo de clases de tailwind. |
+| **HTML** | - Usar etiquetas semánticas (`header`, `main`, `section`, etc.).<br>- Indentación de 2 espacios.<br>- Atributos entre comillas dobles `"`.<br>- Orden de atributos: `id`, `class` → accesibilidad (`aria-*`) → funcionales (`src`, `href`, `alt`).<br>- Nombres en kebab-case (`main-section`). | - Mantener el HTML limpio y libre de código comentado.<br>- Usar comentarios para secciones complejas o importantes.<br> - Usar `data-*` atributos para información adicional.<br> - Evitar el uso de inline styles. |
+| **TypeScript** | - Variables/funciones en `camelCase`.<br>- Clases/interfaces en `PascalCase`.<br>- Constantes en `UPPER_SNAKE_CASE`.<br>- Tipado obligatorio en variables, parámetros y retornos.<br>- Ordenar imports de externos a internos. | - Usar `readonly` para propiedades que no deben cambiar.<br>- Preferir funciones puras y evitar efectos secundarios.<br> - Usar destructuración para extraer valores de objetos y arrays. |
+| **Astro** | - Archivos `.astro` en `PascalCase`.<br>- Orden del archivo: frontmatter → HTML/JSX → estilos `\<style>`.<br>- Props siempre tipadas con TypeScript.<br>- Importaciones cortas y claras.<br>- Componentes pequeños y reutilizables. | - Mantener la lógica de los componentes en el archivo `.astro` y evitar la lógica compleja en el frontmatter. - Usar `Astro.fetch` para obtener datos de manera eficiente.<br> - Utilización de props para comunicación entre componentes. |
 
+
+### Front-End:
+
+**Resumen:** Como principales tecnologías, usaremos Vue.js, HTML, JavaScript y CSS. Componentes pequeños y tipados, comunicación clara por props/emits, y manejo de estado y APIs mantenible.
+
+| **Tecnología** | **Convención** | **Convenciones para código** |
+|----------------|----------------|------------------------------|
+| **HTML5** | Uso semántico de etiquetas (`header`, `main`, `section`, `footer`). Atributos en comillas dobles. Indentación de 2 espacios. | - Mantener el HTML limpio y libre de código comentado.<br>- Usar comentarios para secciones complejas o importantes.<br> - Usar `data-*` atributos para información adicional.<br> - Evitar el uso de inline styles. |
+| **CSS3** | Estilos modulares y reutilizables. Variables globales para colores/tipografía. Evitar `!important`. | - Usar BEM (Block Element Modifier) para nombrar clases.<br>- Mantener la especificidad baja y evitar selectores complejos.<br>- Utilizar preprocesadores como SASS o LESS si es necesario. |
+| **TypeScript** | - Variables/funciones en `camelCase`.<br>- Clases/interfaces en `PascalCase`.<br>- Constantes en `UPPER_SNAKE_CASE`.<br>- Tipado obligatorio en variables, parámetros y retornos.<br>- Ordenar imports de externos a internos. | - Usar `readonly` para propiedades que no deben cambiar.<br>- Preferir funciones puras y evitar efectos secundarios.<br> - Usar destructuración para extraer valores de objetos y arrays. |
+| **Angular** | - Componentes en `PascalCase`.<br>- Servicios en `camelCase`.<br>- Módulos en `PascalCase`.<br>- Uso de `@Input` y `@Output` para comunicación entre componentes. | - Mantener los componentes pequeños y enfocados en una sola responsabilidad.<br>- Utilzación de nuevas directivas como @if, @for o @else de Angular versión 20.<br>- No utilizar NgModules por nuevas recomendaciones de Angular versión 20. |
+
+### Back-End:
+
+**Resumen:** Como principales tecnologías, C# y .NET. Como principales tecnologías, se utilizarán C# y .NET, enfocándose en un código limpio, seguro y mantenible bajo buenas prácticas de arquitectura, nomenclatura, validación, seguridad y pruebas.
+
+| **Tecnología** | **Convención** | **Convenciones para código** |
+|----------------|----------------|------------------------------|
+| **Java** | Lenguaje principal. Usar sintaxis moderna (Java 17+), convenciones de nomenclatura estándar de Oracle, y programación orientada a objetos junto con patrones modernos (Streams, Optional, records, etc.). | - Mantener el código limpio y bien estructurado.<br>- Usar comentarios para explicar la lógica compleja.<br>- Seguir las convenciones de nomenclatura de Oracle. |
+| **Spring Boot** | Framework principal para el backend. Uso de **arquitectura en capas** (API, Application, Domain, Infrastructure). Enfoque en modularidad, mantenibilidad y soporte multiplataforma. | - Seguir las mejores prácticas de diseño de API REST.<br>- Utilizar anotaciones de validación para entradas de usuario.<br>- Implementar manejo de errores y excepciones de manera consistente. |
+| **Maven** | Herramienta de gestión y construcción del proyecto. Uso de un `pom.xml` bien estructurado para gestionar dependencias, plugins y perfiles de construcción. | - Mantener una estructura de proyecto coherente y organizada.<br>- Utilizar versiones específicas de dependencias para evitar conflictos.<br>- Documentar la configuración del `pom.xml` para facilitar su comprensión. |
+| **JUnit / Mockito** | Frameworks para pruebas unitarias y de integración. Enfoque en pruebas automatizadas, cobertura de código y pruebas basadas en comportamiento (BDD). | - Escribir pruebas claras y concisas.<br>- Utilizar mocks y stubs para aislar dependencias.<br>- Mantener una alta cobertura de pruebas. |
+| **Swagger / Swashbuckle** | Generación automática de documentación de la API REST. Versionado claro (`/api/v1`, `/api/v2`) y contratos visibles para clientes externos. | - Incluir ejemplos de solicitudes y respuestas en la documentación.<br>- Mantener la documentación actualizada con los cambios en la API.<br>- Utilizar herramientas de generación de documentación para automatizar el proceso. |
 
 ### 5.1.4. Software Deployment Configuration
+
+En esta sección se documenta el proceso de despliegue de la Landing Page y la Frontend Web Application utilizando GitHub y Vercel como plataforma de hosting.
+
+### **Despliegue de la Landing Page**
+
 Para que nuestra landing page esté disponible para todos nuestros usuarios, la publicamos como un sitio web utilizando la plataforma de GitHub. El proceso se llevó a cabo de la siguiente manera: 
 
 **1. Registro en GitHub**  
@@ -1476,6 +1571,7 @@ En pocos minutos, Vercel genera la URL pública del proyecto:
 [https://landing-page-pearl-kappa-37.vercel.app/](https://landing-page-pearl-kappa-37.vercel.app/)  
 
 Accedemos a esta dirección desde el navegador para confirmar que el sitio está activo y funcionando correctamente.  
+
 <img src="Assets/evidences/vercel_deployment_evidence.png">
 ---
 
@@ -1484,12 +1580,60 @@ Accedemos a esta dirección desde el navegador para confirmar que el sitio está
 - Vercel detecta automáticamente los cambios, vuelve a compilar el proyecto y lo despliega en línea.  
 - Los cambios estarán disponibles en producción en cuestión de segundos.  
 
+### **Despliegue del Frontend Web Applications**
+Para que nuestra Frontend Web Application esté disponible para todos nuestros usuarios, la publicamos como un sitio web utilizando la plataforma de GitHub. El proceso se llevó a cabo de la siguiente manera:
+**1. Registro en GitHub**  
+Creamos una cuenta en GitHub para poder gestionar los repositorios del proyecto y almacenar el código de la Frontend Web Application de **Prime-Fix**.
+**2. Creación del repositorio**  
+- Hicimos clic en el botón **“New”** para generar un nuevo repositorio
+- Le asignamos el nombre **“frontend”** dentro de nuestra organización **prime-fix**.
+
+<img src="Assets/evidences/frontend_github_evidence.png">
+
+**3. Configuración del repositorio**
+- Nos aseguramos de que el repositorio tenga visibilidad **pública** para permitir la integración con Vercel.
+- Añadimos un archivo `README.md` inicial y configuramos un `.gitignore`
+  adecuado para excluir archivos innecesarios.
+
+**4. Carga de los archivos de la Frontend Web Application**
+- Accedimos al repositorio creado.
+- Subimos los archivos generados del proyecto (HTML, CSS, TypeScript, Angular).
+- Verificamos que los cambios se hicieran en la rama principal (`master`).
+
+
+**5. Configuración en Vercel**
+- Iniciamos sesión en [Vercel](https://vercel.com).
+- Seleccionamos la opción **“New Project”** y vinculamos nuestra cuenta de GitHub.
+- Importamos el repositorio **frontend**.
+- Configuramos el framework en **Angular** (Vercel lo detecta automáticamente en la mayoría de los casos).
+- Definimos la rama de despliegue (`master`).
+- Colocamos todas las variables de entorno necesarias para el correcto funcionamiento de la aplicación.
+- Finalmente, hicimos clic en **“Deploy”** para iniciar el proceso de despliegue.
+
+<img src="Assets/evidences/vercel_frontend_evidence1.png">
+
+<img src="Assets/evidences/vercel_frontend_evidence2.png">
+
+
+
+**6. Verificación del sitio web**
+En pocos minutos, Vercel genera la URL pública del proyecto:
+[https://frontend-dusky-rho-85.vercel.app/](https://frontend-dusky-rho-85.vercel.app)
+Accedemos a esta dirección desde el navegador para confirmar que el sitio está activo y funcionando correctamente.
+
+<img src="Assets/evidences/vercel_frontend_deployment_evidence.png">
+
 ---
 
 ## 5.2. Landing Page, Services & Applications Implementation
 
 En esta sección se documenta el proceso de implementación, pruebas, documentación y despliegue del Landing Page, los Web Services y las Frontend Web Applications.
-Cada Sprint se registra con detalle en términos de producto, trabajo colaborativo y evidencias de revisión.
+Cada Sprint se registra con detalle en términos de producto, trabajo colaborativo y evidencias de revisión. Y se incluyen los siguientes apartados:
+- **Sprint Planning**: Detalles de la planificación del Sprint, incluyendo objetivos, historias de usuario y puntos de historia.
+- **Aspect Leaders and Collaborators**: Matriz de liderazgo y colaboración que asigna roles específicos a los miembros del equipo para cada aspecto del Sprint.
+- **Sprint Backlog**: Lista detallada de historias de usuario y tareas asignadas, junto con su estado actual.
+
+### 5.2.1. Sprint 1
 
 #### 5.2.1.1. Sprint Planning 1
 
@@ -1512,7 +1656,7 @@ Cada Sprint se registra con detalle en términos de producto, trabajo colaborati
 
 En esta sección se presenta la **Leadership-and-Collaboration Matrix (LACX)**.  
 Se indican los aspectos principales considerados en el Sprint, especificando quién asume el rol de **Líder (L)** y quiénes participan como **Colaboradores (C)**.  
-Esta organización asegura claridad en la comunicación y coherencia en la selección de tareas del Sprint.
+Esta organización asegura claridad en la comunicación y coherencia en la selección de tareas del Sprint. Cada miembro del equipo tiene asignado un rol específico para cada aspecto, facilitando la coordinación y el cumplimiento de los objetivos del Sprint.
 
 | **Team Member (Last Name, First Name)** | **GitHub Username** | **Landing Page** (L / C) | **Services** (L / C) | **Applications** (L / C) | **Deployment** (L / C) |
 |-----------------------------------------|---------------------|--------------------------|----------------------|--------------------------|------------------------|
@@ -1524,8 +1668,8 @@ Esta organización asegura claridad en la comunicación y coherencia en la selec
 
 #### 5.2.1.3. Sprint Backlog 1
 
-El Sprint Backlog 1 se centra en implementar las primeras funcionalidades de la solución, asegurando la construcción inicial de la **Landing Page**.  
-A continuación se muestra la tabla de control de estado para este Sprint.
+El Sprint Backlog 1 se centra en implementar las primeras funcionalidades de la solución, asegurando la construcción inicial de la **Landing Page**.
+A continuación, se detallan las **User Stories** y las **Tareas** asignadas a cada miembro del equipo, junto con su estado actual.
 
 | **Sprint #** | Sprint 1 |
 |--------------|----------|
@@ -1552,8 +1696,20 @@ A continuación se muestra la tabla de control de estado para este Sprint.
 
 #### 5.2.1.4. Development Evidence for Sprint Review
 
-En esta sección se presentan los avances de implementación relacionados con el Sprint, cubriendo los productos de la solución: **Landing Page**.  
-La tabla incluye los repositorios, ramas y commits más relevantes realizados durante el Sprint.
+En esta sección se presenta la evidencia detallada del desarrollo alcanzado durante el Sprint 1, enfocado en la implementación de la Landing Page de Prime-Fix. Durante este primer sprint, el equipo de FixTech se concentró en establecer los fundamentos técnicos y visuales de la plataforma web que conectará a dueños de vehículos con talleres confiables.
+
+El desarrollo se llevó a cabo utilizando tecnologías modernas y eficientes, empleando Astro como framework principal, combinado con TypeScript para garantizar robustez en el código, y TailwindCSS para un diseño responsivo y consistente. Esta selección tecnológica permitió construir una página web rápida, limpia y bien estructurada, sin depender excesivamente de frameworks externos pesados.
+
+Las principales funcionalidades implementadas durante este sprint abarcan desde la estructura básica de navegación hasta características avanzadas de experiencia de usuario. Se estableció una arquitectura sólida que incluye la implementación de componentes reutilizables, un sistema de enrutamiento eficiente, y la integración de estilos globales que reflejan la identidad visual de Prime-Fix definida previamente en las guías de estilo.
+
+El trabajo de desarrollo se organizó siguiendo las mejores prácticas de versionado con Git Flow, donde cada funcionalidad fue desarrollada en ramas específicas y posteriormente integrada a través de pull requests debidamente revisados. Esto garantizó la calidad del código y la colaboración efectiva entre los miembros del equipo, cada uno especializado en diferentes aspectos del desarrollo front-end.
+
+Adicionalmente, se implementaron mejoras significativas en diseño responsive para asegurar una experiencia óptima en diferentes dispositivos, optimizaciones de rendimiento para cargas rápidas de página, y consideraciones de accesibilidad web siguiendo estándares WCAG para garantizar que la plataforma sea inclusiva para todos los usuarios potenciales de Prime-Fix.
+
+- Primera funcionalidad: Internacionalización (i18n) para múltiples idiomas (ES/EN).
+- Segunda funcionalidad: Botón de cambio de tema (modo claro/oscuro).
+- Tercera funcionalidad: Secciones iniciales (Bienvenida, Servicios, Cómo funciona, Contacto).
+- Otras mejoras: Ajustes de diseño responsive, optimización de rendimiento y accesibilidad.
 
 | **Repository**              | **Branch**            | **Commit Id** | **Commit Message**                | **Commit Message Body**                                | **Committed on (Date)** |
 |------------------------------|-----------------------|---------------|-----------------------------------|--------------------------------------------------------|--------------------------|
@@ -1564,7 +1720,19 @@ La tabla incluye los repositorios, ramas y commits más relevantes realizados du
 
 #### 5.2.1.5. Execution Evidence for Sprint Review
 
-Se completó la primera versión de la Landing Page con sección de bienvenida, navegación y estructura inicial de servicios.  
+Durante el Sprint 1, el equipo de FixTech logró completar exitosamente los objetivos establecidos para el desarrollo inicial de la Landing Page de Prime-Fix. Este sprint representó un hito fundamental en la materialización de la visión del producto, estableciendo las bases sólidas para la plataforma que conectará a dueños de vehículos con talleres confiables.
+
+**Resumen de Logros Alcanzados:**
+
+El sprint culminó con la implementación completa de una Landing Page funcional y visualmente atractiva que incorpora todas las características esenciales definidas en las historias de usuario prioritarias. Se estableció una base tecnológica robusta utilizando Astro como framework principal, complementado con TypeScript para garantizar la calidad del código y TailwindCSS para lograr un diseño responsive y moderno.
+
+Los principales logros incluyen la implementación exitosa del sistema de internacionalización que permite a los usuarios alternar entre español e inglés, garantizando accesibilidad para nuestros segmentos objetivo. Adicionalmente, se desarrolló un sistema de cambio de tema que ofrece modos claro y oscuro, mejorando significativamente la experiencia de usuario y la accesibilidad.
+
+La Landing Page resultante presenta una estructura clara y profesional que comunica efectivamente la propuesta de valor de Prime-Fix. Se implementaron secciones clave como la presentación de servicios principales, explicación del proceso de funcionamiento, características detalladas del producto, e información de contacto con múltiples canales de comunicación.
+
+**Evidencias Visuales del Producto Implementado:**
+
+A continuación se presentan las capturas de pantalla que demuestran la funcionalidad completa de la Landing Page en sus diferentes configuraciones de idioma y tema:
 
 Landing Page modo claro en inglés:
 <img src="Assets/evidences/landing_evidence_1.png">
@@ -1584,16 +1752,82 @@ No aplica por que el Sprint se centró en la Landing Page.
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
-- Se configuró un pipeline de CI/CD en GitHub Actions.  
-- Se desplegó la Landing Page en Vercel con integración automática desde la rama main.  
-- Se validaron configuraciones de DNS y HTTPS.  
+Durante el Sprint 1, se implementó una estrategia de despliegue continuo para la Landing Page de Prime-Fix, estableciendo un flujo de trabajo automatizado que garantiza la entrega rápida y confiable de nuevas funcionalidades. El proceso de despliegue se diseñó con el objetivo de minimizar el tiempo de inactividad y maximizar la eficiencia del equipo de desarrollo.
 
-<img src="Assets/evidences/vercel_deployment_evidence.png">
+**Estrategia de Despliegue Implementada:**
+
+Se adoptó una arquitectura de despliegue moderno utilizando Vercel como plataforma de hosting, aprovechando sus capacidades de integración continua y entrega continua (CI/CD). Esta elección tecnológica permite despliegues automáticos, rollbacks instantáneos y una infraestructura escalable que se adapta perfectamente a las necesidades del proyecto Prime-Fix.
+
+**Pasos Detallados del Proceso de Despliegue:**
+
+**1. Configuración del Pipeline de CI/CD:**
+- Se estableció un pipeline automatizado en GitHub Actions que se activa con cada push a la rama `development`.
+- El pipeline incluye validaciones de código, pruebas automatizadas y verificación de build antes del despliegue.
+- Se configuraron hooks pre-commit para garantizar la calidad del código antes de la integración.
+
+**2. Integración con Vercel:**
+- Se vinculó el repositorio `prime-fix/landing-page` con la plataforma Vercel mediante OAuth.
+- Se configuró la detección automática del framework Astro para optimizar el proceso de build.
+- Se estableció la rama `development` como fuente principal para despliegues de producción.
+
+**3. Pruebas de Despliegue:**
+- Se realizaron pruebas de carga para verificar el rendimiento de la aplicación.
+- Se validó la correcta visualización en diferentes dispositivos y navegadores.
+- Se confirmó el funcionamiento de todas las funcionalidades implementadas en el entorno de producción.
+
+**Resultado del Despliegue:**
+
+La Landing Page de Prime-Fix se encuentra actualmente disponible en producción en la URL: [https://landing-page-pearl-kappa-37.vercel.app/](https://landing-page-pearl-kappa-37.vercel.app/), ofreciendo una experiencia de usuario optimizada y completamente funcional.
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 
-- El equipo trabajó con ramas **development/** y revisiones vía **pull requests**.  
-- Cada miembro realizó commits relacionados con su área principal.  
+Durante el Sprint 1, el equipo de FixTech demostró una excelente coordinación y colaboración efectiva, estableciendo un flujo de trabajo que maximizó la productividad individual mientras mantenía la coherencia del proyecto. La implementación de metodologías ágiles y herramientas de versionado modernas facilitó una colaboración fluida entre todos los miembros del equipo.
+
+**Metodología de Desarrollo Colaborativo:**
+
+El equipo adoptó una estrategia de desarrollo basada en Git Flow, donde cada funcionalidad se desarrolló en ramas específicas antes de ser integrada al código principal. Esta metodología garantizó la estabilidad del código base mientras permitía el desarrollo paralelo de múltiples características.
+
+**Organización y Distribución del Trabajo:**
+
+La colaboración se estructuró siguiendo la matriz LACX (Leadership and Collaboration Matrix) establecida al inicio del sprint, donde César Aróstegui asumió el liderazgo de la Landing Page y el despliegue, mientras que otros miembros contribuyeron como colaboradores especializados en diferentes aspectos técnicos.
+
+**Actividades de Implementación Desarrolladas:**
+
+**1. Flujo de Trabajo con Ramas:**
+- Cada desarrollador trabajó en ramas feature específicas (`feature/internationalization`, `feature/theme-toggle`, `feature/responsive-design`).
+- Se implementó un sistema de nomenclatura consistente para las ramas siguiendo el patrón `feature/[descripción-funcionalidad]`.
+- Las ramas de desarrollo se mantuvieron sincronizadas con `development` mediante rebase periódicos.
+
+**2. Proceso de Revisión de Código:**
+- Todos los cambios pasaron por un proceso de revisión mediante pull requests antes de ser integrados.
+- Se establecieron criterios de aprobación que requerían al menos una revisión de otro miembro del equipo.
+- Las revisiones incluyeron verificación de estándares de código, funcionalidad y compatibilidad.
+
+**3. Comunicación y Coordinación:**
+- Se realizaron reuniones diarias de sincronización vía Discord para coordinar avances y resolver bloqueos.
+- Se utilizó un sistema de asignación de tareas clara donde cada miembro tenía responsabilidades específicas.
+- Se mantuvo documentación actualizada de decisiones técnicas y cambios de diseño.
+
+**4. Integración Continua:**
+- Los commits se realizaron de manera frecuente con mensajes descriptivos siguiendo convenciones semánticas.
+- Se implementaron hooks de pre-commit para validar la calidad del código antes de la integración.
+- Cada integración a la rama `development` activaba automáticamente el pipeline de despliegue.
+
+**5. Gestión de Conflictos y Resolución de Problemas:**
+- Se establecieron protocolos claros para la resolución de conflictos de merge.
+- Los problemas técnicos se documentaron y resolvieron colaborativamente mediante sesiones de pair programming cuando fue necesario.
+- Se mantuvo un registro de lecciones aprendidas para mejorar procesos futuros.
+
+**Métricas de Colaboración:**
+
+El análisis de los commits muestra una distribución equilibrada del trabajo entre los miembros del equipo, con un total de 4 commits principales que implementaron las funcionalidades core del sprint. La frecuencia de commits y la calidad de los mensajes demuestran un proceso de desarrollo disciplinado y bien organizado.
+
+**Herramientas de Colaboración Utilizadas:**
+
+- **GitHub:** Para control de versiones, revisión de código y gestión de pull requests
+- **Discord:** Para comunicación en tiempo real y reuniones de equipo
+- **Vercel:** Para despliegues automatizados y preview de cambios
+
 <img src="Assets/evidences/landing_repository_evidence.png">
 
 ## 5.3. Validation Interviews
@@ -1646,3 +1880,25 @@ Link del repositorio de Github del RESTful Web Services: [https://github.com/pri
 Link de la Landing Page: [https://landing-page-pearl-kappa-37.vercel.app/](https://landing-page-pearl-kappa-37.vercel.app/)
 
 Link del Diagrama de Clases: [https://lucid.app/lucidchart/a5dcb0f8-65f4-41c3-986a-8c6f758cf58c/edit?viewport_loc=1867%2C14304%2C9812%2C4039%2ChPaR5Cs4a9aQ&invitationId=inv_f24412cc-190d-48c4-a4b1-e6d6a94fb303](https://lucid.app/lucidchart/a5dcb0f8-65f4-41c3-986a-8c6f758cf58c/edit?viewport_loc=1867%2C14304%2C9812%2C4039%2ChPaR5Cs4a9aQ&invitationId=inv_f24412cc-190d-48c4-a4b1-e6d6a94fb303)
+
+Link oficial de Github: [https://github.com](https://github.com)
+
+Link oficial de Angular: [https://angular.io/](https://angular.io/)
+
+Link oficial de Tailwind CSS: [https://tailwindcss.com/](https://tailwindcss.com/)
+
+Link oficial de Astro: [https://astro.build/](https://astro.build/)
+
+Link oficial de la documentación de Mozilla para HTML: [https://developer.mozilla.org/es/docs/Web/HTML](https://developer.mozilla.org/es/docs/Web/HTML)
+
+Link oficial de la documentación de Mozilla para CSS: [https://developer.mozilla.org/es/docs/Web/CSS](https://developer.mozilla.org/es/docs/Web/CSS)
+
+Link oficial de la documentación de Mozilla para TypeScript: [https://www.typescriptlang.org/docs/](https://www.typescriptlang.org/docs/)
+
+Link oficial de la documentación de Mozilla para Java: [https://docs.oracle.com/en/java/](https://docs.oracle.com/en/java/)
+
+Link oficial de Spring Boot: [https://spring.io/projects/spring-boot](https://spring.io/projects/spring-boot)
+
+Link oficial de Visual Studio Code: [https://code.visualstudio.com/](https://code.visualstudio.com/)
+
+Link oficial de UXPressia: [https://uxpressia.com/](https://uxpressia.com/)
