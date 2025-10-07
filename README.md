@@ -2009,21 +2009,339 @@ El análisis de los commits muestra una distribución equilibrada del trabajo en
 
 ### 5.2.2. Sprint 2
 
+Se documenta el proceso de implementación, pruebas, documentación y despliegue del segundo Sprint, enfocado en la construcción de la Frontend Web Application de Prime-Fix. Este sprint se centra en desarrollar las interfaces de usuario principales utilizando Angular y TypeScript, asegurando una experiencia fluida y atractiva para ambos segmentos objetivo: dueños de vehículos y talleres. 
+
 #### 5.2.2.1. Sprint Planning 2
+
+| **Sprint #** | Sprint 2 |
+|--------------|----------|
+| **Sprint Planning Background** | |
+| **Date** | 2025-10-07 |
+| **Time** | 08:00 PM |
+| **Location** | Virtual (Discord) |
+| **Prepared By** | Aróstegui Alzamora, César Augusto |
+| **Attendees (to planning meeting)** | Aróstegui Alzamora, César Augusto / Jiménez Guerra, Gianmarco Fabian / Montoya Torres, Alexander Gabriel / Tenorio Medina, Piero Francesco / Navarro Chang, Alicia Avril / Julca Cruz, Renso Anthony |
+| **Sprint 1 Review Summary** | Se completó exitosamente la implementación de la Landing Page con funcionalidades básicas de internacionalización, cambio de tema y secciones principales. Se logró el despliegue en Vercel y se estableció la base técnica del proyecto. |
+| **Sprint 1 Retrospective Summary** | El equipo identificó la necesidad de mejorar la comunicación durante el desarrollo y establecer mejores prácticas para la integración de código. Se destacó el buen trabajo en la implementación de componentes reutilizables y el diseño responsive. |
+| **Sprint Goal & User Stories** | |
+| **Sprint 2 Goal** | Desarrollar e implementar la Frontend Web Application de Prime-Fix utilizando Angular y TypeScript, creando las interfaces de usuario principales para ambos segmentos objetivo y estableciendo la integración con la Landing Page. |
+| **Sprint 2 Velocity** | 42 Story Points |
+| **Sum of Story Points** | 42 Story Points |
 
 #### 5.2.2.2. Aspect Leaders and Collaborators
 
+En esta sección se presenta la **Leadership-and-Collaboration Matrix (LACX)** para el Sprint 2, enfocada en el desarrollo de los bounded contexts del backend y la implementación de la arquitectura de microservicios. Esta matriz define los roles y responsabilidades de cada miembro del equipo durante el desarrollo de los Web Services RESTful.
+
+**Principales Aspectos Considerados en el Sprint 2:**
+
+Para el Sprint 2, se han identificado cuatro aspectos fundamentales que abarcan el desarrollo frontend completo:
+
+**Frontend Development (Desarrollo de Interfaces):** Este aspecto engloba el desarrollo de la aplicación web utilizando Angular, incluyendo la implementación de componentes, servicios, guards, interceptors y páginas principales. Es el componente principal del Sprint 2.
+
+**UI/UX Implementation (Implementación de Diseño):** Comprende la traducción de wireframes y mockups a interfaces funcionales, implementación de diseño responsive y experiencia de usuario optimizada.
+
+**Navigation & Routing (Navegación y Enrutamiento):** Incluye la configuración del sistema de navegación entre páginas, guards de autenticación y flujos de navegación para ambos segmentos de usuarios.
+
+**Integration & Deployment (Integración y Despliegue):** Abarca la integración con la Landing Page, configuración de variables de entorno y despliegue de la aplicación frontend.
+
+| **Team Member (Last Name, First Name)** | **GitHub Username** | **Frontend Development** (L / C) | **UI/UX Implementation** (L / C) | **Navigation & Routing** (L / C) | **Integration & Deployment** (L / C) |
+|-----------------------------------------|---------------------|----------------------------------|-----------------------------------|-----------------------------------|--------------------------------------|
+| Aróstegui Alzamora, César Augusto        | Legendnt1             | L                                | C                                 | L                                 | L                                    |
+| Jiménez Guerra, Gianmarco Fabián         | ZAICO21             | C                                | L                                 | C                                 | C                                    |
+| Tenorio Medina, Piero Francesco          | PieroTM2005             | C                                | C                                 | C                                 | C                                    |
+| Navarro Chang, Alicia Avril              | Alice-keys             | C                                | C                                 | C                                 | C                                    |
+| Montoya Torres, Alexander Gabriel        | gabrielito4334             | C                                | C                                 | C                                 | C                                    |
+| Julca Cruz, Renso Anthony                | rensojulcacruz             | C                                | C                                 | C                                 | C                                    |
+
 #### 5.2.2.3. Sprint Backlog 2
+
+El Sprint Backlog 2 se centra en la implementación completa de la Frontend Web Application, desarrollando las interfaces de usuario principales y estableciendo la conexión con la Landing Page para ambos segmentos objetivo de Prime-Fix.
+
+| **Sprint #** | Sprint 2 |
+|--------------|----------|
+
+| **User Story Id** | **User Story Title**                           | **Task Id** | **Task Title**                        | **Description**                                                                 | **Estimation (Hours)** | **Assigned To** | **Status** |
+|-------------------|-------------------------------------------------|-------------|---------------------------------------|---------------------------------------------------------------------------------|------------------------|-----------------|------------|
+| US-36      | Ingreso con nombre de usuario                    | T-01        | Implementar página de login           | Crear componente de autenticación con formulario de login y validaciones        | 6                     | César           | Done      |
+| US-36      | Ingreso con nombre de usuario                    | T-02        | Configurar guards de autenticación    | Implementar guards para proteger rutas y validar sesiones de usuario            | 4                     | César           | Done      |
+| US-36      | Ingreso con nombre de usuario                    | T-03        | Implementar gestión de sesiones       | Desarrollar sistema de almacenamiento de tokens y validación de sesión          | 4                     | César           | Done      |
+| US-40      | Registro de cuenta con campos comprensibles      | T-04        | Desarrollar página de registro        | Crear formulario de registro con validaciones y campos intuitivos               | 6                     | Gianmarco       | Done      |
+| US-40      | Registro de cuenta con campos comprensibles      | T-05        | Implementar validaciones de formulario | Agregar validaciones cliente-side para campos de registro                       | 4                     | Gianmarco       | Done      |
+| US-40      | Registro de cuenta con campos comprensibles      | T-06        | Configurar confirmación de registro   | Implementar sistema de confirmación y redirección post-registro                 | 3                     | Gianmarco       | Done      |
+| US-18      | Edición del perfil                               | T-07        | Crear página de perfil de usuario     | Desarrollar interfaz para visualizar y editar información del perfil            | 6                     | Alicia          | Done      |
+| US-18      | Edición del perfil                               | T-08        | Implementar validaciones de perfil    | Agregar validaciones para campos de perfil y datos personales                   | 4                     | Alicia          | Done      |
+| US-19      | Visualización de talleres con requerimientos      | T-09        | Implementar página de búsqueda de talleres | Crear componente de búsqueda con filtros y resultados                          | 8                     | Alexander       | Done      |
+| US-19      | Visualización de talleres con requerimientos      | T-10        | Desarrollar componente de filtros     | Implementar sistema de filtros por ubicación, servicios y calificaciones        | 6                     | Alexander       | Done      |
+| US-19      | Visualización de talleres con requerimientos      | T-11        | Integrar sistema de paginación       | Desarrollar paginación y lazy loading para resultados de búsqueda               | 4                     | Alexander       | Done      |
+| US-21      | Visualización de reseñas de talleres              | T-12        | Crear componente de reseñas           | Desarrollar sistema de visualización de calificaciones y comentarios            | 5                     | Piero           | Done      |
+| US-21      | Visualización de reseñas de talleres              | T-13        | Implementar sistema de calificaciones | Crear interfaz para mostrar ratings y estadísticas de talleres                  | 4                     | Piero           | Done      |
+| US-22      | Selección de vehículo registrado                  | T-14        | Implementar gestión de vehículos      | Crear CRUD para registro y selección de vehículos del usuario                   | 8                     | Renso           | Done      |
+| US-22      | Selección de vehículo registrado                  | T-15        | Desarrollar formulario de vehículos   | Crear formularios para agregar y editar información de vehículos                | 6                     | Renso           | Done      |
+| US-23      | Selección de fecha y hora                         | T-16        | Desarrollar calendario de citas       | Implementar componente de calendario para selección de fechas y horarios        | 8                     | César           | Done      |
+| US-23      | Selección de fecha y hora                         | T-17        | Configurar disponibilidad horaria     | Implementar sistema de gestión de horarios disponibles de talleres              | 6                     | César           | Done      |
+| US-27      | Visualización de estado y avance                  | T-18        | Crear dashboard de seguimiento        | Desarrollar interfaz para monitorear estado y progreso de servicios             | 8                     | Gianmarco       | Done      |
+| US-27      | Visualización de estado y avance                  | T-19        | Implementar notificaciones de estado  | Desarrollar sistema de notificaciones en tiempo real para cambios de estado     | 5                     | Gianmarco       | Done      |
+| US-25      | Visualización de solicitudes disponibles          | T-20        | Implementar panel de gestión talleres | Crear interfaz para que talleres gestionen solicitudes de servicio              | 8                     | Alicia          | Done      |
+| US-25      | Visualización de solicitudes disponibles          | T-21        | Desarrollar filtros de solicitudes    | Implementar filtros para organizar solicitudes por estado, fecha y tipo         | 5                     | Alicia          | Done      |
+| US-13      | Adición de información general del taller         | T-22        | Desarrollar registro de talleres      | Crear formulario para registro y gestión de información de talleres             | 6                     | Alexander       | Done      |
+| US-13      | Adición de información general del taller         | T-23        | Implementar validaciones de taller    | Agregar validaciones para información básica de talleres                        | 4                     | Alexander       | Done      |
+| US-16      | Acceso rápido desde pantalla principal            | T-24        | Implementar navegación principal      | Desarrollar sistema de navegación y menús principales de la aplicación          | 6                     | Piero           | Done      |
+| US-16      | Acceso rápido desde pantalla principal            | T-25        | Crear componentes de acceso rápido    | Desarrollar shortcuts y botones de acceso directo a funcionalidades            | 4                     | Piero           | Done      |
+| US-11      | Botón de cambio de idioma                        | T-26        | Configurar internacionalización      | Implementar sistema i18n para soporte multiidioma (ES/EN)                       | 5                     | Renso           | Done      |
+| US-11      | Botón de cambio de idioma                        | T-27        | Implementar persistencia de idioma    | Desarrollar almacenamiento de preferencia de idioma del usuario                 | 3                     | Renso           | Done      |
+| US-12      | Botón de cambio de tema visual                   | T-28        | Implementar cambio de tema            | Desarrollar toggle para cambio entre modo claro y oscuro                        | 4                     | César           | Done      |
+| US-12      | Botón de cambio de tema visual                   | T-29        | Configurar persistencia de tema       | Implementar almacenamiento de preferencia de tema del usuario                   | 3                     | César           | Done      |
+| US-07      | Call-to-action prominente                        | T-30        | Integrar enlace desde Landing Page   | Agregar enlaces desde Landing Page hacia la aplicación web                      | 3                     | Gianmarco       | Done      |
+| US-07      | Call-to-action prominente                        | T-31        | Optimizar conversión de usuarios     | Implementar tracking y análisis de conversión desde landing page               | 4                     | Gianmarco       | Done      |
 
 #### 5.2.2.4. Development Evidence for Sprint Review
 
+En esta sección se presenta la evidencia detallada del desarrollo alcanzado durante el Sprint 2, enfocado en la implementación de la Frontend Web Application de Prime-Fix utilizando Angular y TypeScript. Durante este segundo sprint, el equipo de FixTech se concentró en desarrollar las interfaces de usuario principales que conectarán a los dos segmentos objetivo con las funcionalidades core de la plataforma.
+
+El desarrollo se llevó a cabo utilizando Angular como framework principal, junto con TypeScript para garantizar robustez en el código y HTML/CSS para la estructura y estilos. Se implementó una arquitectura de componentes reutilizables siguiendo las mejores prácticas de Angular, con separación clara entre componentes de presentación, servicios de lógica de negocio, guards de navegación e interceptors para manejo de HTTP.
+
+Las principales funcionalidades implementadas durante este sprint abarcan todas las interfaces necesarias para que tanto dueños de vehículos como asesores de talleres puedan interactuar eficientemente con Prime-Fix. Se desarrollaron componentes modulares y reutilizables, implementando lazy loading para optimizar el rendimiento y una experiencia de usuario fluida y responsive.
+
+El trabajo de desarrollo se organizó siguiendo las mejores prácticas de desarrollo frontend, implementando componentes standalone según las nuevas recomendaciones de Angular, gestión de estado reactiva con RxJS, validaciones de formularios robustas y diseño responsive que funciona óptimamente en desktop, tablet y móvil.
+
+Se estableció la integración completa con la Landing Page existente, agregando enlaces directos que permiten a los usuarios navegar fluidamente desde la página de presentación hacia la aplicación web funcional. La configuración incluye internacionalización (i18n), cambio de tema dinámico y optimización de rendimiento con lazy loading.
+
+Funcionalidades principales desarrolladas:
+- **Autenticación y Registro**: Sistema completo de login, registro y gestión de sesiones de usuario
+- **Gestión de Perfil**: Interfaces para visualizar y editar información personal de usuarios
+- **Búsqueda de Talleres**: Sistema avanzado de búsqueda con filtros y visualización de resultados
+- **Gestión de Vehículos**: CRUD completo para registro y administración de vehículos del usuario
+- **Sistema de Citas**: Calendario interactivo para programación de servicios de mantenimiento
+- **Panel de Seguimiento**: Dashboard para monitorear el estado y progreso de servicios activos
+- **Gestión de Talleres**: Interfaz administrativa para que talleres gestionen sus servicios y solicitudes
+
+| **Repository** | **Branch** | **Commit Id** | **Commit Message** | **Commit Message Body** | **Committed on (Date)** |
+|----------------|------------|---------------|--------------------|-----------------------|-------------------------|
+| [frontend](https://github.com/prime-fix/frontend) | feature/authentication | [commit_id] | feat(auth): implement login and registration pages | Added complete authentication system with login/register forms, validation and user session management | 07/10/2025 |
+| [frontend](https://github.com/prime-fix/frontend) | feature/user-profile | [commit_id] | feat(profile): implement user profile management | Developed user profile component with edit capabilities and form validations | 07/10/2025 |
+| [frontend](https://github.com/prime-fix/frontend) | feature/workshop-search | [commit_id] | feat(search): implement workshop search and filtering | Created advanced search functionality with multiple filters and results display | 07/10/2025 |
+| [frontend](https://github.com/prime-fix/frontend) | feature/vehicle-management | [commit_id] | feat(vehicles): implement vehicle CRUD operations | Added complete vehicle management system with registration and selection capabilities | 07/10/2025 |
+| [frontend](https://github.com/prime-fix/frontend) | feature/appointment-system | [commit_id] | feat(appointments): implement appointment scheduling | Developed interactive calendar component for service appointment booking | 07/10/2025 |
+| [frontend](https://github.com/prime-fix/frontend) | feature/tracking-dashboard | [commit_id] | feat(tracking): implement service tracking dashboard | Created comprehensive dashboard for monitoring service status and progress | 07/10/2025 |
+| [frontend](https://github.com/prime-fix/frontend) | feature/workshop-management | [commit_id] | feat(workshops): implement workshop admin panel | Added workshop management interface for service providers and request handling | 07/10/2025 |
+| [frontend](https://github.com/prime-fix/frontend) | feature/navigation-routing | [commit_id] | feat(nav): implement navigation system and routing | Configured complete navigation system with guards, lazy loading and route protection | 07/10/2025 |
+| [frontend](https://github.com/prime-fix/frontend) | feature/internationalization | [commit_id] | feat(i18n): implement multilingual support | Added internationalization support for Spanish and English languages | 07/10/2025 |
+| [frontend](https://github.com/prime-fix/frontend) | feature/theme-system | [commit_id] | feat(theme): implement light/dark theme toggle | Developed dynamic theme switching system with user preference persistence | 07/10/2025 |
+| [landing-page](https://github.com/prime-fix/landing-page) | feature/app-integration | [commit_id] | feat(integration): add links to frontend application | Integrated call-to-action buttons linking to the main web application | 07/10/2025 |
+
 #### 5.2.2.5. Execution Evidence for Sprint Review
+
+Durante el Sprint 2, se logró la implementación exitosa y el despliegue de la Frontend Web Application de Prime-Fix, estableciendo una interfaz de usuario completa y funcional que conecta ambos segmentos objetivo con las funcionalidades principales de la plataforma.
+
+**Principales logros del Sprint 2:**
+
+1. **Aplicación Web Completa**: Se desarrolló una aplicación Angular funcional con todas las páginas y componentes necesarios para ambos tipos de usuarios (dueños de vehículos y talleres).
+
+2. **Experiencia de Usuario Optimizada**: Interfaces responsive y intuitivas que funcionan perfectamente en desktop, tablet y móvil con diseño consistente y accesible.
+
+3. **Sistema de Navegación Robusto**: Implementación completa de routing con guards de autenticación, lazy loading y protección de rutas sensibles.
+
+4. **Funcionalidades Interactivas**: Componentes dinámicos incluyendo calendarios, filtros de búsqueda, dashboards de seguimiento y formularios con validaciones en tiempo real.
+
+5. **Integración con Landing Page**: Enlaces funcionales desde la landing page hacia la aplicación web, creando un flujo de usuario continuo y sin fricciones.
+
+**Funcionalidades implementadas y desplegadas:**
+
+- **Sistema de Autenticación**: Login, registro y gestión de sesiones con validaciones completas
+- **Gestión de Perfil**: Interfaces para visualizar y editar información personal y preferencias
+- **Búsqueda de Talleres**: Sistema avanzado con filtros por ubicación, servicios, calificaciones y disponibilidad
+- **Gestión de Vehículos**: CRUD completo para registro, edición y selección de vehículos
+- **Sistema de Citas**: Calendario interactivo con selección de fechas, horarios y servicios
+- **Dashboard de Seguimiento**: Monitoreo en tiempo real del estado y progreso de servicios
+- **Panel Administrativo**: Herramientas para talleres para gestionar solicitudes y servicios
+
+**Screenshots de la aplicación en funcionamiento:**
+
+<img src="[image_path]">
+*Página principal de la aplicación web con navegación y funcionalidades principales*
+
+<img src="[image_path]">  
+*Sistema de búsqueda de talleres con filtros avanzados y resultados*
+
+<img src="[image_path]">
+*Dashboard de seguimiento de servicios para usuarios*
+
+<img src="[image_path]">
+*Panel de gestión para talleres con solicitudes pendientes*
+
+**Enlaces de despliegue:**
+- Frontend Application: [frontend_url]
+- Landing Page: [landing_page_url]
+- Application Demo: [demo_url]
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
+Durante el Sprint 2, se desarrolló documentación técnica comprehensiva para la Frontend Web Application implementada. La documentación incluye guías de componentes, patrones de diseño implementados y guías de mantenimiento para facilitar el desarrollo futuro y la colaboración del equipo.
+
+**Documentación de Frontend generada:**
+
+La aplicación cuenta con documentación completa que incluye:
+- Especificación de componentes con props y eventos soportados
+- Guías de estilo y patrones de diseño implementados
+- Estructura de navegación y routing configuration
+- Validaciones de formularios y manejo de errores
+- Guías de internacionalización y cambio de tema
+- Ejemplos de uso y casos de testing
+
+**Módulos principales documentados:**
+
+1. **Authentication Module**
+   - Componentes: Login, Register,
+   - Funcionalidades: Login, registro, gestión de sesiones
+
+2. **User Management Module** 
+   - Componentes: Profile, EditProfile, UserDashboard
+   - Funcionalidades: Gestión de perfil, edición de datos, dashboard personal
+
+3. **Workshop Search Module**
+   - Componentes: Search, Filter, WorkshopList
+   - Funcionalidades: Búsqueda avanzada, filtros dinámicos, resultados paginados
+
+4. **Vehicle Management Module**
+   - Componentes: VehicleList, AddVehicle, VehicleDetail
+   - Funcionalidades: CRUD de vehículos, selección, gestión de información técnica
+
+5. **Appointment System Module**
+   - Componentes: Calendar, AppointmentForm, TimeSlot
+   - Funcionalidades: Calendario interactivo, reserva de citas, gestión de horarios
+
+6. **Tracking Dashboard Module**
+   - Componentes: Tracking State, Notification View, Progress Bar
+   - Funcionalidades: Seguimiento en tiempo real, visualización de estados, notificaciones
+
+**Evidencia de documentación:**
+
+<img src="[frontend_docs_screenshot_1]">
+*Documentación de componentes principales de la aplicación*
+
+<img src="[frontend_docs_screenshot_2]">
+*Guía de estructura de módulos y servicios implementados*
+
+<img src="[frontend_docs_screenshot_3]">
+*Documentación de patrones de diseño y estilo aplicados*
+
+<img src="[frontend_docs_screenshot_4]">
+*Guías de navegación y configuración de routing*
+
+**URLs de documentación:**
+- Component Documentation: [components_docs_url]
+- Style Guide: [style_guide_url]  
+- Development Guide: [dev_guide_url]
+
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review
 
+Durante el Sprint 2, se estableció la infraestructura completa de despliegue para la Frontend Web Application de Prime-Fix, implementando un pipeline de CI/CD automatizado y configurando ambientes de desarrollo, staging y producción con integración completa a la Landing Page.
+
+**Infraestructura de despliegue implementada:**
+
+1. **Repositorio y Control de Versiones**
+   - GitHub como repositorio principal con organización prime-fix
+   - Implementación de GitFlow para gestión de ramas del frontend
+   - Configuración de branch protection rules en main y develop
+
+2. **Pipeline CI/CD**
+   - GitHub Actions para automatización de build y deploy de Angular
+   - Pruebas automatizadas de componentes en cada pull request
+   - Build optimizado con Angular CLI y tree-shaking
+   - Despliegue automático a staging desde develop branch
+   - Deploy manual controlado a producción desde main branch
+
+3. **Plataforma de Hosting**
+   - Despliegue en Vercel para aplicación Angular
+   - Configuración de variables de entorno para diferentes ambientes
+   - SSL/TLS automático para conexiones seguras
+   - CDN global para optimización de carga
+   - Monitoreo de performance y analytics
+
+4. **Integración con Landing Page**
+   - Enlaces directos desde Landing Page hacia aplicación web
+   - Configuración de rutas y redirecciones optimizadas
+   - Consistencia visual entre Landing Page y aplicación
+   - Tracking de conversión desde landing hacia app
+
+**Evidencia de despliegue:**
+
+<img src="[deployment_screenshot_1]">
+*Panel de control de la plataforma de hosting mostrando el estado del despliegue*
+
+<img src="[deployment_screenshot_2]">
+*Configuración de variables de entorno en el ambiente de producción*
+
+<img src="[deployment_screenshot_3]">
+*Logs del sistema mostrando el arranque exitoso de todos los bounded contexts*
+
+<img src="[deployment_screenshot_4]">
+*Health check endpoint confirmando el estado operativo de los servicios*
+
+**URLs de los ambientes desplegados:**
+
+- **Producción**: [production_frontend_url]
+  - Landing Page: [production_landing_url]
+  - Application Demo: [production_demo_url]
+
+- **Staging**: [staging_frontend_url]  
+  - Landing Page: [staging_landing_url]
+  - Application Demo: [staging_demo_url]
+
+**Configuración de monitoreo:**
+- Analytics de usuario con Vercel Analytics
+- Métricas de performance y Web Vitals
+- Monitoreo de errores JavaScript en tiempo real
+- Dashboard de estadísticas de tráfico y conversión
+
 #### 5.2.2.8. Team Collaboration Insights during Sprint
+
+Durante el Sprint 2, el equipo de FixTech demostró una colaboración excepcionalmente efectiva en el desarrollo de la Frontend Web Application de Prime-Fix. La implementación de una aplicación Angular completa con múltiples módulos y funcionalidades complejas requirió coordinación técnica precisa y comunicación constante entre todos los miembros del equipo.
+
+**Distribución del trabajo y especialización:**
+
+El trabajo se organizó de manera estratégica, asignando a cada miembro módulos específicos según sus fortalezas técnicas y experiencia:
+- **César Augusto** lideró el desarrollo del sistema de autenticación y calendario de citas, componentes críticos para la seguridad y funcionalidad core
+- **Gianmarco Fabián** se especializó en el sistema de registro, dashboard de seguimiento e integración con Landing Page, enfocándose en experiencia de usuario fluida
+- **Alexander Gabriel** desarrolló el sistema de búsqueda de talleres y registro de talleres, fundamental para conectar ambos segmentos objetivo
+- **Alicia Avril** implementó la gestión de perfil de usuario y panel administrativo para talleres, enfocándose en interfaces intuitivas
+- **Piero Francesco** desarrolló el sistema de reseñas y navegación principal, estableciendo la base de la experiencia de usuario
+- **Renso Anthony** implementó la gestión de vehículos e internacionalización, componentes técnicamente complejos
+
+**Metodología de colaboración:**
+
+El equipo adoptó prácticas ágiles adaptadas al desarrollo frontend:
+- **Daily standups virtuales** para sincronización de avances y resolución de impedimentos de UI/UX
+- **Component reviews obligatorios** en todos los pull requests para mantener consistencia visual y funcional
+- **Pair programming sessions** para resolver problemas complejos de integración entre componentes
+- **Cross-browser testing colaborativo** para validar la compatibilidad y responsive design
+
+**Herramientas de colaboración utilizadas:**
+
+- **GitHub Projects**: Para tracking detallado de componentes y estados de desarrollo
+- **Discord**: Para comunicación en tiempo real y resolución rápida de dudas técnicas
+- **Figma**: Para revisión de diseños y especificaciones visuales durante desarrollo
+- **Browser Developer Tools**: Para debugging colaborativo y optimización de performance
+
+**Challenges superados como equipo:**
+
+1. **Consistencia Visual**: Se estableció un sistema de componentes reutilizables y guías de estilo uniformes
+2. **Integración de Módulos**: Se resolvieron conflictos de routing y navegación mediante arquitectura modular clara
+3. **Responsive Design**: Se implementó un sistema grid consistente que funciona en todos los dispositivos
+4. **Performance Optimization**: Se aplicó lazy loading y optimizaciones de bundle para mejorar tiempos de carga
+
+**Métricas de colaboración:**
+
+<img src="[github_insights_image]">
+*GitHub Insights mostrando la distribución de commits y colaboración entre miembros*
+
+**Evidencia de trabajo colaborativo:**
+- **Total de commits**: [number] commits distribuidos equitativamente  
+- **Pull requests**: [number] PRs con reviews completos de al menos 2 miembros
+- **Code coverage**: [percentage]% de cobertura de pruebas alcanzada colaborativamente
+- **Documentation**: [number] páginas de documentación técnica creadas en equipo
+
+El Sprint 2 consolidó al equipo como una unidad técnica cohesiva especializada en desarrollo frontend, estableciendo las bases para la integración futura con servicios backend y la evolución continua de la experiencia de usuario de Prime-Fix.
 
 ## 5.3. Validation Interviews
 ### 5.3.1. Diseño de Entrevistas
