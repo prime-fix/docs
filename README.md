@@ -1842,6 +1842,11 @@ Se indican los aspectos principales considerados en el Sprint, especificando qui
 El Sprint Backlog 1 se centra en implementar las primeras funcionalidades de la solución, asegurando la construcción inicial de la **Landing Page**.
 A continuación, se detallan las **User Stories** y las **Tareas** asignadas a cada miembro del equipo, junto con su estado actual.
 
+Sprint de PrimeFix:
+<img src="Assets/Trello/Sprint 1.PNG">
+
+[https://trello.com/invite/b/68e553625941b3277a631f79/ATTIbdc7ed65f50e7fba04796f3c4c17e9660F991CC5/prime-fix](https://trello.com/invite/b/68e553625941b3277a631f79/ATTIbdc7ed65f50e7fba04796f3c4c17e9660F991CC5/prime-fix)
+
 | **Sprint #** | Sprint 1 |
 |--------------|----------|
 
@@ -2014,11 +2019,34 @@ El análisis de los commits muestra una distribución equilibrada del trabajo en
 
 #### 5.2.2.3. Sprint Backlog 2
 
+Sprint de PrimeFix:
+<img src="Assets/Trello/Sprint 2.PNG">
+
+[https://trello.com/invite/b/68e553625941b3277a631f79/ATTIbdc7ed65f50e7fba04796f3c4c17e9660F991CC5/prime-fix](https://trello.com/invite/b/68e553625941b3277a631f79/ATTIbdc7ed65f50e7fba04796f3c4c17e9660F991CC5/prime-fix)
+
 #### 5.2.2.4. Development Evidence for Sprint Review
 
 #### 5.2.2.5. Execution Evidence for Sprint Review
 
+#### Bounded Context: payment-service:
+Para este Bounded Context, se desarrollaron los apartados de pago y de calificación de servicio:
+Selección de pago
+<img src="Assets/BC-payment-service/payment-selection.png">
+
+Formulario de calificación
+<img src="Assets/BC-payment-service/rating-form.png">
+
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
+
+#### Bounded Context: payment-service:
+En este Bounded Context, se realizó tanto el deploy de db.json como de la aplicación de angular:
+
+1. Deploy en Render para el archivo db.json:
+   [https://prime-fix-db.onrender.com](https://prime-fix-db.onrender.com)
+2. Deploy en Firebase para la feature trabajadad:
+   [https://prime-fix-payment-service.web.app/](https://prime-fix-payment-service.web.app/)
+
+
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review
 
