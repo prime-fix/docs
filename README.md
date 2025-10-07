@@ -616,10 +616,31 @@ A continuación, se presentan las matrices de tareas para cada segmento, donde s
 #### Segmento 1 - Dueño de vehículo
 User Task Matrix - José Paredes
 <img src="Assets/chapter-1/user-task-matrix-1.png" alt="">
+
 #### Segmento 2 - Asesor de taller automotriz
+
 User Task Matrix - Luis Chávez
 <img src="Assets/chapter-1/user-task-matrix-2.png" alt="">
+
 ### 2.3.3. User Journey Mapping
+
+El User Journey Mapping es una herramienta fundamental que nos permite visualizar y comprender la experiencia completa de nuestros usuarios a lo largo de todo su recorrido con Prime-Fix. Esta metodología nos ayuda a identificar puntos críticos de contacto, emociones, oportunidades de mejora y momentos clave en la interacción entre nuestros segmentos objetivo y la plataforma.
+
+**End-to-End Journey Overview:**
+
+Para Prime-Fix, hemos mapeado dos journeys distintos pero interconectados que representan la experiencia completa desde el descubrimiento inicial hasta el post-servicio:
+
+**Journey del Dueño de Vehículo (José Paredes):**
+El recorrido completo abarca desde el momento en que el usuario identifica la necesidad de mantenimiento para su vehículo hasta la evaluación post-servicio. Este journey incluye seis etapas críticas: *Descubrimiento* (cuando busca soluciones confiables para el mantenimiento), *Consideración* (evaluando opciones y comparando talleres), *Decisión* (seleccionando el taller y agendando la cita), *Servicio* (experimentando el proceso de reparación con seguimiento en tiempo real), y *Post-servicio* (evaluando la experiencia y manteniendo el historial de mantenimientos).
+
+**Journey del Asesor de Taller (Luis Chávez):**
+Este journey complementario se enfoca en la perspectiva del proveedor de servicios, desde el descubrimiento de la plataforma hasta la optimización continua de su negocio. Las etapas incluyen: *Descubrimiento* (conociendo Prime-Fix como herramienta de crecimiento), *Consideración* (evaluando la inversión en digitalización), *Decisión* (adoptando la plataforma y configurando servicios), *Servicio* (gestionando clientes y optimizando procesos), y *Post-servicio* (analizando métricas y mejorando la reputación del taller).
+
+**Puntos de Intersección Críticos:**
+Ambos journeys se intersectan en momentos clave como la confirmación de citas, el seguimiento del estado del vehículo, y la evaluación post-servicio, creando una experiencia integrada que beneficia a ambos segmentos y fortalece el ecosistema de Prime-Fix.
+
+A continuación se presentan los mapas detallados para cada segmento:
+
 **Segmento 1 - Dueño de vehículo** 
 
 User Journey Mapping - José Paredes
@@ -1654,9 +1675,18 @@ Cada Sprint se registra con detalle en términos de producto, trabajo colaborati
 
 #### 5.2.1.2. Aspect Leaders and Collaborators
 
-En esta sección se presenta la **Leadership-and-Collaboration Matrix (LACX)**.  
-Se indican los aspectos principales considerados en el Sprint, especificando quién asume el rol de **Líder (L)** y quiénes participan como **Colaboradores (C)**.  
-Esta organización asegura claridad en la comunicación y coherencia en la selección de tareas del Sprint. Cada miembro del equipo tiene asignado un rol específico para cada aspecto, facilitando la coordinación y el cumplimiento de los objetivos del Sprint.
+En esta sección se presenta la **Leadership-and-Collaboration Matrix (LACX)**, una herramienta organizacional fundamental que define claramente los roles y responsabilidades de cada miembro del equipo durante el Sprint 1. Esta matriz establece una estructura de liderazgo distribuido que optimiza la eficiencia del trabajo colaborativo y garantiza la accountability en cada aspecto crítico del desarrollo.
+
+**Principales Aspectos Considerados en el Sprint:**
+
+Para el Sprint 1, se han identificado cuatro aspectos fundamentales que abarcan todo el ciclo de desarrollo y entrega de la Landing Page de Prime-Fix:
+
+**Landing Page (Desarrollo Front-end):** Este aspecto engloba todo el desarrollo de la interfaz de usuario, incluyendo la implementación de componentes visuales, funcionalidades de internacionalización, sistema de cambio de tema, diseño responsive y optimización de la experiencia de usuario. Es el componente principal del Sprint 1.
+
+
+**Metodología de Asignación de Roles:**
+
+Se indican los aspectos principales considerados en el Sprint, especificando quién asume el rol de **Líder (L)** y quiénes participan como **Colaboradores (C)**. Esta organización asegura claridad en la comunicación y coherencia en la selección de tareas del Sprint. Cada miembro del equipo tiene asignado un rol específico para cada aspecto, facilitando la coordinación y el cumplimiento de los objetivos del Sprint.
 
 | **Team Member (Last Name, First Name)** | **GitHub Username** | **Landing Page** (L / C) | **Services** (L / C) | **Applications** (L / C) | **Deployment** (L / C) |
 |-----------------------------------------|---------------------|--------------------------|----------------------|--------------------------|------------------------|
