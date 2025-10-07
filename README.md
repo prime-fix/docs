@@ -657,12 +657,31 @@ A continuación, se presentan las matrices de tareas para cada segmento, donde s
 
 #### Segmento 1 - Dueño de vehículo
 User Task Matrix - José Paredes
-<img src="Assets/chapter-1/user-task-matrix-1.png" alt="">
+| TAREA                                         | FRECUENCIA  | IMPORTANCIA |
+|-----------------------------------------------|-------------|-------------|
+| Reservar cita de mantenimiento o reparación   | mensual     | alta        |
+| Consultar historial y estado de servicios     | quincenal   | alta        |
+| Buscar y comparar talleres automotrices       | mensual     | media       |
+| Revisar recordatorios de mantenimiento        | mensual     | alta        |
+| Descargar facturas o recibos de servicios     | ocasional   | media       |
+| Solicitar asistencia en carretera             | ocasional   | alta        |
+| Valorar talleres y dejar reseñas              | ocasional   | media       |
+| Actualizar información del vehículo           | ocasional   | media       |
 
 #### Segmento 2 - Asesor de taller automotriz
 
 User Task Matrix - Luis Chávez
-<img src="Assets/chapter-1/user-task-matrix-2.png" alt="">
+| TAREA                                             | FRECUENCIA | IMPORTANCIA |
+|---------------------------------------------------|------------|-------------|
+| Gestionar reservas y citas de clientes            | diaria     | alta        |
+| Actualizar historial de servicios y estado        | diaria     | alta        |
+| Responder consultas y mensajes de clientes        | diaria     | alta        |
+| Coordinar con técnicos y mecánicos                | diaria     | alta        |
+| Generar presupuestos para los clientes            | diaria     | alta        |
+| Realizar seguimiento a trabajos pendientes        | diaria     | alta        |
+| Gestionar inventario de repuestos                 | semanal    | media       |
+| Enviar notificaciones de promociones o campañas   | semanal    | media       |
+| Analizar métricas de satisfacción y performance   | mensual    | media       |
 
 ### 2.3.3. User Journey Mapping
 
@@ -888,7 +907,7 @@ Cada User Story incluye criterios de aceptación detallados escritos en formato 
 
 ## 3.2. Impact Mapping
 
-<img src="Assets/chapter-1/impact-mapping.png">
+<img src="Assets/chapter-1/impact-mapping-up.png">
 
 ## 3.3. Product Backlog
 
@@ -1842,6 +1861,11 @@ Se indican los aspectos principales considerados en el Sprint, especificando qui
 
 El Sprint Backlog 1 se centra en implementar las primeras funcionalidades de la solución, asegurando la construcción inicial de la **Landing Page**.
 A continuación, se detallan las **User Stories** y las **Tareas** asignadas a cada miembro del equipo, junto con su estado actual.
+
+Sprint de PrimeFix:
+<img src="Assets/Trello/Sprint 1.PNG">
+
+[https://trello.com/invite/b/68e553625941b3277a631f79/ATTIbdc7ed65f50e7fba04796f3c4c17e9660F991CC5/prime-fix](https://trello.com/invite/b/68e553625941b3277a631f79/ATTIbdc7ed65f50e7fba04796f3c4c17e9660F991CC5/prime-fix)
 
 | **Sprint #** | Sprint 1 |
 |--------------|----------|
