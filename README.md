@@ -974,8 +974,10 @@ En esta sección se presenta el Product Backlog de Prime-Fix, organizado según 
 | US-38        | Visualización de planes de pago                  | Como usuario, quiero visualizar los diferentes planes de pago con precios y funcionalidades, para entender beneficios y limitaciones de cada plan.                                                                                | 8            |
                                                                          
 
-
 ---
+<img src="Assets/Trello/Product-Backlog.png" width="480" height="720">
+
+Link de Trello: [https://trello.com/b/ilAl74N0/prime-fix](https://trello.com/b/ilAl74N0/prime-fix)
 
 # Capítulo IV: Product Design
 ## 4.1. Style Guidelines
