@@ -2234,43 +2234,46 @@ La aplicación cuenta con documentación completa que incluye:
 
 **Módulos principales documentados:**
 
-1. **Authentication Module**
+1. **Authentication**
    - Componentes: Login, Register,
    - Funcionalidades: Login, registro, gestión de sesiones
 
-2. **User Management Module** 
+2. **User Management** 
    - Componentes: Profile, EditProfile, UserDashboard
    - Funcionalidades: Gestión de perfil, edición de datos, dashboard personal
 
-3. **Workshop Search Module**
+3. **Workshop Search**
    - Componentes: Search, Filter, WorkshopList
    - Funcionalidades: Búsqueda avanzada, filtros dinámicos, resultados paginados
 
-4. **Vehicle Management Module**
+4. **Vehicle Management**
    - Componentes: VehicleList, AddVehicle, VehicleDetail
    - Funcionalidades: CRUD de vehículos, selección, gestión de información técnica
 
-5. **Appointment System Module**
+5. **Appointment System**
    - Componentes: Calendar, AppointmentForm, TimeSlot
    - Funcionalidades: Calendario interactivo, reserva de citas, gestión de horarios
 
-6. **Tracking Dashboard Module**
+6. **Tracking Dashboard**
    - Componentes: Tracking State, Notification View, Progress Bar
    - Funcionalidades: Seguimiento en tiempo real, visualización de estados, notificaciones
 
 **Evidencia de documentación:**
 
-<img src="[frontend_docs_screenshot_1]">
-*Documentación de componentes principales de la aplicación*
+**Documentación de componentes principales de la aplicación**
 
-<img src="[frontend_docs_screenshot_2]">
-*Guía de estructura de módulos y servicios implementados*
+<img src="Assets/evidences/Documentation_Components.png">
 
-<img src="[frontend_docs_screenshot_3]">
-*Documentación de patrones de diseño y estilo aplicados*
+**Guía de estructura de módulos y servicios implementados**
 
-<img src="[frontend_docs_screenshot_4]">
-*Guías de navegación y configuración de routing*
+<img src="Assets/evidences/Documentation_Modules.png">
+
+**Documentación de patrones de diseño y estilo aplicados**
+<img src="Assets/evidences/Documentation_Patterns.png">
+
+**Guías de navegación y configuración de routing**
+<img src="Assets/evidences/Documentation_Routing.png">
+
 
 **URLs de documentación:**
 - Component Documentation: [components_docs_url]
