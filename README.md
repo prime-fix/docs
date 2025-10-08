@@ -61,7 +61,7 @@
 |   TB1   | 16/09/2025  | Piero Francesco Tenorio Medina                                            | Realicé la secciones de User Stories, evaluando cada escenario posible de cada funcionalidad.Tambien el Diagrama de Clase en una versión temprana. Además de hacer los segmentos objetivos del proyecto. Evaluando los posibles usuarios a los que va dirijido el trabajo.  |
 |   TP1   | 07/10/2025  | Gianmarco Fabian Jiménez Guerra                                            | Realicé las correcciones pertinentes y desarrollé el Bounded Context de Payment Service, donde me encargué de codificar todas las capas de dicho BC.  |
 |   TP1   | 07/10/2025  | Cesar Augusto Arostegui Alzamora                                          | Realicé la parte del Sprint 2, especifícamente el bounded context de IAM y Maintenance Status Tracking, donde realicé todo el código de dichas secciones |
-
+|   TP1   | 07/10/2025  | Alexander Gabriel Montoya Torres                         | Realicé el bounded context de AutoRepair Register desarrollando las capas pertinentes mediante Angular, sumado a eso levante las correcciones pasadas del informe.     |
 </div>
 
 # Project Report Collaboration Insights  
