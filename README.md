@@ -2404,11 +2404,18 @@ El Sprint 2 consolidó al equipo como una unidad técnica cohesiva especializada
 
 - Con FixTech queremos proyectar a futuro para poder integrar aplicaciones móviles e IoT, garantizar escalabilidad y la competitividad a futuro.
 
+- La implementación de la Landing Page para presentar la propuesta de valor de nuestra startup fue un paso crucial para establecer la presencia en línea de la startup. La página no solo sirve como punto de entrada para atraer usuarios, sino que también comunica claramente los beneficios y funcionalidades clave de la plataforma.
+
+- El desarrollo de la Frontend Web Application utilizando Angular y TypeScript permitió crear una interfaz de usuario robusta y escalable. La aplicación está diseñada para ser intuitiva y accesible, facilitando la navegación y el uso tanto para dueños de vehículos como para talleres.
+
 # Recomendaciones
 
 - Verificar de manera constante los avances de los demás integrantes para evitar confusiones a futuro. Especialmente de los integrates que son designados a partes fundamentales del proyecto sea documentacion o desarrollo.
 - Mejorar la distribución y la comunicación entre los integrantes del equipo en el aspecto de las entregas del trabajo.
 - Continuar y realizar validaciones a futuro con respecto a los avances del proyecto, para mantener la correlacion entre las necesidades reales y el desarrollo.
+- Realizar pruebas de usabilidad y experiencia de usuario para identificar áreas de mejora en la interfaz y funcionalidad de la aplicación.
+- Mantener una documentación técnica actualizada y detallada para facilitar el mantenimiento y futuras expansiones.
+- Establecer un plan de marketing digital para aumentar la visibilidad de la plataforma y atraer a más usuarios.
 
 # Video About-the-Team
 # Bibliografía
