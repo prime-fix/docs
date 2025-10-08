@@ -1838,6 +1838,8 @@ Cada Sprint se registra con detalle en términos de producto, trabajo colaborati
 
 ### 5.2.1. Sprint 1
 
+A continuación, se presenta la documentación del Sprint 1, que abarca la implementación de la Landing Page de Prime-Fix. Se introduce la planificación del sprint, la matriz de liderazgo y colaboración, y el backlog del sprint. Junto con las evidencias correspondientes. 
+
 #### 5.2.1.1. Sprint Planning 1
 
 | **Sprint #** | Sprint 1 |
@@ -2056,6 +2058,7 @@ El análisis de los commits muestra una distribución equilibrada del trabajo en
 
 Se documenta el proceso de implementación, pruebas, documentación y despliegue del segundo Sprint, enfocado en la construcción de la Frontend Web Application de Prime-Fix. Este sprint se centra en desarrollar las interfaces de usuario principales utilizando Angular y TypeScript, asegurando una experiencia fluida y atractiva para ambos segmentos objetivo: dueños de vehículos y talleres. 
 
+
 #### 5.2.2.1. Sprint Planning 2
 
 | **Sprint #** | Sprint 2 |
@@ -2096,7 +2099,7 @@ Para el Sprint 2, se han identificado cuatro aspectos fundamentales que abarcan 
 | Tenorio Medina, Piero Francesco          | PieroTM2005             | C                                | C                                 | C                                 | C                                    |
 | Navarro Chang, Alicia Avril              | Alice-keys             | C                                | C                                 | C                                 | C                                    |
 | Montoya Torres, Alexander Gabriel        | gabrielito4334             | C                                | C                                 | C                                 | C                                    |
-| Julca Cruz, Renso Anthony                | rensojulcacruz             | C                                | C                                 | C                                 | C                                    |
+| Julca Cruz, Renso Anthony                | rajc02             | C                                | C                                 | C                                 | C                                    |
 
 #### 5.2.2.3. Sprint Backlog 2
 
@@ -2151,27 +2154,30 @@ El trabajo de desarrollo se organizó siguiendo las mejores prácticas de desarr
 
 Se estableció la integración completa con la Landing Page existente, agregando enlaces directos que permiten a los usuarios navegar fluidamente desde la página de presentación hacia la aplicación web funcional. La configuración incluye internacionalización (i18n), cambio de tema dinámico y optimización de rendimiento con lazy loading.
 
-Funcionalidades principales desarrolladas:
-- **Autenticación y Registro**: Sistema completo de login, registro y gestión de sesiones de usuario
-- **Gestión de Perfil**: Interfaces para visualizar y editar información personal de usuarios
-- **Búsqueda de Talleres**: Sistema avanzado de búsqueda con filtros y visualización de resultados
-- **Gestión de Vehículos**: CRUD completo para registro y administración de vehículos del usuario
-- **Sistema de Citas**: Calendario interactivo para programación de servicios de mantenimiento
-- **Panel de Seguimiento**: Dashboard para monitorear el estado y progreso de servicios activos
-- **Gestión de Talleres**: Interfaz administrativa para que talleres gestionen sus servicios y solicitudes
+**Principales funcionalidades implementadas:**
+- Sistema de autenticación completo (login, registro, gestión de sesiones)
+- Gestión de perfiles de usuario con edición y validaciones
+- Gestión de vehículos con CRUD completo
+- Programación de citas con calendario interactivo
+- Integración con la Landing Page
 
 | **Repository** | **Branch** | **Commit Id** | **Commit Message** | **Commit Message Body** | **Committed on (Date)** |
 |----------------|------------|---------------|--------------------|-----------------------|-------------------------|
-| [prime-fix/frontend](https://github.com/prime-fix/frontend) | feature/authentication | [commit_id] | feat(auth): implement login and registration pages | Added complete authentication system with login/register forms, validation and user session management | 07/10/2025 |
-| [prime-fix/frontend](https://github.com/prime-fix/frontend) | feature/user-profile | [commit_id] | feat(profile): implement user profile management | Developed user profile component with edit capabilities and form validations | 07/10/2025 |
-| [prime-fix/frontend](https://github.com/prime-fix/frontend) | feature/workshop-search | [commit_id] | feat(search): implement workshop search and filtering | Created advanced search functionality with multiple filters and results display | 07/10/2025 |
-| [prime-fix/frontend](https://github.com/prime-fix/frontend) | feature/vehicle-management | [commit_id] | feat(vehicles): implement vehicle CRUD operations | Added complete vehicle management system with registration and selection capabilities | 07/10/2025 |
-| [prime-fix/frontend](https://github.com/prime-fix/frontend) | feature/appointment-system | [commit_id] | feat(appointments): implement appointment scheduling | Developed interactive calendar component for service appointment booking | 07/10/2025 |
-| [prime-fix/frontend](https://github.com/prime-fix/frontend) | feature/tracking-dashboard | [commit_id] | feat(tracking): implement service tracking dashboard | Created comprehensive dashboard for monitoring service status and progress | 07/10/2025 |
-| [prime-fix/frontend](https://github.com/prime-fix/frontend) | feature/workshop-management | [commit_id] | feat(workshops): implement workshop admin panel | Added workshop management interface for service providers and request handling | 07/10/2025 |
-| [prime-fix/frontend](https://github.com/prime-fix/frontend) | feature/navigation-routing | [commit_id] | feat(nav): implement navigation system and routing | Configured complete navigation system with guards, lazy loading and route protection | 07/10/2025 |
-| [prime-fix/frontend](https://github.com/prime-fix/frontend) | feature/internationalization | [commit_id] | feat(i18n): implement multilingual support | Added internationalization support for Spanish and English languages | 07/10/2025 |
-| [prime-fix/landing-page](https://github.com/prime-fix/landing-page) | feature/app-integration | [commit_id] | feat(integration): add links to frontend application | Integrated call-to-action buttons linking to the main web application | 07/10/2025 |
+| [prime-fix/frontend](https://github.com/prime-fix/frontend) | feature/register-owner | 06d605d | feat: enhance owner registration flow | Enhance owner registration flow with new fields and payment integration  | 06/10/2025 |
+| [prime-fix/frontend](https://github.com/prime-fix/frontend) | feature/register-owner | 3cee878 | feat: implement layout and routing for owner and workshop components with authentication guard | Implement layout and routing for owner and workshop components with authentication guard | 05/10/2025 |
+| [prime-fix/frontend](https://github.com/prime-fix/frontend) | feature/maintenance-tracking| 0c6f309 | feat: implement maintenance tracking feature with vehicle selection and progress display | Implement maintenance tracking feature with vehicle selection and progress display | 07/10/2025 |
+| [prime-fix/frontend](https://github.com/prime-fix/frontend) | feature/maintenance-tracking | 423ac86 | feat: add notification view with loading and error states, and integrate notifications into the sidebar | Add notification view with loading and error states, and integrate notifications into the sidebar | 07/10/2025 |
+| [prime-fix/frontend](https://github.com/prime-fix/frontend) | feature/autorepair-registration | cb5a5f0 | feat: complete integration of AutoRepairRegister form with store and routing | Complete integration of AutoRepairRegister form with store and routing | 07/10/2025 |
+| [prime-fix/frontend](https://github.com/prime-fix/frontend) | feature/autorepair-registration | 5caa62f | feat: add technician list and API endpoint integration for auto repair module | Add technician list and API endpoint integration for auto repair module | 07/10/2025 |
+| [prime-fix/frontend](https://github.com/prime-fix/frontend) | feature/workshop-catalog | 5caa62f | feat: add technician list and API endpoint integration for auto repair module | Add technician list and API endpoint integration for auto repair module | 07/10/2025 |
+| [prime-fix/frontend](https://github.com/prime-fix/frontend) | feature/data-collection | 62b13e2 | feat: add Data Collection BC files | Add Data Collection BC files | 06/10/2025 |
+| [prime-fix/frontend](https://github.com/prime-fix/frontend) | feature/data-collection | af6605f | feat: add options for visits | Add options for visits | 06/10/2025 |
+| [prime-fix/frontend](https://github.com/prime-fix/frontend) | feature/vehicle-maintenance-status | 21e6626 | feat: new section for Status and Diagnosis Vehicles | Add new section for Status and Diagnosis Vehicles | 05/10/2025 |
+| [prime-fix/frontend](https://github.com/prime-fix/frontend) | feature/vehicle-maintenance-status | d7842b9 | feat: Add Read Update for Diagnosis | Add Read Update for Diagnosis | 06/10/2025 |
+| [prime-fix/frontend](https://github.com/prime-fix/frontend) | feature/payment-service | 72949c5 | feat: integration of BC payment-service | Integration of BC payment-service | 06/10/2025 |
+| [prime-fix/frontend](https://github.com/prime-fix/frontend) | feature/payment-service | 3a5dca2 | feat: add views lists | Add views lists | 06/10/2025 |
+| [prime-fix/landing-page](https://github.com/prime-fix/landing-page) | development | dffb1b2 | feat: Update links to point to the new application URL and enhance theme styles | Update links to point to the new application URL and enhance theme styles | 07/10/2025 |
+
 
 #### 5.2.2.5. Execution Evidence for Sprint Review
 
@@ -2179,7 +2185,7 @@ Durante el Sprint 2, se logró la implementación exitosa y el despliegue de la 
 
 **Principales logros del Sprint 2:**
 
-1. **Aplicación Web Completa**: Se desarrolló una aplicación Angular funcional con todas las páginas y componentes necesarios para ambos tipos de usuarios (dueños de vehículos y talleres).
+1. **Aplicación Web Semi Completa**: Se desarrolló parcialmente la aplicación de Angular con las páginas y componentes necesarios para ambos tipos de usuarios (dueños de vehículos y talleres).
 
 2. **Experiencia de Usuario Optimizada**: Interfaces responsive y intuitivas que funcionan perfectamente en desktop, tablet y móvil con diseño consistente y accesible.
 
@@ -2192,7 +2198,7 @@ Durante el Sprint 2, se logró la implementación exitosa y el despliegue de la 
 **Funcionalidades implementadas y desplegadas:**
 
 - **Sistema de Autenticación**: Login, registro y gestión de sesiones con validaciones completas
-- **Gestión de Vehículos**: CRUD completo para registro, edición y selección de vehículos
+- **Gestión de Vehículos**: CRUD para registro, edición y selección de vehículos
 - **Vista de Seguimiento**: Monitoreo en tiempo real del estado y progreso de servicios
 - **Calificación de Servicio**: Visualización de reseñas y ratings de talleres
 - **Landing Page Actualizada**: Enlaces directos hacia la aplicación web desde la landing page
