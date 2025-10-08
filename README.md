@@ -911,7 +911,7 @@ Cada User Story incluye criterios de aceptación detallados escritos en formato 
 
 ## 3.2. Impact Mapping
 
-<img src="Assets/chapter-1/impact-mapping-up.png">
+<img src="Assets/chapter-1/impact-map-up.png">
 
 ## 3.3. Product Backlog
 
@@ -2158,7 +2158,6 @@ Funcionalidades principales desarrolladas:
 | [prime-fix/frontend](https://github.com/prime-fix/frontend) | feature/workshop-management | [commit_id] | feat(workshops): implement workshop admin panel | Added workshop management interface for service providers and request handling | 07/10/2025 |
 | [prime-fix/frontend](https://github.com/prime-fix/frontend) | feature/navigation-routing | [commit_id] | feat(nav): implement navigation system and routing | Configured complete navigation system with guards, lazy loading and route protection | 07/10/2025 |
 | [prime-fix/frontend](https://github.com/prime-fix/frontend) | feature/internationalization | [commit_id] | feat(i18n): implement multilingual support | Added internationalization support for Spanish and English languages | 07/10/2025 |
-| [prime-fix/frontend](https://github.com/prime-fix/frontend) | feature/theme-system | [commit_id] | feat(theme): implement light/dark theme toggle | Developed dynamic theme switching system with user preference persistence | 07/10/2025 |
 | [prime-fix/landing-page](https://github.com/prime-fix/landing-page) | feature/app-integration | [commit_id] | feat(integration): add links to frontend application | Integrated call-to-action buttons linking to the main web application | 07/10/2025 |
 
 #### 5.2.2.5. Execution Evidence for Sprint Review
@@ -2180,31 +2179,44 @@ Durante el Sprint 2, se logró la implementación exitosa y el despliegue de la 
 **Funcionalidades implementadas y desplegadas:**
 
 - **Sistema de Autenticación**: Login, registro y gestión de sesiones con validaciones completas
-- **Gestión de Perfil**: Interfaces para visualizar y editar información personal y preferencias
-- **Búsqueda de Talleres**: Sistema avanzado con filtros por ubicación, servicios, calificaciones y disponibilidad
 - **Gestión de Vehículos**: CRUD completo para registro, edición y selección de vehículos
-- **Sistema de Citas**: Calendario interactivo con selección de fechas, horarios y servicios
-- **Dashboard de Seguimiento**: Monitoreo en tiempo real del estado y progreso de servicios
-- **Panel Administrativo**: Herramientas para talleres para gestionar solicitudes y servicios
+- **Vista de Seguimiento**: Monitoreo en tiempo real del estado y progreso de servicios
+- **Calificación de Servicio**: Visualización de reseñas y ratings de talleres
+- **Landing Page Actualizada**: Enlaces directos hacia la aplicación web desde la landing page
 
 **Screenshots de la aplicación en funcionamiento:**
 
-<img src="[image_path]">
-*Página principal de la aplicación web con navegación y funcionalidades principales*
+<img src="Assets/frontend/login_page.png">
 
-<img src="[image_path]">  
-*Sistema de búsqueda de talleres con filtros avanzados y resultados*
+Página de login para usuarios
 
-<img src="[image_path]">
-*Dashboard de seguimiento de servicios para usuarios*
+<img src="Assets/frontend/register_page.png">
 
-<img src="[image_path]">
-*Panel de gestión para talleres con solicitudes pendientes*
+Página de registro para nuevos usuarios
+
+<img src="Assets/frontend/main_page.png">
+
+Página principal de la aplicación web con navegación y funcionalidades principales
+
+<img src="Assets/frontend/vehicle_management.jpg">
+
+Página de gestión de vehículos
+
+<img src="Assets/frontend/tracking_view.png">
+
+Página de vista para ver detalles de estado de mantenimiento de un vehículo*
+
+<img src="Assets/frontend/appointment_scheduling.png">
+
+Panel de gestión para talleres con visitas programadas
+
+<img src="Assets/frontend/service_review.jpg">
+
+Página de calificación de servicios para usuarios
 
 **Enlaces de despliegue:**
-- Frontend Application: [frontend_url]
-- Landing Page: [landing_page_url]
-- Application Demo: [demo_url]
+- Frontend Application: [https://frontend-dusky-rho-85.vercel.app/](https://frontend-dusky-rho-85.vercel.app/)
+- Landing Page: [https://landing-page-pearl-kappa-37.vercel.app](https://landing-page-pearl-kappa-37.vercel.app)
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
@@ -2345,6 +2357,7 @@ El trabajo se organizó de manera estratégica, asignando a cada miembro módulo
 - **Piero Francesco** desarrolló el sistema de reseñas y navegación principal, estableciendo la base de la experiencia de usuario
 - **Renso Anthony** implementó la gestión de vehículos e internacionalización, componentes técnicamente complejos
 
+<img src="Assets/evidences/landing_repository_evidence2.png">
 
 El Sprint 2 consolidó al equipo como una unidad técnica cohesiva especializada en desarrollo frontend, estableciendo las bases para la integración futura con servicios backend y la evolución continua de la experiencia de usuario de Prime-Fix.
 
