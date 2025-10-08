@@ -1173,7 +1173,7 @@ En este apartado se presentarán los Wireframes más relevantes del proyecto
 
 <hr>
 
-**Búsqueda da taller y programación de visita**
+**Búsqueda de taller y programación de visita**
 
 <img src="Assets/Wireframes/buscar_taller_dueño1.png">
 <img src="Assets/Wireframes/buscar_taller_dueño2.png">
@@ -2289,9 +2289,10 @@ La aplicación cuenta con documentación completa que incluye:
 
 
 **URLs de documentación:**
-- Component Documentation: [components_docs_url]
-- Style Guide: [style_guide_url]  
-- Development Guide: [dev_guide_url]
+- Component Documentation: [https://github.com/prime-fix/docs/blob/main/Documentation-Frontend/Documentacion_Principal_Components.md](https://github.com/prime-fix/docs/blob/main/Documentation-Frontend/Documentacion_Principal_Components.md)
+- Module Documentation: [https://github.com/prime-fix/docs/blob/main/Documentation-Frontend/Documentacion_Modules.md](https://github.com/prime-fix/docs/blob/main/Documentation-Frontend/Documentacion_Modules.md)
+- Design Patterns: [https://github.com/prime-fix/docs/blob/main/Documentation-Frontend/Documentacion_Patterns.md](https://github.com/prime-fix/docs/blob/main/Documentation-Frontend/Documentacion_Patterns.md)
+- Routing Guide: [https://github.com/prime-fix/docs/blob/main/Documentation-Frontend/Documentacion_Routing.md](https://github.com/prime-fix/docs/blob/main/Documentation-Frontend/Documentacion_Routing.md)
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review
 
