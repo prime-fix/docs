@@ -977,7 +977,7 @@ En esta sección se presenta el Product Backlog de Prime-Fix, organizado según 
 ---
 <img src="Assets/Trello/Product-Backlog.png" width="480" height="720">
 
-Link de Trello: [https://trello.com/b/ilAl74N0/prime-fix](https://trello.com/b/ilAl74N0/prime-fix)
+Link de Trello: [https://trello.com/invite/b/68e553625941b3277a631f79/ATTIbdc7ed65f50e7fba04796f3c4c17e9660F991CC5/prime-fix](https://trello.com/invite/b/68e553625941b3277a631f79/ATTIbdc7ed65f50e7fba04796f3c4c17e9660F991CC5/prime-fix)
 
 # Capítulo IV: Product Design
 ## 4.1. Style Guidelines
