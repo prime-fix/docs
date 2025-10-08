@@ -61,7 +61,11 @@
 |   TB1   | 16/09/2025  | Piero Francesco Tenorio Medina                                            | Realicé la secciones de User Stories, evaluando cada escenario posible de cada funcionalidad.Tambien el Diagrama de Clase en una versión temprana. Además de hacer los segmentos objetivos del proyecto. Evaluando los posibles usuarios a los que va dirijido el trabajo.  |
 |   TP1   | 07/10/2025  | Gianmarco Fabian Jiménez Guerra                                            | Realicé las correcciones pertinentes y desarrollé el Bounded Context de Payment Service, donde me encargué de codificar todas las capas de dicho BC.  |
 |   TP1   | 07/10/2025  | Cesar Augusto Arostegui Alzamora                                          | Realicé la parte del Sprint 2, especifícamente el bounded context de IAM y Maintenance Status Tracking, donde realicé todo el código de dichas secciones |
-|   TP1   | 07/10/2025  | Alexander Gabriel Montoya Torres                         | Realicé el bounded context de AutoRepair Register desarrollando las capas pertinentes mediante Angular, sumado a eso levante las correcciones pasadas del informe.     |
+|  TP1   | 07/10/2025  | Alexander Gabriel Montoya Torres                                          | Realicé el desarrollo del Bounded Context Auto Repair Registration, enfocándome en las funcionalidades de registro y gestión de talleres automotrices. Coordiné efectivamente con los demás integrantes para asegurar la coherencia en la implementación y comuniqué los avances técnicos durante las reuniones de equipo. |
+|  TP1   | 07/10/2025  | Alicia Avril Navarro Chang                                                | Realicé el desarrollo del Bounded Context Auto Repair Catalog, implementando las funcionalidades relacionadas con la gestión del catálogo de servicios de reparación. Mantuve comunicación constante con el equipo para alinear los requerimientos funcionales y técnicos del sistema. |
+|  TP1   | 07/10/2025  | Piero Francesco Tenorio Medina                                            | En esta entrega desarrollé el Bounded Context de Data Collection, donde implementé las funcionalidades para la recolección y gestión de datos del sistema. Coordiné con el equipo para asegurar la integración correcta con otros bounded contexts y comuniqué efectivamente los requisitos técnicos y las decisiones de diseño tomadas. |
+|  TP1   | 07/10/2025  | Renso Anthony Julca Cruz                                                 | Realicé el desarrollo del Bounded Context Vehicle Diagnosis, implementando las funcionalidades para el diagnóstico y evaluación de vehículos. Mantuve comunicación efectiva con el equipo técnico para asegurar la integración correcta con los demás componentes del sistema. |
+
 </div>
 
 # Project Report Collaboration Insights  
@@ -907,7 +911,7 @@ Cada User Story incluye criterios de aceptación detallados escritos en formato 
 
 ## 3.2. Impact Mapping
 
-<img src="Assets/chapter-1/impact-mapping-up.png">
+<img src="Assets/chapter-1/impact-map-up.png">
 
 ## 3.3. Product Backlog
 
@@ -1637,13 +1641,13 @@ A continuación, se muestran las convenciones para los nombres de las ramas feat
 Aquí se encuentran los repositorios de GitHub utilizados para el desarrollo del proyecto Prime Fix:
 
 #### Repositorio de github - Landing Page de Prime Fix
-=======
+
+
 **Repositorios de GitHub:**
 
 Organización de GitHub: https://github.com/prime-fix
 
 Landing Page de Prime Fix:
->>>>>>> 36e357d (docs: Implement the fixes)
 <img src="Assets/chapter-1/captura-repositorio-landingpage.png" alt="">
 
 URL: [https://github.com/prime-fix/landing-page](https://github.com/prime-fix/landing-page)
@@ -2158,17 +2162,16 @@ Funcionalidades principales desarrolladas:
 
 | **Repository** | **Branch** | **Commit Id** | **Commit Message** | **Commit Message Body** | **Committed on (Date)** |
 |----------------|------------|---------------|--------------------|-----------------------|-------------------------|
-| [frontend](https://github.com/prime-fix/frontend) | feature/authentication | [commit_id] | feat(auth): implement login and registration pages | Added complete authentication system with login/register forms, validation and user session management | 07/10/2025 |
-| [frontend](https://github.com/prime-fix/frontend) | feature/user-profile | [commit_id] | feat(profile): implement user profile management | Developed user profile component with edit capabilities and form validations | 07/10/2025 |
-| [frontend](https://github.com/prime-fix/frontend) | feature/workshop-search | [commit_id] | feat(search): implement workshop search and filtering | Created advanced search functionality with multiple filters and results display | 07/10/2025 |
-| [frontend](https://github.com/prime-fix/frontend) | feature/vehicle-management | [commit_id] | feat(vehicles): implement vehicle CRUD operations | Added complete vehicle management system with registration and selection capabilities | 07/10/2025 |
-| [frontend](https://github.com/prime-fix/frontend) | feature/appointment-system | [commit_id] | feat(appointments): implement appointment scheduling | Developed interactive calendar component for service appointment booking | 07/10/2025 |
-| [frontend](https://github.com/prime-fix/frontend) | feature/tracking-dashboard | [commit_id] | feat(tracking): implement service tracking dashboard | Created comprehensive dashboard for monitoring service status and progress | 07/10/2025 |
-| [frontend](https://github.com/prime-fix/frontend) | feature/workshop-management | [commit_id] | feat(workshops): implement workshop admin panel | Added workshop management interface for service providers and request handling | 07/10/2025 |
-| [frontend](https://github.com/prime-fix/frontend) | feature/navigation-routing | [commit_id] | feat(nav): implement navigation system and routing | Configured complete navigation system with guards, lazy loading and route protection | 07/10/2025 |
-| [frontend](https://github.com/prime-fix/frontend) | feature/internationalization | [commit_id] | feat(i18n): implement multilingual support | Added internationalization support for Spanish and English languages | 07/10/2025 |
-| [frontend](https://github.com/prime-fix/frontend) | feature/theme-system | [commit_id] | feat(theme): implement light/dark theme toggle | Developed dynamic theme switching system with user preference persistence | 07/10/2025 |
-| [landing-page](https://github.com/prime-fix/landing-page) | feature/app-integration | [commit_id] | feat(integration): add links to frontend application | Integrated call-to-action buttons linking to the main web application | 07/10/2025 |
+| [prime-fix/frontend](https://github.com/prime-fix/frontend) | feature/authentication | [commit_id] | feat(auth): implement login and registration pages | Added complete authentication system with login/register forms, validation and user session management | 07/10/2025 |
+| [prime-fix/frontend](https://github.com/prime-fix/frontend) | feature/user-profile | [commit_id] | feat(profile): implement user profile management | Developed user profile component with edit capabilities and form validations | 07/10/2025 |
+| [prime-fix/frontend](https://github.com/prime-fix/frontend) | feature/workshop-search | [commit_id] | feat(search): implement workshop search and filtering | Created advanced search functionality with multiple filters and results display | 07/10/2025 |
+| [prime-fix/frontend](https://github.com/prime-fix/frontend) | feature/vehicle-management | [commit_id] | feat(vehicles): implement vehicle CRUD operations | Added complete vehicle management system with registration and selection capabilities | 07/10/2025 |
+| [prime-fix/frontend](https://github.com/prime-fix/frontend) | feature/appointment-system | [commit_id] | feat(appointments): implement appointment scheduling | Developed interactive calendar component for service appointment booking | 07/10/2025 |
+| [prime-fix/frontend](https://github.com/prime-fix/frontend) | feature/tracking-dashboard | [commit_id] | feat(tracking): implement service tracking dashboard | Created comprehensive dashboard for monitoring service status and progress | 07/10/2025 |
+| [prime-fix/frontend](https://github.com/prime-fix/frontend) | feature/workshop-management | [commit_id] | feat(workshops): implement workshop admin panel | Added workshop management interface for service providers and request handling | 07/10/2025 |
+| [prime-fix/frontend](https://github.com/prime-fix/frontend) | feature/navigation-routing | [commit_id] | feat(nav): implement navigation system and routing | Configured complete navigation system with guards, lazy loading and route protection | 07/10/2025 |
+| [prime-fix/frontend](https://github.com/prime-fix/frontend) | feature/internationalization | [commit_id] | feat(i18n): implement multilingual support | Added internationalization support for Spanish and English languages | 07/10/2025 |
+| [prime-fix/landing-page](https://github.com/prime-fix/landing-page) | feature/app-integration | [commit_id] | feat(integration): add links to frontend application | Integrated call-to-action buttons linking to the main web application | 07/10/2025 |
 
 #### 5.2.2.5. Execution Evidence for Sprint Review
 
@@ -2189,31 +2192,44 @@ Durante el Sprint 2, se logró la implementación exitosa y el despliegue de la 
 **Funcionalidades implementadas y desplegadas:**
 
 - **Sistema de Autenticación**: Login, registro y gestión de sesiones con validaciones completas
-- **Gestión de Perfil**: Interfaces para visualizar y editar información personal y preferencias
-- **Búsqueda de Talleres**: Sistema avanzado con filtros por ubicación, servicios, calificaciones y disponibilidad
 - **Gestión de Vehículos**: CRUD completo para registro, edición y selección de vehículos
-- **Sistema de Citas**: Calendario interactivo con selección de fechas, horarios y servicios
-- **Dashboard de Seguimiento**: Monitoreo en tiempo real del estado y progreso de servicios
-- **Panel Administrativo**: Herramientas para talleres para gestionar solicitudes y servicios
+- **Vista de Seguimiento**: Monitoreo en tiempo real del estado y progreso de servicios
+- **Calificación de Servicio**: Visualización de reseñas y ratings de talleres
+- **Landing Page Actualizada**: Enlaces directos hacia la aplicación web desde la landing page
 
 **Screenshots de la aplicación en funcionamiento:**
 
-<img src="[image_path]">
-*Página principal de la aplicación web con navegación y funcionalidades principales*
+<img src="Assets/frontend/login_page.png">
 
-<img src="[image_path]">  
-*Sistema de búsqueda de talleres con filtros avanzados y resultados*
+Página de login para usuarios
 
-<img src="[image_path]">
-*Dashboard de seguimiento de servicios para usuarios*
+<img src="Assets/frontend/register_page.png">
 
-<img src="[image_path]">
-*Panel de gestión para talleres con solicitudes pendientes*
+Página de registro para nuevos usuarios
+
+<img src="Assets/frontend/main_page.png">
+
+Página principal de la aplicación web con navegación y funcionalidades principales
+
+<img src="Assets/frontend/vehicle_management.jpg">
+
+Página de gestión de vehículos
+
+<img src="Assets/frontend/tracking_view.png">
+
+Página de vista para ver detalles de estado de mantenimiento de un vehículo*
+
+<img src="Assets/frontend/appointment_scheduling.png">
+
+Panel de gestión para talleres con visitas programadas
+
+<img src="Assets/frontend/service_review.jpg">
+
+Página de calificación de servicios para usuarios
 
 **Enlaces de despliegue:**
-- Frontend Application: [frontend_url]
-- Landing Page: [landing_page_url]
-- Application Demo: [demo_url]
+- Frontend Application: [https://frontend-dusky-rho-85.vercel.app/](https://frontend-dusky-rho-85.vercel.app/)
+- Landing Page: [https://landing-page-pearl-kappa-37.vercel.app](https://landing-page-pearl-kappa-37.vercel.app)
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
@@ -2231,43 +2247,46 @@ La aplicación cuenta con documentación completa que incluye:
 
 **Módulos principales documentados:**
 
-1. **Authentication Module**
+1. **Authentication**
    - Componentes: Login, Register,
    - Funcionalidades: Login, registro, gestión de sesiones
 
-2. **User Management Module** 
+2. **User Management** 
    - Componentes: Profile, EditProfile, UserDashboard
    - Funcionalidades: Gestión de perfil, edición de datos, dashboard personal
 
-3. **Workshop Search Module**
+3. **Workshop Search**
    - Componentes: Search, Filter, WorkshopList
    - Funcionalidades: Búsqueda avanzada, filtros dinámicos, resultados paginados
 
-4. **Vehicle Management Module**
+4. **Vehicle Management**
    - Componentes: VehicleList, AddVehicle, VehicleDetail
    - Funcionalidades: CRUD de vehículos, selección, gestión de información técnica
 
-5. **Appointment System Module**
+5. **Appointment System**
    - Componentes: Calendar, AppointmentForm, TimeSlot
    - Funcionalidades: Calendario interactivo, reserva de citas, gestión de horarios
 
-6. **Tracking Dashboard Module**
+6. **Tracking Dashboard**
    - Componentes: Tracking State, Notification View, Progress Bar
    - Funcionalidades: Seguimiento en tiempo real, visualización de estados, notificaciones
 
 **Evidencia de documentación:**
 
-<img src="[frontend_docs_screenshot_1]">
-*Documentación de componentes principales de la aplicación*
+**Documentación de componentes principales de la aplicación**
 
-<img src="[frontend_docs_screenshot_2]">
-*Guía de estructura de módulos y servicios implementados*
+<img src="Assets/evidences/Documentation_Components.png">
 
-<img src="[frontend_docs_screenshot_3]">
-*Documentación de patrones de diseño y estilo aplicados*
+**Guía de estructura de módulos y servicios implementados**
 
-<img src="[frontend_docs_screenshot_4]">
-*Guías de navegación y configuración de routing*
+<img src="Assets/evidences/Documentation_Modules.png">
+
+**Documentación de patrones de diseño y estilo aplicados**
+<img src="Assets/evidences/Documentation_Patterns.png">
+
+**Guías de navegación y configuración de routing**
+<img src="Assets/evidences/Documentation_Routing.png">
+
 
 **URLs de documentación:**
 - Component Documentation: [components_docs_url]
@@ -2276,7 +2295,8 @@ La aplicación cuenta con documentación completa que incluye:
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review
 
-Durante el Sprint 2, se estableció la infraestructura completa de despliegue para la Frontend Web Application de Prime-Fix, implementando un pipeline de CI/CD automatizado y configurando ambientes de desarrollo, staging y producción con integración completa a la Landing Page.
+Durante el Sprint 2, se implementó una estrategia de despliegue continuo para la Frontend Web Application de Prime-Fix. Esta estrategia garantiza que cada nueva funcionalidad desarrollada se despliegue automáticamente en un entorno de producción estable y accesible para los usuarios finales. También se va mostrar despliegues por cada bounded context
+
 
 **Infraestructura de despliegue implementada:**
 
@@ -2285,73 +2305,58 @@ Durante el Sprint 2, se estableció la infraestructura completa de despliegue pa
    - Implementación de GitFlow para gestión de ramas del frontend
    - Configuración de branch protection rules en main y develop
 
-2. **Pipeline CI/CD**
-   - GitHub Actions para automatización de build y deploy de Angular
-   - Pruebas automatizadas de componentes en cada pull request
-   - Build optimizado con Angular CLI y tree-shaking
-   - Despliegue automático a staging desde develop branch
-   - Deploy manual controlado a producción desde main branch
-
-3. **Plataforma de Hosting**
-   - Despliegue en Vercel para aplicación Angular
+2. **Plataforma de Hosting**
+   - Despliegue en Vercel, Firebase o Netlify para aplicación Angular
    - Configuración de variables de entorno para diferentes ambientes
    - SSL/TLS automático para conexiones seguras
    - CDN global para optimización de carga
    - Monitoreo de performance y analytics
 
-4. **Integración con Landing Page**
+3. **Integración con Landing Page**
    - Enlaces directos desde Landing Page hacia aplicación web
    - Configuración de rutas y redirecciones optimizadas
    - Consistencia visual entre Landing Page y aplicación
    - Tracking de conversión desde landing hacia app
 
-**Evidencia de despliegue:**
+#### **Evidencia de despliegues por Bounded Context:**
 
-<img src="[deployment_screenshot_1]">
-*Panel de control de la plataforma de hosting mostrando el estado del despliegue*
+**Evidencia de Auto Repair Registration Bounded Context:**
 
-<img src="[deployment_screenshot_2]">
-*Configuración de variables de entorno en el ambiente de producción*
+<img src="Assets/evidences/AutoRepairRegistration_Deploy.jpg">
 
-<img src="[deployment_screenshot_3]">
-*Logs del sistema mostrando el arranque exitoso de todos los bounded contexts*
+Link: [https://unrivaled-mooncake-5afe86.netlify.app/](https://unrivaled-mooncake-5afe86.netlify.app/)
 
-<img src="[deployment_screenshot_4]">
-*Health check endpoint confirmando el estado operativo de los servicios*
+**Evidencia de Auto Repair Catalog Bounded Context:**
 
-**URLs de los ambientes desplegados:**
+<img src="Assets/evidences/AutoRepairCatalog_Deploy.jpg">
 
-- **Producción**: [production_frontend_url]
-  - Landing Page: [production_landing_url]
-  - Application Demo: [production_demo_url]
+Link: [https://roaring-meringue-bf22bf.netlify.app/](https://roaring-meringue-bf22bf.netlify.app/)
 
-- **Staging**: [staging_frontend_url]  
-  - Landing Page: [staging_landing_url]
-  - Application Demo: [staging_demo_url]
-
-**Configuración de monitoreo:**
-- Analytics de usuario con Vercel Analytics
-- Métricas de performance y Web Vitals
-- Monitoreo de errores JavaScript en tiempo real
-- Dashboard de estadísticas de tráfico y conversión
-
-Evidencia de Data Collection: 
+**Evidencia de Data Collection Bounded Context:**
 
 <img src="Assets/evidences/DataCollection_Deploy.jpg">
 
 Link: [https://datacollection-6296f.web.app](https://datacollection-6296f.web.app)
 
 
-Evidencia de Diagnosis Vehicle:
+**Evidencia de Diagnosis Vehicle Bounded Context:**
+
+<img src="Assets/evidences/DiagnosisVehicle_Deploy.jpg">
 
 Link: [https://meek-sfogliatella-22eaf3.netlify.app/vehicle-status](https://meek-sfogliatella-22eaf3.netlify.app/vehicle-status)
 
 
-Evidencia de Maintenance Status Tracking:
+**Evidencia de Maintenance Status Tracking Bounded Context:**
 
 <img src="Assets/evidences/vercel_frontend_deployment_evidence.png">
 
 Link : [https://frontend-dusky-rho-85.vercel.app/](https://frontend-dusky-rho-85.vercel.app/)
+
+**Evidencia de Payment Service Bounded Context:**
+
+<img src="Assets/evidences/PaymentService_Deploy.jpg">
+
+Link: [https://prime-fix-payment-service.web.app/](https://prime-fix-payment-service.web.app/)
 
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint
@@ -2368,6 +2373,7 @@ El trabajo se organizó de manera estratégica, asignando a cada miembro módulo
 - **Piero Francesco** desarrolló el sistema de reseñas y navegación principal, estableciendo la base de la experiencia de usuario
 - **Renso Anthony** implementó la gestión de vehículos e internacionalización, componentes técnicamente complejos
 
+<img src="Assets/evidences/landing_repository_evidence2.png">
 
 El Sprint 2 consolidó al equipo como una unidad técnica cohesiva especializada en desarrollo frontend, estableciendo las bases para la integración futura con servicios backend y la evolución continua de la experiencia de usuario de Prime-Fix.
 
