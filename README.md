@@ -65,7 +65,8 @@
 |  TP1   | 07/10/2025  | Alicia Avril Navarro Chang                                                | Realicé el desarrollo del Bounded Context Auto Repair Catalog, implementando las funcionalidades relacionadas con la gestión del catálogo de servicios de reparación. Mantuve comunicación constante con el equipo para alinear los requerimientos funcionales y técnicos del sistema. |
 |  TP1   | 07/10/2025  | Piero Francesco Tenorio Medina                                            | En esta entrega desarrollé el Bounded Context de Data Collection, donde implementé las funcionalidades para la recolección y gestión de datos del sistema. Coordiné con el equipo para asegurar la integración correcta con otros bounded contexts y comuniqué efectivamente los requisitos técnicos y las decisiones de diseño tomadas. |
 |  TP1   | 07/10/2025  | Renso Anthony Julca Cruz                                                 | Realicé el desarrollo del Bounded Context Vehicle Diagnosis, implementando las funcionalidades para el diagnóstico y evaluación de vehículos. Mantuve comunicación efectiva con el equipo técnico para asegurar la integración correcta con los demás componentes del sistema. |
-|  TB2   | 12/11/2025  | Gianmarco Fabian Jiménez Guerra | Realicé una entrevista de validacaión, el desarrollo del back-end del Bounded Context Payment Service a partir del diagrama presentado. Me comuniqué constantemente con el grupo para asegurar la integración correcta con los demás componentes del sistema. Finalmente, registré las entrevistas y su contenido. |
+|  TB2   | 12/11/2025  | Gianmarco Fabian Jiménez Guerra | Realicé una entrevista de validación, el desarrollo del backend del Bounded Context Payment Service a partir del diagrama presentado. Me comuniqué constantemente con el grupo para asegurar la integración correcta con los demás componentes del sistema. Finalmente, registré las entrevistas y su contenido. |
+|  TB2   | 12/11/2025  | César Augusto Aróstegui Alzamora | Realicé mi aporte en el backend del Bounded Context IAM y Maintenance Status Tracking. También realicé 2 entrevistas de validación del segmentos 2. |
   TB2   | 12/11/2025 | Piero Francesco Tenorio Medina | Realice las entrevistas de validaciones al segmento 1 y el avance del backend del Bounded Context Data Collection. Además de realizar validaciones con los demás integrantes del grupo sobre los distintos cambios en torno al diagrama de clases y su estructura. |
 
 </div>
@@ -2606,7 +2607,7 @@ Evidencias:
 Durante el Sprint 3, se implementó una estrategia de despliegue continuo para la aplicación integrada de Prime-Fix, asegurando que cada nueva funcionalidad desarrollada se despliegue automáticamente en un entorno de producción estable y accesible para los usuarios finales. Esta estrategia abarca tanto la Frontend Web Application como los Web Services RESTful del backend.
 
 **Infraestructura de despliegue implementada:**
-Link del Restful Web Services desplegado en AWS: [https://prime-fix-backend-api.aws.com](https://prime-fix-backend-api.aws.com)
+Link del Restful Web Services desplegado en AWS: [https://cadw4v2ry8.us-east-2.awsapprunner.com/swagger-ui/index.html#](https://cadw4v2ry8.us-east-2.awsapprunner.com/swagger-ui/index.html#)
 
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint
@@ -2889,6 +2890,8 @@ El alcance de esta evaluación incluye la revisión de la usabilidad y experienc
 
 - El desarrollo de la Frontend Web Application utilizando Angular y TypeScript permitió crear una interfaz de usuario robusta y escalable. La aplicación está diseñada para ser intuitiva y accesible, facilitando la navegación y el uso tanto para dueños de vehículos como para talleres.
 
+- La creación de los Web Services RESTful con Java y Spring Boot proporcionó una base sólida para la lógica de negocio y la gestión de datos. Estos servicios permiten una comunicación eficiente entre el frontend y el backend, asegurando que las operaciones se realicen de manera segura y confiable.
+
 # Recomendaciones
 
 - Verificar de manera constante los avances de los demás integrantes para evitar confusiones a futuro. Especialmente de los integrates que son designados a partes fundamentales del proyecto sea documentacion o desarrollo.
@@ -2946,10 +2949,20 @@ Link oficial de la documentación de Mozilla para CSS: [https://developer.mozill
 
 Link oficial de la documentación de Mozilla para TypeScript: [https://www.typescriptlang.org/docs/](https://www.typescriptlang.org/docs/)
 
-Link oficial de la documentación de Mozilla para Java: [https://docs.oracle.com/en/java/](https://docs.oracle.com/en/java/)
+Link oficial de la documentación de Oracle para Java: [https://docs.oracle.com/en/java/](https://docs.oracle.com/en/java/)
+
+Link oficial de la Documentación de Spring Framework: [https://docs.spring.io/spring-framework/docs/current/reference/html/](https://docs.spring.io/spring-framework/docs/current/reference/html/)
+
+Link oficial de PostgreSQL: [https://www.postgresql.org/](https://www.postgresql.org/)
+
+Link oficial de Docker: [https://www.docker.com/](https://www.docker.com/)
+
+Link de Open API Specification: [https://swagger.io/specification/](https://swagger.io/specification/)
 
 Link oficial de Spring Boot: [https://spring.io/projects/spring-boot](https://spring.io/projects/spring-boot)
 
 Link oficial de Visual Studio Code: [https://code.visualstudio.com/](https://code.visualstudio.com/)
+
+Link oficial de IntelliJ IDEA: [https://www.jetbrains.com/idea/](https://www.jetbrains.com/idea/)
 
 Link oficial de UXPressia: [https://uxpressia.com/](https://uxpressia.com/)
