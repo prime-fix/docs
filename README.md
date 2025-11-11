@@ -2537,8 +2537,10 @@ Para el Sprint 3, se han identificado cuatro aspectos fundamentales que abarcan 
 
 El Sprint Backlog 3 se centra en la integración completa entre la Frontend Web Application y los Web Services RESTful del backend de Prime-Fix, habilitando flujos de trabajo completos y funcionalidades integradas para ambos segmentos objetivo.
 
-| **Sprint #** | Sprint 3 |
+
+| **Sprint #** | Sprint 2 |
 |--------------|----------|
+
 | **User Story Id** | **User Story Title**                           | **Task Id** | **Task Title**                        | **Description**                                                                 | **Estimation (Hours)** | **Assigned To** | **Status** |
 |-------------------|-------------------------------------------------|-------------|---------------------------------------|---------------------------------------------------------------------------------|------------------------|-----------------|------------|
 | TS-01     | Integración de API para autenticación          | T-01        | Conectar login y registro con backend | Implementar llamadas a endpoints de autenticación desde frontend               | 6                     | César           | Done      |
@@ -2553,6 +2555,11 @@ El Sprint Backlog 3 se centra en la integración completa entre la Frontend Web 
 | TS-06     | Integración de API para búsqueda de talleres   | T-09        | Conectar componente de búsqueda con backend | Implementar llamadas a endpoints de búsqueda desde frontend                     | 5                     | Alexander       | Done      |
 | TS-07     | Integración de API para gestión de solicitudes | T-10        | Conectar panel de gestión con backend | Implementar llamadas a endpoints de solicitudes desde frontend                  | 6                     | Alicia          | Done      |
 | TS-08     | Pruebas end-to-end completas                   | T-11        | Implementar pruebas E2E              | Desarrollar pruebas automatizadas que validen flujos completos desde UI hasta backend | 8                     | César       | Done      |
+
+Captura en Trello del Sprint 3:
+<img src="Assets/Trello/Sprint_3.png">
+
+[https://trello.com/invite/b/68e553625941b3277a631f79/ATTIbdc7ed65f50e7fba04796f3c4c17e9660F991CC5/prime-fix](https://trello.com/invite/b/68e553625941b3277a631f79/ATTIbdc7ed65f50e7fba04796f3c4c17e9660F991CC5/prime-fix)
 
 #### 5.2.3.4. Development Evidence for Sprint Review
 
@@ -2575,44 +2582,38 @@ Durante el Sprint 3, se logró la integración completa entre la Frontend Web Ap
 #### 5.2.3.5. Execution Evidence for Sprint Review
 
 Durante el Sprint 3, se logró la integración completa entre la Frontend Web Application y los Web Services RESTful del backend de Prime-Fix. Esta integración permitió habilitar flujos de trabajo completos y funcionalidades integradas para ambos segmentos objetivo.
-**Screenshots de la aplicación integrada en funcionamiento:**
-<img src="Assets/integration/login_integration.png">
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
 Durante el Sprint 3, se actualizó la documentación técnica para reflejar la integración completa entre la Frontend Web Application y los Web Services RESTful del backend de Prime-Fix. La documentación incluye guías de uso de la API, flujos de trabajo integrados y ejemplos de llamadas a endpoints.
 
-| User Story Id | User Story Title                                              | Task Id | Task Title                                     | Description                                                                                                                                              | Estimation (Hours) | Assigned To | Status      |
-|---------------|---------------------------------------------------------------|---------|-----------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------|-------------|-------------|
-| US-37         | Gestión de cuentas de usuario (IAM)                          | T-01    | Configurar servicio IAM                        | Crear proyecto del microservicio IAM, estructura de carpetas, configuración base y conexión a la base de datos.                                         | 4                  | César       | Done        |
-| US-37         | Gestión de cuentas de usuario (IAM)                          | T-02    | Endpoints de registro y login                  | Implementar endpoints para registro, login y logout con validaciones básicas y manejo de errores.                                                        | 6                  | César       | Done        |
-| US-37         | Gestión de cuentas de usuario (IAM)                          | T-03    | Seguridad y manejo de credenciales             | Configurar hashing de contraseñas, validación de tokens/JWT y middleware de autorización.                                                                | 4                  | César       | Done        |
-| US-38         | Seguimiento de mantenimientos (Maintenance Tracking)         | T-04    | Modelo de órdenes de mantenimiento             | Diseñar entidades y relaciones para órdenes, estados y vehículos en la base de datos.                                                                    | 5                  | César       | Done        |
-| US-38         | Seguimiento de mantenimientos (Maintenance Tracking)         | T-05    | Endpoints CRUD de órdenes                      | Implementar creación, actualización de estado y consulta de órdenes de mantenimiento.                                                                    | 5                  | César       | Done        |
-| US-39         | Registro de reparaciones y técnicos (Auto Repair Registration)| T-06    | Registro de talleres y técnicos                | Implementar endpoints para registrar talleres, técnicos y sus datos principales.                                                                         | 4                  | Flor        | Done        |
-| US-39         | Registro de reparaciones y técnicos (Auto Repair Registration)| T-07    | Asignación de técnicos a reparaciones          | Implementar lógica y endpoints para asignar técnicos a órdenes de reparación existentes.                                                                 | 3                  | Flor        | Done        |
-| US-40         | Catálogo de talleres con filtros de búsqueda (Auto Repair Catalog) | T-08    | API de listado y filtros de talleres           | Implementar endpoints para listar talleres con filtros por distrito, tipo de servicio y calificación.                                                    | 5                  | Giorgio     | Done        |
-| US-40         | Catálogo de talleres con filtros de búsqueda (Auto Repair Catalog) | T-09    | Soporte de ubicación y ordenamiento            | Agregar soporte de ubicación (distrito/ciudad) y ordenamiento por distancia/calificación en las respuestas.                                              | 3                  | Giorgio     | In Progress |
-| US-41         | Recolección de datos para diagnóstico (Data Collection & Diagnosis) | T-10    | Modelo de datos de diagnóstico                 | Diseñar esquema para registrar síntomas del vehículo, lecturas y resultados de diagnóstico.                                                               | 4                  | Piero       | Done        |
-| US-41         | Recolección de datos para diagnóstico (Data Collection & Diagnosis) | T-11    | Endpoints de registro de diagnósticos          | Implementar endpoints para registrar y consultar diagnósticos asociados a órdenes de mantenimiento.                                                      | 4                  | Piero       | Done        |
-| US-42         | Procesamiento de pagos en línea (Payment Service)            | T-12    | Configurar servicio de pagos                   | Crear servicio de pagos, modelo de transacciones y estados (pendiente, pagado, fallido).                                                                 | 5                  | Gianmarco   | Done        |
-| US-42         | Procesamiento de pagos en línea (Payment Service)            | T-13    | Endpoint de creación y actualización de pagos  | Implementar endpoint para crear pagos, registrar respuesta del proveedor y actualizar estado de la transacción.                                          | 4                  | Gianmarco   | In Progress |
-| US-43         | Integración Frontend–Backend y orquestación de servicios     | T-14    | Configurar API Gateway / Reverse Proxy         | Configurar gateway o reverse proxy para enrutar solicitudes del frontend hacia los microservicios correspondientes.                                      | 5                  | César       | In Progress |
-| US-43         | Integración Frontend–Backend y orquestación de servicios     | T-15    | Integrar vistas del frontend con los Web Services | Conectar pantallas clave (login, listado de talleres, creación de órdenes, pagos) con los endpoints del backend.                                         | 6                  | Gianmarco   | To Do       |
-| US-43         | Integración Frontend–Backend y orquestación de servicios     | T-16    | Actualizar CI/CD y variables de entorno para backend | Actualizar pipeline de GitHub Actions y variables de entorno para desplegar los microservicios en el entorno remoto.                                     | 3                  | César       | In Progress |
+En esta sección se presenta la documentación actualizada que incluye:
+- Especificación de endpoints RESTful con métodos, parámetros y respuestas
+- Guías de uso de la API para cada funcionalidad integrada
 
+Evidencias: 
 
-Captura en Trello del Sprint 3:
-<img src="Assets/Trello/Sprint_3.png">
+<img src="Assets/backend/API_Documentation_1.png">
 
-[https://trello.com/invite/b/68e553625941b3277a631f79/ATTIbdc7ed65f50e7fba04796f3c4c17e9660F991CC5/prime-fix](https://trello.com/invite/b/68e553625941b3277a631f79/ATTIbdc7ed65f50e7fba04796f3c4c17e9660F991CC5/prime-fix)
+<img src="Assets/backend/API_Documentation_2.png">
 
+<img src="Assets/backend/API_Documentation_3.png">
+
+**OpenAPI UI (URLpublicada):** <https://cadw4v2ry8.us-east-2.awsapprunner.com/swagger-ui/index.html>
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
+Durante el Sprint 3, se implementó una estrategia de despliegue continuo para la aplicación integrada de Prime-Fix, asegurando que cada nueva funcionalidad desarrollada se despliegue automáticamente en un entorno de producción estable y accesible para los usuarios finales. Esta estrategia abarca tanto la Frontend Web Application como los Web Services RESTful del backend.
+
+**Infraestructura de despliegue implementada:**
+Link del Restful Web Services desplegado en AWS: [https://prime-fix-backend-api.aws.com](https://prime-fix-backend-api.aws.com)
 
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint
+
+Durante el Sprint 3, el equipo de FixTech demostró una colaboración excepcionalmente efectiva en la integración completa entre la Frontend Web Application y los Web Services RESTful del backend de Prime-Fix. La coordinación técnica precisa y la comunicación constante entre todos los miembros del equipo fueron fundamentales para lograr una integración exitosa y habilitar flujos de trabajo completos.
+
+<img src="Assets/evidences/team_sprint3.png">
 
 
 ## 5.3. Validation Interviews
@@ -2693,6 +2694,8 @@ Marcos Contreras es un joven de 24 años quien trabaja y estudia de manera paral
 Anyelo Alejos es un chico de 23 años de edad, el solo estudia pero cuenta con un Vehiculo para movilizarse a su centro de estudios. El comenta que utiliza apliaciones como Google Maps para poder encontrar un taller que le sea pertinente, pero tambien lo busca de manera manual. Al probar nuestra aplicación de PrimeFix, dijo que le parecia interesante y que el diseño era agradable al igual que su funcionamiento. Remarcó que algunas partes de la aplicación podrían cambiar para hacerlo mucho más intuitivo y practico a la hora de utilizar las distintas funcionalidades.
 
 #### Segmento #2: Asesor de servicios de un taller automotriz
+
+**Entrevista N°1: Jesús Valenzuela**
 - Sexo: Masculino
 - Edad: 21
 - Link: <https://upcedupe-my.sharepoint.com/:v:/g/personal/u202123843_upc_edu_pe/IQB2LcBLH7ZnRIt04ZWCfeVzAS7e9tAzPBWASiqvD__DlCw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=gkBvjC>
@@ -2702,6 +2705,29 @@ Anyelo Alejos es un chico de 23 años de edad, el solo estudia pero cuenta con u
 
 <img src="Assets/entrevistas_validacion/segmento_2_entrevista_1.png">
 Jesús Valenzuela es un joven asesor de servicios de reparación del taller Alvillantas. En esta entrevista pudo probar tanto la landing page como el front-end de Prime-Fix en una computadora. En su mayoría, está conforme con que el servicio sea mediante la web. Asimismo, señaló que muchas de las funcionalidades son muy intuitivas y útiles para su trabajo ya que todas las etiquetas son claras y el flujo de actividades es ordenado. No identificó aspectos visuales negativos salvo algunas pequeñas recomendaciones. Valora que la aplicación le permita gestionar las solicitudes de servicios, la información de los técnicos y el estado de cada vehículo que se encuentra en el taller.
+
+
+**Entrevista N°2: William Espinoza**
+- Sexo: Masculino
+- Edad: 24
+- Link: <https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114548_upc_edu_pe/IQALes54IOeAQJuiRKMd_8ZoAY2ayLAV4yDye9Z5XDHiAk8?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=ppI8dt>
+- Inicia en: 00:01
+- Duración: 16:06
+- Fecha: 06/11/2025
+
+<img src="Assets/entrevistas_validacion/segmento_2_entrevista_2.png">
+William Espinoza es un joven asesor de servicios de reparación del taller AutoFast. En esta entrevista pudo probar tanto la landing page como el front-end de Prime-Fix en una computadora. En su mayoría, está conforme con que el servicio sea mediante la web. Asimismo, señaló que muchas de las funcionalidades son muy intuitivas y útiles para su trabajo ya que todas las etiquetas son claras y el flujo de actividades es ordenado. No identificó aspectos visuales negativos salvo algunas pequeñas recomendaciones. Valora que la aplicación le permita gestionar las solicitudes de servicios, la información de los técnicos y el estado de cada vehículo que se encuentra en el taller.
+
+**Entrevista N°3: Héctor Cárdenas**
+- Sexo: Masculino
+- Edad: 26
+- Link: <https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114548_upc_edu_pe/IQC6IJkvw7_wSakaUw1eJisnAVEbxKd2Ks86a_GNkezsHM0?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=ExwZdK>
+- Inicia en: 00:01
+- Duración: 09:32
+- Fecha: 07/11/2025
+
+<img src="Assets/entrevistas_validacion/segmento_2_entrevista_3.png">
+Héctor Cárdenas es un joven asesor de servicios de reparación del taller Mecánica Rápida. En esta entrevista pudo probar tanto la landing page como el front-end de Prime-Fix en una computadora. En su mayoría, está conforme con que el servicio sea mediante la web. Asimismo, señaló que muchas de las funcionalidades son muy intuitivas y útiles para su trabajo ya que todas las etiquetas son claras y el flujo de actividades es ordenado. No identificó aspectos visuales negativos salvo algunas pequeñas recomendaciones. Valora que la aplicación le permita gestionar las solicitudes de servicios, la información de los técnicos y el estado de cada vehículo que se encuentra en el taller.
 
 ### 5.3.3. Evaluaciones según heurísticas
 
@@ -2715,7 +2741,7 @@ Jesús Valenzuela es un joven asesor de servicios de reparación del taller Alvi
 | **Profesores** | Todos |
 | **Auditor(es)** | Grupo 1 |
 | **Cliente(s)** | Grupo 2 |
-| **Site / App a Evaluar** | **QuizzBee |
+| **Site / App a Evaluar** | **QuizzBee** |
 
 ## Tareas a Evaluar
 
@@ -2899,6 +2925,8 @@ Link del repositorio de Github del RESTful Web Services: [https://github.com/pri
 Link de la Landing Page: [https://landing-page-pearl-kappa-37.vercel.app/](https://landing-page-pearl-kappa-37.vercel.app/)
 
 Link del Frontend Web Applications: [https://frontend-dusky-rho-85.vercel.app/](https://frontend-dusky-rho-85.vercel.app/)
+
+Link del RESTful Web Services: [https://cadw4v2ry8.us-east-2.awsapprunner.com/swagger-ui/index.html#](https://cadw4v2ry8.us-east-2.awsapprunner.com/swagger-ui/index.html#)
 
 Link del Diagrama de Clases: [https://lucid.app/lucidchart/a5dcb0f8-65f4-41c3-986a-8c6f758cf58c/edit?viewport_loc=1867%2C14304%2C9812%2C4039%2ChPaR5Cs4a9aQ&invitationId=inv_f24412cc-190d-48c4-a4b1-e6d6a94fb303](https://lucid.app/lucidchart/a5dcb0f8-65f4-41c3-986a-8c6f758cf58c/edit?viewport_loc=1867%2C14304%2C9812%2C4039%2ChPaR5Cs4a9aQ&invitationId=inv_f24412cc-190d-48c4-a4b1-e6d6a94fb303)
 
