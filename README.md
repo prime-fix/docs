@@ -163,6 +163,15 @@
       - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
       - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
       - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
+    - [5.2.3. Sprint 3](#523-sprint-3)
+      - [5.2.3.1. Sprint Planning 3](#5231-sprint-planning-3)
+      - [5.2.3.2. Aspect Leaders and Collaborators](#5232-aspect-leaders-and-collaborators)
+      - [5.2.3.3. Sprint Backlog 3](#5233-sprint-backlog-3)
+      - [5.2.3.4. Development Evidence for Sprint Review](#5234-development-evidence-for-sprint-review)
+      - [5.2.3.5. Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review)
+      - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
+      - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
+      - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
   - [5.3. Validation Interviews](#53-validation-interviews)
     - [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)
     - [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)
@@ -2389,6 +2398,27 @@ El trabajo se organizó de manera estratégica, asignando a cada miembro módulo
 
 El Sprint 2 consolidó al equipo como una unidad técnica cohesiva especializada en desarrollo frontend, estableciendo las bases para la integración futura con servicios backend y la evolución continua de la experiencia de usuario de Prime-Fix.
 
+### 5.2.3. Sprint 3
+
+Se documenta el proceso de implementación, pruebas, documentación y despliegue del tercer Sprint, enfocado en la integración completa entre la Frontend Web Application y los Web Services RESTful del backend de Prime-Fix. Este sprint se centra en conectar las interfaces de usuario desarrolladas con los servicios backend para habilitar funcionalidades completas y flujos de trabajo integrados.
+
+#### 5.2.3.1. Sprint Planning 3
+
+#### 5.2.3.2. Aspect Leaders and Collaborators
+
+#### 5.2.3.3. Sprint Backlog 3
+
+#### 5.2.3.4. Development Evidence for Sprint Review
+
+#### 5.2.3.5. Execution Evidence for Sprint Review
+
+#### 5.2.3.6. Services Documentation Evidence for Sprint Review
+
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review
+
+#### 5.2.3.8. Team Collaboration Insights during Sprint
+
+
 ## 5.3. Validation Interviews
 
 Luego de haber avanzado con el desarrollo de la Landing Page y el deploy del front-end de la aplicación web y el API RESTful de PrimeFix, se realizarán las entrevistas de validación a los usuarios previamente entrevistados que corresponden a los segmentos objetivos para los cuales está dirigido el producto.
@@ -2478,6 +2508,148 @@ Anyelo Alejos es un chico de 23 años de edad, el solo estudia pero cuenta con u
 Jesús Valenzuela es un joven asesor de servicios de reparación del taller Alvillantas. En esta entrevista pudo probar tanto la landing page como el front-end de Prime-Fix en una computadora. En su mayoría, está conforme con que el servicio sea mediante la web. Asimismo, señaló que muchas de las funcionalidades son muy intuitivas y útiles para su trabajo ya que todas las etiquetas son claras y el flujo de actividades es ordenado. No identificó aspectos visuales negativos salvo algunas pequeñas recomendaciones. Valora que la aplicación le permita gestionar las solicitudes de servicios, la información de los técnicos y el estado de cada vehículo que se encuentra en el taller.
 
 ### 5.3.3. Evaluaciones según heurísticas
+
+## Evaluación Heurística de Usabilidad y Diseño Inclusivo para la Aplicación Web "QuizzBee"
+
+| Campo | Descripción |
+|--------|--------------|
+| **Carrera** | Ingeniería de Software |
+| **Curso** | Desarrollo de Aplicaciones Open Source |
+| **Sección** | 7385 |
+| **Profesores** | Todos |
+| **Auditor(es)** | Grupo 1 |
+| **Cliente(s)** | Grupo 2 |
+| **Site / App a Evaluar** | **QuizzBee |
+
+## Tareas a Evaluar
+
+El alcance de esta evaluación incluye la revisión de la usabilidad y experiencia del usuario en las siguientes tareas:
+
+1. Identificar funcionalidades principales del servicio.  
+2. Registro de un nuevo usuario.  
+3. Inicio de sesión.  
+4. Creación, edición y eliminación de quizzes.  
+5. Visualización de ranking y estadísticas.  
+6. Consulta de soporte y preguntas frecuentes.  
+7. Gestión del plan gratuito o premium.  
+8. Cierre de sesión.
+
+
+## Escala de Severidad
+
+| Nivel | Descripción |
+|-------|--------------|
+| **1** | Problema superficial: fácilmente superable, ocurre con poca frecuencia. No requiere atención inmediata. |
+| **2** | Problema menor: aparece con algo más de frecuencia o genera leve dificultad. Requiere revisión en próximas versiones. |
+| **3** | Problema mayor: ocurre con frecuencia o afecta notablemente la experiencia del usuario. Debe corregirse con prioridad alta. |
+| **4** | Problema muy grave: impide el uso normal del sistema. Debe corregirse antes del lanzamiento. |
+
+## Tabla Resumen de Problema
+
+| # | Problema identificado | Escala de severidad | Heurística / Principio violado(a) |
+|---|-----------------------|:--:|--------------------------------|
+| 1 | No existe un menú de navegación visible o fijo en la landing para moverse entre secciones principales. | 3 | **Usability:** Libertad y control del usuario |
+| 2 | No hay botón de “volver arriba” ni enlaces de navegación interna (anclas). | 2 | **Usability:** Flexibilidad y eficiencia de uso |
+| 3 | El contraste entre texto y fondo en algunas secciones reduce la legibilidad. | 2 | **Inclusive Design:** Accesibilidad visual |
+| 4 | Íconos sin atributo “alt” ni etiquetas accesibles. | 3 | **Inclusive Design:** Proporcionar experiencias comparables |
+| 5 | Falta un CTA (“Call to Action”) claro y consistente en la landing. | 3 | **Information Architecture:** Is it usable? |
+| 6 | En el registro no se especifican criterios de validación de contraseña ni mensajes de error dinámicos. | 2 | **Usability:** Prevención de errores |
+| 7 | No existe confirmación visual al registrarse, iniciar sesión o realizar acciones principales. | 3 | **Usability:** Visibilidad del estado del sistema |
+| 8 | En el dashboard, íconos sin etiquetas accesibles (`aria-label`). | 3 | **Inclusive Design:** Experiencias comparables |
+| 9 | No hay aviso de confirmación antes de eliminar un quiz o cuenta. | 4 | **Usability:** Prevención de errores |
+| 10 | La sección “Manage plan” aparece vacía sin contenido ni botones funcionales. | 3 | **Information Architecture:** Is it findable / usable? |
+| 11 | No hay retroalimentación al guardar o publicar un quiz. | 3 | **Usability:** Visibilidad del estado del sistema |
+| 12 | Palabras de interfaz sin traducir (“MY_CREATIONS.TITLE”). | 3 | **Information Architecture:** Consistencia y lenguaje del usuario |
+| 13 | Jerarquía visual débil y contraste bajo entre secciones activas e inactivas. | 2 | **Inclusive Design:** Accesibilidad visual |
+| 14 | Campos de idioma y nivel sin texto de ayuda o ejemplos de uso. | 2 | **Usability:** Ayuda y documentación mínima |
+
+## Descripción de Problemas
+
+### PROBLEMA #1: No existe un menú de navegación visible o fijo
+- **Severidad:** 3  
+- **Heurística violada:** Usability – Libertad y control del usuario  
+- **Descripción:** La landing no muestra un header o barra fija para saltar entre secciones (funcionalidades, testimonios, FAQ, soporte). Obliga a hacer scroll largo y dificulta volver a zonas clave.  
+- **Recomendación:** Añadir una barra superior “sticky” con anclas a secciones (“Inicio”, “Funcionalidades”, “Testimonios”, “FAQ”, “Soporte”) y CTA persistente.
+
+### PROBLEMA #2: No hay “volver arriba” ni anclas internas
+- **Severidad:** 2  
+- **Heurística violada:** Usability – Flexibilidad y eficiencia de uso  
+- **Descripción:** Al terminar una sección, no hay enlaces de retorno rápido al inicio ni atajos de navegación interna; esto afecta eficiencia en páginas largas.  
+- **Recomendación:** Agregar botón flotante “↑” y anclas internas entre bloques; incluir accesos rápidos al final de cada sección.
+
+### PROBLEMA #3: Contraste bajo en textos/fondos de la landing
+- **Severidad:** 2  
+- **Heurística violada:** Inclusive Design – Accesibilidad visual  
+- **Descripción:** En tarjetas y fondos celeste/azulado, algunos textos azules pierden contraste con el fondo, dificultando lectura.  
+- **Recomendación:** Ajustar paleta (color de texto y/o fondo).
+
+### PROBLEMA #4: Íconos sin `alt` ni etiquetas accesibles
+- **Severidad:** 3  
+- **Heurística violada:** Inclusive Design – Proporcionar experiencias comparables  
+- **Descripción:** Los íconos/emojis de “Funcionalidades” carecen de descripciones para lectores de pantalla; usuarios con discapacidad visual pierden contexto.  
+- **Recomendación:** Incluir `alt`/`aria-label` descriptivos y `role="img"` si procede; si son decorativos, marcarlos como `aria-hidden="true"`.
+
+### PROBLEMA #5: Ausencia de CTA principal en la landing
+- **Severidad:** 3  
+- **Heurística violada:** Information Architecture – Is it usable?  
+- **Descripción:** No existe un botón de acción dominante (p.ej., “Empieza ahora”, “Regístrate”); el objetivo de conversión queda difuso.  
+- **Recomendación:** Incorporar CTA visible y consistente en hero y barra de navegación; usar color contrastante y copy orientado a acción.
+
+### PROBLEMA #6: Validación limitada en formulario de registro
+- **Severidad:** 2  
+- **Heurística violada:** Usability – Prevención de errores  
+- **Descripción:** Solo se indica “Contraseña (mín. 6)”. No hay validación en tiempo real ni requisitos claros (mayúsculas, número, símbolo) ni confirmación de contraseña.  
+- **Recomendación:** Añadir checklist dinámico de requisitos, campo “confirmar contraseña”, medidor de fortaleza y mensajes inline.
+
+### PROBLEMA #7: Sin confirmación/feedback tras acciones clave
+- **Severidad:** 3  
+- **Heurística violada:** Usability – Visibilidad del estado del sistema  
+- **Descripción:** En registro/login y operaciones de contenido no aparecen estados de carga, notificaciones de éxito/fallo, ni “toast/snackbar”.  
+- **Recomendación:** Incluir indicadores de progreso (spinners), toasts de éxito/error, y estados deshabilitados en botones mientras procesan.
+
+### PROBLEMA #8: Menú lateral con íconos sin etiquetas accesibles
+- **Severidad:** 3  
+- **Heurística violada:** Inclusive Design – Experiencias comparables  
+- **Descripción:** Los íconos del sidebar (Profile, Home, Create, etc.) no exponen `aria-label`/`title` ni orden lógico de tabulación; navegación por teclado/lector se ve afectada.  
+- **Recomendación:** Añadir `aria-label` y `aria-current="page"` para el activo; asegurar foco visible y orden de tab index natural.
+
+### PROBLEMA #9: Eliminación de quiz/cuenta sin confirmación
+- **Severidad:** 4  
+- **Heurística violada:** Usability – Prevención de errores  
+- **Descripción:** En “My Creations” el botón **Delete** y en perfil **Delete account** no solicitan confirmación (ni “undo”), lo que puede causar pérdida permanente.  
+- **Recomendación:** Modal de confirmación con resumen del impacto, doble acción **Cancelar/Eliminar**, y opción de recuperación (papelera o “undo”).
+
+### PROBLEMA #10: “Manage plan” vacío/sin opciones
+- **Severidad:** 3  
+- **Heurística violada:** Information Architecture – Is it findable / usable?  
+- **Descripción:** La vista muestra un fondo degradado y título, pero carece de planes, precios, beneficios o flujos de pago; el usuario no puede completar la tarea.  
+- **Recomendación:** Añadir tarjetas de planes (Free/Pro/Team), features comparadas, precio/periodicidad, CTA “Upgrade” y estado de plan actual.
+
+### PROBLEMA #11: Sin feedback al guardar/publicar quiz
+- **Severidad:** 3  
+- **Heurística violada:** Usability – Visibilidad del estado del sistema  
+- **Descripción:** En “Modo Creativo”, los botones **Guardar borrador**/**Publicar** no indican progreso ni resultado; el usuario duda si se guardó o falló.  
+- **Recomendación:** Mostrar loader en botón, deshabilitar durante envío, y notificación de éxito con enlace para ver el quiz; mensajes claros ante error.
+
+### PROBLEMA #12: Textos de interfaz sin traducir (i18n incompleto)
+- **Severidad:** 3  
+- **Heurística violada:** Information Architecture – Consistencia y lenguaje del usuario  
+- **Descripción:** Etiquetas como `MY_CREATIONS.TITLE`, `MY_CREATIONS.POINTS`, `Clear filters` aparecen en inglés/clave de i18n, rompiendo consistencia lingüística.  
+- **Recomendación:** Completar archivos de traducción, fallback localizable, y detección automática de idioma; prueba de regresión lingüística.
+
+### PROBLEMA #13: Bajo contraste/jerarquía en estados activos
+- **Severidad:** 2  
+- **Heurística violada:** Inclusive Design – Accesibilidad visual  
+- **Descripción:** En el editor (pestañas/lista de preguntas) el elemento activo no se distingue con claridad respecto a inactivos; afecta orientación y foco visual.  
+- **Recomendación:** Aumentar contraste y señales de estado (color, grosor de borde, fondo, icono de “activo”); cumplir WCAG Focus Visible.
+
+### PROBLEMA #14: Falta de ayudas/contexto en “Idioma” y “Nivel”
+- **Severidad:** 2  
+- **Heurística violada:** Usability – Ayuda y documentación mínima  
+- **Descripción:** Selectores de **Language**/**Level** carecen de microcopy (para qué sirven, cómo afectan la experiencia) ni ejemplos (p. ej., “Novice = nivel A1”).  
+- **Recomendación:** Añadir texto de ayuda inline/tooltip, descripciones cortas y ejemplos; si modifican el contenido recomendado, explicarlo explícitamente.
+
+---
 
 ## 5.4. Video About-the-Product
 
