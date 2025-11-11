@@ -41,7 +41,7 @@
   </tbody>
 </table>
 
-<div style="text-align:center; margin-top:18px;"> Setiembre 2025 </div>
+<div style="text-align:center; margin-top:18px;"> Noviembre 2025 </div>
 
 <hr>
 
@@ -65,6 +65,8 @@
 |  TP1   | 07/10/2025  | Alicia Avril Navarro Chang                                                | Realicé el desarrollo del Bounded Context Auto Repair Catalog, implementando las funcionalidades relacionadas con la gestión del catálogo de servicios de reparación. Mantuve comunicación constante con el equipo para alinear los requerimientos funcionales y técnicos del sistema. |
 |  TP1   | 07/10/2025  | Piero Francesco Tenorio Medina                                            | En esta entrega desarrollé el Bounded Context de Data Collection, donde implementé las funcionalidades para la recolección y gestión de datos del sistema. Coordiné con el equipo para asegurar la integración correcta con otros bounded contexts y comuniqué efectivamente los requisitos técnicos y las decisiones de diseño tomadas. |
 |  TP1   | 07/10/2025  | Renso Anthony Julca Cruz                                                 | Realicé el desarrollo del Bounded Context Vehicle Diagnosis, implementando las funcionalidades para el diagnóstico y evaluación de vehículos. Mantuve comunicación efectiva con el equipo técnico para asegurar la integración correcta con los demás componentes del sistema. |
+|  TB2   | 12/11/2025  | Gianmarco Fabian Jiménez Guerra | Realicé una entrevista de validacaión, el desarrollo del back-end del Bounded Context Payment Service a partir del diagrama presentado. Me comuniqué constantemente con el grupo para asegurar la integración correcta con los demás componentes del sistema. Finalmente, registré las entrevistas y su contenido. |
+  TB2   | 12/11/2025 | Piero Francesco Tenorio Medina | Realice las entrevistas de validaciones al segmento 1 y el avance del backend del Bounded Context Data Collection. Además de realizar validaciones con los demás integrantes del grupo sobre los distintos cambios en torno al diagrama de clases y su estructura. |
 
 </div>
 
@@ -175,8 +177,8 @@
 # Student Outcome  
 | Criterio específico                                                   | Acciones realizadas                                                                                     | Conclusiones |
 | --------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | ------------ |
-| Comunica oralmente con efectividad a diferentes rangos de audiencia   | Jiménez Guerra, Gianmarco Fabian<br>TB1: Para esta entrega pude contribuir en todos los capítulos a desarrollar. Ayudé a definir el proyecto y las funcionalidadaes de manera correcta y pude comunicarme de forma correcta y ordenada con los integrantes del grupo.<br>TP1: Para esta entrega coordiné mi colaboración junto con el grupo de trabajo: aporté en algunas correcciones, en el uso del trello para el registro de los user stories y los sprints y finalmente con la codificación del Bounded Context Payment Service.<br><br>Aróstegui Alzamora, Cesar Augusto<br>TB1: En el inicio de este proyecto planifiqué lo necesario para los avances del prototipo de la aplicación web y el diseño UX/UI, facilité sesiones de Design-Level Event Storming para alinear vocabulario y flujos. También planifiqué la primera versión de la Landing Page.<br>TP1: Durante esta entrega me enfoqué en la implementación técnica desarrollando los Bounded Contexts de IAM (Identity and Access Management) y Maintenance Status Tracking. Mantuve comunicación efectiva con el equipo durante las sesiones de planificación y revisión de código, explicando la arquitectura de seguridad y los patrones implementados para el seguimiento del estado de mantenimiento.<br><br>Tenorio Medina, Piero Francesco<br>TB1: Dentro de esta parte del trabajo, he planteado distintas ideas de como se podria desarrollar el trabajo con los demás integrantes de mi equipo.Estas ideas considerando las dimensiones y el alcnace del trabajo. Se ha desarrollado secciones como Entrevistas a Uusarios, donde sse ha llegado a plasmar de manera correcta la idea de nuestro proyecto.<br>TP1: En esta entrega desarrollé el Bounded Context de Data Collection, donde implementé las funcionalidades para la recolección y gestión de datos del sistema. Coordiné con el equipo para asegurar la integración correcta con otros bounded contexts y comuniqué efectivamente los requisitos técnicos y las decisiones de diseño tomadas.<br><br>Montoya Torres, Alexander Gabriel<br>TB1: Durante la fase inicial de este proyecto hemos mantenido una buena comunicación con el equipo, de manera que logramos determinar un plan para llevar a cabo los avances pertinentes del proyecto y reforzar nuestro trabajo colaborativo. Sumado a esto, logre aportar con varios puntos del trabajo, desde entrevistas, parte del needfinding cómo la definición de funcionalidades de la plataforma.<br>TP1: Durante el TP1 desarrollé el Bounded Context Auto Repair Registration, enfocándome en las funcionalidades de registro y gestión de talleres automotrices. Coordiné efectivamente con los demás integrantes para asegurar la coherencia en la implementación y comunicé los avances técnicos durante las reuniones de equipo.<br><br>Navarro Chang, Alicia Avril<br>TB1: Trabajé en conjunto con mis compañeros de equipo para poder plasmar el concepto de nuestro proyecto, además de estar al mismo tiempo comunicando ideas y/u opiniones que puedan ayudar al desarrollo del trabajo.<br>TP1: Para esta entrega trabajé en el desarrollo del Bounded Context Auto Repair Catalog, implementando las funcionalidades relacionadas con la gestión del catálogo de servicios de reparación. Mantuve comunicación constante con el equipo para alinear los requerimientos funcionales y técnicos del sistema.<br><br>Julca Cruz, Renso Anthony<br>TP1: En esta entrega me encargué del desarrollo del Bounded Context Vehicle Diagnosis, implementando las funcionalidades para el diagnóstico y evaluación de vehículos. Mantuve comunicación efectiva con el equipo técnico para asegurar la integración correcta con los demás componentes del sistema.<br><br>| TB1: Las presentaciones orales realizadas en esta entrega evidenciaron que el equipo logró transmitir con claridad los objetivos, avances y funcionalidades del proyecto a diferentes audiencias, adaptando el lenguaje y la profundidad de la explicación según el contexto. Esto permitió asegurar la alineación interna del equipo y generar confianza al comunicar resultados a públicos académicos y técnicos.<br><br>TP1: Durante esta entrega, el equipo demostró habilidades de comunicación oral efectiva a través de las presentaciones técnicas de los bounded contexts desarrollados. Cada integrante logró explicar claramente la arquitectura, funcionalidades y decisiones de diseño de su componente específico, adaptando el lenguaje técnico según la audiencia y facilitando la comprensión de conceptos complejos del dominio automotriz.   |
-| Comunica por escrito con efectividad a diferentes rangos de audiencia | Jiménez Guerra, Gianmarco Fabian<br>TB1: Para el desarrollo de mi parte del proyecto, pude redactar de manera adecuada lo que correspondía en mi parte del informe. Además, la comunicación que realicé con algunos segmentos objetivos inicialmente fue vía escrita. Finalmente, hubo coordinaciones con los demás integrantes por escrito.<br>TP1: Para el desarrollo de mi parte en esta entrega, bastaba principalmente con la codificación de mi BC y para ello tuve coordinaciones con los demás miembros del grupo de manera presencial, mediante llamadas y mensajes.<br><br>Aróstegui Alzamora, Cesar Augusto<br>TB1: En el inicio de este proyecto desarrollé los avances del prototipo de la aplicación web y el diseño UX/UI, también completó el avance del Design-Level Event Storming para alinear vocabulario y flujos. También desarrollé la primera versión de la Landing Page.<br>TP1: Durante esta entrega documenté de manera detallada la arquitectura e implementación de los Bounded Contexts IAM y Maintenance Status Tracking. Redacté especificaciones técnicas claras, diagramas de clases y documentación de APIs que facilitaron la comprensión e integración por parte del equipo. También mantuve comunicación escrita efectiva mediante comentarios de código y documentación técnica.<br><br>Tenorio Medina, Piero Francesco<br>TB1: Dentro de esta parte del trabajo, he desarrollado y planteado ideas que sean de acordes a los distintos segmentos objetivos. Estas ideas se basan en la experiencia y el malestar de cada uno de los usuarios, como por ejemplo: el planteamiento de facilidades al usuario a la hora de utilizar la plataforma, brindandole distintas herramientas que mejoren su experiencia a la hora de utilizar nuestro Servicio.<br>TP1: En esta entrega redacté la documentación técnica completa del Bounded Context Data Collection, incluyendo especificaciones funcionales, diagramas de arquitectura y guías de implementación. Mantuve comunicación escrita efectiva con el equipo a través de commits detallados, pull requests descriptivos y documentación de código que facilitó la colaboración técnica.<br><br>Montoya Torres, Alexander Gabriel<br>TB1: En esta fase inicial, he definido la problematica principal que nuestro proyecto busca resolver, de manera que podamos empezar desde una base analitica con respecto a las dolencias del mercado y de esa forma definir nuestros segmentos objetivos y llevar a cabo el Needfinding. Sumado a esto, se ha mantenido una comunicación asertiva con todos los integrantes del equipo, mateniendo una eficiencia colaborativa mediante la comunicación.<br>TP1: Durante esta entrega elaboré documentación técnica detallada del Bounded Context Auto Repair Registration, redactando especificaciones funcionales, guías de implementación y documentación de APIs. Mantuve comunicación escrita efectiva mediante documentación de código, especificaciones técnicas y coordinación asíncrona con los demás bounded contexts.<br><br>Navarro Chang, Alicia Avril<br>TB1: En esta entregá realicé varios artefactos lean ux que buscan comunicar ideas y planificar en base a la experiencia del usuario. Además también desarrollé la parte de needfindg (user personas, impact mapping , user stories) , que nos ayudan a estar en sintonía con la perspectiva del usuario y poder plasmarla de acuerdo a nuestro proyecto.<br>TP1: Para el TP1 desarrollé documentación técnica comprehensiva del Bounded Context Auto Repair Catalog, incluyendo especificaciones de servicios, modelos de datos y documentación de APIs. Comuniqué efectivamente por escrito los requisitos técnicos y decisiones de diseño mediante documentos estructurados y comunicación asíncrona con el equipo.<br><br>Julca Cruz, Renso Anthony<br>TP1: En el TP1 redacté documentación técnica completa del Bounded Context Vehicle Diagnosis, incluyendo especificaciones de algoritmos de diagnóstico, modelos de datos y documentación de servicios. Comuniqué efectivamente por escrito las decisiones técnicas y arquitecturales mediante documentación estructurada y clara para el equipo de desarrollo.<br><br> | TB1: La comunicación escrita reflejada en informes, artefactos y coordinaciones internas permitió transmitir de manera precisa los objetivos y avances del proyecto. Se lograron redactar documentos claros, estructurados y adaptados a diferentes audiencias, lo cual facilitó tanto la colaboración dentro del equipo como la presentación de resultados a evaluadores externos.<br><br>TP1: La comunicación escrita durante esta entrega se caracterizó por la producción de documentación técnica de alta calidad para cada bounded context. El equipo demostró capacidad para redactar especificaciones técnicas precisas, documentación de APIs comprehensiva y guías de implementación claras, facilitando la colaboración asíncrona y asegurando la comprensión de la arquitectura del sistema por parte de diferentes audiencias técnicas.   |
+| Comunica oralmente con efectividad a diferentes rangos de audiencia   | Jiménez Guerra, Gianmarco Fabian<br>TB1: Para esta entrega pude contribuir en todos los capítulos a desarrollar. Ayudé a definir el proyecto y las funcionalidadaes de manera correcta y pude comunicarme de forma correcta y ordenada con los integrantes del grupo.<br>TP1: Para esta entrega coordiné mi colaboración junto con el grupo de trabajo: aporté en algunas correcciones, en el uso del trello para el registro de los user stories y los sprints y finalmente con la codificación del Bounded Context Payment Service.<br>TB2: Para esta entrega, me comuniqué de manera eficiente con mi grupo para determinar mis funciones: mi labor consistía en formular las preguntas de las entrevistas de validación, entrevistar a uno de los usuarios previamente registrados, desarrollar el Bounded Context Payment Service en el contexto del backend y redactar el contenido de la entrevista. <br><br>Aróstegui Alzamora, Cesar Augusto<br>TB1: En el inicio de este proyecto planifiqué lo necesario para los avances del prototipo de la aplicación web y el diseño UX/UI, facilité sesiones de Design-Level Event Storming para alinear vocabulario y flujos. También planifiqué la primera versión de la Landing Page.<br>TP1: Durante esta entrega me enfoqué en la implementación técnica desarrollando los Bounded Contexts de IAM (Identity and Access Management) y Maintenance Status Tracking. Mantuve comunicación efectiva con el equipo durante las sesiones de planificación y revisión de código, explicando la arquitectura de seguridad y los patrones implementados para el seguimiento del estado de mantenimiento.<br><br>Tenorio Medina, Piero Francesco<br>TB1: Dentro de esta parte del trabajo, he planteado distintas ideas de como se podria desarrollar el trabajo con los demás integrantes de mi equipo.Estas ideas considerando las dimensiones y el alcnace del trabajo. Se ha desarrollado secciones como Entrevistas a Uusarios, donde sse ha llegado a plasmar de manera correcta la idea de nuestro proyecto.<br>TP1: En esta entrega desarrollé el Bounded Context de Data Collection, donde implementé las funcionalidades para la recolección y gestión de datos del sistema. Coordiné con el equipo para asegurar la integración correcta con otros bounded contexts y comuniqué efectivamente los requisitos técnicos y las decisiones de diseño tomadas.<br>TB2: Para este avance del trabajo, me comuniqué con el grupo sobre algunas dudas y algunas sugerencias de cambio sobre el trabajo como lo es el diagrama de clases y sus relaciones. Además se realizó un avance sobre el Bounded Context de Data Collection en lo que respecta al backend.<br><br>Montoya Torres, Alexander Gabriel<br>TB1: Durante la fase inicial de este proyecto hemos mantenido una buena comunicación con el equipo, de manera que logramos determinar un plan para llevar a cabo los avances pertinentes del proyecto y reforzar nuestro trabajo colaborativo. Sumado a esto, logre aportar con varios puntos del trabajo, desde entrevistas, parte del needfinding cómo la definición de funcionalidades de la plataforma.<br>TP1: Durante el TP1 desarrollé el Bounded Context Auto Repair Registration, enfocándome en las funcionalidades de registro y gestión de talleres automotrices. Coordiné efectivamente con los demás integrantes para asegurar la coherencia en la implementación y comunicé los avances técnicos durante las reuniones de equipo.<br><br>Navarro Chang, Alicia Avril<br>TB1: Trabajé en conjunto con mis compañeros de equipo para poder plasmar el concepto de nuestro proyecto, además de estar al mismo tiempo comunicando ideas y/u opiniones que puedan ayudar al desarrollo del trabajo.<br>TP1: Para esta entrega trabajé en el desarrollo del Bounded Context Auto Repair Catalog, implementando las funcionalidades relacionadas con la gestión del catálogo de servicios de reparación. Mantuve comunicación constante con el equipo para alinear los requerimientos funcionales y técnicos del sistema.<br><br>Julca Cruz, Renso Anthony<br>TP1: En esta entrega me encargué del desarrollo del Bounded Context Vehicle Diagnosis, implementando las funcionalidades para el diagnóstico y evaluación de vehículos. Mantuve comunicación efectiva con el equipo técnico para asegurar la integración correcta con los demás componentes del sistema.<br><br>| TB1: Las presentaciones orales realizadas en esta entrega evidenciaron que el equipo logró transmitir con claridad los objetivos, avances y funcionalidades del proyecto a diferentes audiencias, adaptando el lenguaje y la profundidad de la explicación según el contexto. Esto permitió asegurar la alineación interna del equipo y generar confianza al comunicar resultados a públicos académicos y técnicos.<br><br>TP1: Durante esta entrega, el equipo demostró habilidades de comunicación oral efectiva a través de las presentaciones técnicas de los bounded contexts desarrollados. Cada integrante logró explicar claramente la arquitectura, funcionalidades y decisiones de diseño de su componente específico, adaptando el lenguaje técnico según la audiencia y facilitando la comprensión de conceptos complejos del dominio automotriz.   |
+| Comunica por escrito con efectividad a diferentes rangos de audiencia | Jiménez Guerra, Gianmarco Fabian<br>TB1: Para el desarrollo de mi parte del proyecto, pude redactar de manera adecuada lo que correspondía en mi parte del informe. Además, la comunicación que realicé con algunos segmentos objetivos inicialmente fue vía escrita. Finalmente, hubo coordinaciones con los demás integrantes por escrito.<br>TP1: Para el desarrollo de mi parte en esta entrega, bastaba principalmente con la codificación de mi BC y para ello tuve coordinaciones con los demás miembros del grupo de manera presencial, mediante llamadas y mensajes.<br>TB2: En este contexto, para poder implementar mi bounded context de manera correcta, pude comunicarme de manera asertiva mediante mensajes de texto con mi grupo de trabajo. Asimismo, redacté las pregutnas de las entrevistas de validación de manera escrita y considerando partes importantes a cuestionar sobre nuestro aplicativo y utilizando el vocabulario que pertenece al contexto de PrimeFix. Finalmente, realicé las coordinaciones con mi entrevistado mediante mensajes de texto.<br><br>Aróstegui Alzamora, Cesar Augusto<br>TB1: En el inicio de este proyecto desarrollé los avances del prototipo de la aplicación web y el diseño UX/UI, también completó el avance del Design-Level Event Storming para alinear vocabulario y flujos. También desarrollé la primera versión de la Landing Page.<br>TP1: Durante esta entrega documenté de manera detallada la arquitectura e implementación de los Bounded Contexts IAM y Maintenance Status Tracking. Redacté especificaciones técnicas claras, diagramas de clases y documentación de APIs que facilitaron la comprensión e integración por parte del equipo. También mantuve comunicación escrita efectiva mediante comentarios de código y documentación técnica.<br><br>Tenorio Medina, Piero Francesco<br>TB1: Dentro de esta parte del trabajo, he desarrollado y planteado ideas que sean de acordes a los distintos segmentos objetivos. Estas ideas se basan en la experiencia y el malestar de cada uno de los usuarios, como por ejemplo: el planteamiento de facilidades al usuario a la hora de utilizar la plataforma, brindandole distintas herramientas que mejoren su experiencia a la hora de utilizar nuestro Servicio.<br>TP1: En esta entrega redacté la documentación técnica completa del Bounded Context Data Collection, incluyendo especificaciones funcionales, diagramas de arquitectura y guías de implementación. Mantuve comunicación escrita efectiva con el equipo a través de commits detallados, pull requests descriptivos y documentación de código que facilitó la colaboración técnica.<br>TB2: Para este entrega pude realizar mi Bounded Contex de manera correcta, gracias a la comunicación que tuve con los distintos integrantes del grupo sobre posibles sugerencias de mejora. En esta entrega realicé ajustes sobre el diagrama de clases establecido anteriormente,haciendolo mucho más compacto para poder suplir nuestras necesidades en el trabajo.<br><br>Montoya Torres, Alexander Gabriel<br>TB1: En esta fase inicial, he definido la problematica principal que nuestro proyecto busca resolver, de manera que podamos empezar desde una base analitica con respecto a las dolencias del mercado y de esa forma definir nuestros segmentos objetivos y llevar a cabo el Needfinding. Sumado a esto, se ha mantenido una comunicación asertiva con todos los integrantes del equipo, mateniendo una eficiencia colaborativa mediante la comunicación.<br>TP1: Durante esta entrega elaboré documentación técnica detallada del Bounded Context Auto Repair Registration, redactando especificaciones funcionales, guías de implementación y documentación de APIs. Mantuve comunicación escrita efectiva mediante documentación de código, especificaciones técnicas y coordinación asíncrona con los demás bounded contexts.<br><br>Navarro Chang, Alicia Avril<br>TB1: En esta entregá realicé varios artefactos lean ux que buscan comunicar ideas y planificar en base a la experiencia del usuario. Además también desarrollé la parte de needfindg (user personas, impact mapping , user stories) , que nos ayudan a estar en sintonía con la perspectiva del usuario y poder plasmarla de acuerdo a nuestro proyecto.<br>TP1: Para el TP1 desarrollé documentación técnica comprehensiva del Bounded Context Auto Repair Catalog, incluyendo especificaciones de servicios, modelos de datos y documentación de APIs. Comuniqué efectivamente por escrito los requisitos técnicos y decisiones de diseño mediante documentos estructurados y comunicación asíncrona con el equipo.<br><br>Julca Cruz, Renso Anthony<br>TP1: En el TP1 redacté documentación técnica completa del Bounded Context Vehicle Diagnosis, incluyendo especificaciones de algoritmos de diagnóstico, modelos de datos y documentación de servicios. Comuniqué efectivamente por escrito las decisiones técnicas y arquitecturales mediante documentación estructurada y clara para el equipo de desarrollo.<br><br> | TB1: La comunicación escrita reflejada en informes, artefactos y coordinaciones internas permitió transmitir de manera precisa los objetivos y avances del proyecto. Se lograron redactar documentos claros, estructurados y adaptados a diferentes audiencias, lo cual facilitó tanto la colaboración dentro del equipo como la presentación de resultados a evaluadores externos.<br><br>TP1: La comunicación escrita durante esta entrega se caracterizó por la producción de documentación técnica de alta calidad para cada bounded context. El equipo demostró capacidad para redactar especificaciones técnicas precisas, documentación de APIs comprehensiva y guías de implementación claras, facilitando la colaboración asíncrona y asegurando la comprensión de la arquitectura del sistema por parte de diferentes audiencias técnicas.   |
 
 ---
 
@@ -975,17 +977,15 @@ En esta sección se presenta el Product Backlog de Prime-Fix, organizado según 
 | US-35        | Selección del distrito de residencia             | Como dueño de vehículo, quiero seleccionar el distrito en donde me encuentro, para garantizar encontrar talleres cercanos a mi ubicación.                                                                                        | 5            |
 | US-36        | Restauración de contraseña                       | Como usuario, quiero recuperar mi clave para poder acceder si la olvido.                                                                                                                                                         | 3            |
 | US-37        | Registro de cuenta con campos comprensibles      | Como usuario, quiero que los campos del registro de cuenta sean entendibles para inscribirme correctamente.                                                                                                                      | 5            |
-| US-38        | Visualización de planes de pago                  | Como usuario, quiero visualizar los diferentes planes de pago con precios y funcionalidades, para entender beneficios y limitaciones de cada plan.                                                                                | 8            |
-                                                                         
+| US-38        | Visualización de planes de pago                  | Como usuario, quiero visualizar los diferentes planes de pago con precios y funcionalidades, para entender beneficios y limitaciones de cada plan.                                                                                  | 8            |
 
-<img src="Assets/evidences/trello_evidence.png">
+Captura de pantalla del Product Backlog en Trello:
+
+<img src="Assets/Trello/Product-Backlog.png" width="480" height="720">
 
 Link de Trello: [https://trello.com/invite/b/68e553625941b3277a631f79/ATTIbdc7ed65f50e7fba04796f3c4c17e9660F991CC5/prime-fix](https://trello.com/invite/b/68e553625941b3277a631f79/ATTIbdc7ed65f50e7fba04796f3c4c17e9660F991CC5/prime-fix)
 
 ---
-<img src="Assets/Trello/Product-Backlog.png" width="480" height="720">
-
-Link de Trello: [https://trello.com/invite/b/68e553625941b3277a631f79/ATTIbdc7ed65f50e7fba04796f3c4c17e9660F991CC5/prime-fix](https://trello.com/invite/b/68e553625941b3277a631f79/ATTIbdc7ed65f50e7fba04796f3c4c17e9660F991CC5/prime-fix)
 
 # Capítulo IV: Product Design
 ## 4.1. Style Guidelines
@@ -1885,11 +1885,6 @@ Se indican los aspectos principales considerados en el Sprint, especificando qui
 El Sprint Backlog 1 se centra en implementar las primeras funcionalidades de la solución, asegurando la construcción inicial de la **Landing Page**.
 A continuación, se detallan las **User Stories** y las **Tareas** asignadas a cada miembro del equipo, junto con su estado actual.
 
-Sprint de PrimeFix:
-<img src="Assets/Trello/Sprint 1.PNG">
-
-[https://trello.com/invite/b/68e553625941b3277a631f79/ATTIbdc7ed65f50e7fba04796f3c4c17e9660F991CC5/prime-fix](https://trello.com/invite/b/68e553625941b3277a631f79/ATTIbdc7ed65f50e7fba04796f3c4c17e9660F991CC5/prime-fix)
-
 | **Sprint #** | Sprint 1 |
 |--------------|----------|
 
@@ -1917,6 +1912,11 @@ Sprint de PrimeFix:
 | US-11             | Botón de cambio de idioma (ES/EN)           | T-07        | Configuración de archivos i18n       | Crear y organizar archivos de traducción para ES y EN            | 3                     | Gianmarco       | Done       |
 | US-12            | Botón de cambio de tema    | T-09        | Implementar switch de tema           | Desarrollar botón que permita cambiar entre modo claro y oscuro  | 3                    | Alicia           | Done       |
 | US-12             | Botón de cambio de tema    | T-10        | Configuración de estilos en Tailwind | Definir variables y clases para ambos temas en Tailwind          | 3                     | Alexander           | Done       |
+
+Captura en Trello del Sprint 1:
+<img src="Assets/Trello/Sprint_1.png">
+
+[https://trello.com/invite/b/68e553625941b3277a631f79/ATTIbdc7ed65f50e7fba04796f3c4c17e9660F991CC5/prime-fix](https://trello.com/invite/b/68e553625941b3277a631f79/ATTIbdc7ed65f50e7fba04796f3c4c17e9660F991CC5/prime-fix)
 
 #### 5.2.1.4. Development Evidence for Sprint Review
 
@@ -2141,6 +2141,11 @@ El Sprint Backlog 2 se centra en la implementación completa de la Frontend Web 
 | US-12      | Botón de cambio de tema visual                   | T-29        | Configurar persistencia de tema       | Implementar almacenamiento de preferencia de tema del usuario                   | 3                     | César           | Done      |
 | US-07      | Call-to-action prominente                        | T-30        | Integrar enlace desde Landing Page   | Agregar enlaces desde Landing Page hacia la aplicación web                      | 3                     | Gianmarco       | Done      |
 | US-07      | Call-to-action prominente                        | T-31        | Optimizar conversión de usuarios     | Implementar tracking y análisis de conversión desde landing page               | 4                     | Gianmarco       | Done      |
+
+Captura en Trello del Sprint 2:
+<img src="Assets/Trello/Sprint_2.png">
+
+[https://trello.com/invite/b/68e553625941b3277a631f79/ATTIbdc7ed65f50e7fba04796f3c4c17e9660F991CC5/prime-fix](https://trello.com/invite/b/68e553625941b3277a631f79/ATTIbdc7ed65f50e7fba04796f3c4c17e9660F991CC5/prime-fix)
 
 #### 5.2.2.4. Development Evidence for Sprint Review
 
@@ -2385,8 +2390,93 @@ El trabajo se organizó de manera estratégica, asignando a cada miembro módulo
 El Sprint 2 consolidó al equipo como una unidad técnica cohesiva especializada en desarrollo frontend, estableciendo las bases para la integración futura con servicios backend y la evolución continua de la experiencia de usuario de Prime-Fix.
 
 ## 5.3. Validation Interviews
+
+Luego de haber avanzado con el desarrollo de la Landing Page y el deploy del front-end de la aplicación web y el API RESTful de PrimeFix, se realizarán las entrevistas de validación a los usuarios previamente entrevistados que corresponden a los segmentos objetivos para los cuales está dirigido el producto.
+
 ### 5.3.1. Diseño de Entrevistas
+
+Las preguntas para las entrevistas son:
+
+##### Landing Page
+¿Consideras que la información presentada sobre el producto es suficiente?
+¿Tuviste algún problema al ser direccionado a la aplicación de PrimeFix?
+##### Registro de Usuario
+¿Comprendes cómo funcionan las membresías de la aplicación web?
+¿Consideras intuitivo el proceso de registro de usuario?
+##### Menú inicial
+¿En algún momento te sentiste desorientado al explorar el panel?
+¿Te parece correcto mostrar las visitas agendadas en el “Menú Inicial”?
+##### Configuración
+¿Te parece que los campos a modificar son relevantes?
+##### Gestionar Coches
+¿Fue fácil agregar un nuevo coche?
+¿Qué mejorarías en la presentación de las tarjetas que contienen la información de los coches?
+¿Esta sección te ayuda a organizar mejor tus vehículos?
+##### Búsqueda de Taller y Programación de Cita
+¿Fue claro el flujo para buscar un taller de coches?
+¿Te parece que la información mostrada sobre el taller es suficiente?
+¿Fue fácil llenar la información para agendar la cita?
+¿Pudo comprender si se agendó la cita o no?
+##### Seguimiento de Estado de Coche
+¿Fue fácil entender la información sobre el estado del vehículo en tiempo real?
+¿Qué mejorarías en la presentación de este seguimiento?
+##### Pago y Calificación
+¿Fue fácil comprender el proceso de pago del servicio?
+¿Fue fácil comprender el proceso de calificación del servicio?
+¿Consideras que este apartado te ayudó a contribuir con la mejora del servicio?
+##### Gestión de Solicitudes
+¿Fue fácil comprender la gestión de solicitudes de servicio?
+##### Gestión de Técnicos
+¿Fue fácil comprender el proceso de añadir o editar información sobre un técnico?
+¿Consideras que los horarios están siendo registrados de manera correcta??
+¿Te gustaría poder añadir más información sobre los técnicos?
+##### Modificación de Estado de Coches
+¿Fue fácil comprender el proceso de añadir o editar el estado de un vehículo?
+¿Consideras relevante registrar el diagnóstico de la falla realizado por el técnico?
+
 ### 5.3.2. Registro de Entrevistas
+
+### Segmento #1: Dueños de Vehiculos
+ 
+**Entrevista N°1: Marcos Contreras**
+
+- Sexo: Masculino
+- Edad: 24
+- Link: [Enlace](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318731_upc_edu_pe/IQAItWhH8GksQZnHzl3yz84pAU4UPPZv718cWhS0W_v-thQ?e=RS55db&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+- Inicia en: 0:01
+- Duración: 19:38
+
+<img src="Assets/entrevistas_validacion/segmento_1_entrevista_1.png">
+
+**Resumen de la entrevista**
+
+Marcos Contreras es un joven de 24 años quien trabaja y estudia de manera paralela. Marcos nos cuenta que el tiene un vehiculo por la cual facilita movilizarse dentro de la ciudad. Marcos nos comenta que a la hora de encontrar un buen servicio que pueda atender a su vehículo, más que nada resalta que no llega a encontrar un lugar accesible. Marcos al utilizar y ver el funcionamiento de PrimeFix, recalco lo que seria el buen funcionamiento de la aplicación, aunque en temas de diseño dijo que se podria mejora la distribución de algunos apartados para que sea mucho más accesible y fácil de usar.
+
+**Entrevista N°2: Anyelo Alejos**
+
+- Sexo: Masculino
+- Edad: 23
+- Link: [Enlace](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318731_upc_edu_pe/IQCvXGFnBT9sT6uI7dcmObArAc_4XAtRA1mxnb0J2yCZf-k?e=HxvnqN&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+- Inicia en: 0:01
+- Duración: 17:02
+
+<img src="Assets/entrevistas_validacion/segmento_1_entrevista_2.png">
+
+**Resumen de la entrevista**
+
+Anyelo Alejos es un chico de 23 años de edad, el solo estudia pero cuenta con un Vehiculo para movilizarse a su centro de estudios. El comenta que utiliza apliaciones como Google Maps para poder encontrar un taller que le sea pertinente, pero tambien lo busca de manera manual. Al probar nuestra aplicación de PrimeFix, dijo que le parecia interesante y que el diseño era agradable al igual que su funcionamiento. Remarcó que algunas partes de la aplicación podrían cambiar para hacerlo mucho más intuitivo y practico a la hora de utilizar las distintas funcionalidades.
+
+#### Segmento #2: Asesor de servicios de un taller automotriz
+- Sexo: Masculino
+- Edad: 21
+- Link: [Enlace](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202123843_upc_edu_pe/IQB2LcBLH7ZnRIt04ZWCfeVzAS7e9tAzPBWASiqvD__DlCw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=gkBvjC)
+- Inicia en: 00:02
+- Duración: 23:49
+- Fecha: 05/11/2025
+
+<img src="Assets/entrevistas_validacion/segmento_2_entrevista_1.png">
+Jesús Valenzuela es un joven asesor de servicios de reparación del taller Alvillantas. En esta entrevista pudo probar tanto la landing page como el front-end de Prime-Fix en una computadora. En su mayoría, está conforme con que el servicio sea mediante la web. Asimismo, señaló que muchas de las funcionalidades son muy intuitivas y útiles para su trabajo ya que todas las etiquetas son claras y el flujo de actividades es ordenado. No identificó aspectos visuales negativos salvo algunas pequeñas recomendaciones. Valora que la aplicación le permita gestionar las solicitudes de servicios, la información de los técnicos y el estado de cada vehículo que se encuentra en el taller.
+
 ### 5.3.3. Evaluaciones según heurísticas
 
 ## 5.4. Video About-the-Product
@@ -2401,11 +2491,18 @@ El Sprint 2 consolidó al equipo como una unidad técnica cohesiva especializada
 
 - Con FixTech queremos proyectar a futuro para poder integrar aplicaciones móviles e IoT, garantizar escalabilidad y la competitividad a futuro.
 
+- La implementación de la Landing Page para presentar la propuesta de valor de nuestra startup fue un paso crucial para establecer la presencia en línea de la startup. La página no solo sirve como punto de entrada para atraer usuarios, sino que también comunica claramente los beneficios y funcionalidades clave de la plataforma.
+
+- El desarrollo de la Frontend Web Application utilizando Angular y TypeScript permitió crear una interfaz de usuario robusta y escalable. La aplicación está diseñada para ser intuitiva y accesible, facilitando la navegación y el uso tanto para dueños de vehículos como para talleres.
+
 # Recomendaciones
 
 - Verificar de manera constante los avances de los demás integrantes para evitar confusiones a futuro. Especialmente de los integrates que son designados a partes fundamentales del proyecto sea documentacion o desarrollo.
 - Mejorar la distribución y la comunicación entre los integrantes del equipo en el aspecto de las entregas del trabajo.
 - Continuar y realizar validaciones a futuro con respecto a los avances del proyecto, para mantener la correlacion entre las necesidades reales y el desarrollo.
+- Realizar pruebas de usabilidad y experiencia de usuario para identificar áreas de mejora en la interfaz y funcionalidad de la aplicación.
+- Mantener una documentación técnica actualizada y detallada para facilitar el mantenimiento y futuras expansiones.
+- Establecer un plan de marketing digital para aumentar la visibilidad de la plataforma y atraer a más usuarios.
 
 # Video About-the-Team
 # Bibliografía
