@@ -1594,11 +1594,14 @@ Para la creación de nuestro Frontend Web Aplication, utilizamos Angular, HTML, 
 
 Para la creación de nuestro RESTful Web Services, utilizamos Spring Boot con Java. Spring Boot nos permitió desarrollar servicios robustos y escalables de manera rápida, gracias a su configuración automática y su amplia gama de herramientas integradas. Además, Java es un lenguaje ampliamente utilizado en el desarrollo backend, lo que nos brindó acceso a una gran cantidad de bibliotecas y recursos.
 
-#### **Frontend Development**
+#### **Landing Page Development**
 Para la creación de la landing page utilizamos principalmente Astro, combinado con **HTML** y **CSS** para construir una página rápida, limpia y bien estructurada. Esta elección nos permitió tener control total sobre el diseño y la organización del código, sin depender demasiado de frameworks externos. <br>
 
 Para el control de versiones y colaboración, utilizamos Git junto con GitHub, lo cual nos facilitó mantener un historial de cambios claro, compartir el código con el equipo y llevar un buen manejo de ramas y solicitudes de incorporación. También utlizamos Git Flow como una estrategia de ramificación para gestionar el desarrollo de manera organizada, permitiendo trabajar en nuevas funcionalidades, correcciones y lanzamientos de forma paralela sin afectar la rama principal. 
 
+Como entorno de desarrollo, trabajamos con **Visual Studio Code**, que nos brindó funciones útiles como resaltado de sintaxis, autocompletado y un terminal integrado para ejecutar comandos y manejar herramientas adicionales. <br>
+
+Ruta de referencia: <br>
 - Link oficial de Github: [https://github.com](https://github.com)
 - Link oficial de Angular: [https://angular.io/](https://angular.io/)
 - Link oficial de Tailwind CSS: [https://tailwindcss.com/](https://tailwindcss.com/)
@@ -1610,23 +1613,38 @@ Para el control de versiones y colaboración, utilizamos Git junto con GitHub, l
 - Link oficial de Spring Boot: [https://spring.io/projects/spring-boot](https://spring.io/projects/spring-boot)
 - Link oficial de Visual Studio Code: [https://code.visualstudio.com/](https://code.visualstudio.com/)
 
+
+#### **Frontend Web Applications Development**
+
+Para la creación de nuestro Frontend Web Aplication, utilizamos Angular, HTML, CSS y TypeScript. Angular nos proporcionó una estructura sólida para desarrollar aplicaciones web escalables y mantenibles, mientras que TypeScript añadió tipado estático, lo que ayudó a detectar errores en tiempo de desarrollo y mejorar la calidad del código. <br>
+
+Para el control de versiones y colaboración, utilizamos Git junto con GitHub, lo cual nos facilitó mantener un historial de cambios claro, compartir el código con el equipo y llevar un buen manejo de ramas y solicitudes de incorporación. También utlizamos Git Flow como una estrategia de ramificación para gestionar el desarrollo de manera organizada, permitiendo trabajar en nuevas funcionalidades, correcciones y lanzamientos de forma paralela sin afectar la rama principal.
+
+Como entorno de desarrollo, trabajamos con **IntelliJ IDEA**, que nos brindó funciones útiles como resaltado de sintaxis, autocompletado y un terminal integrado para ejecutar comandos y manejar herramientas adicionales. <br>
+
 Ruta de referencia: <br>
-**Astro** - [Ruta](https://astro.build/) <br>
-**HTML** - [Ruta](https://developer.mozilla.org/es/docs/Web/HTML) <br>
-**CSS** - [Ruta](https://developer.mozilla.org/es/docs/Web/CSS) <br>
+- Link oficial de Github: [https://github.com](https://github.com)
+- Link oficial de Angular: [https://angular.io/](https://angular.io/)
+- Link oficial de la documentación de Mozilla para HTML: [https://developer.mozilla.org/es/docs/Web/HTML](https://developer.mozilla.org/es/docs/Web/HTML)
+- Link oficial de la documentación de Mozilla para CSS: [https://developer.mozilla.org/es/docs/Web/CSS](https://developer.mozilla.org/es/docs/Web/CSS)
+- Link oficial de la documentación de Mozilla para TypeScript: [https://www.typescriptlang.org/docs/](https://www.typescriptlang.org/docs/)
+- Link oficial de IntelliJ IDEA: [https://www.jetbrains.com/idea/](https://www.jetbrains.com/idea/)
 
-#### **Software Development**
+#### **Backend Development**
 
-Como entorno de desarrollo, trabajamos con **Visual Studio Code**, que nos brindó funciones útiles como resaltado de sintaxis, autocompletado y un terminal integrado para ejecutar comandos y manejar herramientas adicionales. <br>
+Para la creación de nuestro RESTful Web Services, utilizamos Spring Boot con Java. Spring Boot nos permitió desarrollar servicios robustos y escalables de manera rápida, gracias a su configuración automática y su amplia gama de herramientas integradas. Además, Java es un lenguaje ampliamente utilizado en el desarrollo backend, lo que nos brindó acceso a una gran cantidad de bibliotecas y recursos. <br>
+
+Para el control de versiones y colaboración, utilizamos Git junto con GitHub, lo cual nos facilitó mantener un historial de cambios claro, compartir el código con el equipo y llevar un buen manejo de ramas y solicitudes de incorporación. También utlizamos Git Flow como una estrategia de ramificación para gestionar el desarrollo de manera organizada, permitiendo trabajar en nuevas funcionalidades, correcciones y lanzamientos de forma paralela sin afectar la rama principal.
+
+Como entorno de desarrollo, trabajamos con **IntelliJ IDEA**, que nos brindó funciones útiles como resaltado de sintaxis, autocompletado y un terminal integrado para ejecutar comandos y manejar herramientas adicionales. <br>
 
 Ruta de referencia: <br>
-**Visual Studio Code** - [Ruta](https://code.visualstudio.com/)
+- Link oficial de Github: [https://github.com](https://github.com)
+- Link oficial de la documentación de Oracle para Java: [https://docs.oracle.com/en/java/](https://docs.oracle.com/en/java/)
+- Link Oficial de la documentación de Spring Boot: [https://spring.io/projects/spring-boot](https://spring.io/projects/spring-boot)
+- Link oficial de Spring Boot: [https://spring.io/projects/spring-boot](https://spring.io/projects/spring-boot)
+- Link oficial de IntelliJ IDEA: [https://www.jetbrains.com/idea/](https://www.jetbrains.com/idea/)
 
-Para el control de versiones y colaboración, utilizamos **Git** junto con **GitHub**, lo cual nos facilitó mantener un historial de cambios claro, compartir el código con el equipo y llevar un buen manejo de ramas y solicitudes de incorporación.
-
-Ruta de Referencia: <br> 
-**Git** - [Enlace](https://git-scm.com/) <br>
-**GitHub** - [Enlace](https://github.com/) <br>
 
 #### **Diseño UX/UI de Producto**
 
@@ -1670,11 +1688,6 @@ URL: [https://github.com/prime-fix/frontend](https://github.com/prime-fix/fronte
 <img src="Assets/chapter-1/captura-repositorio-backend.png" alt="">
 
 URL: [https://github.com/prime-fix/backend](https://github.com/prime-fix/backend)
-
-
-Fronted Web Applications: https://github.com/prime-fix/frontend
-
-Web Services: https://github.com/prime-fix/backend
 
 **Flujo de trabajo GitFlow:**
 
@@ -1736,12 +1749,12 @@ En esta sección se detallan las convenciones de estilo y buenas prácticas que 
 | **Java** | Lenguaje principal. Usar sintaxis moderna (Java 17+), convenciones de nomenclatura estándar de Oracle, y programación orientada a objetos junto con patrones modernos (Streams, Optional, records, etc.). | - Mantener el código limpio y bien estructurado.<br>- Usar comentarios para explicar la lógica compleja.<br>- Seguir las convenciones de nomenclatura de Oracle. |
 | **Spring Boot** | Framework principal para el backend. Uso de **arquitectura en capas** (API, Application, Domain, Infrastructure). Enfoque en modularidad, mantenibilidad y soporte multiplataforma. | - Seguir las mejores prácticas de diseño de API REST.<br>- Utilizar anotaciones de validación para entradas de usuario.<br>- Implementar manejo de errores y excepciones de manera consistente. |
 | **Maven** | Herramienta de gestión y construcción del proyecto. Uso de un `pom.xml` bien estructurado para gestionar dependencias, plugins y perfiles de construcción. | - Mantener una estructura de proyecto coherente y organizada.<br>- Utilizar versiones específicas de dependencias para evitar conflictos.<br>- Documentar la configuración del `pom.xml` para facilitar su comprensión. |
-| **JUnit / Mockito** | Frameworks para pruebas unitarias y de integración. Enfoque en pruebas automatizadas, cobertura de código y pruebas basadas en comportamiento (BDD). | - Escribir pruebas claras y concisas.<br>- Utilizar mocks y stubs para aislar dependencias.<br>- Mantener una alta cobertura de pruebas. |
-| **Swagger / Swashbuckle** | Generación automática de documentación de la API REST. Versionado claro (`/api/v1`, `/api/v2`) y contratos visibles para clientes externos. | - Incluir ejemplos de solicitudes y respuestas en la documentación.<br>- Mantener la documentación actualizada con los cambios en la API.<br>- Utilizar herramientas de generación de documentación para automatizar el proceso. |
+| **JPA/Hibernate** | Framework de mapeo objeto-relacional. Uso de anotaciones para definir entidades, relaciones y consultas. Enfoque en la eficiencia y optimización de acceso a datos. | - Definir entidades claras y bien estructuradas.<br>- Utilizar consultas JPQL o Criteria API para operaciones complejas.<br>- Implementar estrategias de caché para mejorar el rendimiento. |
+| **Swagger** | Generación automática de documentación de la API REST. Versionado claro (`/api/v1`, `/api/v2`) y contratos visibles para clientes externos. | - Incluir ejemplos de solicitudes y respuestas en la documentación.<br>- Mantener la documentación actualizada con los cambios en la API.<br>- Utilizar herramientas de generación de documentación para automatizar el proceso. |
 
 ### 5.1.4. Software Deployment Configuration
 
-En esta sección se documenta el proceso de despliegue de la Landing Page y la Frontend Web Application utilizando GitHub y Vercel como plataforma de hosting.
+En esta sección se documenta el proceso de despliegue de la Landing Page y la Frontend Web Application utilizando GitHub y Vercel como plataforma de hosting. Por otra parte se va desplegar el RESTful Web Services utilizando Amazon Web Services (AWS) como platforma de infraestructura en la nube.
 
 ### **Despliegue de la Landing Page**
 
@@ -1826,14 +1839,94 @@ Creamos una cuenta en GitHub para poder gestionar los repositorios del proyecto 
 
 <img src="Assets/evidences/vercel_frontend_evidence2.png">
 
-
-
 **6. Verificación del sitio web**
 En pocos minutos, Vercel genera la URL pública del proyecto:
 [https://frontend-dusky-rho-85.vercel.app/](https://frontend-dusky-rho-85.vercel.app)
 Accedemos a esta dirección desde el navegador para confirmar que el sitio está activo y funcionando correctamente.
 
 <img src="Assets/evidences/vercel_frontend_deployment_evidence.png">
+
+### **Despliegue del RESTful Web Services**
+
+Para que nuestro RESTful Web Services esté disponible para todos nuestros usuarios, lo desplegamos utilizando Amazon Web Services (AWS) como plataforma de infraestructura en la nube. El proceso se llevó a cabo de la siguiente manera:
+
+Como arquitectura general, el flujo de integración y despliegue continuo se compone de:
+
+**1. Registro en GitHub**
+
+Creamos una cuenta en GitHub para poder gestionar los repositorios del proyecto y almacenar el código del RESTful Web Services de **Prime-Fix**.
+
+- Creamos un repositorio llamado **backend** dentro de nuestra organización **prime-fix**.
+
+<img src="Assets/Backend/github_backend_evidence.png">
+
+
+**2. Base datos en Amazon RDS**
+
+- Creamos una instancia de base de datos en Amazon RDS para almacenar los datos de la aplicación.
+- Configuramos los parámetros de la base de datos, incluyendo el motor (MySQL, PostgreSQL, etc.), tamaño, y credenciales de acceso.
+- Creamos la instancia **prime-fix-db** y lo colocamos en la región de **us-east-2**.
+- Colocamos un VPC compartido con el futuro despliegue del backen en App Runner.
+
+<img src="Assets/Backend/aws_rds_evidence.png">
+
+<img src="Assets/Backend/aws_rds_evidence2.png">
+
+<img src="Assets/Backend/aws_rds_evidence3.png">
+
+**3. Build en AWS CodeBuild**
+
+- Configuramos un proyecto en AWS CodeBuild para compilar el código del backend.
+- Construye la imagen Docker utilizando un archivo `Dockerfile` que define el entorno de ejecución.
+- Con todos estos archivos podemos compilar el proyecto de Java v.25 y Spring Boot v.3.5.7
+- Sube la imagen a Amazon ECR (Elastic Container Registry) para su posterior despliegue.
+
+<img src="Assets/Backend/aws_codebuild_evidence.png">
+
+<img src="Assets/Backend/aws_codebuild_evidence2.png">
+
+**4. Subir la imagen a AWS ECR**
+
+- Creamos un repositorio en Amazon ECR para almacenar las imágenes Docker del backend.
+- Configuramos las políticas de acceso para permitir que AWS CodeBuild pueda subir imágenes al repositorio.
+- Subimos la imagen Docker generada por CodeBuild al repositorio de ECR.
+
+<img src="Assets/Backend/aws_ecr_evidence.png">
+
+<img src="Assets/Backend/aws_ecr_evidence2.png">
+
+**5. Automatizar despliegue con AWS CodePipeline**
+
+- Configuramos un pipeline de CI/CD utilizando AWS CodePipeline para automatizar el proceso de construcción, prueba y despliegue del backend.
+- Solo se activa el pipeline cuando se hacen cambios en la rama `master` del repositorio de GitHub.
+- Commits en `devevelop` no generan despliegue automático.
+- Automatizará para que se haga un despliegue en AWS CodeBuild.
+
+<img src="Assets/Backend/aws_codepipeline_evidence.png">
+
+<img src="Assets/Backend/aws_codepipeline_evidence2.png">
+
+<img src="Assets/Backend/aws_codepipeline_evidence3.png">
+
+<img src="Assets/Backend/aws_codepipeline_evidence4.png">
+
+
+**6. Despliegue en AWS App Runner**
+
+- Configuramos un servicio en AWS App Runner para desplegar la imagen Docker del backend.
+- Configuramos las variables de entorno necesarias para la conexión con la base de datos y otros servicios.
+- Definimos la configuración de escalado automático para manejar la carga de tráfico.
+- Finalmente, iniciamos el servicio para que el backend esté disponible públicamente.
+
+<img src="Assets/Backend/aws_apprunner_evidence.png">
+
+<img src="Assets/Backend/aws_apprunner_evidence2.png">
+
+**7. Verificación del servicio web**
+
+- Accedemos a la URL proporcionada por AWS App Runner para confirmar que el servicio web está activo y funcionando correctamente.
+
+<img src="Assets/Backend/aws_backend_deployed.png">
 
 ---
 
