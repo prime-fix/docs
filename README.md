@@ -163,6 +163,15 @@
       - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
       - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
       - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
+    - [5.2.3. Sprint 3](#523-sprint-3)
+      - [5.2.3.1. Sprint Planning 3](#5231-sprint-planning-3)
+      - [5.2.3.2. Aspect Leaders and Collaborators](#5232-aspect-leaders-and-collaborators)
+      - [5.2.3.3. Sprint Backlog 3](#5233-sprint-backlog-3)
+      - [5.2.3.4. Development Evidence for Sprint Review](#5234-development-evidence-for-sprint-review)
+      - [5.2.3.5. Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review)
+      - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
+      - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
+      - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
   - [5.3. Validation Interviews](#53-validation-interviews)
     - [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)
     - [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)
@@ -1585,11 +1594,14 @@ Para la creación de nuestro Frontend Web Aplication, utilizamos Angular, HTML, 
 
 Para la creación de nuestro RESTful Web Services, utilizamos Spring Boot con Java. Spring Boot nos permitió desarrollar servicios robustos y escalables de manera rápida, gracias a su configuración automática y su amplia gama de herramientas integradas. Además, Java es un lenguaje ampliamente utilizado en el desarrollo backend, lo que nos brindó acceso a una gran cantidad de bibliotecas y recursos.
 
-#### **Frontend Development**
+#### **Landing Page Development**
 Para la creación de la landing page utilizamos principalmente Astro, combinado con **HTML** y **CSS** para construir una página rápida, limpia y bien estructurada. Esta elección nos permitió tener control total sobre el diseño y la organización del código, sin depender demasiado de frameworks externos. <br>
 
 Para el control de versiones y colaboración, utilizamos Git junto con GitHub, lo cual nos facilitó mantener un historial de cambios claro, compartir el código con el equipo y llevar un buen manejo de ramas y solicitudes de incorporación. También utlizamos Git Flow como una estrategia de ramificación para gestionar el desarrollo de manera organizada, permitiendo trabajar en nuevas funcionalidades, correcciones y lanzamientos de forma paralela sin afectar la rama principal. 
 
+Como entorno de desarrollo, trabajamos con **Visual Studio Code**, que nos brindó funciones útiles como resaltado de sintaxis, autocompletado y un terminal integrado para ejecutar comandos y manejar herramientas adicionales. <br>
+
+Ruta de referencia: <br>
 - Link oficial de Github: [https://github.com](https://github.com)
 - Link oficial de Angular: [https://angular.io/](https://angular.io/)
 - Link oficial de Tailwind CSS: [https://tailwindcss.com/](https://tailwindcss.com/)
@@ -1601,23 +1613,38 @@ Para el control de versiones y colaboración, utilizamos Git junto con GitHub, l
 - Link oficial de Spring Boot: [https://spring.io/projects/spring-boot](https://spring.io/projects/spring-boot)
 - Link oficial de Visual Studio Code: [https://code.visualstudio.com/](https://code.visualstudio.com/)
 
+
+#### **Frontend Web Applications Development**
+
+Para la creación de nuestro Frontend Web Aplication, utilizamos Angular, HTML, CSS y TypeScript. Angular nos proporcionó una estructura sólida para desarrollar aplicaciones web escalables y mantenibles, mientras que TypeScript añadió tipado estático, lo que ayudó a detectar errores en tiempo de desarrollo y mejorar la calidad del código. <br>
+
+Para el control de versiones y colaboración, utilizamos Git junto con GitHub, lo cual nos facilitó mantener un historial de cambios claro, compartir el código con el equipo y llevar un buen manejo de ramas y solicitudes de incorporación. También utlizamos Git Flow como una estrategia de ramificación para gestionar el desarrollo de manera organizada, permitiendo trabajar en nuevas funcionalidades, correcciones y lanzamientos de forma paralela sin afectar la rama principal.
+
+Como entorno de desarrollo, trabajamos con **IntelliJ IDEA**, que nos brindó funciones útiles como resaltado de sintaxis, autocompletado y un terminal integrado para ejecutar comandos y manejar herramientas adicionales. <br>
+
 Ruta de referencia: <br>
-**Astro** - [Ruta](https://astro.build/) <br>
-**HTML** - [Ruta](https://developer.mozilla.org/es/docs/Web/HTML) <br>
-**CSS** - [Ruta](https://developer.mozilla.org/es/docs/Web/CSS) <br>
+- Link oficial de Github: [https://github.com](https://github.com)
+- Link oficial de Angular: [https://angular.io/](https://angular.io/)
+- Link oficial de la documentación de Mozilla para HTML: [https://developer.mozilla.org/es/docs/Web/HTML](https://developer.mozilla.org/es/docs/Web/HTML)
+- Link oficial de la documentación de Mozilla para CSS: [https://developer.mozilla.org/es/docs/Web/CSS](https://developer.mozilla.org/es/docs/Web/CSS)
+- Link oficial de la documentación de Mozilla para TypeScript: [https://www.typescriptlang.org/docs/](https://www.typescriptlang.org/docs/)
+- Link oficial de IntelliJ IDEA: [https://www.jetbrains.com/idea/](https://www.jetbrains.com/idea/)
 
-#### **Software Development**
+#### **Backend Development**
 
-Como entorno de desarrollo, trabajamos con **Visual Studio Code**, que nos brindó funciones útiles como resaltado de sintaxis, autocompletado y un terminal integrado para ejecutar comandos y manejar herramientas adicionales. <br>
+Para la creación de nuestro RESTful Web Services, utilizamos Spring Boot con Java. Spring Boot nos permitió desarrollar servicios robustos y escalables de manera rápida, gracias a su configuración automática y su amplia gama de herramientas integradas. Además, Java es un lenguaje ampliamente utilizado en el desarrollo backend, lo que nos brindó acceso a una gran cantidad de bibliotecas y recursos. <br>
+
+Para el control de versiones y colaboración, utilizamos Git junto con GitHub, lo cual nos facilitó mantener un historial de cambios claro, compartir el código con el equipo y llevar un buen manejo de ramas y solicitudes de incorporación. También utlizamos Git Flow como una estrategia de ramificación para gestionar el desarrollo de manera organizada, permitiendo trabajar en nuevas funcionalidades, correcciones y lanzamientos de forma paralela sin afectar la rama principal.
+
+Como entorno de desarrollo, trabajamos con **IntelliJ IDEA**, que nos brindó funciones útiles como resaltado de sintaxis, autocompletado y un terminal integrado para ejecutar comandos y manejar herramientas adicionales. <br>
 
 Ruta de referencia: <br>
-**Visual Studio Code** - [Ruta](https://code.visualstudio.com/)
+- Link oficial de Github: [https://github.com](https://github.com)
+- Link oficial de la documentación de Oracle para Java: [https://docs.oracle.com/en/java/](https://docs.oracle.com/en/java/)
+- Link Oficial de la documentación de Spring Boot: [https://spring.io/projects/spring-boot](https://spring.io/projects/spring-boot)
+- Link oficial de Spring Boot: [https://spring.io/projects/spring-boot](https://spring.io/projects/spring-boot)
+- Link oficial de IntelliJ IDEA: [https://www.jetbrains.com/idea/](https://www.jetbrains.com/idea/)
 
-Para el control de versiones y colaboración, utilizamos **Git** junto con **GitHub**, lo cual nos facilitó mantener un historial de cambios claro, compartir el código con el equipo y llevar un buen manejo de ramas y solicitudes de incorporación.
-
-Ruta de Referencia: <br> 
-**Git** - [Enlace](https://git-scm.com/) <br>
-**GitHub** - [Enlace](https://github.com/) <br>
 
 #### **Diseño UX/UI de Producto**
 
@@ -1661,11 +1688,6 @@ URL: [https://github.com/prime-fix/frontend](https://github.com/prime-fix/fronte
 <img src="Assets/chapter-1/captura-repositorio-backend.png" alt="">
 
 URL: [https://github.com/prime-fix/backend](https://github.com/prime-fix/backend)
-
-
-Fronted Web Applications: https://github.com/prime-fix/frontend
-
-Web Services: https://github.com/prime-fix/backend
 
 **Flujo de trabajo GitFlow:**
 
@@ -1727,12 +1749,12 @@ En esta sección se detallan las convenciones de estilo y buenas prácticas que 
 | **Java** | Lenguaje principal. Usar sintaxis moderna (Java 17+), convenciones de nomenclatura estándar de Oracle, y programación orientada a objetos junto con patrones modernos (Streams, Optional, records, etc.). | - Mantener el código limpio y bien estructurado.<br>- Usar comentarios para explicar la lógica compleja.<br>- Seguir las convenciones de nomenclatura de Oracle. |
 | **Spring Boot** | Framework principal para el backend. Uso de **arquitectura en capas** (API, Application, Domain, Infrastructure). Enfoque en modularidad, mantenibilidad y soporte multiplataforma. | - Seguir las mejores prácticas de diseño de API REST.<br>- Utilizar anotaciones de validación para entradas de usuario.<br>- Implementar manejo de errores y excepciones de manera consistente. |
 | **Maven** | Herramienta de gestión y construcción del proyecto. Uso de un `pom.xml` bien estructurado para gestionar dependencias, plugins y perfiles de construcción. | - Mantener una estructura de proyecto coherente y organizada.<br>- Utilizar versiones específicas de dependencias para evitar conflictos.<br>- Documentar la configuración del `pom.xml` para facilitar su comprensión. |
-| **JUnit / Mockito** | Frameworks para pruebas unitarias y de integración. Enfoque en pruebas automatizadas, cobertura de código y pruebas basadas en comportamiento (BDD). | - Escribir pruebas claras y concisas.<br>- Utilizar mocks y stubs para aislar dependencias.<br>- Mantener una alta cobertura de pruebas. |
-| **Swagger / Swashbuckle** | Generación automática de documentación de la API REST. Versionado claro (`/api/v1`, `/api/v2`) y contratos visibles para clientes externos. | - Incluir ejemplos de solicitudes y respuestas en la documentación.<br>- Mantener la documentación actualizada con los cambios en la API.<br>- Utilizar herramientas de generación de documentación para automatizar el proceso. |
+| **JPA/Hibernate** | Framework de mapeo objeto-relacional. Uso de anotaciones para definir entidades, relaciones y consultas. Enfoque en la eficiencia y optimización de acceso a datos. | - Definir entidades claras y bien estructuradas.<br>- Utilizar consultas JPQL o Criteria API para operaciones complejas.<br>- Implementar estrategias de caché para mejorar el rendimiento. |
+| **Swagger** | Generación automática de documentación de la API REST. Versionado claro (`/api/v1`, `/api/v2`) y contratos visibles para clientes externos. | - Incluir ejemplos de solicitudes y respuestas en la documentación.<br>- Mantener la documentación actualizada con los cambios en la API.<br>- Utilizar herramientas de generación de documentación para automatizar el proceso. |
 
 ### 5.1.4. Software Deployment Configuration
 
-En esta sección se documenta el proceso de despliegue de la Landing Page y la Frontend Web Application utilizando GitHub y Vercel como plataforma de hosting.
+En esta sección se documenta el proceso de despliegue de la Landing Page y la Frontend Web Application utilizando GitHub y Vercel como plataforma de hosting. Por otra parte se va desplegar el RESTful Web Services utilizando Amazon Web Services (AWS) como platforma de infraestructura en la nube.
 
 ### **Despliegue de la Landing Page**
 
@@ -1817,14 +1839,94 @@ Creamos una cuenta en GitHub para poder gestionar los repositorios del proyecto 
 
 <img src="Assets/evidences/vercel_frontend_evidence2.png">
 
-
-
 **6. Verificación del sitio web**
 En pocos minutos, Vercel genera la URL pública del proyecto:
 [https://frontend-dusky-rho-85.vercel.app/](https://frontend-dusky-rho-85.vercel.app)
 Accedemos a esta dirección desde el navegador para confirmar que el sitio está activo y funcionando correctamente.
 
 <img src="Assets/evidences/vercel_frontend_deployment_evidence.png">
+
+### **Despliegue del RESTful Web Services**
+
+Para que nuestro RESTful Web Services esté disponible para todos nuestros usuarios, lo desplegamos utilizando Amazon Web Services (AWS) como plataforma de infraestructura en la nube. El proceso se llevó a cabo de la siguiente manera:
+
+Como arquitectura general, el flujo de integración y despliegue continuo se compone de:
+
+**1. Registro en GitHub**
+
+Creamos una cuenta en GitHub para poder gestionar los repositorios del proyecto y almacenar el código del RESTful Web Services de **Prime-Fix**.
+
+- Creamos un repositorio llamado **backend** dentro de nuestra organización **prime-fix**.
+
+<img src="Assets/Backend/github_backend_evidence.png">
+
+
+**2. Base datos en Amazon RDS**
+
+- Creamos una instancia de base de datos en Amazon RDS para almacenar los datos de la aplicación.
+- Configuramos los parámetros de la base de datos, incluyendo el motor (MySQL, PostgreSQL, etc.), tamaño, y credenciales de acceso.
+- Creamos la instancia **prime-fix-db** y lo colocamos en la región de **us-east-2**.
+- Colocamos un VPC compartido con el futuro despliegue del backen en App Runner.
+
+<img src="Assets/Backend/aws_rds_evidence.png">
+
+<img src="Assets/Backend/aws_rds_evidence2.png">
+
+<img src="Assets/Backend/aws_rds_evidence3.png">
+
+**3. Build en AWS CodeBuild**
+
+- Configuramos un proyecto en AWS CodeBuild para compilar el código del backend.
+- Construye la imagen Docker utilizando un archivo `Dockerfile` que define el entorno de ejecución.
+- Con todos estos archivos podemos compilar el proyecto de Java v.25 y Spring Boot v.3.5.7
+- Sube la imagen a Amazon ECR (Elastic Container Registry) para su posterior despliegue.
+
+<img src="Assets/Backend/aws_codebuild_evidence.png">
+
+<img src="Assets/Backend/aws_codebuild_evidence2.png">
+
+**4. Subir la imagen a AWS ECR**
+
+- Creamos un repositorio en Amazon ECR para almacenar las imágenes Docker del backend.
+- Configuramos las políticas de acceso para permitir que AWS CodeBuild pueda subir imágenes al repositorio.
+- Subimos la imagen Docker generada por CodeBuild al repositorio de ECR.
+
+<img src="Assets/Backend/aws_ecr_evidence.png">
+
+<img src="Assets/Backend/aws_ecr_evidence2.png">
+
+**5. Automatizar despliegue con AWS CodePipeline**
+
+- Configuramos un pipeline de CI/CD utilizando AWS CodePipeline para automatizar el proceso de construcción, prueba y despliegue del backend.
+- Solo se activa el pipeline cuando se hacen cambios en la rama `master` del repositorio de GitHub.
+- Commits en `devevelop` no generan despliegue automático.
+- Automatizará para que se haga un despliegue en AWS CodeBuild.
+
+<img src="Assets/Backend/aws_codepipeline_evidence.png">
+
+<img src="Assets/Backend/aws_codepipeline_evidence2.png">
+
+<img src="Assets/Backend/aws_codepipeline_evidence3.png">
+
+<img src="Assets/Backend/aws_codepipeline_evidence4.png">
+
+
+**6. Despliegue en AWS App Runner**
+
+- Configuramos un servicio en AWS App Runner para desplegar la imagen Docker del backend.
+- Configuramos las variables de entorno necesarias para la conexión con la base de datos y otros servicios.
+- Definimos la configuración de escalado automático para manejar la carga de tráfico.
+- Finalmente, iniciamos el servicio para que el backend esté disponible públicamente.
+
+<img src="Assets/Backend/aws_apprunner_evidence.png">
+
+<img src="Assets/Backend/aws_apprunner_evidence2.png">
+
+**7. Verificación del servicio web**
+
+- Accedemos a la URL proporcionada por AWS App Runner para confirmar que el servicio web está activo y funcionando correctamente.
+
+<img src="Assets/Backend/aws_backend_deployed.png">
 
 ---
 
@@ -2389,6 +2491,130 @@ El trabajo se organizó de manera estratégica, asignando a cada miembro módulo
 
 El Sprint 2 consolidó al equipo como una unidad técnica cohesiva especializada en desarrollo frontend, estableciendo las bases para la integración futura con servicios backend y la evolución continua de la experiencia de usuario de Prime-Fix.
 
+### 5.2.3. Sprint 3
+
+Se documenta el proceso de implementación, pruebas, documentación y despliegue del tercer Sprint, enfocado en la integración completa entre la Frontend Web Application y los Web Services RESTful del backend de Prime-Fix. Este sprint se centra en conectar las interfaces de usuario desarrolladas con los servicios backend para habilitar funcionalidades completas y flujos de trabajo integrados.
+
+#### 5.2.3.1. Sprint Planning 3
+
+| **Sprint #** | Sprint 3 |
+|--------------|----------|
+| **Sprint Planning Background** | |
+| **Date** | 2025-10-14 |
+| **Time** | 08:00 PM |
+| **Location** | Virtual (Discord) |
+| **Prepared By** | Aróstegui Alzamora, César Augusto |
+| **Attendees (to planning meeting)** | Aróstegui Alzamora, César Augusto / Jiménez Guerra, Gianmarco Fabian / Montoya Torres, Alexander Gabriel / Tenorio Medina, Piero Francesco / Navarro Chang, Alicia Avril / Julca Cruz, Renso Anthony |
+| **Sprint 2 Review Summary** | Se completó exitosamente la implementación de la Frontend Web Application con funcionalidades principales para ambos segmentos objetivo. Se logró el despliegue en Vercel y el despliegue del RESTful Web Services en AWS. |
+| **Sprint 2 Retrospective Summary** | El equipo identificó la necesidad de mejorar la comunicación durante la integración con el backend y establecer mejores prácticas para pruebas end-to-end. Se destacó el buen trabajo en la implementación de componentes reutilizables y diseño responsive. |
+| **Sprint Goal & User Stories** | |
+| **Sprint 3 Goal** | Integrar completamente la Frontend Web Application con los Web Services RESTful del backend, habilitando flujos de trabajo completos y funcionalidades integradas para ambos segmentos objetivo. |
+| **Sprint 3 Velocity** |  Fifty (50) Story Points |
+| **Sum of Story Points** | 50 Story Points |
+
+#### 5.2.3.2. Aspect Leaders and Collaborators
+
+En esta sección se presenta la **Leadership-and-Collaboration Matrix (LACX)** para el Sprint 3, enfocada en la integración casi completa entre la Frontend Web Application y los Web Services RESTful del backend de Prime-Fix. Esta matriz define los roles y responsabilidades de cada miembro del equipo durante el proceso de integración y pruebas.
+
+**Principales Aspectos Considerados en el Sprint 3:**
+Para el Sprint 3, se han identificado cuatro aspectos fundamentales que abarcan la integración y pruebas completas:
+**API Integration (Integración de API):** Este aspecto engloba la conexión de la aplicación frontend con los servicios RESTful del backend, incluyendo llamadas a endpoints, manejo de respuestas y errores.
+**End-to-End Testing (Pruebas de extremo a extremo):** Comprende la implementación de pruebas automatizadas que validan flujos completos desde la interfaz de usuario hasta el backend.
+**Error Handling & User Feedback (Manejo de errores y retroalimentación al usuario):** Incluye la implementación de mecanismos para manejar errores de API y proporcionar retroalimentación clara a los usuarios.
+**Documentation & Deployment (Documentación y Despliegue):** Abarca la actualización de la documentación técnica y la estrategia de despliegue continuo para la aplicación integrada.
+
+| **Team Member (Last Name, First Name)** | **GitHub Username** | **API Integration** (L / C) | **End-to-End Testing** (L / C) | **Error Handling & User Feedback** (L / C) | **Documentation & Deployment** (L / C) |
+|-----------------------------------------|---------------------|------------------------------|---------------------------------|---------------------------------------------|--------------------------------------|
+| Aróstegui Alzamora, César Augusto        | Legendnt1             | L                            | C                               | L                                           | L                                    |
+| Jiménez Guerra, Gianmarco Fabián         | ZAICO21             | C                            | L                               | C                                           | C                                    |
+| Tenorio Medina, Piero Francesco          | PieroTM2005             | C                            | C                               | C                                           | C                                    |
+| Navarro Chang, Alicia Avril              | Alice-keys             | C                            | C                               |            C                   | C                                           | C                                    |
+| Montoya Torres, Alexander Gabriel        | gabrielito4334             | C                            | C  | C                               | C                                       | C                                    |
+| Julca Cruz, Renso Anthony                | rajc02             | C                            | C                               | C                                           | C                                    |
+
+
+#### 5.2.3.3. Sprint Backlog 3
+
+El Sprint Backlog 3 se centra en la integración completa entre la Frontend Web Application y los Web Services RESTful del backend de Prime-Fix, habilitando flujos de trabajo completos y funcionalidades integradas para ambos segmentos objetivo.
+
+| **Sprint #** | Sprint 3 |
+|--------------|----------|
+| **User Story Id** | **User Story Title**                           | **Task Id** | **Task Title**                        | **Description**                                                                 | **Estimation (Hours)** | **Assigned To** | **Status** |
+|-------------------|-------------------------------------------------|-------------|---------------------------------------|---------------------------------------------------------------------------------|------------------------|-----------------|------------|
+| TS-01     | Integración de API para autenticación          | T-01        | Conectar login y registro con backend | Implementar llamadas a endpoints de autenticación desde frontend               | 6                     | César           | Done      |
+| TS-01     | Integración de API para autenticación          | T-02        | Validar login y registro con backend  | Implementar validaciones para login y registro desde frontend                  | 6                     | César           | Done      |
+| TS-02     | Integración de API para gestión de vehículos   | T-03        | Conectar CRUD de vehículos con backend | Implementar llamadas a endpoints de gestión de vehículos desde frontend        | 8                     | César           | Done      |
+| TS-02     | Integración de API para gestión de vehículos   | T-03        | Validar CRUD de vehículos con backend  | Implementar validaciones para CRUD de vehículos desde frontend                 | 8                     | César           | Done      |
+| TS-03     | Integración de API para programación de citas  | T-04        | Conectar calendario con backend       | Implementar llamadas a endpoints de citas desde frontend                       | 6                     | Piero           | Done      |
+ TS-03     | Integración de API para programación de citas  | T-05        | Conectar diagnosticon con backend      | Implementar llamadas a endpoints de diagnosticos                    | 6                     | Renso           | Done      |
+| TS-04     | Integración de API para seguimiento de estado  | T-06        | Conectar dashboard con backend        | Implementar llamadas a endpoints de seguimiento desde frontend                  | 6                     | César       | Done      |
+| TS-04     | Integración de API para seguimiento de estado  | T-07        | Validar dashboard con backend        | Implementar validaciones para CRUD de seguimiendo desde frontend                  | 6                     | César       | Done      |
+| TS-05     | Integración de API para reseñas de talleres    | T-08        | Conectar componente de reseñas con backend | Implementar llamadas a endpoints de reseñas desde frontend                      | 5                     | Piero           | Done      |
+| TS-06     | Integración de API para búsqueda de talleres   | T-09        | Conectar componente de búsqueda con backend | Implementar llamadas a endpoints de búsqueda desde frontend                     | 5                     | Alexander       | Done      |
+| TS-07     | Integración de API para gestión de solicitudes | T-10        | Conectar panel de gestión con backend | Implementar llamadas a endpoints de solicitudes desde frontend                  | 6                     | Alicia          | Done      |
+| TS-08     | Pruebas end-to-end completas                   | T-11        | Implementar pruebas E2E              | Desarrollar pruebas automatizadas que validen flujos completos desde UI hasta backend | 8                     | César       | Done      |
+
+#### 5.2.3.4. Development Evidence for Sprint Review
+
+Durante el Sprint 3, se logró la integración completa entre la Frontend Web Application y los Web Services RESTful del backend de Prime-Fix. Esta integración habilitó flujos de trabajo completos y funcionalidades integradas para ambos segmentos objetivo, permitiendo a los usuarios interactuar con la plataforma de manera fluida y eficiente.
+
+**Principales logros del Sprint 3:**
+1. **Integración de API Exitosa:** Se conectaron todos los componentes frontend con los endpoints RESTful del backend, permitiendo la comunicación bidireccional y el intercambio de datos en tiempo real.
+2. **Pruebas End-to-End Completas:** Se implementaron pruebas automatizadas que validan flujos completos desde la interfaz de usuario hasta el backend, asegurando la funcionalidad y estabilidad del sistema integrado.
+3. **Manejo de Errores y Retroalimentación al Usuario:** Se implementaron mecanismos robustos para manejar errores de API y proporcionar retroalimentación clara a los usuarios en caso de fallos o problemas.
+4. **Documentación Actualizada:** Se actualizó la documentación técnica para reflejar la integración completa, incluyendo guías de uso de la API y flujos de trabajo integrados.
+**Principales funcionalidades integradas:**
+- **Autenticación y Registro:** Formularios de login y registro conectados con el backend
+- **Gestión de Vehículos:** CRUD de vehículos integrado con los servicios backend
+- **Programación de Citas:** Calendario interactivo conectado con los endpoints de citas
+- **Seguimiento de Estado:** Dashboard de seguimiento integrado con los servicios de monitoreo
+- **Reseñas de Talleres:** Componente de reseñas conectado con los servicios de calificaciones
+- **Búsqueda de Talleres:** Componente de búsqueda integrado con los servicios de listado de talleres
+- **Gestión de Solicitudes:** Panel de gestión de solicitudes conectado con los servicios backend 
+
+#### 5.2.3.5. Execution Evidence for Sprint Review
+
+Durante el Sprint 3, se logró la integración completa entre la Frontend Web Application y los Web Services RESTful del backend de Prime-Fix. Esta integración permitió habilitar flujos de trabajo completos y funcionalidades integradas para ambos segmentos objetivo.
+**Screenshots de la aplicación integrada en funcionamiento:**
+<img src="Assets/integration/login_integration.png">
+
+#### 5.2.3.6. Services Documentation Evidence for Sprint Review
+
+Durante el Sprint 3, se actualizó la documentación técnica para reflejar la integración completa entre la Frontend Web Application y los Web Services RESTful del backend de Prime-Fix. La documentación incluye guías de uso de la API, flujos de trabajo integrados y ejemplos de llamadas a endpoints.
+
+| User Story Id | User Story Title                                              | Task Id | Task Title                                     | Description                                                                                                                                              | Estimation (Hours) | Assigned To | Status      |
+|---------------|---------------------------------------------------------------|---------|-----------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------|-------------|-------------|
+| US-37         | Gestión de cuentas de usuario (IAM)                          | T-01    | Configurar servicio IAM                        | Crear proyecto del microservicio IAM, estructura de carpetas, configuración base y conexión a la base de datos.                                         | 4                  | César       | Done        |
+| US-37         | Gestión de cuentas de usuario (IAM)                          | T-02    | Endpoints de registro y login                  | Implementar endpoints para registro, login y logout con validaciones básicas y manejo de errores.                                                        | 6                  | César       | Done        |
+| US-37         | Gestión de cuentas de usuario (IAM)                          | T-03    | Seguridad y manejo de credenciales             | Configurar hashing de contraseñas, validación de tokens/JWT y middleware de autorización.                                                                | 4                  | César       | Done        |
+| US-38         | Seguimiento de mantenimientos (Maintenance Tracking)         | T-04    | Modelo de órdenes de mantenimiento             | Diseñar entidades y relaciones para órdenes, estados y vehículos en la base de datos.                                                                    | 5                  | César       | Done        |
+| US-38         | Seguimiento de mantenimientos (Maintenance Tracking)         | T-05    | Endpoints CRUD de órdenes                      | Implementar creación, actualización de estado y consulta de órdenes de mantenimiento.                                                                    | 5                  | César       | Done        |
+| US-39         | Registro de reparaciones y técnicos (Auto Repair Registration)| T-06    | Registro de talleres y técnicos                | Implementar endpoints para registrar talleres, técnicos y sus datos principales.                                                                         | 4                  | Flor        | Done        |
+| US-39         | Registro de reparaciones y técnicos (Auto Repair Registration)| T-07    | Asignación de técnicos a reparaciones          | Implementar lógica y endpoints para asignar técnicos a órdenes de reparación existentes.                                                                 | 3                  | Flor        | Done        |
+| US-40         | Catálogo de talleres con filtros de búsqueda (Auto Repair Catalog) | T-08    | API de listado y filtros de talleres           | Implementar endpoints para listar talleres con filtros por distrito, tipo de servicio y calificación.                                                    | 5                  | Giorgio     | Done        |
+| US-40         | Catálogo de talleres con filtros de búsqueda (Auto Repair Catalog) | T-09    | Soporte de ubicación y ordenamiento            | Agregar soporte de ubicación (distrito/ciudad) y ordenamiento por distancia/calificación en las respuestas.                                              | 3                  | Giorgio     | In Progress |
+| US-41         | Recolección de datos para diagnóstico (Data Collection & Diagnosis) | T-10    | Modelo de datos de diagnóstico                 | Diseñar esquema para registrar síntomas del vehículo, lecturas y resultados de diagnóstico.                                                               | 4                  | Piero       | Done        |
+| US-41         | Recolección de datos para diagnóstico (Data Collection & Diagnosis) | T-11    | Endpoints de registro de diagnósticos          | Implementar endpoints para registrar y consultar diagnósticos asociados a órdenes de mantenimiento.                                                      | 4                  | Piero       | Done        |
+| US-42         | Procesamiento de pagos en línea (Payment Service)            | T-12    | Configurar servicio de pagos                   | Crear servicio de pagos, modelo de transacciones y estados (pendiente, pagado, fallido).                                                                 | 5                  | Gianmarco   | Done        |
+| US-42         | Procesamiento de pagos en línea (Payment Service)            | T-13    | Endpoint de creación y actualización de pagos  | Implementar endpoint para crear pagos, registrar respuesta del proveedor y actualizar estado de la transacción.                                          | 4                  | Gianmarco   | In Progress |
+| US-43         | Integración Frontend–Backend y orquestación de servicios     | T-14    | Configurar API Gateway / Reverse Proxy         | Configurar gateway o reverse proxy para enrutar solicitudes del frontend hacia los microservicios correspondientes.                                      | 5                  | César       | In Progress |
+| US-43         | Integración Frontend–Backend y orquestación de servicios     | T-15    | Integrar vistas del frontend con los Web Services | Conectar pantallas clave (login, listado de talleres, creación de órdenes, pagos) con los endpoints del backend.                                         | 6                  | Gianmarco   | To Do       |
+| US-43         | Integración Frontend–Backend y orquestación de servicios     | T-16    | Actualizar CI/CD y variables de entorno para backend | Actualizar pipeline de GitHub Actions y variables de entorno para desplegar los microservicios en el entorno remoto.                                     | 3                  | César       | In Progress |
+
+
+Captura en Trello del Sprint 3:
+<img src="Assets/Trello/Sprint_3.png">
+
+[https://trello.com/invite/b/68e553625941b3277a631f79/ATTIbdc7ed65f50e7fba04796f3c4c17e9660F991CC5/prime-fix](https://trello.com/invite/b/68e553625941b3277a631f79/ATTIbdc7ed65f50e7fba04796f3c4c17e9660F991CC5/prime-fix)
+
+
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review
+
+
+
+#### 5.2.3.8. Team Collaboration Insights during Sprint
+
+
 ## 5.3. Validation Interviews
 
 Luego de haber avanzado con el desarrollo de la Landing Page y el deploy del front-end de la aplicación web y el API RESTful de PrimeFix, se realizarán las entrevistas de validación a los usuarios previamente entrevistados que corresponden a los segmentos objetivos para los cuales está dirigido el producto.
@@ -2442,7 +2668,7 @@ Las preguntas para las entrevistas son:
 
 - Sexo: Masculino
 - Edad: 24
-- Link: [Enlace](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318731_upc_edu_pe/IQAItWhH8GksQZnHzl3yz84pAU4UPPZv718cWhS0W_v-thQ?e=RS55db&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+- Link: <https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318731_upc_edu_pe/IQAItWhH8GksQZnHzl3yz84pAU4UPPZv718cWhS0W_v-thQ?e=RS55db&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D>
 - Inicia en: 0:01
 - Duración: 19:38
 
@@ -2456,7 +2682,7 @@ Marcos Contreras es un joven de 24 años quien trabaja y estudia de manera paral
 
 - Sexo: Masculino
 - Edad: 23
-- Link: [Enlace](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318731_upc_edu_pe/IQCvXGFnBT9sT6uI7dcmObArAc_4XAtRA1mxnb0J2yCZf-k?e=HxvnqN&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+- Link: <https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318731_upc_edu_pe/IQCvXGFnBT9sT6uI7dcmObArAc_4XAtRA1mxnb0J2yCZf-k?e=HxvnqN&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D>
 - Inicia en: 0:01
 - Duración: 17:02
 
@@ -2469,7 +2695,7 @@ Anyelo Alejos es un chico de 23 años de edad, el solo estudia pero cuenta con u
 #### Segmento #2: Asesor de servicios de un taller automotriz
 - Sexo: Masculino
 - Edad: 21
-- Link: [Enlace](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202123843_upc_edu_pe/IQB2LcBLH7ZnRIt04ZWCfeVzAS7e9tAzPBWASiqvD__DlCw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=gkBvjC)
+- Link: <https://upcedupe-my.sharepoint.com/:v:/g/personal/u202123843_upc_edu_pe/IQB2LcBLH7ZnRIt04ZWCfeVzAS7e9tAzPBWASiqvD__DlCw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=gkBvjC>
 - Inicia en: 00:02
 - Duración: 23:49
 - Fecha: 05/11/2025
@@ -2478,6 +2704,148 @@ Anyelo Alejos es un chico de 23 años de edad, el solo estudia pero cuenta con u
 Jesús Valenzuela es un joven asesor de servicios de reparación del taller Alvillantas. En esta entrevista pudo probar tanto la landing page como el front-end de Prime-Fix en una computadora. En su mayoría, está conforme con que el servicio sea mediante la web. Asimismo, señaló que muchas de las funcionalidades son muy intuitivas y útiles para su trabajo ya que todas las etiquetas son claras y el flujo de actividades es ordenado. No identificó aspectos visuales negativos salvo algunas pequeñas recomendaciones. Valora que la aplicación le permita gestionar las solicitudes de servicios, la información de los técnicos y el estado de cada vehículo que se encuentra en el taller.
 
 ### 5.3.3. Evaluaciones según heurísticas
+
+## Evaluación Heurística de Usabilidad y Diseño Inclusivo para la Aplicación Web "QuizzBee"
+
+| Campo | Descripción |
+|--------|--------------|
+| **Carrera** | Ingeniería de Software |
+| **Curso** | Desarrollo de Aplicaciones Open Source |
+| **Sección** | 7385 |
+| **Profesores** | Todos |
+| **Auditor(es)** | Grupo 1 |
+| **Cliente(s)** | Grupo 2 |
+| **Site / App a Evaluar** | **QuizzBee |
+
+## Tareas a Evaluar
+
+El alcance de esta evaluación incluye la revisión de la usabilidad y experiencia del usuario en las siguientes tareas:
+
+1. Identificar funcionalidades principales del servicio.  
+2. Registro de un nuevo usuario.  
+3. Inicio de sesión.  
+4. Creación, edición y eliminación de quizzes.  
+5. Visualización de ranking y estadísticas.  
+6. Consulta de soporte y preguntas frecuentes.  
+7. Gestión del plan gratuito o premium.  
+8. Cierre de sesión.
+
+
+## Escala de Severidad
+
+| Nivel | Descripción |
+|-------|--------------|
+| **1** | Problema superficial: fácilmente superable, ocurre con poca frecuencia. No requiere atención inmediata. |
+| **2** | Problema menor: aparece con algo más de frecuencia o genera leve dificultad. Requiere revisión en próximas versiones. |
+| **3** | Problema mayor: ocurre con frecuencia o afecta notablemente la experiencia del usuario. Debe corregirse con prioridad alta. |
+| **4** | Problema muy grave: impide el uso normal del sistema. Debe corregirse antes del lanzamiento. |
+
+## Tabla Resumen de Problema
+
+| # | Problema identificado | Escala de severidad | Heurística / Principio violado(a) |
+|---|-----------------------|:--:|--------------------------------|
+| 1 | No existe un menú de navegación visible o fijo en la landing para moverse entre secciones principales. | 3 | **Usability:** Libertad y control del usuario |
+| 2 | No hay botón de “volver arriba” ni enlaces de navegación interna (anclas). | 2 | **Usability:** Flexibilidad y eficiencia de uso |
+| 3 | El contraste entre texto y fondo en algunas secciones reduce la legibilidad. | 2 | **Inclusive Design:** Accesibilidad visual |
+| 4 | Íconos sin atributo “alt” ni etiquetas accesibles. | 3 | **Inclusive Design:** Proporcionar experiencias comparables |
+| 5 | Falta un CTA (“Call to Action”) claro y consistente en la landing. | 3 | **Information Architecture:** Is it usable? |
+| 6 | En el registro no se especifican criterios de validación de contraseña ni mensajes de error dinámicos. | 2 | **Usability:** Prevención de errores |
+| 7 | No existe confirmación visual al registrarse, iniciar sesión o realizar acciones principales. | 3 | **Usability:** Visibilidad del estado del sistema |
+| 8 | En el dashboard, íconos sin etiquetas accesibles (`aria-label`). | 3 | **Inclusive Design:** Experiencias comparables |
+| 9 | No hay aviso de confirmación antes de eliminar un quiz o cuenta. | 4 | **Usability:** Prevención de errores |
+| 10 | La sección “Manage plan” aparece vacía sin contenido ni botones funcionales. | 3 | **Information Architecture:** Is it findable / usable? |
+| 11 | No hay retroalimentación al guardar o publicar un quiz. | 3 | **Usability:** Visibilidad del estado del sistema |
+| 12 | Palabras de interfaz sin traducir (“MY_CREATIONS.TITLE”). | 3 | **Information Architecture:** Consistencia y lenguaje del usuario |
+| 13 | Jerarquía visual débil y contraste bajo entre secciones activas e inactivas. | 2 | **Inclusive Design:** Accesibilidad visual |
+| 14 | Campos de idioma y nivel sin texto de ayuda o ejemplos de uso. | 2 | **Usability:** Ayuda y documentación mínima |
+
+## Descripción de Problemas
+
+### PROBLEMA #1: No existe un menú de navegación visible o fijo
+- **Severidad:** 3  
+- **Heurística violada:** Usability – Libertad y control del usuario  
+- **Descripción:** La landing no muestra un header o barra fija para saltar entre secciones (funcionalidades, testimonios, FAQ, soporte). Obliga a hacer scroll largo y dificulta volver a zonas clave.  
+- **Recomendación:** Añadir una barra superior “sticky” con anclas a secciones (“Inicio”, “Funcionalidades”, “Testimonios”, “FAQ”, “Soporte”) y CTA persistente.
+
+### PROBLEMA #2: No hay “volver arriba” ni anclas internas
+- **Severidad:** 2  
+- **Heurística violada:** Usability – Flexibilidad y eficiencia de uso  
+- **Descripción:** Al terminar una sección, no hay enlaces de retorno rápido al inicio ni atajos de navegación interna; esto afecta eficiencia en páginas largas.  
+- **Recomendación:** Agregar botón flotante “↑” y anclas internas entre bloques; incluir accesos rápidos al final de cada sección.
+
+### PROBLEMA #3: Contraste bajo en textos/fondos de la landing
+- **Severidad:** 2  
+- **Heurística violada:** Inclusive Design – Accesibilidad visual  
+- **Descripción:** En tarjetas y fondos celeste/azulado, algunos textos azules pierden contraste con el fondo, dificultando lectura.  
+- **Recomendación:** Ajustar paleta (color de texto y/o fondo).
+
+### PROBLEMA #4: Íconos sin `alt` ni etiquetas accesibles
+- **Severidad:** 3  
+- **Heurística violada:** Inclusive Design – Proporcionar experiencias comparables  
+- **Descripción:** Los íconos/emojis de “Funcionalidades” carecen de descripciones para lectores de pantalla; usuarios con discapacidad visual pierden contexto.  
+- **Recomendación:** Incluir `alt`/`aria-label` descriptivos y `role="img"` si procede; si son decorativos, marcarlos como `aria-hidden="true"`.
+
+### PROBLEMA #5: Ausencia de CTA principal en la landing
+- **Severidad:** 3  
+- **Heurística violada:** Information Architecture – Is it usable?  
+- **Descripción:** No existe un botón de acción dominante (p.ej., “Empieza ahora”, “Regístrate”); el objetivo de conversión queda difuso.  
+- **Recomendación:** Incorporar CTA visible y consistente en hero y barra de navegación; usar color contrastante y copy orientado a acción.
+
+### PROBLEMA #6: Validación limitada en formulario de registro
+- **Severidad:** 2  
+- **Heurística violada:** Usability – Prevención de errores  
+- **Descripción:** Solo se indica “Contraseña (mín. 6)”. No hay validación en tiempo real ni requisitos claros (mayúsculas, número, símbolo) ni confirmación de contraseña.  
+- **Recomendación:** Añadir checklist dinámico de requisitos, campo “confirmar contraseña”, medidor de fortaleza y mensajes inline.
+
+### PROBLEMA #7: Sin confirmación/feedback tras acciones clave
+- **Severidad:** 3  
+- **Heurística violada:** Usability – Visibilidad del estado del sistema  
+- **Descripción:** En registro/login y operaciones de contenido no aparecen estados de carga, notificaciones de éxito/fallo, ni “toast/snackbar”.  
+- **Recomendación:** Incluir indicadores de progreso (spinners), toasts de éxito/error, y estados deshabilitados en botones mientras procesan.
+
+### PROBLEMA #8: Menú lateral con íconos sin etiquetas accesibles
+- **Severidad:** 3  
+- **Heurística violada:** Inclusive Design – Experiencias comparables  
+- **Descripción:** Los íconos del sidebar (Profile, Home, Create, etc.) no exponen `aria-label`/`title` ni orden lógico de tabulación; navegación por teclado/lector se ve afectada.  
+- **Recomendación:** Añadir `aria-label` y `aria-current="page"` para el activo; asegurar foco visible y orden de tab index natural.
+
+### PROBLEMA #9: Eliminación de quiz/cuenta sin confirmación
+- **Severidad:** 4  
+- **Heurística violada:** Usability – Prevención de errores  
+- **Descripción:** En “My Creations” el botón **Delete** y en perfil **Delete account** no solicitan confirmación (ni “undo”), lo que puede causar pérdida permanente.  
+- **Recomendación:** Modal de confirmación con resumen del impacto, doble acción **Cancelar/Eliminar**, y opción de recuperación (papelera o “undo”).
+
+### PROBLEMA #10: “Manage plan” vacío/sin opciones
+- **Severidad:** 3  
+- **Heurística violada:** Information Architecture – Is it findable / usable?  
+- **Descripción:** La vista muestra un fondo degradado y título, pero carece de planes, precios, beneficios o flujos de pago; el usuario no puede completar la tarea.  
+- **Recomendación:** Añadir tarjetas de planes (Free/Pro/Team), features comparadas, precio/periodicidad, CTA “Upgrade” y estado de plan actual.
+
+### PROBLEMA #11: Sin feedback al guardar/publicar quiz
+- **Severidad:** 3  
+- **Heurística violada:** Usability – Visibilidad del estado del sistema  
+- **Descripción:** En “Modo Creativo”, los botones **Guardar borrador**/**Publicar** no indican progreso ni resultado; el usuario duda si se guardó o falló.  
+- **Recomendación:** Mostrar loader en botón, deshabilitar durante envío, y notificación de éxito con enlace para ver el quiz; mensajes claros ante error.
+
+### PROBLEMA #12: Textos de interfaz sin traducir (i18n incompleto)
+- **Severidad:** 3  
+- **Heurística violada:** Information Architecture – Consistencia y lenguaje del usuario  
+- **Descripción:** Etiquetas como `MY_CREATIONS.TITLE`, `MY_CREATIONS.POINTS`, `Clear filters` aparecen en inglés/clave de i18n, rompiendo consistencia lingüística.  
+- **Recomendación:** Completar archivos de traducción, fallback localizable, y detección automática de idioma; prueba de regresión lingüística.
+
+### PROBLEMA #13: Bajo contraste/jerarquía en estados activos
+- **Severidad:** 2  
+- **Heurística violada:** Inclusive Design – Accesibilidad visual  
+- **Descripción:** En el editor (pestañas/lista de preguntas) el elemento activo no se distingue con claridad respecto a inactivos; afecta orientación y foco visual.  
+- **Recomendación:** Aumentar contraste y señales de estado (color, grosor de borde, fondo, icono de “activo”); cumplir WCAG Focus Visible.
+
+### PROBLEMA #14: Falta de ayudas/contexto en “Idioma” y “Nivel”
+- **Severidad:** 2  
+- **Heurística violada:** Usability – Ayuda y documentación mínima  
+- **Descripción:** Selectores de **Language**/**Level** carecen de microcopy (para qué sirven, cómo afectan la experiencia) ni ejemplos (p. ej., “Novice = nivel A1”).  
+- **Recomendación:** Añadir texto de ayuda inline/tooltip, descripciones cortas y ejemplos; si modifican el contenido recomendado, explicarlo explícitamente.
+
+---
 
 ## 5.4. Video About-the-Product
 
