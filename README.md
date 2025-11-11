@@ -2497,17 +2497,120 @@ Se documenta el proceso de implementación, pruebas, documentación y despliegue
 
 #### 5.2.3.1. Sprint Planning 3
 
+| **Sprint #** | Sprint 3 |
+|--------------|----------|
+| **Sprint Planning Background** | |
+| **Date** | 2025-10-14 |
+| **Time** | 08:00 PM |
+| **Location** | Virtual (Discord) |
+| **Prepared By** | Aróstegui Alzamora, César Augusto |
+| **Attendees (to planning meeting)** | Aróstegui Alzamora, César Augusto / Jiménez Guerra, Gianmarco Fabian / Montoya Torres, Alexander Gabriel / Tenorio Medina, Piero Francesco / Navarro Chang, Alicia Avril / Julca Cruz, Renso Anthony |
+| **Sprint 2 Review Summary** | Se completó exitosamente la implementación de la Frontend Web Application con funcionalidades principales para ambos segmentos objetivo. Se logró el despliegue en Vercel y el despliegue del RESTful Web Services en AWS. |
+| **Sprint 2 Retrospective Summary** | El equipo identificó la necesidad de mejorar la comunicación durante la integración con el backend y establecer mejores prácticas para pruebas end-to-end. Se destacó el buen trabajo en la implementación de componentes reutilizables y diseño responsive. |
+| **Sprint Goal & User Stories** | |
+| **Sprint 3 Goal** | Integrar completamente la Frontend Web Application con los Web Services RESTful del backend, habilitando flujos de trabajo completos y funcionalidades integradas para ambos segmentos objetivo. |
+| **Sprint 3 Velocity** |  Fifty (50) Story Points |
+| **Sum of Story Points** | 50 Story Points |
+
 #### 5.2.3.2. Aspect Leaders and Collaborators
+
+En esta sección se presenta la **Leadership-and-Collaboration Matrix (LACX)** para el Sprint 3, enfocada en la integración casi completa entre la Frontend Web Application y los Web Services RESTful del backend de Prime-Fix. Esta matriz define los roles y responsabilidades de cada miembro del equipo durante el proceso de integración y pruebas.
+
+**Principales Aspectos Considerados en el Sprint 3:**
+Para el Sprint 3, se han identificado cuatro aspectos fundamentales que abarcan la integración y pruebas completas:
+**API Integration (Integración de API):** Este aspecto engloba la conexión de la aplicación frontend con los servicios RESTful del backend, incluyendo llamadas a endpoints, manejo de respuestas y errores.
+**End-to-End Testing (Pruebas de extremo a extremo):** Comprende la implementación de pruebas automatizadas que validan flujos completos desde la interfaz de usuario hasta el backend.
+**Error Handling & User Feedback (Manejo de errores y retroalimentación al usuario):** Incluye la implementación de mecanismos para manejar errores de API y proporcionar retroalimentación clara a los usuarios.
+**Documentation & Deployment (Documentación y Despliegue):** Abarca la actualización de la documentación técnica y la estrategia de despliegue continuo para la aplicación integrada.
+
+| **Team Member (Last Name, First Name)** | **GitHub Username** | **API Integration** (L / C) | **End-to-End Testing** (L / C) | **Error Handling & User Feedback** (L / C) | **Documentation & Deployment** (L / C) |
+|-----------------------------------------|---------------------|------------------------------|---------------------------------|---------------------------------------------|--------------------------------------|
+| Aróstegui Alzamora, César Augusto        | Legendnt1             | L                            | C                               | L                                           | L                                    |
+| Jiménez Guerra, Gianmarco Fabián         | ZAICO21             | C                            | L                               | C                                           | C                                    |
+| Tenorio Medina, Piero Francesco          | PieroTM2005             | C                            | C                               | C                                           | C                                    |
+| Navarro Chang, Alicia Avril              | Alice-keys             | C                            | C                               |            C                   | C                                           | C                                    |
+| Montoya Torres, Alexander Gabriel        | gabrielito4334             | C                            | C  | C                               | C                                       | C                                    |
+| Julca Cruz, Renso Anthony                | rajc02             | C                            | C                               | C                                           | C                                    |
+
 
 #### 5.2.3.3. Sprint Backlog 3
 
+El Sprint Backlog 3 se centra en la integración completa entre la Frontend Web Application y los Web Services RESTful del backend de Prime-Fix, habilitando flujos de trabajo completos y funcionalidades integradas para ambos segmentos objetivo.
+
+| **Sprint #** | Sprint 3 |
+|--------------|----------|
+| **User Story Id** | **User Story Title**                           | **Task Id** | **Task Title**                        | **Description**                                                                 | **Estimation (Hours)** | **Assigned To** | **Status** |
+|-------------------|-------------------------------------------------|-------------|---------------------------------------|---------------------------------------------------------------------------------|------------------------|-----------------|------------|
+| TS-01     | Integración de API para autenticación          | T-01        | Conectar login y registro con backend | Implementar llamadas a endpoints de autenticación desde frontend               | 6                     | César           | Done      |
+| TS-01     | Integración de API para autenticación          | T-02        | Validar login y registro con backend  | Implementar validaciones para login y registro desde frontend                  | 6                     | César           | Done      |
+| TS-02     | Integración de API para gestión de vehículos   | T-03        | Conectar CRUD de vehículos con backend | Implementar llamadas a endpoints de gestión de vehículos desde frontend        | 8                     | César           | Done      |
+| TS-02     | Integración de API para gestión de vehículos   | T-03        | Validar CRUD de vehículos con backend  | Implementar validaciones para CRUD de vehículos desde frontend                 | 8                     | César           | Done      |
+| TS-03     | Integración de API para programación de citas  | T-04        | Conectar calendario con backend       | Implementar llamadas a endpoints de citas desde frontend                       | 6                     | Piero           | Done      |
+ TS-03     | Integración de API para programación de citas  | T-05        | Conectar diagnosticon con backend      | Implementar llamadas a endpoints de diagnosticos                    | 6                     | Renso           | Done      |
+| TS-04     | Integración de API para seguimiento de estado  | T-06        | Conectar dashboard con backend        | Implementar llamadas a endpoints de seguimiento desde frontend                  | 6                     | César       | Done      |
+| TS-04     | Integración de API para seguimiento de estado  | T-07        | Validar dashboard con backend        | Implementar validaciones para CRUD de seguimiendo desde frontend                  | 6                     | César       | Done      |
+| TS-05     | Integración de API para reseñas de talleres    | T-08        | Conectar componente de reseñas con backend | Implementar llamadas a endpoints de reseñas desde frontend                      | 5                     | Piero           | Done      |
+| TS-06     | Integración de API para búsqueda de talleres   | T-09        | Conectar componente de búsqueda con backend | Implementar llamadas a endpoints de búsqueda desde frontend                     | 5                     | Alexander       | Done      |
+| TS-07     | Integración de API para gestión de solicitudes | T-10        | Conectar panel de gestión con backend | Implementar llamadas a endpoints de solicitudes desde frontend                  | 6                     | Alicia          | Done      |
+| TS-08     | Pruebas end-to-end completas                   | T-11        | Implementar pruebas E2E              | Desarrollar pruebas automatizadas que validen flujos completos desde UI hasta backend | 8                     | César       | Done      |
+
 #### 5.2.3.4. Development Evidence for Sprint Review
+
+Durante el Sprint 3, se logró la integración completa entre la Frontend Web Application y los Web Services RESTful del backend de Prime-Fix. Esta integración habilitó flujos de trabajo completos y funcionalidades integradas para ambos segmentos objetivo, permitiendo a los usuarios interactuar con la plataforma de manera fluida y eficiente.
+
+**Principales logros del Sprint 3:**
+1. **Integración de API Exitosa:** Se conectaron todos los componentes frontend con los endpoints RESTful del backend, permitiendo la comunicación bidireccional y el intercambio de datos en tiempo real.
+2. **Pruebas End-to-End Completas:** Se implementaron pruebas automatizadas que validan flujos completos desde la interfaz de usuario hasta el backend, asegurando la funcionalidad y estabilidad del sistema integrado.
+3. **Manejo de Errores y Retroalimentación al Usuario:** Se implementaron mecanismos robustos para manejar errores de API y proporcionar retroalimentación clara a los usuarios en caso de fallos o problemas.
+4. **Documentación Actualizada:** Se actualizó la documentación técnica para reflejar la integración completa, incluyendo guías de uso de la API y flujos de trabajo integrados.
+**Principales funcionalidades integradas:**
+- **Autenticación y Registro:** Formularios de login y registro conectados con el backend
+- **Gestión de Vehículos:** CRUD de vehículos integrado con los servicios backend
+- **Programación de Citas:** Calendario interactivo conectado con los endpoints de citas
+- **Seguimiento de Estado:** Dashboard de seguimiento integrado con los servicios de monitoreo
+- **Reseñas de Talleres:** Componente de reseñas conectado con los servicios de calificaciones
+- **Búsqueda de Talleres:** Componente de búsqueda integrado con los servicios de listado de talleres
+- **Gestión de Solicitudes:** Panel de gestión de solicitudes conectado con los servicios backend 
 
 #### 5.2.3.5. Execution Evidence for Sprint Review
 
+Durante el Sprint 3, se logró la integración completa entre la Frontend Web Application y los Web Services RESTful del backend de Prime-Fix. Esta integración permitió habilitar flujos de trabajo completos y funcionalidades integradas para ambos segmentos objetivo.
+**Screenshots de la aplicación integrada en funcionamiento:**
+<img src="Assets/integration/login_integration.png">
+
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
+Durante el Sprint 3, se actualizó la documentación técnica para reflejar la integración completa entre la Frontend Web Application y los Web Services RESTful del backend de Prime-Fix. La documentación incluye guías de uso de la API, flujos de trabajo integrados y ejemplos de llamadas a endpoints.
+
+| User Story Id | User Story Title                                              | Task Id | Task Title                                     | Description                                                                                                                                              | Estimation (Hours) | Assigned To | Status      |
+|---------------|---------------------------------------------------------------|---------|-----------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------|-------------|-------------|
+| US-37         | Gestión de cuentas de usuario (IAM)                          | T-01    | Configurar servicio IAM                        | Crear proyecto del microservicio IAM, estructura de carpetas, configuración base y conexión a la base de datos.                                         | 4                  | César       | Done        |
+| US-37         | Gestión de cuentas de usuario (IAM)                          | T-02    | Endpoints de registro y login                  | Implementar endpoints para registro, login y logout con validaciones básicas y manejo de errores.                                                        | 6                  | César       | Done        |
+| US-37         | Gestión de cuentas de usuario (IAM)                          | T-03    | Seguridad y manejo de credenciales             | Configurar hashing de contraseñas, validación de tokens/JWT y middleware de autorización.                                                                | 4                  | César       | Done        |
+| US-38         | Seguimiento de mantenimientos (Maintenance Tracking)         | T-04    | Modelo de órdenes de mantenimiento             | Diseñar entidades y relaciones para órdenes, estados y vehículos en la base de datos.                                                                    | 5                  | César       | Done        |
+| US-38         | Seguimiento de mantenimientos (Maintenance Tracking)         | T-05    | Endpoints CRUD de órdenes                      | Implementar creación, actualización de estado y consulta de órdenes de mantenimiento.                                                                    | 5                  | César       | Done        |
+| US-39         | Registro de reparaciones y técnicos (Auto Repair Registration)| T-06    | Registro de talleres y técnicos                | Implementar endpoints para registrar talleres, técnicos y sus datos principales.                                                                         | 4                  | Flor        | Done        |
+| US-39         | Registro de reparaciones y técnicos (Auto Repair Registration)| T-07    | Asignación de técnicos a reparaciones          | Implementar lógica y endpoints para asignar técnicos a órdenes de reparación existentes.                                                                 | 3                  | Flor        | Done        |
+| US-40         | Catálogo de talleres con filtros de búsqueda (Auto Repair Catalog) | T-08    | API de listado y filtros de talleres           | Implementar endpoints para listar talleres con filtros por distrito, tipo de servicio y calificación.                                                    | 5                  | Giorgio     | Done        |
+| US-40         | Catálogo de talleres con filtros de búsqueda (Auto Repair Catalog) | T-09    | Soporte de ubicación y ordenamiento            | Agregar soporte de ubicación (distrito/ciudad) y ordenamiento por distancia/calificación en las respuestas.                                              | 3                  | Giorgio     | In Progress |
+| US-41         | Recolección de datos para diagnóstico (Data Collection & Diagnosis) | T-10    | Modelo de datos de diagnóstico                 | Diseñar esquema para registrar síntomas del vehículo, lecturas y resultados de diagnóstico.                                                               | 4                  | Piero       | Done        |
+| US-41         | Recolección de datos para diagnóstico (Data Collection & Diagnosis) | T-11    | Endpoints de registro de diagnósticos          | Implementar endpoints para registrar y consultar diagnósticos asociados a órdenes de mantenimiento.                                                      | 4                  | Piero       | Done        |
+| US-42         | Procesamiento de pagos en línea (Payment Service)            | T-12    | Configurar servicio de pagos                   | Crear servicio de pagos, modelo de transacciones y estados (pendiente, pagado, fallido).                                                                 | 5                  | Gianmarco   | Done        |
+| US-42         | Procesamiento de pagos en línea (Payment Service)            | T-13    | Endpoint de creación y actualización de pagos  | Implementar endpoint para crear pagos, registrar respuesta del proveedor y actualizar estado de la transacción.                                          | 4                  | Gianmarco   | In Progress |
+| US-43         | Integración Frontend–Backend y orquestación de servicios     | T-14    | Configurar API Gateway / Reverse Proxy         | Configurar gateway o reverse proxy para enrutar solicitudes del frontend hacia los microservicios correspondientes.                                      | 5                  | César       | In Progress |
+| US-43         | Integración Frontend–Backend y orquestación de servicios     | T-15    | Integrar vistas del frontend con los Web Services | Conectar pantallas clave (login, listado de talleres, creación de órdenes, pagos) con los endpoints del backend.                                         | 6                  | Gianmarco   | To Do       |
+| US-43         | Integración Frontend–Backend y orquestación de servicios     | T-16    | Actualizar CI/CD y variables de entorno para backend | Actualizar pipeline de GitHub Actions y variables de entorno para desplegar los microservicios en el entorno remoto.                                     | 3                  | César       | In Progress |
+
+
+Captura en Trello del Sprint 3:
+<img src="Assets/Trello/Sprint_3.png">
+
+[https://trello.com/invite/b/68e553625941b3277a631f79/ATTIbdc7ed65f50e7fba04796f3c4c17e9660F991CC5/prime-fix](https://trello.com/invite/b/68e553625941b3277a631f79/ATTIbdc7ed65f50e7fba04796f3c4c17e9660F991CC5/prime-fix)
+
+
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review
+
+
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint
 
@@ -2565,7 +2668,7 @@ Las preguntas para las entrevistas son:
 
 - Sexo: Masculino
 - Edad: 24
-- Link: [Enlace](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318731_upc_edu_pe/IQAItWhH8GksQZnHzl3yz84pAU4UPPZv718cWhS0W_v-thQ?e=RS55db&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+- Link: <https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318731_upc_edu_pe/IQAItWhH8GksQZnHzl3yz84pAU4UPPZv718cWhS0W_v-thQ?e=RS55db&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D>
 - Inicia en: 0:01
 - Duración: 19:38
 
@@ -2579,7 +2682,7 @@ Marcos Contreras es un joven de 24 años quien trabaja y estudia de manera paral
 
 - Sexo: Masculino
 - Edad: 23
-- Link: [Enlace](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318731_upc_edu_pe/IQCvXGFnBT9sT6uI7dcmObArAc_4XAtRA1mxnb0J2yCZf-k?e=HxvnqN&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+- Link: <https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318731_upc_edu_pe/IQCvXGFnBT9sT6uI7dcmObArAc_4XAtRA1mxnb0J2yCZf-k?e=HxvnqN&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D>
 - Inicia en: 0:01
 - Duración: 17:02
 
@@ -2592,7 +2695,7 @@ Anyelo Alejos es un chico de 23 años de edad, el solo estudia pero cuenta con u
 #### Segmento #2: Asesor de servicios de un taller automotriz
 - Sexo: Masculino
 - Edad: 21
-- Link: [Enlace](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202123843_upc_edu_pe/IQB2LcBLH7ZnRIt04ZWCfeVzAS7e9tAzPBWASiqvD__DlCw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=gkBvjC)
+- Link: <https://upcedupe-my.sharepoint.com/:v:/g/personal/u202123843_upc_edu_pe/IQB2LcBLH7ZnRIt04ZWCfeVzAS7e9tAzPBWASiqvD__DlCw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=gkBvjC>
 - Inicia en: 00:02
 - Duración: 23:49
 - Fecha: 05/11/2025
