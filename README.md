@@ -41,7 +41,7 @@
   </tbody>
 </table>
 
-<div style="text-align:center; margin-top:18px;"> Setiembre 2025 </div>
+<div style="text-align:center; margin-top:18px;"> Noviembre 2025 </div>
 
 <hr>
 
@@ -61,7 +61,15 @@
 |   TB1   | 16/09/2025  | Piero Francesco Tenorio Medina                                            | Realicé la secciones de User Stories, evaluando cada escenario posible de cada funcionalidad.Tambien el Diagrama de Clase en una versión temprana. Además de hacer los segmentos objetivos del proyecto. Evaluando los posibles usuarios a los que va dirijido el trabajo.  |
 |   TP1   | 07/10/2025  | Gianmarco Fabian Jiménez Guerra                                            | Realicé las correcciones pertinentes y desarrollé el Bounded Context de Payment Service, donde me encargué de codificar todas las capas de dicho BC.  |
 |   TP1   | 07/10/2025  | Cesar Augusto Arostegui Alzamora                                          | Realicé la parte del Sprint 2, especifícamente el bounded context de IAM y Maintenance Status Tracking, donde realicé todo el código de dichas secciones |
-|   TP1   | 07/10/2025  | Alexander Gabriel Montoya Torres                         | Realicé el bounded context de AutoRepair Register desarrollando las capas pertinentes mediante Angular, sumado a eso levante las correcciones pasadas del informe.     |
+|  TP1   | 07/10/2025  | Alexander Gabriel Montoya Torres                                          | Realicé el desarrollo del Bounded Context Auto Repair Registration, enfocándome en las funcionalidades de registro y gestión de talleres automotrices. Coordiné efectivamente con los demás integrantes para asegurar la coherencia en la implementación y comuniqué los avances técnicos durante las reuniones de equipo. |
+|  TP1   | 07/10/2025  | Alicia Avril Navarro Chang                                                | Realicé el desarrollo del Bounded Context Auto Repair Catalog, implementando las funcionalidades relacionadas con la gestión del catálogo de servicios de reparación. Mantuve comunicación constante con el equipo para alinear los requerimientos funcionales y técnicos del sistema. |
+|  TP1   | 07/10/2025  | Piero Francesco Tenorio Medina                                            | En esta entrega desarrollé el Bounded Context de Data Collection, donde implementé las funcionalidades para la recolección y gestión de datos del sistema. Coordiné con el equipo para asegurar la integración correcta con otros bounded contexts y comuniqué efectivamente los requisitos técnicos y las decisiones de diseño tomadas. |
+|  TP1   | 07/10/2025  | Renso Anthony Julca Cruz                                                 | Realicé el desarrollo del Bounded Context Vehicle Diagnosis, implementando las funcionalidades para el diagnóstico y evaluación de vehículos. Mantuve comunicación efectiva con el equipo técnico para asegurar la integración correcta con los demás componentes del sistema. |
+|  TB2   | 12/11/2025  | Gianmarco Fabian Jiménez Guerra | Realicé una entrevista de validación, el desarrollo del backend del Bounded Context Payment Service a partir del diagrama presentado. Me comuniqué constantemente con el grupo para asegurar la integración correcta con los demás componentes del sistema. Finalmente, registré las entrevistas y su contenido. |
+|  TB2   | 12/11/2025  | César Augusto Aróstegui Alzamora | Realicé mi aporte en el backend del Bounded Context IAM y Maintenance Status Tracking. También realicé 2 entrevistas de validación del segmentos 2. |
+  TB2   | 12/11/2025 | Piero Francesco Tenorio Medina | Realice las entrevistas de validaciones al segmento 1 y el avance del backend del Bounded Context Data Collection. Además de realizar validaciones con los demás integrantes del grupo sobre los distintos cambios en torno al diagrama de clases y su estructura. |
+  TB2   | 12/11/2025 | Renso Anthony Julca Cruz | Realice mi parte del Bounded Context sobre Vehicle Diagnosis, tambien apoye en las correciones del informe de forma colaborativa. |
+
 </div>
 
 # Project Report Collaboration Insights  
@@ -157,6 +165,15 @@
       - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
       - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
       - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
+    - [5.2.3. Sprint 3](#523-sprint-3)
+      - [5.2.3.1. Sprint Planning 3](#5231-sprint-planning-3)
+      - [5.2.3.2. Aspect Leaders and Collaborators](#5232-aspect-leaders-and-collaborators)
+      - [5.2.3.3. Sprint Backlog 3](#5233-sprint-backlog-3)
+      - [5.2.3.4. Development Evidence for Sprint Review](#5234-development-evidence-for-sprint-review)
+      - [5.2.3.5. Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review)
+      - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
+      - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
+      - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
   - [5.3. Validation Interviews](#53-validation-interviews)
     - [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)
     - [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)
@@ -171,8 +188,8 @@
 # Student Outcome  
 | Criterio específico                                                   | Acciones realizadas                                                                                     | Conclusiones |
 | --------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | ------------ |
-| Comunica oralmente con efectividad a diferentes rangos de audiencia   | Jiménez Guerra, Gianmarco Fabian<br>TB1: Para esta entrega pude contribuir en todos los capítulos a desarrollar. Ayudé a definir el proyecto y las funcionalidadaes de manera correcta y pude comunicarme de forma correcta y ordenada con los integrantes del grupo.<br>TP1: Para esta entrega coordiné mi colaboración junto con el grupo de trabajo: aporté en algunas correcciones, en el uso del trello para el registro de los user stories y los sprints y finalmente con la codificación del Bounded Context Payment Service.<br><br>Aróstegui Alzamora, Cesar Augusto<br>TB1: En el inicio de este proyecto planifiqué lo necesario para los avances del prototipo de la aplicación web y el diseño UX/UI, facilité sesiones de Design-Level Event Storming para alinear vocabulario y flujos. También planifiqué la primera versión de la Landing Page.<br>TP1: Durante esta entrega me enfoqué en la implementación técnica desarrollando los Bounded Contexts de IAM (Identity and Access Management) y Maintenance Status Tracking. Mantuve comunicación efectiva con el equipo durante las sesiones de planificación y revisión de código, explicando la arquitectura de seguridad y los patrones implementados para el seguimiento del estado de mantenimiento.<br><br>Tenorio Medina, Piero Francesco<br>TB1: Dentro de esta parte del trabajo, he planteado distintas ideas de como se podria desarrollar el trabajo con los demás integrantes de mi equipo.Estas ideas considerando las dimensiones y el alcnace del trabajo. Se ha desarrollado secciones como Entrevistas a Uusarios, donde sse ha llegado a plasmar de manera correcta la idea de nuestro proyecto.<br>TP1: En esta entrega desarrollé el Bounded Context de Data Collection, donde implementé las funcionalidades para la recolección y gestión de datos del sistema. Coordiné con el equipo para asegurar la integración correcta con otros bounded contexts y comuniqué efectivamente los requisitos técnicos y las decisiones de diseño tomadas.<br><br>Montoya Torres, Alexander Gabriel<br>TB1: Durante la fase inicial de este proyecto hemos mantenido una buena comunicación con el equipo, de manera que logramos determinar un plan para llevar a cabo los avances pertinentes del proyecto y reforzar nuestro trabajo colaborativo. Sumado a esto, logre aportar con varios puntos del trabajo, desde entrevistas, parte del needfinding cómo la definición de funcionalidades de la plataforma.<br>TP1: Durante el TP1 desarrollé el Bounded Context Auto Repair Registration, enfocándome en las funcionalidades de registro y gestión de talleres automotrices. Coordiné efectivamente con los demás integrantes para asegurar la coherencia en la implementación y comunicé los avances técnicos durante las reuniones de equipo.<br><br>Navarro Chang, Alicia Avril<br>TB1: Trabajé en conjunto con mis compañeros de equipo para poder plasmar el concepto de nuestro proyecto, además de estar al mismo tiempo comunicando ideas y/u opiniones que puedan ayudar al desarrollo del trabajo.<br>TP1: Para esta entrega trabajé en el desarrollo del Bounded Context Auto Repair Catalog, implementando las funcionalidades relacionadas con la gestión del catálogo de servicios de reparación. Mantuve comunicación constante con el equipo para alinear los requerimientos funcionales y técnicos del sistema.<br><br>Julca Cruz, Renso Anthony<br>TP1: En esta entrega me encargué del desarrollo del Bounded Context Vehicle Diagnosis, implementando las funcionalidades para el diagnóstico y evaluación de vehículos. Mantuve comunicación efectiva con el equipo técnico para asegurar la integración correcta con los demás componentes del sistema.<br><br>| TB1: Las presentaciones orales realizadas en esta entrega evidenciaron que el equipo logró transmitir con claridad los objetivos, avances y funcionalidades del proyecto a diferentes audiencias, adaptando el lenguaje y la profundidad de la explicación según el contexto. Esto permitió asegurar la alineación interna del equipo y generar confianza al comunicar resultados a públicos académicos y técnicos.<br><br>TP1: Durante esta entrega, el equipo demostró habilidades de comunicación oral efectiva a través de las presentaciones técnicas de los bounded contexts desarrollados. Cada integrante logró explicar claramente la arquitectura, funcionalidades y decisiones de diseño de su componente específico, adaptando el lenguaje técnico según la audiencia y facilitando la comprensión de conceptos complejos del dominio automotriz.   |
-| Comunica por escrito con efectividad a diferentes rangos de audiencia | Jiménez Guerra, Gianmarco Fabian<br>TB1: Para el desarrollo de mi parte del proyecto, pude redactar de manera adecuada lo que correspondía en mi parte del informe. Además, la comunicación que realicé con algunos segmentos objetivos inicialmente fue vía escrita. Finalmente, hubo coordinaciones con los demás integrantes por escrito.<br>TP1: Para el desarrollo de mi parte en esta entrega, bastaba principalmente con la codificación de mi BC y para ello tuve coordinaciones con los demás miembros del grupo de manera presencial, mediante llamadas y mensajes.<br><br>Aróstegui Alzamora, Cesar Augusto<br>TB1: En el inicio de este proyecto desarrollé los avances del prototipo de la aplicación web y el diseño UX/UI, también completó el avance del Design-Level Event Storming para alinear vocabulario y flujos. También desarrollé la primera versión de la Landing Page.<br>TP1: Durante esta entrega documenté de manera detallada la arquitectura e implementación de los Bounded Contexts IAM y Maintenance Status Tracking. Redacté especificaciones técnicas claras, diagramas de clases y documentación de APIs que facilitaron la comprensión e integración por parte del equipo. También mantuve comunicación escrita efectiva mediante comentarios de código y documentación técnica.<br><br>Tenorio Medina, Piero Francesco<br>TB1: Dentro de esta parte del trabajo, he desarrollado y planteado ideas que sean de acordes a los distintos segmentos objetivos. Estas ideas se basan en la experiencia y el malestar de cada uno de los usuarios, como por ejemplo: el planteamiento de facilidades al usuario a la hora de utilizar la plataforma, brindandole distintas herramientas que mejoren su experiencia a la hora de utilizar nuestro Servicio.<br>TP1: En esta entrega redacté la documentación técnica completa del Bounded Context Data Collection, incluyendo especificaciones funcionales, diagramas de arquitectura y guías de implementación. Mantuve comunicación escrita efectiva con el equipo a través de commits detallados, pull requests descriptivos y documentación de código que facilitó la colaboración técnica.<br><br>Montoya Torres, Alexander Gabriel<br>TB1: En esta fase inicial, he definido la problematica principal que nuestro proyecto busca resolver, de manera que podamos empezar desde una base analitica con respecto a las dolencias del mercado y de esa forma definir nuestros segmentos objetivos y llevar a cabo el Needfinding. Sumado a esto, se ha mantenido una comunicación asertiva con todos los integrantes del equipo, mateniendo una eficiencia colaborativa mediante la comunicación.<br>TP1: Durante esta entrega elaboré documentación técnica detallada del Bounded Context Auto Repair Registration, redactando especificaciones funcionales, guías de implementación y documentación de APIs. Mantuve comunicación escrita efectiva mediante documentación de código, especificaciones técnicas y coordinación asíncrona con los demás bounded contexts.<br><br>Navarro Chang, Alicia Avril<br>TB1: En esta entregá realicé varios artefactos lean ux que buscan comunicar ideas y planificar en base a la experiencia del usuario. Además también desarrollé la parte de needfindg (user personas, impact mapping , user stories) , que nos ayudan a estar en sintonía con la perspectiva del usuario y poder plasmarla de acuerdo a nuestro proyecto.<br>TP1: Para el TP1 desarrollé documentación técnica comprehensiva del Bounded Context Auto Repair Catalog, incluyendo especificaciones de servicios, modelos de datos y documentación de APIs. Comuniqué efectivamente por escrito los requisitos técnicos y decisiones de diseño mediante documentos estructurados y comunicación asíncrona con el equipo.<br><br>Julca Cruz, Renso Anthony<br>TP1: En el TP1 redacté documentación técnica completa del Bounded Context Vehicle Diagnosis, incluyendo especificaciones de algoritmos de diagnóstico, modelos de datos y documentación de servicios. Comuniqué efectivamente por escrito las decisiones técnicas y arquitecturales mediante documentación estructurada y clara para el equipo de desarrollo.<br><br> | TB1: La comunicación escrita reflejada en informes, artefactos y coordinaciones internas permitió transmitir de manera precisa los objetivos y avances del proyecto. Se lograron redactar documentos claros, estructurados y adaptados a diferentes audiencias, lo cual facilitó tanto la colaboración dentro del equipo como la presentación de resultados a evaluadores externos.<br><br>TP1: La comunicación escrita durante esta entrega se caracterizó por la producción de documentación técnica de alta calidad para cada bounded context. El equipo demostró capacidad para redactar especificaciones técnicas precisas, documentación de APIs comprehensiva y guías de implementación claras, facilitando la colaboración asíncrona y asegurando la comprensión de la arquitectura del sistema por parte de diferentes audiencias técnicas.   |
+| Comunica oralmente con efectividad a diferentes rangos de audiencia   | Jiménez Guerra, Gianmarco Fabian<br>TB1: Para esta entrega pude contribuir en todos los capítulos a desarrollar. Ayudé a definir el proyecto y las funcionalidadaes de manera correcta y pude comunicarme de forma correcta y ordenada con los integrantes del grupo.<br>TP1: Para esta entrega coordiné mi colaboración junto con el grupo de trabajo: aporté en algunas correcciones, en el uso del trello para el registro de los user stories y los sprints y finalmente con la codificación del Bounded Context Payment Service.<br>TB2: Para esta entrega, me comuniqué de manera eficiente con mi grupo para determinar mis funciones: mi labor consistía en formular las preguntas de las entrevistas de validación, entrevistar a uno de los usuarios previamente registrados, desarrollar el Bounded Context Payment Service en el contexto del backend y redactar el contenido de la entrevista. <br><br>Aróstegui Alzamora, Cesar Augusto<br>TB1: En el inicio de este proyecto planifiqué lo necesario para los avances del prototipo de la aplicación web y el diseño UX/UI, facilité sesiones de Design-Level Event Storming para alinear vocabulario y flujos. También planifiqué la primera versión de la Landing Page.<br>TP1: Durante esta entrega me enfoqué en la implementación técnica desarrollando los Bounded Contexts de IAM (Identity and Access Management) y Maintenance Status Tracking. Mantuve comunicación efectiva con el equipo durante las sesiones de planificación y revisión de código, explicando la arquitectura de seguridad y los patrones implementados para el seguimiento del estado de mantenimiento.<br><br>Tenorio Medina, Piero Francesco<br>TB1: Dentro de esta parte del trabajo, he planteado distintas ideas de como se podria desarrollar el trabajo con los demás integrantes de mi equipo.Estas ideas considerando las dimensiones y el alcnace del trabajo. Se ha desarrollado secciones como Entrevistas a Uusarios, donde sse ha llegado a plasmar de manera correcta la idea de nuestro proyecto.<br>TP1: En esta entrega desarrollé el Bounded Context de Data Collection, donde implementé las funcionalidades para la recolección y gestión de datos del sistema. Coordiné con el equipo para asegurar la integración correcta con otros bounded contexts y comuniqué efectivamente los requisitos técnicos y las decisiones de diseño tomadas.<br>TB2: Para este avance del trabajo, me comuniqué con el grupo sobre algunas dudas y algunas sugerencias de cambio sobre el trabajo como lo es el diagrama de clases y sus relaciones. Además se realizó un avance sobre el Bounded Context de Data Collection en lo que respecta al backend.<br><br>Montoya Torres, Alexander Gabriel<br>TB1: Durante la fase inicial de este proyecto hemos mantenido una buena comunicación con el equipo, de manera que logramos determinar un plan para llevar a cabo los avances pertinentes del proyecto y reforzar nuestro trabajo colaborativo. Sumado a esto, logre aportar con varios puntos del trabajo, desde entrevistas, parte del needfinding cómo la definición de funcionalidades de la plataforma.<br>TP1: Durante el TP1 desarrollé el Bounded Context Auto Repair Registration, enfocándome en las funcionalidades de registro y gestión de talleres automotrices. Coordiné efectivamente con los demás integrantes para asegurar la coherencia en la implementación y comunicé los avances técnicos durante las reuniones de equipo.<br><br>Navarro Chang, Alicia Avril<br>TB1: Trabajé en conjunto con mis compañeros de equipo para poder plasmar el concepto de nuestro proyecto, además de estar al mismo tiempo comunicando ideas y/u opiniones que puedan ayudar al desarrollo del trabajo.<br>TP1: Para esta entrega trabajé en el desarrollo del Bounded Context Auto Repair Catalog, implementando las funcionalidades relacionadas con la gestión del catálogo de servicios de reparación. Mantuve comunicación constante con el equipo para alinear los requerimientos funcionales y técnicos del sistema.<br><br>Julca Cruz, Renso Anthony<br>TP1: En esta entrega me encargué del desarrollo del Bounded Context Vehicle Diagnosis, implementando las funcionalidades para el diagnóstico y evaluación de vehículos. Mantuve comunicación efectiva con el equipo técnico para asegurar la integración correcta con los demás componentes del sistema.TB2: En esta entrega tuve una colaboración continua con respecto en la parte del backend, principalmente en el Bounded Context Vehicle Diagnosis, como parte del equipo, tuve una comunicación en conjunto para realizar las tareas correspondientes.<br><br>| TB1: Las presentaciones orales realizadas en esta entrega evidenciaron que el equipo logró transmitir con claridad los objetivos, avances y funcionalidades del proyecto a diferentes audiencias, adaptando el lenguaje y la profundidad de la explicación según el contexto. Esto permitió asegurar la alineación interna del equipo y generar confianza al comunicar resultados a públicos académicos y técnicos.<br><br>TP1: Durante esta entrega, el equipo demostró habilidades de comunicación oral efectiva a través de las presentaciones técnicas de los bounded contexts desarrollados. Cada integrante logró explicar claramente la arquitectura, funcionalidades y decisiones de diseño de su componente específico, adaptando el lenguaje técnico según la audiencia y facilitando la comprensión de conceptos complejos del dominio automotriz.   |
+| Comunica por escrito con efectividad a diferentes rangos de audiencia | Jiménez Guerra, Gianmarco Fabian<br>TB1: Para el desarrollo de mi parte del proyecto, pude redactar de manera adecuada lo que correspondía en mi parte del informe. Además, la comunicación que realicé con algunos segmentos objetivos inicialmente fue vía escrita. Finalmente, hubo coordinaciones con los demás integrantes por escrito.<br>TP1: Para el desarrollo de mi parte en esta entrega, bastaba principalmente con la codificación de mi BC y para ello tuve coordinaciones con los demás miembros del grupo de manera presencial, mediante llamadas y mensajes.<br>TB2: En este contexto, para poder implementar mi bounded context de manera correcta, pude comunicarme de manera asertiva mediante mensajes de texto con mi grupo de trabajo. Asimismo, redacté las pregutnas de las entrevistas de validación de manera escrita y considerando partes importantes a cuestionar sobre nuestro aplicativo y utilizando el vocabulario que pertenece al contexto de PrimeFix. Finalmente, realicé las coordinaciones con mi entrevistado mediante mensajes de texto.<br><br>Aróstegui Alzamora, Cesar Augusto<br>TB1: En el inicio de este proyecto desarrollé los avances del prototipo de la aplicación web y el diseño UX/UI, también completó el avance del Design-Level Event Storming para alinear vocabulario y flujos. También desarrollé la primera versión de la Landing Page.<br>TP1: Durante esta entrega documenté de manera detallada la arquitectura e implementación de los Bounded Contexts IAM y Maintenance Status Tracking. Redacté especificaciones técnicas claras, diagramas de clases y documentación de APIs que facilitaron la comprensión e integración por parte del equipo. También mantuve comunicación escrita efectiva mediante comentarios de código y documentación técnica.<br><br>Tenorio Medina, Piero Francesco<br>TB1: Dentro de esta parte del trabajo, he desarrollado y planteado ideas que sean de acordes a los distintos segmentos objetivos. Estas ideas se basan en la experiencia y el malestar de cada uno de los usuarios, como por ejemplo: el planteamiento de facilidades al usuario a la hora de utilizar la plataforma, brindandole distintas herramientas que mejoren su experiencia a la hora de utilizar nuestro Servicio.<br>TP1: En esta entrega redacté la documentación técnica completa del Bounded Context Data Collection, incluyendo especificaciones funcionales, diagramas de arquitectura y guías de implementación. Mantuve comunicación escrita efectiva con el equipo a través de commits detallados, pull requests descriptivos y documentación de código que facilitó la colaboración técnica.<br>TB2: Para este entrega pude realizar mi Bounded Contex de manera correcta, gracias a la comunicación que tuve con los distintos integrantes del grupo sobre posibles sugerencias de mejora. En esta entrega realicé ajustes sobre el diagrama de clases establecido anteriormente,haciendolo mucho más compacto para poder suplir nuestras necesidades en el trabajo.<br><br>Montoya Torres, Alexander Gabriel<br>TB1: En esta fase inicial, he definido la problematica principal que nuestro proyecto busca resolver, de manera que podamos empezar desde una base analitica con respecto a las dolencias del mercado y de esa forma definir nuestros segmentos objetivos y llevar a cabo el Needfinding. Sumado a esto, se ha mantenido una comunicación asertiva con todos los integrantes del equipo, mateniendo una eficiencia colaborativa mediante la comunicación.<br>TP1: Durante esta entrega elaboré documentación técnica detallada del Bounded Context Auto Repair Registration, redactando especificaciones funcionales, guías de implementación y documentación de APIs. Mantuve comunicación escrita efectiva mediante documentación de código, especificaciones técnicas y coordinación asíncrona con los demás bounded contexts.<br><br>Navarro Chang, Alicia Avril<br>TB1: En esta entregá realicé varios artefactos lean ux que buscan comunicar ideas y planificar en base a la experiencia del usuario. Además también desarrollé la parte de needfindg (user personas, impact mapping , user stories) , que nos ayudan a estar en sintonía con la perspectiva del usuario y poder plasmarla de acuerdo a nuestro proyecto.<br>TP1: Para el TP1 desarrollé documentación técnica comprehensiva del Bounded Context Auto Repair Catalog, incluyendo especificaciones de servicios, modelos de datos y documentación de APIs. Comuniqué efectivamente por escrito los requisitos técnicos y decisiones de diseño mediante documentos estructurados y comunicación asíncrona con el equipo.<br><br>Julca Cruz, Renso Anthony<br>TP1: En el TP1 redacté documentación técnica completa del Bounded Context Vehicle Diagnosis, incluyendo especificaciones de algoritmos de diagnóstico, modelos de datos y documentación de servicios. Comuniqué efectivamente por escrito las decisiones técnicas y arquitecturales mediante documentación estructurada y clara para el equipo de desarrollo. TB2: En el TB2 redacté documentación técnica completa del Bounded Context Vehicle Diagnosis y desarrollo de la parte backend marcando los ednpoints correspondientes, tambien colabore con las correciones del informe de manera colaborativa. | TB1: La comunicación escrita reflejada en informes, artefactos y coordinaciones internas permitió transmitir de manera precisa los objetivos y avances del proyecto. Se lograron redactar documentos claros, estructurados y adaptados a diferentes audiencias, lo cual facilitó tanto la colaboración dentro del equipo como la presentación de resultados a evaluadores externos.<br><br>TP1: La comunicación escrita durante esta entrega se caracterizó por la producción de documentación técnica de alta calidad para cada bounded context. El equipo demostró capacidad para redactar especificaciones técnicas precisas, documentación de APIs comprehensiva y guías de implementación claras, facilitando la colaboración asíncrona y asegurando la comprensión de la arquitectura del sistema por parte de diferentes audiencias técnicas.   |
 
 ---
 
@@ -907,7 +924,7 @@ Cada User Story incluye criterios de aceptación detallados escritos en formato 
 
 ## 3.2. Impact Mapping
 
-<img src="Assets/chapter-1/impact-mapping-up.png">
+<img src="Assets/chapter-1/impact-map-up.png">
 
 ## 3.3. Product Backlog
 
@@ -971,13 +988,15 @@ En esta sección se presenta el Product Backlog de Prime-Fix, organizado según 
 | US-35        | Selección del distrito de residencia             | Como dueño de vehículo, quiero seleccionar el distrito en donde me encuentro, para garantizar encontrar talleres cercanos a mi ubicación.                                                                                        | 5            |
 | US-36        | Restauración de contraseña                       | Como usuario, quiero recuperar mi clave para poder acceder si la olvido.                                                                                                                                                         | 3            |
 | US-37        | Registro de cuenta con campos comprensibles      | Como usuario, quiero que los campos del registro de cuenta sean entendibles para inscribirme correctamente.                                                                                                                      | 5            |
-| US-38        | Visualización de planes de pago                  | Como usuario, quiero visualizar los diferentes planes de pago con precios y funcionalidades, para entender beneficios y limitaciones de cada plan.                                                                                | 8            |
-                                                                         
+| US-38        | Visualización de planes de pago                  | Como usuario, quiero visualizar los diferentes planes de pago con precios y funcionalidades, para entender beneficios y limitaciones de cada plan.                                                                                  | 8            |
 
----
+Captura de pantalla del Product Backlog en Trello:
+
 <img src="Assets/Trello/Product-Backlog.png" width="480" height="720">
 
 Link de Trello: [https://trello.com/invite/b/68e553625941b3277a631f79/ATTIbdc7ed65f50e7fba04796f3c4c17e9660F991CC5/prime-fix](https://trello.com/invite/b/68e553625941b3277a631f79/ATTIbdc7ed65f50e7fba04796f3c4c17e9660F991CC5/prime-fix)
+
+---
 
 # Capítulo IV: Product Design
 ## 4.1. Style Guidelines
@@ -1165,7 +1184,7 @@ En este apartado se presentarán los Wireframes más relevantes del proyecto
 
 <hr>
 
-**Búsqueda da taller y programación de visita**
+**Búsqueda de taller y programación de visita**
 
 <img src="Assets/Wireframes/buscar_taller_dueño1.png">
 <img src="Assets/Wireframes/buscar_taller_dueño2.png">
@@ -1577,11 +1596,14 @@ Para la creación de nuestro Frontend Web Aplication, utilizamos Angular, HTML, 
 
 Para la creación de nuestro RESTful Web Services, utilizamos Spring Boot con Java. Spring Boot nos permitió desarrollar servicios robustos y escalables de manera rápida, gracias a su configuración automática y su amplia gama de herramientas integradas. Además, Java es un lenguaje ampliamente utilizado en el desarrollo backend, lo que nos brindó acceso a una gran cantidad de bibliotecas y recursos.
 
-#### **Frontend Development**
+#### **Landing Page Development**
 Para la creación de la landing page utilizamos principalmente Astro, combinado con **HTML** y **CSS** para construir una página rápida, limpia y bien estructurada. Esta elección nos permitió tener control total sobre el diseño y la organización del código, sin depender demasiado de frameworks externos. <br>
 
 Para el control de versiones y colaboración, utilizamos Git junto con GitHub, lo cual nos facilitó mantener un historial de cambios claro, compartir el código con el equipo y llevar un buen manejo de ramas y solicitudes de incorporación. También utlizamos Git Flow como una estrategia de ramificación para gestionar el desarrollo de manera organizada, permitiendo trabajar en nuevas funcionalidades, correcciones y lanzamientos de forma paralela sin afectar la rama principal. 
 
+Como entorno de desarrollo, trabajamos con **Visual Studio Code**, que nos brindó funciones útiles como resaltado de sintaxis, autocompletado y un terminal integrado para ejecutar comandos y manejar herramientas adicionales. <br>
+
+Ruta de referencia: <br>
 - Link oficial de Github: [https://github.com](https://github.com)
 - Link oficial de Angular: [https://angular.io/](https://angular.io/)
 - Link oficial de Tailwind CSS: [https://tailwindcss.com/](https://tailwindcss.com/)
@@ -1593,23 +1615,38 @@ Para el control de versiones y colaboración, utilizamos Git junto con GitHub, l
 - Link oficial de Spring Boot: [https://spring.io/projects/spring-boot](https://spring.io/projects/spring-boot)
 - Link oficial de Visual Studio Code: [https://code.visualstudio.com/](https://code.visualstudio.com/)
 
+
+#### **Frontend Web Applications Development**
+
+Para la creación de nuestro Frontend Web Aplication, utilizamos Angular, HTML, CSS y TypeScript. Angular nos proporcionó una estructura sólida para desarrollar aplicaciones web escalables y mantenibles, mientras que TypeScript añadió tipado estático, lo que ayudó a detectar errores en tiempo de desarrollo y mejorar la calidad del código. <br>
+
+Para el control de versiones y colaboración, utilizamos Git junto con GitHub, lo cual nos facilitó mantener un historial de cambios claro, compartir el código con el equipo y llevar un buen manejo de ramas y solicitudes de incorporación. También utlizamos Git Flow como una estrategia de ramificación para gestionar el desarrollo de manera organizada, permitiendo trabajar en nuevas funcionalidades, correcciones y lanzamientos de forma paralela sin afectar la rama principal.
+
+Como entorno de desarrollo, trabajamos con **IntelliJ IDEA**, que nos brindó funciones útiles como resaltado de sintaxis, autocompletado y un terminal integrado para ejecutar comandos y manejar herramientas adicionales. <br>
+
 Ruta de referencia: <br>
-**Astro** - [Ruta](https://astro.build/) <br>
-**HTML** - [Ruta](https://developer.mozilla.org/es/docs/Web/HTML) <br>
-**CSS** - [Ruta](https://developer.mozilla.org/es/docs/Web/CSS) <br>
+- Link oficial de Github: [https://github.com](https://github.com)
+- Link oficial de Angular: [https://angular.io/](https://angular.io/)
+- Link oficial de la documentación de Mozilla para HTML: [https://developer.mozilla.org/es/docs/Web/HTML](https://developer.mozilla.org/es/docs/Web/HTML)
+- Link oficial de la documentación de Mozilla para CSS: [https://developer.mozilla.org/es/docs/Web/CSS](https://developer.mozilla.org/es/docs/Web/CSS)
+- Link oficial de la documentación de Mozilla para TypeScript: [https://www.typescriptlang.org/docs/](https://www.typescriptlang.org/docs/)
+- Link oficial de IntelliJ IDEA: [https://www.jetbrains.com/idea/](https://www.jetbrains.com/idea/)
 
-#### **Software Development**
+#### **Backend Development**
 
-Como entorno de desarrollo, trabajamos con **Visual Studio Code**, que nos brindó funciones útiles como resaltado de sintaxis, autocompletado y un terminal integrado para ejecutar comandos y manejar herramientas adicionales. <br>
+Para la creación de nuestro RESTful Web Services, utilizamos Spring Boot con Java. Spring Boot nos permitió desarrollar servicios robustos y escalables de manera rápida, gracias a su configuración automática y su amplia gama de herramientas integradas. Además, Java es un lenguaje ampliamente utilizado en el desarrollo backend, lo que nos brindó acceso a una gran cantidad de bibliotecas y recursos. <br>
+
+Para el control de versiones y colaboración, utilizamos Git junto con GitHub, lo cual nos facilitó mantener un historial de cambios claro, compartir el código con el equipo y llevar un buen manejo de ramas y solicitudes de incorporación. También utlizamos Git Flow como una estrategia de ramificación para gestionar el desarrollo de manera organizada, permitiendo trabajar en nuevas funcionalidades, correcciones y lanzamientos de forma paralela sin afectar la rama principal.
+
+Como entorno de desarrollo, trabajamos con **IntelliJ IDEA**, que nos brindó funciones útiles como resaltado de sintaxis, autocompletado y un terminal integrado para ejecutar comandos y manejar herramientas adicionales. <br>
 
 Ruta de referencia: <br>
-**Visual Studio Code** - [Ruta](https://code.visualstudio.com/)
+- Link oficial de Github: [https://github.com](https://github.com)
+- Link oficial de la documentación de Oracle para Java: [https://docs.oracle.com/en/java/](https://docs.oracle.com/en/java/)
+- Link Oficial de la documentación de Spring Boot: [https://spring.io/projects/spring-boot](https://spring.io/projects/spring-boot)
+- Link oficial de Spring Boot: [https://spring.io/projects/spring-boot](https://spring.io/projects/spring-boot)
+- Link oficial de IntelliJ IDEA: [https://www.jetbrains.com/idea/](https://www.jetbrains.com/idea/)
 
-Para el control de versiones y colaboración, utilizamos **Git** junto con **GitHub**, lo cual nos facilitó mantener un historial de cambios claro, compartir el código con el equipo y llevar un buen manejo de ramas y solicitudes de incorporación.
-
-Ruta de Referencia: <br> 
-**Git** - [Enlace](https://git-scm.com/) <br>
-**GitHub** - [Enlace](https://github.com/) <br>
 
 #### **Diseño UX/UI de Producto**
 
@@ -1633,13 +1670,13 @@ A continuación, se muestran las convenciones para los nombres de las ramas feat
 Aquí se encuentran los repositorios de GitHub utilizados para el desarrollo del proyecto Prime Fix:
 
 #### Repositorio de github - Landing Page de Prime Fix
-=======
+
+
 **Repositorios de GitHub:**
 
 Organización de GitHub: https://github.com/prime-fix
 
 Landing Page de Prime Fix:
->>>>>>> 36e357d (docs: Implement the fixes)
 <img src="Assets/chapter-1/captura-repositorio-landingpage.png" alt="">
 
 URL: [https://github.com/prime-fix/landing-page](https://github.com/prime-fix/landing-page)
@@ -1653,11 +1690,6 @@ URL: [https://github.com/prime-fix/frontend](https://github.com/prime-fix/fronte
 <img src="Assets/chapter-1/captura-repositorio-backend.png" alt="">
 
 URL: [https://github.com/prime-fix/backend](https://github.com/prime-fix/backend)
-
-
-Fronted Web Applications: https://github.com/prime-fix/frontend
-
-Web Services: https://github.com/prime-fix/backend
 
 **Flujo de trabajo GitFlow:**
 
@@ -1719,12 +1751,12 @@ En esta sección se detallan las convenciones de estilo y buenas prácticas que 
 | **Java** | Lenguaje principal. Usar sintaxis moderna (Java 17+), convenciones de nomenclatura estándar de Oracle, y programación orientada a objetos junto con patrones modernos (Streams, Optional, records, etc.). | - Mantener el código limpio y bien estructurado.<br>- Usar comentarios para explicar la lógica compleja.<br>- Seguir las convenciones de nomenclatura de Oracle. |
 | **Spring Boot** | Framework principal para el backend. Uso de **arquitectura en capas** (API, Application, Domain, Infrastructure). Enfoque en modularidad, mantenibilidad y soporte multiplataforma. | - Seguir las mejores prácticas de diseño de API REST.<br>- Utilizar anotaciones de validación para entradas de usuario.<br>- Implementar manejo de errores y excepciones de manera consistente. |
 | **Maven** | Herramienta de gestión y construcción del proyecto. Uso de un `pom.xml` bien estructurado para gestionar dependencias, plugins y perfiles de construcción. | - Mantener una estructura de proyecto coherente y organizada.<br>- Utilizar versiones específicas de dependencias para evitar conflictos.<br>- Documentar la configuración del `pom.xml` para facilitar su comprensión. |
-| **JUnit / Mockito** | Frameworks para pruebas unitarias y de integración. Enfoque en pruebas automatizadas, cobertura de código y pruebas basadas en comportamiento (BDD). | - Escribir pruebas claras y concisas.<br>- Utilizar mocks y stubs para aislar dependencias.<br>- Mantener una alta cobertura de pruebas. |
-| **Swagger / Swashbuckle** | Generación automática de documentación de la API REST. Versionado claro (`/api/v1`, `/api/v2`) y contratos visibles para clientes externos. | - Incluir ejemplos de solicitudes y respuestas en la documentación.<br>- Mantener la documentación actualizada con los cambios en la API.<br>- Utilizar herramientas de generación de documentación para automatizar el proceso. |
+| **JPA/Hibernate** | Framework de mapeo objeto-relacional. Uso de anotaciones para definir entidades, relaciones y consultas. Enfoque en la eficiencia y optimización de acceso a datos. | - Definir entidades claras y bien estructuradas.<br>- Utilizar consultas JPQL o Criteria API para operaciones complejas.<br>- Implementar estrategias de caché para mejorar el rendimiento. |
+| **Swagger** | Generación automática de documentación de la API REST. Versionado claro (`/api/v1`, `/api/v2`) y contratos visibles para clientes externos. | - Incluir ejemplos de solicitudes y respuestas en la documentación.<br>- Mantener la documentación actualizada con los cambios en la API.<br>- Utilizar herramientas de generación de documentación para automatizar el proceso. |
 
 ### 5.1.4. Software Deployment Configuration
 
-En esta sección se documenta el proceso de despliegue de la Landing Page y la Frontend Web Application utilizando GitHub y Vercel como plataforma de hosting.
+En esta sección se documenta el proceso de despliegue de la Landing Page y la Frontend Web Application utilizando GitHub y Vercel como plataforma de hosting. Por otra parte se va desplegar el RESTful Web Services utilizando Amazon Web Services (AWS) como platforma de infraestructura en la nube.
 
 ### **Despliegue de la Landing Page**
 
@@ -1809,14 +1841,94 @@ Creamos una cuenta en GitHub para poder gestionar los repositorios del proyecto 
 
 <img src="Assets/evidences/vercel_frontend_evidence2.png">
 
-
-
 **6. Verificación del sitio web**
 En pocos minutos, Vercel genera la URL pública del proyecto:
 [https://frontend-dusky-rho-85.vercel.app/](https://frontend-dusky-rho-85.vercel.app)
 Accedemos a esta dirección desde el navegador para confirmar que el sitio está activo y funcionando correctamente.
 
 <img src="Assets/evidences/vercel_frontend_deployment_evidence.png">
+
+### **Despliegue del RESTful Web Services**
+
+Para que nuestro RESTful Web Services esté disponible para todos nuestros usuarios, lo desplegamos utilizando Amazon Web Services (AWS) como plataforma de infraestructura en la nube. El proceso se llevó a cabo de la siguiente manera:
+
+Como arquitectura general, el flujo de integración y despliegue continuo se compone de:
+
+**1. Registro en GitHub**
+
+Creamos una cuenta en GitHub para poder gestionar los repositorios del proyecto y almacenar el código del RESTful Web Services de **Prime-Fix**.
+
+- Creamos un repositorio llamado **backend** dentro de nuestra organización **prime-fix**.
+
+<img src="Assets/Backend/github_backend_evidence.png">
+
+
+**2. Base datos en Amazon RDS**
+
+- Creamos una instancia de base de datos en Amazon RDS para almacenar los datos de la aplicación.
+- Configuramos los parámetros de la base de datos, incluyendo el motor (MySQL, PostgreSQL, etc.), tamaño, y credenciales de acceso.
+- Creamos la instancia **prime-fix-db** y lo colocamos en la región de **us-east-2**.
+- Colocamos un VPC compartido con el futuro despliegue del backen en App Runner.
+
+<img src="Assets/Backend/aws_rds_evidence.png">
+
+<img src="Assets/Backend/aws_rds_evidence2.png">
+
+<img src="Assets/Backend/aws_rds_evidence3.png">
+
+**3. Build en AWS CodeBuild**
+
+- Configuramos un proyecto en AWS CodeBuild para compilar el código del backend.
+- Construye la imagen Docker utilizando un archivo `Dockerfile` que define el entorno de ejecución.
+- Con todos estos archivos podemos compilar el proyecto de Java v.25 y Spring Boot v.3.5.7
+- Sube la imagen a Amazon ECR (Elastic Container Registry) para su posterior despliegue.
+
+<img src="Assets/Backend/aws_codebuild_evidence.png">
+
+<img src="Assets/Backend/aws_codebuild_evidence2.png">
+
+**4. Subir la imagen a AWS ECR**
+
+- Creamos un repositorio en Amazon ECR para almacenar las imágenes Docker del backend.
+- Configuramos las políticas de acceso para permitir que AWS CodeBuild pueda subir imágenes al repositorio.
+- Subimos la imagen Docker generada por CodeBuild al repositorio de ECR.
+
+<img src="Assets/Backend/aws_ecr_evidence.png">
+
+<img src="Assets/Backend/aws_ecr_evidence2.png">
+
+**5. Automatizar despliegue con AWS CodePipeline**
+
+- Configuramos un pipeline de CI/CD utilizando AWS CodePipeline para automatizar el proceso de construcción, prueba y despliegue del backend.
+- Solo se activa el pipeline cuando se hacen cambios en la rama `master` del repositorio de GitHub.
+- Commits en `devevelop` no generan despliegue automático.
+- Automatizará para que se haga un despliegue en AWS CodeBuild.
+
+<img src="Assets/Backend/aws_codepipeline_evidence.png">
+
+<img src="Assets/Backend/aws_codepipeline_evidence2.png">
+
+<img src="Assets/Backend/aws_codepipeline_evidence3.png">
+
+<img src="Assets/Backend/aws_codepipeline_evidence4.png">
+
+
+**6. Despliegue en AWS App Runner**
+
+- Configuramos un servicio en AWS App Runner para desplegar la imagen Docker del backend.
+- Configuramos las variables de entorno necesarias para la conexión con la base de datos y otros servicios.
+- Definimos la configuración de escalado automático para manejar la carga de tráfico.
+- Finalmente, iniciamos el servicio para que el backend esté disponible públicamente.
+
+<img src="Assets/Backend/aws_apprunner_evidence.png">
+
+<img src="Assets/Backend/aws_apprunner_evidence2.png">
+
+**7. Verificación del servicio web**
+
+- Accedemos a la URL proporcionada por AWS App Runner para confirmar que el servicio web está activo y funcionando correctamente.
+
+<img src="Assets/Backend/aws_backend_deployed.png">
 
 ---
 
@@ -1829,6 +1941,8 @@ Cada Sprint se registra con detalle en términos de producto, trabajo colaborati
 - **Sprint Backlog**: Lista detallada de historias de usuario y tareas asignadas, junto con su estado actual.
 
 ### 5.2.1. Sprint 1
+
+A continuación, se presenta la documentación del Sprint 1, que abarca la implementación de la Landing Page de Prime-Fix. Se introduce la planificación del sprint, la matriz de liderazgo y colaboración, y el backlog del sprint. Junto con las evidencias correspondientes. 
 
 #### 5.2.1.1. Sprint Planning 1
 
@@ -1875,11 +1989,6 @@ Se indican los aspectos principales considerados en el Sprint, especificando qui
 El Sprint Backlog 1 se centra en implementar las primeras funcionalidades de la solución, asegurando la construcción inicial de la **Landing Page**.
 A continuación, se detallan las **User Stories** y las **Tareas** asignadas a cada miembro del equipo, junto con su estado actual.
 
-Sprint de PrimeFix:
-<img src="Assets/Trello/Sprint 1.PNG">
-
-[https://trello.com/invite/b/68e553625941b3277a631f79/ATTIbdc7ed65f50e7fba04796f3c4c17e9660F991CC5/prime-fix](https://trello.com/invite/b/68e553625941b3277a631f79/ATTIbdc7ed65f50e7fba04796f3c4c17e9660F991CC5/prime-fix)
-
 | **Sprint #** | Sprint 1 |
 |--------------|----------|
 
@@ -1907,6 +2016,11 @@ Sprint de PrimeFix:
 | US-11             | Botón de cambio de idioma (ES/EN)           | T-07        | Configuración de archivos i18n       | Crear y organizar archivos de traducción para ES y EN            | 3                     | Gianmarco       | Done       |
 | US-12            | Botón de cambio de tema    | T-09        | Implementar switch de tema           | Desarrollar botón que permita cambiar entre modo claro y oscuro  | 3                    | Alicia           | Done       |
 | US-12             | Botón de cambio de tema    | T-10        | Configuración de estilos en Tailwind | Definir variables y clases para ambos temas en Tailwind          | 3                     | Alexander           | Done       |
+
+Captura en Trello del Sprint 1:
+<img src="Assets/Trello/Sprint_1.png">
+
+[https://trello.com/invite/b/68e553625941b3277a631f79/ATTIbdc7ed65f50e7fba04796f3c4c17e9660F991CC5/prime-fix](https://trello.com/invite/b/68e553625941b3277a631f79/ATTIbdc7ed65f50e7fba04796f3c4c17e9660F991CC5/prime-fix)
 
 #### 5.2.1.4. Development Evidence for Sprint Review
 
@@ -2048,6 +2162,7 @@ El análisis de los commits muestra una distribución equilibrada del trabajo en
 
 Se documenta el proceso de implementación, pruebas, documentación y despliegue del segundo Sprint, enfocado en la construcción de la Frontend Web Application de Prime-Fix. Este sprint se centra en desarrollar las interfaces de usuario principales utilizando Angular y TypeScript, asegurando una experiencia fluida y atractiva para ambos segmentos objetivo: dueños de vehículos y talleres. 
 
+
 #### 5.2.2.1. Sprint Planning 2
 
 | **Sprint #** | Sprint 2 |
@@ -2088,7 +2203,7 @@ Para el Sprint 2, se han identificado cuatro aspectos fundamentales que abarcan 
 | Tenorio Medina, Piero Francesco          | PieroTM2005             | C                                | C                                 | C                                 | C                                    |
 | Navarro Chang, Alicia Avril              | Alice-keys             | C                                | C                                 | C                                 | C                                    |
 | Montoya Torres, Alexander Gabriel        | gabrielito4334             | C                                | C                                 | C                                 | C                                    |
-| Julca Cruz, Renso Anthony                | rensojulcacruz             | C                                | C                                 | C                                 | C                                    |
+| Julca Cruz, Renso Anthony                | rajc02             | C                                | C                                 | C                                 | C                                    |
 
 #### 5.2.2.3. Sprint Backlog 2
 
@@ -2131,6 +2246,11 @@ El Sprint Backlog 2 se centra en la implementación completa de la Frontend Web 
 | US-07      | Call-to-action prominente                        | T-30        | Integrar enlace desde Landing Page   | Agregar enlaces desde Landing Page hacia la aplicación web                      | 3                     | Gianmarco       | Done      |
 | US-07      | Call-to-action prominente                        | T-31        | Optimizar conversión de usuarios     | Implementar tracking y análisis de conversión desde landing page               | 4                     | Gianmarco       | Done      |
 
+Captura en Trello del Sprint 2:
+<img src="Assets/Trello/Sprint_2.png">
+
+[https://trello.com/invite/b/68e553625941b3277a631f79/ATTIbdc7ed65f50e7fba04796f3c4c17e9660F991CC5/prime-fix](https://trello.com/invite/b/68e553625941b3277a631f79/ATTIbdc7ed65f50e7fba04796f3c4c17e9660F991CC5/prime-fix)
+
 #### 5.2.2.4. Development Evidence for Sprint Review
 
 En esta sección se presenta la evidencia detallada del desarrollo alcanzado durante el Sprint 2, enfocado en la implementación de la Frontend Web Application de Prime-Fix utilizando Angular y TypeScript. Durante este segundo sprint, el equipo de FixTech se concentró en desarrollar las interfaces de usuario principales que conectarán a los dos segmentos objetivo con las funcionalidades core de la plataforma.
@@ -2143,28 +2263,30 @@ El trabajo de desarrollo se organizó siguiendo las mejores prácticas de desarr
 
 Se estableció la integración completa con la Landing Page existente, agregando enlaces directos que permiten a los usuarios navegar fluidamente desde la página de presentación hacia la aplicación web funcional. La configuración incluye internacionalización (i18n), cambio de tema dinámico y optimización de rendimiento con lazy loading.
 
-Funcionalidades principales desarrolladas:
-- **Autenticación y Registro**: Sistema completo de login, registro y gestión de sesiones de usuario
-- **Gestión de Perfil**: Interfaces para visualizar y editar información personal de usuarios
-- **Búsqueda de Talleres**: Sistema avanzado de búsqueda con filtros y visualización de resultados
-- **Gestión de Vehículos**: CRUD completo para registro y administración de vehículos del usuario
-- **Sistema de Citas**: Calendario interactivo para programación de servicios de mantenimiento
-- **Panel de Seguimiento**: Dashboard para monitorear el estado y progreso de servicios activos
-- **Gestión de Talleres**: Interfaz administrativa para que talleres gestionen sus servicios y solicitudes
+**Principales funcionalidades implementadas:**
+- Sistema de autenticación completo (login, registro, gestión de sesiones)
+- Gestión de perfiles de usuario con edición y validaciones
+- Gestión de vehículos con CRUD completo
+- Programación de citas con calendario interactivo
+- Integración con la Landing Page
 
 | **Repository** | **Branch** | **Commit Id** | **Commit Message** | **Commit Message Body** | **Committed on (Date)** |
 |----------------|------------|---------------|--------------------|-----------------------|-------------------------|
-| [frontend](https://github.com/prime-fix/frontend) | feature/authentication | [commit_id] | feat(auth): implement login and registration pages | Added complete authentication system with login/register forms, validation and user session management | 07/10/2025 |
-| [frontend](https://github.com/prime-fix/frontend) | feature/user-profile | [commit_id] | feat(profile): implement user profile management | Developed user profile component with edit capabilities and form validations | 07/10/2025 |
-| [frontend](https://github.com/prime-fix/frontend) | feature/workshop-search | [commit_id] | feat(search): implement workshop search and filtering | Created advanced search functionality with multiple filters and results display | 07/10/2025 |
-| [frontend](https://github.com/prime-fix/frontend) | feature/vehicle-management | [commit_id] | feat(vehicles): implement vehicle CRUD operations | Added complete vehicle management system with registration and selection capabilities | 07/10/2025 |
-| [frontend](https://github.com/prime-fix/frontend) | feature/appointment-system | [commit_id] | feat(appointments): implement appointment scheduling | Developed interactive calendar component for service appointment booking | 07/10/2025 |
-| [frontend](https://github.com/prime-fix/frontend) | feature/tracking-dashboard | [commit_id] | feat(tracking): implement service tracking dashboard | Created comprehensive dashboard for monitoring service status and progress | 07/10/2025 |
-| [frontend](https://github.com/prime-fix/frontend) | feature/workshop-management | [commit_id] | feat(workshops): implement workshop admin panel | Added workshop management interface for service providers and request handling | 07/10/2025 |
-| [frontend](https://github.com/prime-fix/frontend) | feature/navigation-routing | [commit_id] | feat(nav): implement navigation system and routing | Configured complete navigation system with guards, lazy loading and route protection | 07/10/2025 |
-| [frontend](https://github.com/prime-fix/frontend) | feature/internationalization | [commit_id] | feat(i18n): implement multilingual support | Added internationalization support for Spanish and English languages | 07/10/2025 |
-| [frontend](https://github.com/prime-fix/frontend) | feature/theme-system | [commit_id] | feat(theme): implement light/dark theme toggle | Developed dynamic theme switching system with user preference persistence | 07/10/2025 |
-| [landing-page](https://github.com/prime-fix/landing-page) | feature/app-integration | [commit_id] | feat(integration): add links to frontend application | Integrated call-to-action buttons linking to the main web application | 07/10/2025 |
+| [prime-fix/frontend](https://github.com/prime-fix/frontend) | feature/register-owner | 06d605d | feat: enhance owner registration flow | Enhance owner registration flow with new fields and payment integration  | 06/10/2025 |
+| [prime-fix/frontend](https://github.com/prime-fix/frontend) | feature/register-owner | 3cee878 | feat: implement layout and routing for owner and workshop components with authentication guard | Implement layout and routing for owner and workshop components with authentication guard | 05/10/2025 |
+| [prime-fix/frontend](https://github.com/prime-fix/frontend) | feature/maintenance-tracking| 0c6f309 | feat: implement maintenance tracking feature with vehicle selection and progress display | Implement maintenance tracking feature with vehicle selection and progress display | 07/10/2025 |
+| [prime-fix/frontend](https://github.com/prime-fix/frontend) | feature/maintenance-tracking | 423ac86 | feat: add notification view with loading and error states, and integrate notifications into the sidebar | Add notification view with loading and error states, and integrate notifications into the sidebar | 07/10/2025 |
+| [prime-fix/frontend](https://github.com/prime-fix/frontend) | feature/autorepair-registration | cb5a5f0 | feat: complete integration of AutoRepairRegister form with store and routing | Complete integration of AutoRepairRegister form with store and routing | 07/10/2025 |
+| [prime-fix/frontend](https://github.com/prime-fix/frontend) | feature/autorepair-registration | 5caa62f | feat: add technician list and API endpoint integration for auto repair module | Add technician list and API endpoint integration for auto repair module | 07/10/2025 |
+| [prime-fix/frontend](https://github.com/prime-fix/frontend) | feature/workshop-catalog | 5caa62f | feat: add technician list and API endpoint integration for auto repair module | Add technician list and API endpoint integration for auto repair module | 07/10/2025 |
+| [prime-fix/frontend](https://github.com/prime-fix/frontend) | feature/data-collection | 62b13e2 | feat: add Data Collection BC files | Add Data Collection BC files | 06/10/2025 |
+| [prime-fix/frontend](https://github.com/prime-fix/frontend) | feature/data-collection | af6605f | feat: add options for visits | Add options for visits | 06/10/2025 |
+| [prime-fix/frontend](https://github.com/prime-fix/frontend) | feature/vehicle-maintenance-status | 21e6626 | feat: new section for Status and Diagnosis Vehicles | Add new section for Status and Diagnosis Vehicles | 05/10/2025 |
+| [prime-fix/frontend](https://github.com/prime-fix/frontend) | feature/vehicle-maintenance-status | d7842b9 | feat: Add Read Update for Diagnosis | Add Read Update for Diagnosis | 06/10/2025 |
+| [prime-fix/frontend](https://github.com/prime-fix/frontend) | feature/payment-service | 72949c5 | feat: integration of BC payment-service | Integration of BC payment-service | 06/10/2025 |
+| [prime-fix/frontend](https://github.com/prime-fix/frontend) | feature/payment-service | 3a5dca2 | feat: add views lists | Add views lists | 06/10/2025 |
+| [prime-fix/landing-page](https://github.com/prime-fix/landing-page) | development | dffb1b2 | feat: Update links to point to the new application URL and enhance theme styles | Update links to point to the new application URL and enhance theme styles | 07/10/2025 |
+
 
 #### 5.2.2.5. Execution Evidence for Sprint Review
 
@@ -2172,7 +2294,7 @@ Durante el Sprint 2, se logró la implementación exitosa y el despliegue de la 
 
 **Principales logros del Sprint 2:**
 
-1. **Aplicación Web Completa**: Se desarrolló una aplicación Angular funcional con todas las páginas y componentes necesarios para ambos tipos de usuarios (dueños de vehículos y talleres).
+1. **Aplicación Web Semi Completa**: Se desarrolló parcialmente la aplicación de Angular con las páginas y componentes necesarios para ambos tipos de usuarios (dueños de vehículos y talleres).
 
 2. **Experiencia de Usuario Optimizada**: Interfaces responsive y intuitivas que funcionan perfectamente en desktop, tablet y móvil con diseño consistente y accesible.
 
@@ -2185,31 +2307,44 @@ Durante el Sprint 2, se logró la implementación exitosa y el despliegue de la 
 **Funcionalidades implementadas y desplegadas:**
 
 - **Sistema de Autenticación**: Login, registro y gestión de sesiones con validaciones completas
-- **Gestión de Perfil**: Interfaces para visualizar y editar información personal y preferencias
-- **Búsqueda de Talleres**: Sistema avanzado con filtros por ubicación, servicios, calificaciones y disponibilidad
-- **Gestión de Vehículos**: CRUD completo para registro, edición y selección de vehículos
-- **Sistema de Citas**: Calendario interactivo con selección de fechas, horarios y servicios
-- **Dashboard de Seguimiento**: Monitoreo en tiempo real del estado y progreso de servicios
-- **Panel Administrativo**: Herramientas para talleres para gestionar solicitudes y servicios
+- **Gestión de Vehículos**: CRUD para registro, edición y selección de vehículos
+- **Vista de Seguimiento**: Monitoreo en tiempo real del estado y progreso de servicios
+- **Calificación de Servicio**: Visualización de reseñas y ratings de talleres
+- **Landing Page Actualizada**: Enlaces directos hacia la aplicación web desde la landing page
 
 **Screenshots de la aplicación en funcionamiento:**
 
-<img src="[image_path]">
-*Página principal de la aplicación web con navegación y funcionalidades principales*
+<img src="Assets/frontend/login_page.png">
 
-<img src="[image_path]">  
-*Sistema de búsqueda de talleres con filtros avanzados y resultados*
+Página de login para usuarios
 
-<img src="[image_path]">
-*Dashboard de seguimiento de servicios para usuarios*
+<img src="Assets/frontend/register_page.png">
 
-<img src="[image_path]">
-*Panel de gestión para talleres con solicitudes pendientes*
+Página de registro para nuevos usuarios
+
+<img src="Assets/frontend/main_page.png">
+
+Página principal de la aplicación web con navegación y funcionalidades principales
+
+<img src="Assets/frontend/vehicle_management.jpg">
+
+Página de gestión de vehículos
+
+<img src="Assets/frontend/tracking_view.png">
+
+Página de vista para ver detalles de estado de mantenimiento de un vehículo*
+
+<img src="Assets/frontend/appointment_scheduling.png">
+
+Panel de gestión para talleres con visitas programadas
+
+<img src="Assets/frontend/service_review.jpg">
+
+Página de calificación de servicios para usuarios
 
 **Enlaces de despliegue:**
-- Frontend Application: [frontend_url]
-- Landing Page: [landing_page_url]
-- Application Demo: [demo_url]
+- Frontend Application: [https://frontend-dusky-rho-85.vercel.app/](https://frontend-dusky-rho-85.vercel.app/)
+- Landing Page: [https://landing-page-pearl-kappa-37.vercel.app](https://landing-page-pearl-kappa-37.vercel.app)
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
@@ -2227,52 +2362,57 @@ La aplicación cuenta con documentación completa que incluye:
 
 **Módulos principales documentados:**
 
-1. **Authentication Module**
+1. **Authentication**
    - Componentes: Login, Register,
    - Funcionalidades: Login, registro, gestión de sesiones
 
-2. **User Management Module** 
+2. **User Management** 
    - Componentes: Profile, EditProfile, UserDashboard
    - Funcionalidades: Gestión de perfil, edición de datos, dashboard personal
 
-3. **Workshop Search Module**
+3. **Workshop Search**
    - Componentes: Search, Filter, WorkshopList
    - Funcionalidades: Búsqueda avanzada, filtros dinámicos, resultados paginados
 
-4. **Vehicle Management Module**
+4. **Vehicle Management**
    - Componentes: VehicleList, AddVehicle, VehicleDetail
    - Funcionalidades: CRUD de vehículos, selección, gestión de información técnica
 
-5. **Appointment System Module**
+5. **Appointment System**
    - Componentes: Calendar, AppointmentForm, TimeSlot
    - Funcionalidades: Calendario interactivo, reserva de citas, gestión de horarios
 
-6. **Tracking Dashboard Module**
+6. **Tracking Dashboard**
    - Componentes: Tracking State, Notification View, Progress Bar
    - Funcionalidades: Seguimiento en tiempo real, visualización de estados, notificaciones
 
 **Evidencia de documentación:**
 
-<img src="[frontend_docs_screenshot_1]">
-*Documentación de componentes principales de la aplicación*
+**Documentación de componentes principales de la aplicación**
 
-<img src="[frontend_docs_screenshot_2]">
-*Guía de estructura de módulos y servicios implementados*
+<img src="Assets/evidences/Documentation_Components.png">
 
-<img src="[frontend_docs_screenshot_3]">
-*Documentación de patrones de diseño y estilo aplicados*
+**Guía de estructura de módulos y servicios implementados**
 
-<img src="[frontend_docs_screenshot_4]">
-*Guías de navegación y configuración de routing*
+<img src="Assets/evidences/Documentation_Modules.png">
+
+**Documentación de patrones de diseño y estilo aplicados**
+<img src="Assets/evidences/Documentation_Patterns.png">
+
+**Guías de navegación y configuración de routing**
+<img src="Assets/evidences/Documentation_Routing.png">
+
 
 **URLs de documentación:**
-- Component Documentation: [components_docs_url]
-- Style Guide: [style_guide_url]  
-- Development Guide: [dev_guide_url]
+- Component Documentation: [https://github.com/prime-fix/docs/blob/main/Documentation-Frontend/Documentacion_Principal_Components.md](https://github.com/prime-fix/docs/blob/main/Documentation-Frontend/Documentacion_Principal_Components.md)
+- Module Documentation: [https://github.com/prime-fix/docs/blob/main/Documentation-Frontend/Documentacion_Modules.md](https://github.com/prime-fix/docs/blob/main/Documentation-Frontend/Documentacion_Modules.md)
+- Design Patterns: [https://github.com/prime-fix/docs/blob/main/Documentation-Frontend/Documentacion_Patterns.md](https://github.com/prime-fix/docs/blob/main/Documentation-Frontend/Documentacion_Patterns.md)
+- Routing Guide: [https://github.com/prime-fix/docs/blob/main/Documentation-Frontend/Documentacion_Routing.md](https://github.com/prime-fix/docs/blob/main/Documentation-Frontend/Documentacion_Routing.md)
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review
 
-Durante el Sprint 2, se estableció la infraestructura completa de despliegue para la Frontend Web Application de Prime-Fix, implementando un pipeline de CI/CD automatizado y configurando ambientes de desarrollo, staging y producción con integración completa a la Landing Page.
+Durante el Sprint 2, se implementó una estrategia de despliegue continuo para la Frontend Web Application de Prime-Fix. Esta estrategia garantiza que cada nueva funcionalidad desarrollada se despliegue automáticamente en un entorno de producción estable y accesible para los usuarios finales. También se va mostrar despliegues por cada bounded context
+
 
 **Infraestructura de despliegue implementada:**
 
@@ -2281,55 +2421,59 @@ Durante el Sprint 2, se estableció la infraestructura completa de despliegue pa
    - Implementación de GitFlow para gestión de ramas del frontend
    - Configuración de branch protection rules en main y develop
 
-2. **Pipeline CI/CD**
-   - GitHub Actions para automatización de build y deploy de Angular
-   - Pruebas automatizadas de componentes en cada pull request
-   - Build optimizado con Angular CLI y tree-shaking
-   - Despliegue automático a staging desde develop branch
-   - Deploy manual controlado a producción desde main branch
-
-3. **Plataforma de Hosting**
-   - Despliegue en Vercel para aplicación Angular
+2. **Plataforma de Hosting**
+   - Despliegue en Vercel, Firebase o Netlify para aplicación Angular
    - Configuración de variables de entorno para diferentes ambientes
    - SSL/TLS automático para conexiones seguras
    - CDN global para optimización de carga
    - Monitoreo de performance y analytics
 
-4. **Integración con Landing Page**
+3. **Integración con Landing Page**
    - Enlaces directos desde Landing Page hacia aplicación web
    - Configuración de rutas y redirecciones optimizadas
    - Consistencia visual entre Landing Page y aplicación
    - Tracking de conversión desde landing hacia app
 
-**Evidencia de despliegue:**
+#### **Evidencia de despliegues por Bounded Context:**
 
-<img src="[deployment_screenshot_1]">
-*Panel de control de la plataforma de hosting mostrando el estado del despliegue*
+**Evidencia de Auto Repair Registration Bounded Context:**
 
-<img src="[deployment_screenshot_2]">
-*Configuración de variables de entorno en el ambiente de producción*
+<img src="Assets/evidences/AutoRepairRegistration_Deploy.jpg">
 
-<img src="[deployment_screenshot_3]">
-*Logs del sistema mostrando el arranque exitoso de todos los bounded contexts*
+Link: [https://unrivaled-mooncake-5afe86.netlify.app/](https://unrivaled-mooncake-5afe86.netlify.app/)
 
-<img src="[deployment_screenshot_4]">
-*Health check endpoint confirmando el estado operativo de los servicios*
+**Evidencia de Auto Repair Catalog Bounded Context:**
 
-**URLs de los ambientes desplegados:**
+<img src="Assets/evidences/AutoRepairCatalog_Deploy.jpg">
 
-- **Producción**: [production_frontend_url]
-  - Landing Page: [production_landing_url]
-  - Application Demo: [production_demo_url]
+Link: [https://roaring-meringue-bf22bf.netlify.app/](https://roaring-meringue-bf22bf.netlify.app/)
 
-- **Staging**: [staging_frontend_url]  
-  - Landing Page: [staging_landing_url]
-  - Application Demo: [staging_demo_url]
+**Evidencia de Data Collection Bounded Context:**
 
-**Configuración de monitoreo:**
-- Analytics de usuario con Vercel Analytics
-- Métricas de performance y Web Vitals
-- Monitoreo de errores JavaScript en tiempo real
-- Dashboard de estadísticas de tráfico y conversión
+<img src="Assets/evidences/DataCollection_Deploy.jpg">
+
+Link: [https://datacollection-6296f.web.app](https://datacollection-6296f.web.app)
+
+
+**Evidencia de Diagnosis Vehicle Bounded Context:**
+
+<img src="Assets/evidences/DiagnosisVehicle_Deploy.jpg">
+
+Link: [https://meek-sfogliatella-22eaf3.netlify.app/vehicle-status](https://meek-sfogliatella-22eaf3.netlify.app/vehicle-status)
+
+
+**Evidencia de Maintenance Status Tracking Bounded Context:**
+
+<img src="Assets/evidences/vercel_frontend_deployment_evidence.png">
+
+Link : [https://frontend-dusky-rho-85.vercel.app/](https://frontend-dusky-rho-85.vercel.app/)
+
+**Evidencia de Payment Service Bounded Context:**
+
+<img src="Assets/evidences/PaymentService_Deploy.jpg">
+
+Link: [https://prime-fix-payment-service.web.app/](https://prime-fix-payment-service.web.app/)
+
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint
 
@@ -2345,45 +2489,391 @@ El trabajo se organizó de manera estratégica, asignando a cada miembro módulo
 - **Piero Francesco** desarrolló el sistema de reseñas y navegación principal, estableciendo la base de la experiencia de usuario
 - **Renso Anthony** implementó la gestión de vehículos e internacionalización, componentes técnicamente complejos
 
-**Metodología de colaboración:**
-
-El equipo adoptó prácticas ágiles adaptadas al desarrollo frontend:
-- **Daily standups virtuales** para sincronización de avances y resolución de impedimentos de UI/UX
-- **Component reviews obligatorios** en todos los pull requests para mantener consistencia visual y funcional
-- **Pair programming sessions** para resolver problemas complejos de integración entre componentes
-- **Cross-browser testing colaborativo** para validar la compatibilidad y responsive design
-
-**Herramientas de colaboración utilizadas:**
-
-- **GitHub Projects**: Para tracking detallado de componentes y estados de desarrollo
-- **Discord**: Para comunicación en tiempo real y resolución rápida de dudas técnicas
-- **Figma**: Para revisión de diseños y especificaciones visuales durante desarrollo
-- **Browser Developer Tools**: Para debugging colaborativo y optimización de performance
-
-**Challenges superados como equipo:**
-
-1. **Consistencia Visual**: Se estableció un sistema de componentes reutilizables y guías de estilo uniformes
-2. **Integración de Módulos**: Se resolvieron conflictos de routing y navegación mediante arquitectura modular clara
-3. **Responsive Design**: Se implementó un sistema grid consistente que funciona en todos los dispositivos
-4. **Performance Optimization**: Se aplicó lazy loading y optimizaciones de bundle para mejorar tiempos de carga
-
-**Métricas de colaboración:**
-
-<img src="[github_insights_image]">
-*GitHub Insights mostrando la distribución de commits y colaboración entre miembros*
-
-**Evidencia de trabajo colaborativo:**
-- **Total de commits**: [number] commits distribuidos equitativamente  
-- **Pull requests**: [number] PRs con reviews completos de al menos 2 miembros
-- **Code coverage**: [percentage]% de cobertura de pruebas alcanzada colaborativamente
-- **Documentation**: [number] páginas de documentación técnica creadas en equipo
+<img src="Assets/evidences/landing_repository_evidence2.png">
 
 El Sprint 2 consolidó al equipo como una unidad técnica cohesiva especializada en desarrollo frontend, estableciendo las bases para la integración futura con servicios backend y la evolución continua de la experiencia de usuario de Prime-Fix.
 
+### 5.2.3. Sprint 3
+
+Se documenta el proceso de implementación, pruebas, documentación y despliegue del tercer Sprint, enfocado en la integración completa entre la Frontend Web Application y los Web Services RESTful del backend de Prime-Fix. Este sprint se centra en conectar las interfaces de usuario desarrolladas con los servicios backend para habilitar funcionalidades completas y flujos de trabajo integrados.
+
+#### 5.2.3.1. Sprint Planning 3
+
+| **Sprint #** | Sprint 3 |
+|--------------|----------|
+| **Sprint Planning Background** | |
+| **Date** | 2025-10-14 |
+| **Time** | 08:00 PM |
+| **Location** | Virtual (Discord) |
+| **Prepared By** | Aróstegui Alzamora, César Augusto |
+| **Attendees (to planning meeting)** | Aróstegui Alzamora, César Augusto / Jiménez Guerra, Gianmarco Fabian / Montoya Torres, Alexander Gabriel / Tenorio Medina, Piero Francesco / Navarro Chang, Alicia Avril / Julca Cruz, Renso Anthony |
+| **Sprint 2 Review Summary** | Se completó exitosamente la implementación de la Frontend Web Application con funcionalidades principales para ambos segmentos objetivo. Se logró el despliegue en Vercel y el despliegue del RESTful Web Services en AWS. |
+| **Sprint 2 Retrospective Summary** | El equipo identificó la necesidad de mejorar la comunicación durante la integración con el backend y establecer mejores prácticas para pruebas end-to-end. Se destacó el buen trabajo en la implementación de componentes reutilizables y diseño responsive. |
+| **Sprint Goal & User Stories** | |
+| **Sprint 3 Goal** | Integrar completamente la Frontend Web Application con los Web Services RESTful del backend, habilitando flujos de trabajo completos y funcionalidades integradas para ambos segmentos objetivo. |
+| **Sprint 3 Velocity** |  Fifty (50) Story Points |
+| **Sum of Story Points** | 50 Story Points |
+
+#### 5.2.3.2. Aspect Leaders and Collaborators
+
+En esta sección se presenta la **Leadership-and-Collaboration Matrix (LACX)** para el Sprint 3, enfocada en la integración casi completa entre la Frontend Web Application y los Web Services RESTful del backend de Prime-Fix. Esta matriz define los roles y responsabilidades de cada miembro del equipo durante el proceso de integración y pruebas.
+
+**Principales Aspectos Considerados en el Sprint 3:**
+Para el Sprint 3, se han identificado cuatro aspectos fundamentales que abarcan la integración y pruebas completas:
+**API Integration (Integración de API):** Este aspecto engloba la conexión de la aplicación frontend con los servicios RESTful del backend, incluyendo llamadas a endpoints, manejo de respuestas y errores.
+**End-to-End Testing (Pruebas de extremo a extremo):** Comprende la implementación de pruebas automatizadas que validan flujos completos desde la interfaz de usuario hasta el backend.
+**Error Handling & User Feedback (Manejo de errores y retroalimentación al usuario):** Incluye la implementación de mecanismos para manejar errores de API y proporcionar retroalimentación clara a los usuarios.
+**Documentation & Deployment (Documentación y Despliegue):** Abarca la actualización de la documentación técnica y la estrategia de despliegue continuo para la aplicación integrada.
+
+| **Team Member (Last Name, First Name)** | **GitHub Username** | **API Integration** (L / C) | **End-to-End Testing** (L / C) | **Error Handling & User Feedback** (L / C) | **Documentation & Deployment** (L / C) |
+|-----------------------------------------|---------------------|------------------------------|---------------------------------|---------------------------------------------|--------------------------------------|
+| Aróstegui Alzamora, César Augusto        | Legendnt1             | L                            | C                               | L                                           | L                                    |
+| Jiménez Guerra, Gianmarco Fabián         | ZAICO21             | C                            | L                               | C                                           | C                                    |
+| Tenorio Medina, Piero Francesco          | PieroTM2005             | C                            | C                               | C                                           | C                                    |
+| Navarro Chang, Alicia Avril              | Alice-keys             | C                            | C                               |            C                   | C                                           | C                                    |
+| Montoya Torres, Alexander Gabriel        | gabrielito4334             | C                            | C  | C                               | C                                       | C                                    |
+| Julca Cruz, Renso Anthony                | rajc02             | C                            | C                               | C                                           | C                                    |
+
+
+#### 5.2.3.3. Sprint Backlog 3
+
+El Sprint Backlog 3 se centra en la integración completa entre la Frontend Web Application y los Web Services RESTful del backend de Prime-Fix, habilitando flujos de trabajo completos y funcionalidades integradas para ambos segmentos objetivo.
+
+
+| **Sprint #** | Sprint 2 |
+|--------------|----------|
+
+| **User Story Id** | **User Story Title**                           | **Task Id** | **Task Title**                        | **Description**                                                                 | **Estimation (Hours)** | **Assigned To** | **Status** |
+|-------------------|-------------------------------------------------|-------------|---------------------------------------|---------------------------------------------------------------------------------|------------------------|-----------------|------------|
+| TS-01     | Integración de API para autenticación          | T-01        | Conectar login y registro con backend | Implementar llamadas a endpoints de autenticación desde frontend               | 6                     | César           | Done      |
+| TS-01     | Integración de API para autenticación          | T-02        | Validar login y registro con backend  | Implementar validaciones para login y registro desde frontend                  | 6                     | César           | Done      |
+| TS-02     | Integración de API para gestión de vehículos   | T-03        | Conectar CRUD de vehículos con backend | Implementar llamadas a endpoints de gestión de vehículos desde frontend        | 8                     | César           | Done      |
+| TS-02     | Integración de API para gestión de vehículos   | T-03        | Validar CRUD de vehículos con backend  | Implementar validaciones para CRUD de vehículos desde frontend                 | 8                     | César           | Done      |
+| TS-03     | Integración de API para programación de citas  | T-04        | Conectar calendario con backend       | Implementar llamadas a endpoints de citas desde frontend                       | 6                     | Piero           | Done      |
+ TS-03     | Integración de API para programación de citas  | T-05        | Conectar diagnosticon con backend      | Implementar llamadas a endpoints de diagnosticos                    | 6                     | Renso           | Done      |
+| TS-04     | Integración de API para seguimiento de estado  | T-06        | Conectar dashboard con backend        | Implementar llamadas a endpoints de seguimiento desde frontend                  | 6                     | César       | Done      |
+| TS-04     | Integración de API para seguimiento de estado  | T-07        | Validar dashboard con backend        | Implementar validaciones para CRUD de seguimiendo desde frontend                  | 6                     | César       | Done      |
+| TS-05     | Integración de API para reseñas de talleres    | T-08        | Conectar componente de reseñas con backend | Implementar llamadas a endpoints de reseñas desde frontend                      | 5                     | Piero           | Done      |
+| TS-06     | Integración de API para búsqueda de talleres   | T-09        | Conectar componente de búsqueda con backend | Implementar llamadas a endpoints de búsqueda desde frontend                     | 5                     | Alexander       | Done      |
+| TS-07     | Integración de API para gestión de solicitudes | T-10        | Conectar panel de gestión con backend | Implementar llamadas a endpoints de solicitudes desde frontend                  | 6                     | Alicia          | Done      |
+| TS-08     | Pruebas end-to-end completas                   | T-11        | Implementar pruebas E2E              | Desarrollar pruebas automatizadas que validen flujos completos desde UI hasta backend | 8                     | César       | Done      |
+
+Captura en Trello del Sprint 3:
+<img src="Assets/Trello/Sprint_3.png">
+
+[https://trello.com/invite/b/68e553625941b3277a631f79/ATTIbdc7ed65f50e7fba04796f3c4c17e9660F991CC5/prime-fix](https://trello.com/invite/b/68e553625941b3277a631f79/ATTIbdc7ed65f50e7fba04796f3c4c17e9660F991CC5/prime-fix)
+
+#### 5.2.3.4. Development Evidence for Sprint Review
+
+Durante el Sprint 3, se logró la integración completa entre la Frontend Web Application y los Web Services RESTful del backend de Prime-Fix. Esta integración habilitó flujos de trabajo completos y funcionalidades integradas para ambos segmentos objetivo, permitiendo a los usuarios interactuar con la plataforma de manera fluida y eficiente.
+
+**Principales logros del Sprint 3:**
+1. **Integración de API Exitosa:** Se conectaron todos los componentes frontend con los endpoints RESTful del backend, permitiendo la comunicación bidireccional y el intercambio de datos en tiempo real.
+2. **Pruebas End-to-End Completas:** Se implementaron pruebas automatizadas que validan flujos completos desde la interfaz de usuario hasta el backend, asegurando la funcionalidad y estabilidad del sistema integrado.
+3. **Manejo de Errores y Retroalimentación al Usuario:** Se implementaron mecanismos robustos para manejar errores de API y proporcionar retroalimentación clara a los usuarios en caso de fallos o problemas.
+4. **Documentación Actualizada:** Se actualizó la documentación técnica para reflejar la integración completa, incluyendo guías de uso de la API y flujos de trabajo integrados.
+**Principales funcionalidades integradas:**
+- **Autenticación y Registro:** Formularios de login y registro conectados con el backend
+- **Gestión de Vehículos:** CRUD de vehículos integrado con los servicios backend
+- **Programación de Citas:** Calendario interactivo conectado con los endpoints de citas
+- **Seguimiento de Estado:** Dashboard de seguimiento integrado con los servicios de monitoreo
+- **Reseñas de Talleres:** Componente de reseñas conectado con los servicios de calificaciones
+- **Búsqueda de Talleres:** Componente de búsqueda integrado con los servicios de listado de talleres
+- **Gestión de Solicitudes:** Panel de gestión de solicitudes conectado con los servicios backend 
+
+#### 5.2.3.5. Execution Evidence for Sprint Review
+
+Durante el Sprint 3, se logró la integración completa entre la Frontend Web Application y los Web Services RESTful del backend de Prime-Fix. Esta integración permitió habilitar flujos de trabajo completos y funcionalidades integradas para ambos segmentos objetivo.
+
+#### 5.2.3.6. Services Documentation Evidence for Sprint Review
+
+Durante el Sprint 3, se actualizó la documentación técnica para reflejar la integración completa entre la Frontend Web Application y los Web Services RESTful del backend de Prime-Fix. La documentación incluye guías de uso de la API, flujos de trabajo integrados y ejemplos de llamadas a endpoints.
+
+En esta sección se presenta la documentación actualizada que incluye:
+- Especificación de endpoints RESTful con métodos, parámetros y respuestas
+- Guías de uso de la API para cada funcionalidad integrada
+
+Evidencias: 
+
+<img src="Assets/backend/API_Documentation_1.png">
+
+<img src="Assets/backend/API_Documentation_2.png">
+
+<img src="Assets/backend/API_Documentation_3.png">
+
+**OpenAPI UI (URLpublicada):** <https://cadw4v2ry8.us-east-2.awsapprunner.com/swagger-ui/index.html>
+
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review
+
+Durante el Sprint 3, se implementó una estrategia de despliegue continuo para la aplicación integrada de Prime-Fix, asegurando que cada nueva funcionalidad desarrollada se despliegue automáticamente en un entorno de producción estable y accesible para los usuarios finales. Esta estrategia abarca tanto la Frontend Web Application como los Web Services RESTful del backend.
+
+**Infraestructura de despliegue implementada:**
+Link del Restful Web Services desplegado en AWS: [https://cadw4v2ry8.us-east-2.awsapprunner.com/swagger-ui/index.html#](https://cadw4v2ry8.us-east-2.awsapprunner.com/swagger-ui/index.html#)
+
+
+#### 5.2.3.8. Team Collaboration Insights during Sprint
+
+Durante el Sprint 3, el equipo de FixTech demostró una colaboración excepcionalmente efectiva en la integración completa entre la Frontend Web Application y los Web Services RESTful del backend de Prime-Fix. La coordinación técnica precisa y la comunicación constante entre todos los miembros del equipo fueron fundamentales para lograr una integración exitosa y habilitar flujos de trabajo completos.
+
+<img src="Assets/evidences/team_sprint3.png">
+
+
 ## 5.3. Validation Interviews
+
+Luego de haber avanzado con el desarrollo de la Landing Page y el deploy del front-end de la aplicación web y el API RESTful de PrimeFix, se realizarán las entrevistas de validación a los usuarios previamente entrevistados que corresponden a los segmentos objetivos para los cuales está dirigido el producto.
+
 ### 5.3.1. Diseño de Entrevistas
+
+Las preguntas para las entrevistas son:
+
+##### Landing Page
+¿Consideras que la información presentada sobre el producto es suficiente?
+¿Tuviste algún problema al ser direccionado a la aplicación de PrimeFix?
+##### Registro de Usuario
+¿Comprendes cómo funcionan las membresías de la aplicación web?
+¿Consideras intuitivo el proceso de registro de usuario?
+##### Menú inicial
+¿En algún momento te sentiste desorientado al explorar el panel?
+¿Te parece correcto mostrar las visitas agendadas en el “Menú Inicial”?
+##### Configuración
+¿Te parece que los campos a modificar son relevantes?
+##### Gestionar Coches
+¿Fue fácil agregar un nuevo coche?
+¿Qué mejorarías en la presentación de las tarjetas que contienen la información de los coches?
+¿Esta sección te ayuda a organizar mejor tus vehículos?
+##### Búsqueda de Taller y Programación de Cita
+¿Fue claro el flujo para buscar un taller de coches?
+¿Te parece que la información mostrada sobre el taller es suficiente?
+¿Fue fácil llenar la información para agendar la cita?
+¿Pudo comprender si se agendó la cita o no?
+##### Seguimiento de Estado de Coche
+¿Fue fácil entender la información sobre el estado del vehículo en tiempo real?
+¿Qué mejorarías en la presentación de este seguimiento?
+##### Pago y Calificación
+¿Fue fácil comprender el proceso de pago del servicio?
+¿Fue fácil comprender el proceso de calificación del servicio?
+¿Consideras que este apartado te ayudó a contribuir con la mejora del servicio?
+##### Gestión de Solicitudes
+¿Fue fácil comprender la gestión de solicitudes de servicio?
+##### Gestión de Técnicos
+¿Fue fácil comprender el proceso de añadir o editar información sobre un técnico?
+¿Consideras que los horarios están siendo registrados de manera correcta??
+¿Te gustaría poder añadir más información sobre los técnicos?
+##### Modificación de Estado de Coches
+¿Fue fácil comprender el proceso de añadir o editar el estado de un vehículo?
+¿Consideras relevante registrar el diagnóstico de la falla realizado por el técnico?
+
 ### 5.3.2. Registro de Entrevistas
+
+### Segmento #1: Dueños de Vehiculos
+ 
+**Entrevista N°1: Marcos Contreras**
+
+- Sexo: Masculino
+- Edad: 24
+- Link: <https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318731_upc_edu_pe/IQAItWhH8GksQZnHzl3yz84pAU4UPPZv718cWhS0W_v-thQ?e=RS55db&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D>
+- Inicia en: 0:01
+- Duración: 19:38
+
+<img src="Assets/entrevistas_validacion/segmento_1_entrevista_1.png">
+
+**Resumen de la entrevista**
+
+Marcos Contreras es un joven de 24 años quien trabaja y estudia de manera paralela. Marcos nos cuenta que el tiene un vehiculo por la cual facilita movilizarse dentro de la ciudad. Marcos nos comenta que a la hora de encontrar un buen servicio que pueda atender a su vehículo, más que nada resalta que no llega a encontrar un lugar accesible. Marcos al utilizar y ver el funcionamiento de PrimeFix, recalco lo que seria el buen funcionamiento de la aplicación, aunque en temas de diseño dijo que se podria mejora la distribución de algunos apartados para que sea mucho más accesible y fácil de usar.
+
+**Entrevista N°2: Anyelo Alejos**
+
+- Sexo: Masculino
+- Edad: 23
+- Link: <https://upcedupe-my.sharepoint.com/:v:/g/personal/u202318731_upc_edu_pe/IQCvXGFnBT9sT6uI7dcmObArAc_4XAtRA1mxnb0J2yCZf-k?e=HxvnqN&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D>
+- Inicia en: 0:01
+- Duración: 17:02
+
+<img src="Assets/entrevistas_validacion/segmento_1_entrevista_2.png">
+
+**Resumen de la entrevista**
+
+Anyelo Alejos es un chico de 23 años de edad, el solo estudia pero cuenta con un Vehiculo para movilizarse a su centro de estudios. El comenta que utiliza apliaciones como Google Maps para poder encontrar un taller que le sea pertinente, pero tambien lo busca de manera manual. Al probar nuestra aplicación de PrimeFix, dijo que le parecia interesante y que el diseño era agradable al igual que su funcionamiento. Remarcó que algunas partes de la aplicación podrían cambiar para hacerlo mucho más intuitivo y practico a la hora de utilizar las distintas funcionalidades.
+
+#### Segmento #2: Asesor de servicios de un taller automotriz
+
+**Entrevista N°1: Jesús Valenzuela**
+- Sexo: Masculino
+- Edad: 21
+- Link: <https://upcedupe-my.sharepoint.com/:v:/g/personal/u202123843_upc_edu_pe/IQB2LcBLH7ZnRIt04ZWCfeVzAS7e9tAzPBWASiqvD__DlCw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=gkBvjC>
+- Inicia en: 00:02
+- Duración: 23:49
+- Fecha: 05/11/2025
+
+<img src="Assets/entrevistas_validacion/segmento_2_entrevista_1.png">
+Jesús Valenzuela es un joven asesor de servicios de reparación del taller Alvillantas. En esta entrevista pudo probar tanto la landing page como el front-end de Prime-Fix en una computadora. En su mayoría, está conforme con que el servicio sea mediante la web. Asimismo, señaló que muchas de las funcionalidades son muy intuitivas y útiles para su trabajo ya que todas las etiquetas son claras y el flujo de actividades es ordenado. No identificó aspectos visuales negativos salvo algunas pequeñas recomendaciones. Valora que la aplicación le permita gestionar las solicitudes de servicios, la información de los técnicos y el estado de cada vehículo que se encuentra en el taller.
+
+
+**Entrevista N°2: William Espinoza**
+- Sexo: Masculino
+- Edad: 24
+- Link: <https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114548_upc_edu_pe/IQALes54IOeAQJuiRKMd_8ZoAY2ayLAV4yDye9Z5XDHiAk8?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=ppI8dt>
+- Inicia en: 00:01
+- Duración: 16:06
+- Fecha: 06/11/2025
+
+<img src="Assets/entrevistas_validacion/segmento_2_entrevista_2.png">
+William Espinoza es un joven asesor de servicios de reparación del taller AutoFast. En esta entrevista pudo probar tanto la landing page como el front-end de Prime-Fix en una computadora. En su mayoría, está conforme con que el servicio sea mediante la web. Asimismo, señaló que muchas de las funcionalidades son muy intuitivas y útiles para su trabajo ya que todas las etiquetas son claras y el flujo de actividades es ordenado. No identificó aspectos visuales negativos salvo algunas pequeñas recomendaciones. Valora que la aplicación le permita gestionar las solicitudes de servicios, la información de los técnicos y el estado de cada vehículo que se encuentra en el taller.
+
+**Entrevista N°3: Héctor Cárdenas**
+- Sexo: Masculino
+- Edad: 26
+- Link: <https://upcedupe-my.sharepoint.com/:v:/g/personal/u202114548_upc_edu_pe/IQC6IJkvw7_wSakaUw1eJisnAVEbxKd2Ks86a_GNkezsHM0?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=ExwZdK>
+- Inicia en: 00:01
+- Duración: 09:32
+- Fecha: 07/11/2025
+
+<img src="Assets/entrevistas_validacion/segmento_2_entrevista_3.png">
+Héctor Cárdenas es un joven asesor de servicios de reparación del taller Mecánica Rápida. En esta entrevista pudo probar tanto la landing page como el front-end de Prime-Fix en una computadora. En su mayoría, está conforme con que el servicio sea mediante la web. Asimismo, señaló que muchas de las funcionalidades son muy intuitivas y útiles para su trabajo ya que todas las etiquetas son claras y el flujo de actividades es ordenado. No identificó aspectos visuales negativos salvo algunas pequeñas recomendaciones. Valora que la aplicación le permita gestionar las solicitudes de servicios, la información de los técnicos y el estado de cada vehículo que se encuentra en el taller.
+
 ### 5.3.3. Evaluaciones según heurísticas
+
+## Evaluación Heurística de Usabilidad y Diseño Inclusivo para la Aplicación Web "QuizzBee"
+
+| Campo | Descripción |
+|--------|--------------|
+| **Carrera** | Ingeniería de Software |
+| **Curso** | Desarrollo de Aplicaciones Open Source |
+| **Sección** | 7385 |
+| **Profesores** | Todos |
+| **Auditor(es)** | Grupo 1 |
+| **Cliente(s)** | Grupo 2 |
+| **Site / App a Evaluar** | **QuizzBee** |
+
+## Tareas a Evaluar
+
+El alcance de esta evaluación incluye la revisión de la usabilidad y experiencia del usuario en las siguientes tareas:
+
+1. Identificar funcionalidades principales del servicio.  
+2. Registro de un nuevo usuario.  
+3. Inicio de sesión.  
+4. Creación, edición y eliminación de quizzes.  
+5. Visualización de ranking y estadísticas.  
+6. Consulta de soporte y preguntas frecuentes.  
+7. Gestión del plan gratuito o premium.  
+8. Cierre de sesión.
+
+
+## Escala de Severidad
+
+| Nivel | Descripción |
+|-------|--------------|
+| **1** | Problema superficial: fácilmente superable, ocurre con poca frecuencia. No requiere atención inmediata. |
+| **2** | Problema menor: aparece con algo más de frecuencia o genera leve dificultad. Requiere revisión en próximas versiones. |
+| **3** | Problema mayor: ocurre con frecuencia o afecta notablemente la experiencia del usuario. Debe corregirse con prioridad alta. |
+| **4** | Problema muy grave: impide el uso normal del sistema. Debe corregirse antes del lanzamiento. |
+
+## Tabla Resumen de Problema
+
+| # | Problema identificado | Escala de severidad | Heurística / Principio violado(a) |
+|---|-----------------------|:--:|--------------------------------|
+| 1 | No existe un menú de navegación visible o fijo en la landing para moverse entre secciones principales. | 3 | **Usability:** Libertad y control del usuario |
+| 2 | No hay botón de “volver arriba” ni enlaces de navegación interna (anclas). | 2 | **Usability:** Flexibilidad y eficiencia de uso |
+| 3 | El contraste entre texto y fondo en algunas secciones reduce la legibilidad. | 2 | **Inclusive Design:** Accesibilidad visual |
+| 4 | Íconos sin atributo “alt” ni etiquetas accesibles. | 3 | **Inclusive Design:** Proporcionar experiencias comparables |
+| 5 | Falta un CTA (“Call to Action”) claro y consistente en la landing. | 3 | **Information Architecture:** Is it usable? |
+| 6 | En el registro no se especifican criterios de validación de contraseña ni mensajes de error dinámicos. | 2 | **Usability:** Prevención de errores |
+| 7 | No existe confirmación visual al registrarse, iniciar sesión o realizar acciones principales. | 3 | **Usability:** Visibilidad del estado del sistema |
+| 8 | En el dashboard, íconos sin etiquetas accesibles (`aria-label`). | 3 | **Inclusive Design:** Experiencias comparables |
+| 9 | No hay aviso de confirmación antes de eliminar un quiz o cuenta. | 4 | **Usability:** Prevención de errores |
+| 10 | La sección “Manage plan” aparece vacía sin contenido ni botones funcionales. | 3 | **Information Architecture:** Is it findable / usable? |
+| 11 | No hay retroalimentación al guardar o publicar un quiz. | 3 | **Usability:** Visibilidad del estado del sistema |
+| 12 | Palabras de interfaz sin traducir (“MY_CREATIONS.TITLE”). | 3 | **Information Architecture:** Consistencia y lenguaje del usuario |
+| 13 | Jerarquía visual débil y contraste bajo entre secciones activas e inactivas. | 2 | **Inclusive Design:** Accesibilidad visual |
+| 14 | Campos de idioma y nivel sin texto de ayuda o ejemplos de uso. | 2 | **Usability:** Ayuda y documentación mínima |
+
+## Descripción de Problemas
+
+### PROBLEMA #1: No existe un menú de navegación visible o fijo
+- **Severidad:** 3  
+- **Heurística violada:** Usability – Libertad y control del usuario  
+- **Descripción:** La landing no muestra un header o barra fija para saltar entre secciones (funcionalidades, testimonios, FAQ, soporte). Obliga a hacer scroll largo y dificulta volver a zonas clave.  
+- **Recomendación:** Añadir una barra superior “sticky” con anclas a secciones (“Inicio”, “Funcionalidades”, “Testimonios”, “FAQ”, “Soporte”) y CTA persistente.
+
+### PROBLEMA #2: No hay “volver arriba” ni anclas internas
+- **Severidad:** 2  
+- **Heurística violada:** Usability – Flexibilidad y eficiencia de uso  
+- **Descripción:** Al terminar una sección, no hay enlaces de retorno rápido al inicio ni atajos de navegación interna; esto afecta eficiencia en páginas largas.  
+- **Recomendación:** Agregar botón flotante “↑” y anclas internas entre bloques; incluir accesos rápidos al final de cada sección.
+
+### PROBLEMA #3: Contraste bajo en textos/fondos de la landing
+- **Severidad:** 2  
+- **Heurística violada:** Inclusive Design – Accesibilidad visual  
+- **Descripción:** En tarjetas y fondos celeste/azulado, algunos textos azules pierden contraste con el fondo, dificultando lectura.  
+- **Recomendación:** Ajustar paleta (color de texto y/o fondo).
+
+### PROBLEMA #4: Íconos sin `alt` ni etiquetas accesibles
+- **Severidad:** 3  
+- **Heurística violada:** Inclusive Design – Proporcionar experiencias comparables  
+- **Descripción:** Los íconos/emojis de “Funcionalidades” carecen de descripciones para lectores de pantalla; usuarios con discapacidad visual pierden contexto.  
+- **Recomendación:** Incluir `alt`/`aria-label` descriptivos y `role="img"` si procede; si son decorativos, marcarlos como `aria-hidden="true"`.
+
+### PROBLEMA #5: Ausencia de CTA principal en la landing
+- **Severidad:** 3  
+- **Heurística violada:** Information Architecture – Is it usable?  
+- **Descripción:** No existe un botón de acción dominante (p.ej., “Empieza ahora”, “Regístrate”); el objetivo de conversión queda difuso.  
+- **Recomendación:** Incorporar CTA visible y consistente en hero y barra de navegación; usar color contrastante y copy orientado a acción.
+
+### PROBLEMA #6: Validación limitada en formulario de registro
+- **Severidad:** 2  
+- **Heurística violada:** Usability – Prevención de errores  
+- **Descripción:** Solo se indica “Contraseña (mín. 6)”. No hay validación en tiempo real ni requisitos claros (mayúsculas, número, símbolo) ni confirmación de contraseña.  
+- **Recomendación:** Añadir checklist dinámico de requisitos, campo “confirmar contraseña”, medidor de fortaleza y mensajes inline.
+
+### PROBLEMA #7: Sin confirmación/feedback tras acciones clave
+- **Severidad:** 3  
+- **Heurística violada:** Usability – Visibilidad del estado del sistema  
+- **Descripción:** En registro/login y operaciones de contenido no aparecen estados de carga, notificaciones de éxito/fallo, ni “toast/snackbar”.  
+- **Recomendación:** Incluir indicadores de progreso (spinners), toasts de éxito/error, y estados deshabilitados en botones mientras procesan.
+
+### PROBLEMA #8: Menú lateral con íconos sin etiquetas accesibles
+- **Severidad:** 3  
+- **Heurística violada:** Inclusive Design – Experiencias comparables  
+- **Descripción:** Los íconos del sidebar (Profile, Home, Create, etc.) no exponen `aria-label`/`title` ni orden lógico de tabulación; navegación por teclado/lector se ve afectada.  
+- **Recomendación:** Añadir `aria-label` y `aria-current="page"` para el activo; asegurar foco visible y orden de tab index natural.
+
+### PROBLEMA #9: Eliminación de quiz/cuenta sin confirmación
+- **Severidad:** 4  
+- **Heurística violada:** Usability – Prevención de errores  
+- **Descripción:** En “My Creations” el botón **Delete** y en perfil **Delete account** no solicitan confirmación (ni “undo”), lo que puede causar pérdida permanente.  
+- **Recomendación:** Modal de confirmación con resumen del impacto, doble acción **Cancelar/Eliminar**, y opción de recuperación (papelera o “undo”).
+
+### PROBLEMA #10: “Manage plan” vacío/sin opciones
+- **Severidad:** 3  
+- **Heurística violada:** Information Architecture – Is it findable / usable?  
+- **Descripción:** La vista muestra un fondo degradado y título, pero carece de planes, precios, beneficios o flujos de pago; el usuario no puede completar la tarea.  
+- **Recomendación:** Añadir tarjetas de planes (Free/Pro/Team), features comparadas, precio/periodicidad, CTA “Upgrade” y estado de plan actual.
+
+### PROBLEMA #11: Sin feedback al guardar/publicar quiz
+- **Severidad:** 3  
+- **Heurística violada:** Usability – Visibilidad del estado del sistema  
+- **Descripción:** En “Modo Creativo”, los botones **Guardar borrador**/**Publicar** no indican progreso ni resultado; el usuario duda si se guardó o falló.  
+- **Recomendación:** Mostrar loader en botón, deshabilitar durante envío, y notificación de éxito con enlace para ver el quiz; mensajes claros ante error.
+
+### PROBLEMA #12: Textos de interfaz sin traducir (i18n incompleto)
+- **Severidad:** 3  
+- **Heurística violada:** Information Architecture – Consistencia y lenguaje del usuario  
+- **Descripción:** Etiquetas como `MY_CREATIONS.TITLE`, `MY_CREATIONS.POINTS`, `Clear filters` aparecen en inglés/clave de i18n, rompiendo consistencia lingüística.  
+- **Recomendación:** Completar archivos de traducción, fallback localizable, y detección automática de idioma; prueba de regresión lingüística.
+
+### PROBLEMA #13: Bajo contraste/jerarquía en estados activos
+- **Severidad:** 2  
+- **Heurística violada:** Inclusive Design – Accesibilidad visual  
+- **Descripción:** En el editor (pestañas/lista de preguntas) el elemento activo no se distingue con claridad respecto a inactivos; afecta orientación y foco visual.  
+- **Recomendación:** Aumentar contraste y señales de estado (color, grosor de borde, fondo, icono de “activo”); cumplir WCAG Focus Visible.
+
+### PROBLEMA #14: Falta de ayudas/contexto en “Idioma” y “Nivel”
+- **Severidad:** 2  
+- **Heurística violada:** Usability – Ayuda y documentación mínima  
+- **Descripción:** Selectores de **Language**/**Level** carecen de microcopy (para qué sirven, cómo afectan la experiencia) ni ejemplos (p. ej., “Novice = nivel A1”).  
+- **Recomendación:** Añadir texto de ayuda inline/tooltip, descripciones cortas y ejemplos; si modifican el contenido recomendado, explicarlo explícitamente.
+
+---
 
 ## 5.4. Video About-the-Product
 
@@ -2397,11 +2887,20 @@ El Sprint 2 consolidó al equipo como una unidad técnica cohesiva especializada
 
 - Con FixTech queremos proyectar a futuro para poder integrar aplicaciones móviles e IoT, garantizar escalabilidad y la competitividad a futuro.
 
+- La implementación de la Landing Page para presentar la propuesta de valor de nuestra startup fue un paso crucial para establecer la presencia en línea de la startup. La página no solo sirve como punto de entrada para atraer usuarios, sino que también comunica claramente los beneficios y funcionalidades clave de la plataforma.
+
+- El desarrollo de la Frontend Web Application utilizando Angular y TypeScript permitió crear una interfaz de usuario robusta y escalable. La aplicación está diseñada para ser intuitiva y accesible, facilitando la navegación y el uso tanto para dueños de vehículos como para talleres.
+
+- La creación de los Web Services RESTful con Java y Spring Boot proporcionó una base sólida para la lógica de negocio y la gestión de datos. Estos servicios permiten una comunicación eficiente entre el frontend y el backend, asegurando que las operaciones se realicen de manera segura y confiable.
+
 # Recomendaciones
 
 - Verificar de manera constante los avances de los demás integrantes para evitar confusiones a futuro. Especialmente de los integrates que son designados a partes fundamentales del proyecto sea documentacion o desarrollo.
 - Mejorar la distribución y la comunicación entre los integrantes del equipo en el aspecto de las entregas del trabajo.
 - Continuar y realizar validaciones a futuro con respecto a los avances del proyecto, para mantener la correlacion entre las necesidades reales y el desarrollo.
+- Realizar pruebas de usabilidad y experiencia de usuario para identificar áreas de mejora en la interfaz y funcionalidad de la aplicación.
+- Mantener una documentación técnica actualizada y detallada para facilitar el mantenimiento y futuras expansiones.
+- Establecer un plan de marketing digital para aumentar la visibilidad de la plataforma y atraer a más usuarios.
 
 # Video About-the-Team
 # Bibliografía
@@ -2431,7 +2930,11 @@ Link de la Landing Page: [https://landing-page-pearl-kappa-37.vercel.app/](https
 
 Link del Frontend Web Applications: [https://frontend-dusky-rho-85.vercel.app/](https://frontend-dusky-rho-85.vercel.app/)
 
+Link del RESTful Web Services: [https://cadw4v2ry8.us-east-2.awsapprunner.com/swagger-ui/index.html#](https://cadw4v2ry8.us-east-2.awsapprunner.com/swagger-ui/index.html#)
+
 Link del Diagrama de Clases: [https://lucid.app/lucidchart/a5dcb0f8-65f4-41c3-986a-8c6f758cf58c/edit?viewport_loc=1867%2C14304%2C9812%2C4039%2ChPaR5Cs4a9aQ&invitationId=inv_f24412cc-190d-48c4-a4b1-e6d6a94fb303](https://lucid.app/lucidchart/a5dcb0f8-65f4-41c3-986a-8c6f758cf58c/edit?viewport_loc=1867%2C14304%2C9812%2C4039%2ChPaR5Cs4a9aQ&invitationId=inv_f24412cc-190d-48c4-a4b1-e6d6a94fb303)
+
+Link de Trello: [https://trello.com/invite/b/68e553625941b3277a631f79/ATTIbdc7ed65f50e7fba04796f3c4c17e9660F991CC5/prime-fix](https://trello.com/invite/b/68e553625941b3277a631f79/ATTIbdc7ed65f50e7fba04796f3c4c17e9660F991CC5/prime-fix)
 
 Link oficial de Github: [https://github.com](https://github.com)
 
@@ -2447,10 +2950,20 @@ Link oficial de la documentación de Mozilla para CSS: [https://developer.mozill
 
 Link oficial de la documentación de Mozilla para TypeScript: [https://www.typescriptlang.org/docs/](https://www.typescriptlang.org/docs/)
 
-Link oficial de la documentación de Mozilla para Java: [https://docs.oracle.com/en/java/](https://docs.oracle.com/en/java/)
+Link oficial de la documentación de Oracle para Java: [https://docs.oracle.com/en/java/](https://docs.oracle.com/en/java/)
+
+Link oficial de la Documentación de Spring Framework: [https://docs.spring.io/spring-framework/docs/current/reference/html/](https://docs.spring.io/spring-framework/docs/current/reference/html/)
+
+Link oficial de PostgreSQL: [https://www.postgresql.org/](https://www.postgresql.org/)
+
+Link oficial de Docker: [https://www.docker.com/](https://www.docker.com/)
+
+Link de Open API Specification: [https://swagger.io/specification/](https://swagger.io/specification/)
 
 Link oficial de Spring Boot: [https://spring.io/projects/spring-boot](https://spring.io/projects/spring-boot)
 
 Link oficial de Visual Studio Code: [https://code.visualstudio.com/](https://code.visualstudio.com/)
+
+Link oficial de IntelliJ IDEA: [https://www.jetbrains.com/idea/](https://www.jetbrains.com/idea/)
 
 Link oficial de UXPressia: [https://uxpressia.com/](https://uxpressia.com/)
