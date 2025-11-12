@@ -2703,7 +2703,7 @@ Anyelo Alejos es un chico de 23 años de edad, el solo estudia pero cuenta con u
 - Inicia en: 0:00
 - Duración: 15:13
 
-
+<img src="Assets/entrevistas_validacion/segmento_1_entrevista_3.png">
 
 **Resumen de la entrevista**
 
