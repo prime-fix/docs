@@ -2695,6 +2695,20 @@ Marcos Contreras es un joven de 24 años quien trabaja y estudia de manera paral
 
 Anyelo Alejos es un chico de 23 años de edad, el solo estudia pero cuenta con un Vehiculo para movilizarse a su centro de estudios. El comenta que utiliza apliaciones como Google Maps para poder encontrar un taller que le sea pertinente, pero tambien lo busca de manera manual. Al probar nuestra aplicación de PrimeFix, dijo que le parecia interesante y que el diseño era agradable al igual que su funcionamiento. Remarcó que algunas partes de la aplicación podrían cambiar para hacerlo mucho más intuitivo y practico a la hora de utilizar las distintas funcionalidades.
 
+**Entrevista N°3: Michael Montoya**
+
+- Sexo: Masculino
+- Edad: 23
+- Link: <https://onedrive.live.com/?qt=allmyphotos&photosData=%2Fshare%2F68A9EDE22CF14855%211132%3Fithint%3Dvideo%26e%3DgOod3c&cid=68A9EDE22CF14855&id=68A9EDE22CF14855%211132&authkey=%21AHNfYIfcpRXl%2D2c&v=photos>
+- Inicia en: 0:00
+- Duración: 15:13
+
+
+
+**Resumen de la entrevista**
+
+Michael Montoya es un joven de 21 años, ante la landing page ha indicado que esta conforme con la apariencia e información que brinda puesto que la sección le ha parecido intuitiva y bien estructurada. Por parte del front-end de Prime-Fix señalo que las funcionalidades del aplicativo son claras y útiles, no le pareció complicado de navegar y comenta que el aplicativo es llamativo visualmente.  También sugiere que al momento de agendar una cita sea posible adjuntar un mensaje junto con la cita de manera opcional. En general, considera que la información presentada, las funciones y la estructura de estas es muy útil para completar el proceso de una cita.
+
 #### Segmento #2: Asesor de servicios de un taller automotriz
 
 **Entrevista N°1: Jesús Valenzuela**
