@@ -173,6 +173,15 @@
       - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
       - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
       - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
+    - [5.2.3. Sprint 4](#524-sprint-4)
+      - [5.2.4.1. Sprint Planning 4](#5241-sprint-planning-4)
+      - [5.2.4.2. Aspect Leaders and Collaborators](#5242-aspect-leaders-and-collaborators)
+      - [5.2.4.3. Sprint Backlog 4](#5243-sprint-backlog-4)
+      - [5.2.4.4. Development Evidence for Sprint Review](#5244-development-evidence-for-sprint-review)
+      - [5.2.4.5. Execution Evidence for Sprint Review](#5245-execution-evidence-for-sprint-review)
+      - [5.2.4.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
+      - [5.2.4.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
+      - [5.2.4.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
   - [5.3. Validation Interviews](#53-validation-interviews)
     - [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)
     - [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)
@@ -958,14 +967,22 @@ En esta sección se presenta el Product Backlog de Prime-Fix, organizado según 
 | US-26        | Verificación de solicitudes de visita             | Como asesor de servicios, quiero ver y aceptar solicitudes de visita enviadas por clientes.                                                                                                                                        | 5            |
 | US-27        | Visualización de estado y avance                  | Como dueño de vehículo, quiero ver estado y avance de mi orden de servicio con hora de última actualización y responsable.                                                                                                        | 5            |
 | **TECHNICAL STORIES** |
-| TS-01        | API de Autenticación JWT                          | Como desarrollador, necesito implementar un sistema de autenticación JWT para asegurar el acceso a la API y controlar sesiones de usuario.                                                                                         | 8            |
-| TS-02        | API CRUD para talleres                            | Como desarrollador, necesito implementar endpoints CRUD para la gestión de talleres en la base de datos y permitir su administración.                                                                                              | 8            |
-| TS-03        | API CRUD para vehículos                           | Como desarrollador, necesito implementar endpoints CRUD para registrar, consultar, actualizar y eliminar información de vehículos.                                                                                                 | 8            |
-| TS-04        | API de gestión de citas                           | Como desarrollador, necesito implementar endpoints para crear, actualizar y consultar citas y servicios agendados.                                                                                                                 | 8            |
-| TS-05        | API de procesamiento de pagos                     | Como desarrollador, necesito implementar endpoints seguros para procesar pagos y registrar transacciones.                                                                                                                         | 8            |
-| TS-06        | API de notificaciones                             | Como desarrollador, necesito implementar un sistema de notificaciones en tiempo real para informar cambios de estado a los usuarios.                                                                                               | 8            |
+| TS-01        | API CRUD para talleres                            | Como desarrollador, necesito implementar endpoints CRUD para la gestión de talleres en la base de datos y permitir su administración.                                                                                              | 5            |
+| TS-02        | API CRUD para vehículos                           | Como desarrollador, necesito implementar endpoints CRUD para registrar, consultar, actualizar y eliminar información de vehículos.                                                                                                 | 5            |
+| TS-03        | API de gestión de citas                           | Como desarrollador, necesito implementar endpoints para crear, actualizar y consultar citas y servicios agendados.                                                                                                                 | 5            |
+| TS-04        | API de procesamiento de pagos                     | Como desarrollador, necesito implementar endpoints seguros para procesar pagos y registrar transacciones.                                                                                                                         | 5            |
+| TS-05        | API de registro de reseñas                     | Como desarrollador, necesito implementar endpoints seguros para registrar, actualizar y consultar reseñas de talleres.                                                                                                                         | 5            |
+| TS-06        | API de notificaciones                             | Como desarrollador, necesito implementar un sistema de notificaciones en tiempo real para informar cambios de estado a los usuarios.                                                                                               | 5            |
 | TS-07        | API de búsqueda y filtros                         | Como desarrollador, necesito implementar endpoints de búsqueda con filtros avanzados para talleres y servicios.                                                                                                                    | 5            |
-| TS-08        | API de gestión de archivos                        | Como desarrollador, necesito implementar endpoints para subir, acceder y eliminar archivos asociados a usuarios o talleres.                                                                                                       | 5            |
+| TS-08        | API de Autenticación JWT                          | Como desarrollador, necesito implementar un sistema de autenticación JWT para asegurar el acceso a la API y controlar sesiones de usuario.                                                                                         | 8            |
+| TS-09        | Integración de API para autenticación                        | Como desarrollador, necesito integrar el frontend con la API de autenticación para garantizar el inicio de sesión, registro y manejo seguro de sesiones de usuario.                                                                                                       | 8            |
+| TS-10        | Integración de API para gestión de vehículos                        | Como desarrollador, necesito integrar el frontend con la API de gestión de vehículos para permitir que los usuarios registren, visualicen, actualicen y eliminen sus vehículos desde la interfaz.                                                                                                       | 8            |
+| TS-11        | Integración de API para programación de citas                        | Como desarrollador, necesito integrar el frontend con la API de programación de citas para permitir que los usuarios soliciten y consulten sus citas de servicio.                                                                                                       | 8            |
+| TS-12        | Integración de API para seguimiento de estado                        | Como desarrollador, necesito integrar el frontend con la API de seguimiento de estado para mostrar en tiempo real el progreso y cambios de las órdenes de servicio a los usuarios.                                                                                                       | 5            |
+| TS-13        | Integración de API para reseñas de talleres                        | Como desarrollador, necesito integrar el frontend con la API de reseñas de talleres para permitir que los usuarios registren,y visualicen calificaciones y comentarios sobre los talleres.                                                                                                       | 5            |
+| TS-14        | Integración de API para búsqueda de talleres                        | Como desarrollador, necesito integrar el frontend con la API de búsqueda de talleres para permitir que los usuarios apliquen filtros y encuentren talleres según su ubicación.                                                                                                       | 5            |
+| TS-15        | Integración de API para gestión de solicitudes                        | Como desarrollador, necesito integrar el frontend con la API de gestión de solicitudes para que los asesores puedan visualizar, aceptar o rechazar solicitudes de visita desde la interfaz del taller.                                                                                                       | 8            |
+| TS-16        | Pruebas end-to-end completas                        | Como desarrollador, necesito implementar pruebas end-to-end completas que verifiquen los flujos críticos del sistema desde la interfaz de usuario hasta la base de datos para asegurar el correcto funcionamiento de las funcionalidades integradas.                                                                                                       | 8            |
 | **IAM (USUARIO)** |
 | US-28        | Ingreso con nombre de usuario                    | Como usuario del aplicativo, quiero iniciar sesión con mi nombre de usuario elegido para facilitar el acceso a mi cuenta.                                                                                                        | 3            |
 | US-29        | Registro de cuenta con campos comprensibles      | Como usuario, quiero que los campos del registro de cuenta sean entendibles para inscribirme correctamente.                                                                                                                      | 5            |
@@ -2499,8 +2516,8 @@ Se documenta el proceso de implementación, pruebas, documentación y despliegue
 | **Sprint 2 Retrospective Summary** | El equipo identificó la necesidad de mejorar la comunicación durante la integración con el backend y establecer mejores prácticas para pruebas end-to-end. Se destacó el buen trabajo en la implementación de componentes reutilizables y diseño responsive. |
 | **Sprint Goal & User Stories** | |
 | **Sprint 3 Goal** | Integrar completamente la Frontend Web Application con los Web Services RESTful del backend, habilitando flujos de trabajo completos y funcionalidades integradas para ambos segmentos objetivo. |
-| **Sprint 3 Velocity** |  Fifty (50) Story Points |
-| **Sum of Story Points** | 50 Story Points |
+| **Sprint 3 Velocity** |  Forty-three (43) Story Points |
+| **Sum of Story Points** | 43 Story Points |
 
 #### 5.2.3.2. Aspect Leaders and Collaborators
 
@@ -2524,26 +2541,26 @@ Para el Sprint 3, se han identificado cuatro aspectos fundamentales que abarcan 
 
 #### 5.2.3.3. Sprint Backlog 3
 
-El Sprint Backlog 3 se centra en la integración completa entre la Frontend Web Application y los Web Services RESTful del backend de Prime-Fix, habilitando flujos de trabajo completos y funcionalidades integradas para ambos segmentos objetivo.
+El Sprint Backlog 3 se centra en el desarrollo completo de los Web Services RESTful del backend de Prime-Fix, habilitando flujos de trabajo completos y funcionalidades integradas.
 
 
-| **Sprint #** | Sprint 2 |
+| **Sprint #** | Sprint 3 |
 |--------------|----------|
 
 | **User Story Id** | **User Story Title**                           | **Task Id** | **Task Title**                        | **Description**                                                                 | **Estimation (Hours)** | **Assigned To** | **Status** |
 |-------------------|-------------------------------------------------|-------------|---------------------------------------|---------------------------------------------------------------------------------|------------------------|-----------------|------------|
-| TS-01     | Integración de API para autenticación          | T-01        | Conectar login y registro con backend | Implementar llamadas a endpoints de autenticación desde frontend               | 6                     | César           | Done      |
-| TS-01     | Integración de API para autenticación          | T-02        | Validar login y registro con backend  | Implementar validaciones para login y registro desde frontend                  | 6                     | César           | Done      |
-| TS-02     | Integración de API para gestión de vehículos   | T-03        | Conectar CRUD de vehículos con backend | Implementar llamadas a endpoints de gestión de vehículos desde frontend        | 8                     | César           | Done      |
-| TS-02     | Integración de API para gestión de vehículos   | T-03        | Validar CRUD de vehículos con backend  | Implementar validaciones para CRUD de vehículos desde frontend                 | 8                     | César           | Done      |
-| TS-03     | Integración de API para programación de citas  | T-04        | Conectar calendario con backend       | Implementar llamadas a endpoints de citas desde frontend                       | 6                     | Piero           | Done      |
- TS-03     | Integración de API para programación de citas  | T-05        | Conectar diagnosticon con backend      | Implementar llamadas a endpoints de diagnosticos                    | 6                     | Renso           | Done      |
-| TS-04     | Integración de API para seguimiento de estado  | T-06        | Conectar dashboard con backend        | Implementar llamadas a endpoints de seguimiento desde frontend                  | 6                     | César       | Done      |
-| TS-04     | Integración de API para seguimiento de estado  | T-07        | Validar dashboard con backend        | Implementar validaciones para CRUD de seguimiendo desde frontend                  | 6                     | César       | Done      |
-| TS-05     | Integración de API para reseñas de talleres    | T-08        | Conectar componente de reseñas con backend | Implementar llamadas a endpoints de reseñas desde frontend                      | 5                     | Piero           | Done      |
-| TS-06     | Integración de API para búsqueda de talleres   | T-09        | Conectar componente de búsqueda con backend | Implementar llamadas a endpoints de búsqueda desde frontend                     | 5                     | Alexander       | Done      |
-| TS-07     | Integración de API para gestión de solicitudes | T-10        | Conectar panel de gestión con backend | Implementar llamadas a endpoints de solicitudes desde frontend                  | 6                     | Alicia          | Done      |
-| TS-08     | Pruebas end-to-end completas                   | T-11        | Implementar pruebas E2E              | Desarrollar pruebas automatizadas que validen flujos completos desde UI hasta backend | 8                     | César       | Done      |
+| TS-01     | API CRUD para talleres          | T-01        | Crear una API con los métodos CRUD para la gestión de talleres | Desarrollar los endpoints CRUD (crear, leer, actualizar y eliminar) para el taller.               | 5                     | César           | Done      |
+| TS-01     | API CRUD para talleres          | T-02        | Crear una API con los métodos CRUD para la gestión de talleres  | Desarrollar los controladores, servicios, repositorios y validaciones necesarias                  | 5                     | Piero           | Done      |
+| TS-02     | API CRUD para vehículos   | T-03        | Crear una API con los métodos CRUD para la gestión de vehículos | Desarrollar los endpoints CRUD (crear, leer, actualizar y eliminar) para el vehículo.        | 6                     | César           | Done      |
+| TS-02     | API CRUD para vehículos   | T-03        | Crear una API con los métodos CRUD para la gestión de vehículos  | Desarrollar los controladores, servicios, repositorios y validaciones necesarias                 | 5                     | César           | Done      |
+| TS-03     | API de gestión de citas  | T-04        | Crear una API con los métodos CRUD para la gestión de citas       | Desarrollar los endpoints CRUD (crear, leer, actualizar y eliminar) para las citas.                       | 5                     | Piero           | Done      |
+ TS-03     | API de gestión de citas  | T-05        | Crear una API con los métodos CRUD para la gestión de citas      | Desarrollar los endpoints CRUD (crear, leer, actualizar y eliminar) para las citas.                    | 6                     | Renso           | Done      |
+| TS-04     | API de procesamiento de pagos  | T-06        | Crear una API con los métodos CRUD para el procesamiento de pagos        | Desarrollar los endpoints CRUD (crear, leer, actualizar y eliminar) para los pagos.                  | 5                     | Gianmarco       | Done      |
+| TS-05     | API de registro de reseñas  | T-07        | Crear una API con los métodos CRUD para el registro de reseñas        | Desarrollar los endpoints CRUD (crear, leer, actualizar y eliminar) para las reseñas.                  | 6                     | Gianmarco       | Done      |
+| TS-06     | API de notificaciones    | T-08        | Crear una API con los métodos CRUD para la gestión de notificaciones | Desarrollar los endpoints CRUD (crear, leer, actualizar y eliminar) para las notificaciones.                      | 6                     | Piero           | Done      |
+| TS-07     | API de búsqueda y filtros   | T-09        | Crear una API con los métodos CRUD para obtención de talleres según una búsqueda | Desarrollar los endpoints CRUD (crear, leer, actualizar y eliminar) del taller según ciertos parámetros                    | 5                     | Alexander       | Done      |
+| TS-07     | API de búsqueda y filtros   | T-10        | Crear una API con los métodos CRUD para obtención de talleres según una búsqueda        | Desarrollar los endpoints CRUD (crear, leer, actualizar y eliminar) del taller según ciertos parámetros                  | 4                     | Alicia          | Done      |
+| TS-16     | Pruebas end-to-end completas                   | T-11        | Implementar pruebas E2E              | Desarrollar pruebas automatizadas que validen flujos completos desde UI hasta backend | 8                     | César       | In Progress      |
 
 Captura en Trello del Sprint 3:
 <img src="Assets/Trello/Sprint_3.png">
@@ -2629,6 +2646,79 @@ Link del Restful Web Services desplegado en AWS: [https://cadw4v2ry8.us-east-2.a
 Durante el Sprint 3, el equipo de FixTech demostró una colaboración excepcionalmente efectiva en la integración completa entre la Frontend Web Application y los Web Services RESTful del backend de Prime-Fix. La coordinación técnica precisa y la comunicación constante entre todos los miembros del equipo fueron fundamentales para lograr una integración exitosa y habilitar flujos de trabajo completos.
 
 <img src="Assets/evidences/team_sprint3.png">
+
+
+### 5.2.4. Sprint 4
+
+Se documenta el proceso de corrección, implementación completa del aplicativo, pruebas, documentación y despliegue del cuarto Sprint, enfocado en integrar completamente tanto el Frontend Web Application como Web Services RESTful del backend de Prime-Fix.
+En este sprint se van a conectar completamente ambas interfaces desarrolladas a lo largo del proyecto. Con ello, se habilitarán todas las funcionalidades y flujos de trabajo incluyendo una autenticación JWT.
+
+#### 5.2.4.1. Sprint Planning 4
+
+| **Sprint #** | Sprint 4 |
+|--------------|----------|
+| **Sprint Planning Background** | |
+| **Date** | 2025-11-25 |
+| **Time** | 09:00 PM |
+| **Location** | Virtual (Discord) |
+| **Prepared By** | Aróstegui Alzamora, César Augusto |
+| **Attendees (to planning meeting)** | Aróstegui Alzamora, César Augusto / Jiménez Guerra, Gianmarco Fabian / Montoya Torres, Alexander Gabriel / Tenorio Medina, Piero Francesco / Navarro Chang, Alicia Avril / Julca Cruz, Renso Anthony |
+| **Sprint 3 Review Summary** | Se implementaron y desplegaron módulos iniciales del backend, se logró la integración parcial del frontend con el backend y el backend se desplegó de forma preliminar, permitiendo pruebas iniciales desde la aplicación cliente. No todas las funcionalidades del backend fueron completadas, por lo que quedaron pendientes para el Sprint 4. |
+| **Sprint 4 Retrospective Summary** | El equipo identificó que la integración temprana con el backend fue clave, pero se requería una definición más clara de contratos API. Asimismo, era necesario mejorar la sincronización entre equipos de frontend y backend, especialmente en el manejo de tokens JWT, headers de autorización y manejo de errores. Finalmente, se detectó la necesidad de mayor tiempo en pruebas end-to-end.  |
+| **Sprint Goal & User Stories** | |
+| **Sprint 4 Goal** | Completar el desarrollo integral del backend, finalizar todos los endpoints y casos de uso, integrar completamente el frontend con el backend usando JWT y asegurar el funcionamiento completo de la aplicación web para ambos segmentos objetivo. |
+| **Sprint 4 Velocity** |  Sixty-three (63) Story Points |
+| **Sum of Story Points** | 63 Story Points |
+
+#### 5.2.4.2. Aspect Leaders and Collaborators
+
+En esta sección se presenta la **Leadership-and-Collaboration Matrix (LACX)** para el Sprint 4, enfocada en culminar la integración entre la Frontend Web Application y los Web Services RESTful del backend de Prime-Fix con las mejoras respectivas y la autenticación de los Web Services RESTful del backend. Esta matriz define los roles y responsabilidades de cada miembro del equipo durante el proceso de integración y pruebas.
+
+**Principales Aspectos Considerados en el Sprint 4:**
+Para el Sprint 4, se han identificado cuatro aspectos fundamentales que abarcan la integración y pruebas completas:
+**Fullstack Integration:** Este aspecto abarca la conexión fluida y completa entre frontend y backend, asegurando que ambos lados se comuniquen correctamente mediante endpoints estables. Incluye validación de flujos principales, el envío y recepción de datos en tiempo real y la verificación de cada funcionalidad del backend consumada desde el frontend.
+**Authentication & Security:** Se enfoca en reforzar la autenticación basada en tokens (como JWT) y asegurar que los accesos estén protegidos meidiante validación de credenciales.
+**Core Features Development:** Implica avanzar y consolidar las funcionalidades principales del sistema para asegurar que los componentes más críticos del software cumplan con los requisitos funcionales establecidos.
+**Testing, Documentation & Deployment:** Se centra en las pruebas funcionales, unitarias y de integración necesarias para garantizar el correcto funcionamiento de la aplicación. Cubre documentación técnica actualizada y la preparación del despliegue.
+
+| **Team Member (Last Name, First Name)** | **GitHub Username** | **Fullstack Integration** (L / C) | **Authentication & Security** (L / C) | **Core Features Development** (L / C) | **Testing,Documentation & Deployment** (L / C) |
+|-----------------------------------------|---------------------|------------------------------|---------------------------------|---------------------------------------------|--------------------------------------|
+| Aróstegui Alzamora, César Augusto        | Legendnt1             | L                            | L                               | L                                           | C                                    |
+| Jiménez Guerra, Gianmarco Fabián         | ZAICO21             | C                            | C                               | C                                           | C                                    |
+| Tenorio Medina, Piero Francesco          | PieroTM2005             | C                            | C                               | C                                           | L                                    |
+| Navarro Chang, Alicia Avril              | Alice-keys             | C                            | C                               |            C                   | C                                           | C                                    |
+| Montoya Torres, Alexander Gabriel        | gabrielito4334             | C                            | C  | C                               | C                                       | C                                    |
+| Julca Cruz, Renso Anthony                | rajc02             | C                            | C                               | C                                           | C                                    |
+
+#### 5.2.4.3. Sprint Backlog 4
+El Sprint Backlog 4 se centra en la integración completa entre la Frontend Web Application y los Web Services RESTful del backend de Prime-Fix, habilitando flujos de trabajo completos y funcionalidades integradas para ambos segmentos objetivo.
+
+
+| **Sprint #** | Sprint 4 |
+|--------------|----------|
+
+| **User Story Id** | **User Story Title**                           | **Task Id** | **Task Title**                        | **Description**                                                                 | **Estimation (Hours)** | **Assigned To** | **Status** |
+|-------------------|-------------------------------------------------|-------------|---------------------------------------|---------------------------------------------------------------------------------|------------------------|-----------------|------------|
+| TS-08     | API de Autenticación JWT          | T-01        | Implementar el sistema de autenticación mediante JWT | Desarrollar los endpoints de login, registro y validación de tokens, incluyendo la configuración de seguridad, generación y verificación de JWT.               | 6                     | César           | Done      |
+| TS-09     | Integración de API para autenticación          | T-02        | Integrar el frontend con la API de autenticación JWT | Implementar en el frontend el consumo de los endpoints de login, registro y validación de tokens, gestionando almacenamiento seguro del JWT y redirecciones de sesión.               | 6                     | Piero           | Done      |
+| TS-10     | Integración de API para gestión de vehículos          | T-03        | Integrar el frontend con la API de gestión de vehículos  | Implementar en el frontend las llamadas a los endpoints de vehículos para registrar, consultar, actualizar y eliminar información desde la interfaz del usuario.                  | 6                     | Piero           | Done      |
+| TS-11     | Integración de API para programación de citas   | T-04        | Integrar el frontend con la API de programación de citas | Implementar en el frontend el consumo de los endpoints para crear, actualizar y consultar citas agendadas, conectando los formularios y vistas con la API.        | 6                     | César           | Done      |
+| TS-12     | Integración de API para seguimiento de estado   | T-05        | Integrar el frontend con la API de seguimiento de estado del servicio  | Implementar en el frontend la visualización del estado y progreso del servicio mediante el consumo de los endpoints correspondientes, actualizando la interfaz en tiempo real cuando aplique.                 | 6                     | Renso           | Done      |
+| TS-13     | Integración de API para reseñas de talleres  | T-06        | Integrar el frontend con la API de reseñas de talleres       | Implementar en el frontend las llamadas a los endpoints que permiten registrar y consultar reseñas, mostrando calificaciones y comentarios en la interfaz del usuario.                       | 6                     | Gianmarco           | Done      |
+ TS-14     | Integración de API para búsqueda de talleres  | T-07        | Integrar el frontend con la API de búsqueda y filtros de talleres      | Implementar en el frontend el consumo de los endpoints de búsqueda, permitiendo filtrar talleres según ubicación, servicios y otros parámetros.                    | 6                     | Alicia           | Done      |
+| TS-15     | Integración de API para gestión de solicitudes  | T-08        | Integrar el frontend con la API de gestión de solicitudes de visita        | Implementar en el frontend las llamadas a los endpoints que permiten visualizar, aceptar o rechazar solicitudes desde la vista del asesor del taller.                  | 6                     | Alexander       | Done      |
+| TS-16     | Pruebas end-to-end completas                   | T-09        | Implementar pruebas E2E              | Desarrollar pruebas automatizadas que validen flujos completos desde UI hasta backend | 8                     | César       | Done      |
+
+
+Captura en Trello del Sprint 4:
+<img src="Assets/Trello/Sprint_4.png">
+
+#### 5.2.4.4. Development Evidence for Sprint Review
+#### 5.2.4.5. Execution Evidence for Sprint Review
+#### 5.2.4.6. Services Documentation Evidence for Sprint Review
+#### 5.2.4.7. Software Deployment Evidence for Sprint Review
+#### 5.2.4.8. Team Collaboration Insights during Sprint
+
 
 
 ## 5.3. Validation Interviews
