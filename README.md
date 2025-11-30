@@ -2716,7 +2716,50 @@ Captura en Trello del Sprint 4:
 [https://trello.com/invite/b/68e553625941b3277a631f79/ATTIbdc7ed65f50e7fba04796f3c4c17e9660F991CC5/prime-fix](https://trello.com/invite/b/68e553625941b3277a631f79/ATTIbdc7ed65f50e7fba04796f3c4c17e9660F991CC5/prime-fix)
 
 #### 5.2.4.4. Development Evidence for Sprint Review
+Durante el Sprint 4, se completó la integración avanzada entre la Frontend Web Application y los Web Services RESTful del backend de Prime-Fix, consolidando todas las funcionalidades clave del sistema. Este sprint se centró en conectar los módulos principales mediante APIs especializadas, habilitando flujos de trabajo robustos, seguros y totalmente funcionales para ambos segmentos objetivo: usuarios conductores y asesores de talleres.
+
+Las tareas desarrolladas permitieron implementar autenticación segura mediante JWT, consumo de APIs críticas en el frontend, y pruebas end-to-end que garantizan el correcto funcionamiento de todo el ecosistema.
+
+**Principales logros del Sprint 4:**
+1. **Autenticación Segura con JWT:** Se implementó un sistema completo de autenticación basado en tokens JWT, incluyendo login, registro y validación de tokens. Se configuró la seguridad en el backend para proteger los endpoints privados. El frontend ahora gestiona de forma segura el almacenamiento del token y las redirecciones de sesión.
+
+2. **Integración Completa de APIs en el Frontend**
+
+Todos los módulos principales del sistema quedaron conectados con el backend:
+
+- **Gestión de Vehículos:** CRUD totalmente operativos desde la interfaz.
+
+- **Programación de Citas:** Creación, actualización y consulta desde el calendario interactivo.
+
+- **Seguimiento de Estado:** Vista dinámica para mostrar el progreso del servicio de mantenimiento.
+
+- **Reseñas de Talleres:** Envío y consulta de calificaciones directamente desde el frontend.
+
+- **Búsqueda de Talleres:** Filtros avanzados por ubicación, servicios y otros parámetros.
+
+- **Gestión de Solicitudes:** Panel para que los asesores visualicen, acepten o rechacen solicitudes.
+
+3. **Pruebas End-to-End Avanzadas:** Se implementaron pruebas automatizadas que recorren los principales flujos desde la UI hasta el backend. Las pruebas validan autenticación, procesos de cita, reseñas, seguimiento de estado y gestión de solicitudes.
+
+4. **Mejoras de Experiencia de Usuario:** Manejo de errores mejorado con mensajes claros y contextualizados. Actualización de vistas en tiempo real cuando el backend lo permite.
+
+**Principales funcionalidades integradas**
+
+- **Autenticación y Registro con JWT:** Login, registro, validación de sesiones y protección de rutas.
+- **Gestión de Vehículos:** Registro, consulta, edición y eliminación desde el frontend.
+- **Programación de Citas:** Integración total con los endpoints para gestionar citas.
+- **Seguimiento de Estado del Servicio:** Vista integrada con el backend para mostrar actualizaciones del vehículo o servicio.
+- **Reseñas de Talleres:** Envío de reseñas y visualización de calificaciones.
+- **Búsqueda y Filtros de Talleres:** Interfaz conectada para obtener y filtrar talleres.
+- **Gestión de Solicitudes de Visita:** Panel para asesores con funciones de aceptación y rechazo.
+- **Pruebas End-to-End:** Validación completa de los flujos desde frontend hasta backend.
+
 #### 5.2.4.5. Execution Evidence for Sprint Review
+
+Durante el Sprint 4, se completó la integración avanzada entre la Frontend Web Application y los Web Services RESTful del backend de Prime-Fix, incorporando la autenticación mediante JWT y la conexión de todos los módulos principales del sistema. Esta fase permitió enlazar funcionalidades clave como la gestión de vehículos, la programación de citas, el seguimiento de estado, las reseñas, la búsqueda de talleres y la gestión de solicitudes, fortaleciendo la comunicación entre el frontend y el backend.
+
+Gracias a estas integraciones, los flujos del sistema se volvieron más seguros, coherentes y eficientes tanto para los usuarios conductores como para los asesores de talleres. Además, se reforzó la experiencia general de uso al garantizar que todas las operaciones críticas funcionen de manera estable, permitiendo una interacción fluida y totalmente funcional a lo largo de la plataforma.
+
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review
 #### 5.2.4.7. Software Deployment Evidence for Sprint Review
 #### 5.2.4.8. Team Collaboration Insights during Sprint
