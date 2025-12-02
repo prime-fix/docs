@@ -80,6 +80,51 @@
 
 # Project Report Collaboration Insights  
 
+En esta sección se presenta el URL del repositorio en la organización de GitHub del equipo y un resumen de cómo se ha desarrollado la elaboración del informe, asegurando la participación de todos los miembros del equipo en cada entrega.
+
+**Repositorio del Project Report:**  
+[https://github.com/prime-fix/docs](https://github.com/prime-fix/docs)
+
+
+
+## Desarrollo de las actividades de elaboración del informe
+
+El equipo ha trabajado de manera colaborativa siguiendo un registro de versiones claro y detallado, que refleja la contribución de cada miembro en distintas etapas del proyecto. A continuación se describe cómo se organizaron las entregas y las evidencias de colaboración:
+
+### Sprint 1 - TB1 (16/09/2025)
+- Se crearon los primeros borradores del informe, incluyendo la descripción de la startup, antecedentes, problemática, Lean UX Canvas, análisis competitivo y artefactos de diseño como wireframes, mock-ups y diagramas de flujo.
+- Se estableció la estructura inicial del informe, la organización de sistemas y el lenguaje común del dominio.
+- Se configuró el entorno de desarrollo y el control de versiones para asegurar la colaboración.
+
+### Sprint 2 - TP1 (07/10/2025)
+- Se avanzó en el desarrollo de los bounded contexts, definiendo funcionalidades y diagramas asociados.
+- Se realizaron las primeras implementaciones de backend y frontend, verificando la coherencia con los artefactos de diseño.
+- Se coordinó la integración entre las distintas secciones del proyecto, asegurando consistencia técnica y funcional.
+
+### Sprint 3 - TB2 (12/11/2025)
+- Se realizaron entrevistas de validación con usuarios y se registraron los hallazgos.
+- Se avanzó en el desarrollo del backend y la implementación de las funcionalidades, revisando y ajustando los diagramas de clases según los resultados de las pruebas y validaciones.
+- Se documentaron los cambios y se consolidaron las evidencias de cada iteración del proyecto.
+
+### Sprint 4 - TF1 (02/12/2025)
+- Se realizaron correcciones finales y mejoras en historias de usuario y bounded contexts.
+- Se verificó la integración completa del sistema, incluyendo backend, frontend y diagramas de apoyo.
+- Se consolidaron todas las evidencias de desarrollo, asegurando coherencia con el registro de versiones y preparación del informe final para su entrega.
+
+
+
+
+## Evidencia de colaboración en GitHub
+
+A continuación se presentan capturas de los analíticos de colaboración y commits realizados por los miembros del equipo en el repositorio del informe:
+
+<img src="Assets/ProjectReportCollaborationInsight/CodeFrecuency.jpg" width="500" heigth="450"> 
+
+<img src="Assets/ProjectReportCollaborationInsight/Commits.jpg" width="500" heigth="450"> 
+
+**Participación total:**  
+Todos los miembros del equipo contribuyeron activamente en la elaboración del Project Report, coordinando cambios, revisiones y validaciones de manera consistente durante cada sprint. La evidencia de commits y la descripción de versiones reflejan esta colaboración constante y la coherencia con el registro de versiones del informe.
+
 ---
 
 # Contenido
