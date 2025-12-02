@@ -2663,7 +2663,7 @@ Repositorios y directorios de los integrantes del equipo FixTech:
 | Tenorio Medina, Piero Francesco   | <https://github.com/prime-fix/frontend/tree/develop/src/app/data_collection> | <https://github.com/prime-fix/backend/tree/develop/src/main/java/pe/edu/upc/prime/platform/data/collection> |
 | Navarro Chang, Alicia Avril       | <https://github.com/prime-fix/frontend/tree/develop/src/app/auto-repair-catalog> | <https://github.com/prime-fix/backend/tree/feature/autorepair-catalog/src/main/java/pe/edu/upc/prime/platform/workshopCatalog> |
 | Montoya Torres, Alexander Gabriel | <https://github.com/prime-fix/frontend/tree/develop/src/app/auto-repair-register> | <https://github.com/prime-fix/backend/tree/develop/src/main/java/pe/edu/upc/prime/platform/autorepair/register> | 
-| Julca Cruz, Renso Anthony         | <https://github.com/prime-fix/frontend/tree/develop/src/app/vehicle-diagnosis> | <https://github.com/prime-fix/backend/tree/develop/src/main/java/pe/edu/upc/prime/platform/vehiclediagnosis> |
+| Julca Cruz, Renso Anthony         | <https://github.com/prime-fix/frontend/tree/develop/src/app/vehicle-diagnosis> | <https://github.com/prime-fix/backend/tree/develop/src/main/java/pe/edu/upc/prime/platform/vehicle/diagnosis> |
 
 
 #### 5.2.3.5. Execution Evidence for Sprint Review
