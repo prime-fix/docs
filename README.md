@@ -2805,7 +2805,65 @@ Durante el Sprint 4, se completó la integración avanzada entre la Frontend Web
 Gracias a estas integraciones, los flujos del sistema se volvieron más seguros, coherentes y eficientes tanto para los usuarios conductores como para los asesores de talleres. Además, se reforzó la experiencia general de uso al garantizar que todas las operaciones críticas funcionen de manera estable, permitiendo una interacción fluida y totalmente funcional a lo largo de la plataforma.
 
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review
+
+Durante el Sprint 4, se pudo desarrollar la documentación técnica tanto para los Web Services RESTful y como para la Frontend Web Application. La documentación incluirá guías de componentes para el apartado del frontend y los endpoints a utilizar para el backend:
+
+**Documentación del frontend:**
+
+<img src="Assets/evidences/Documentation_Components.png">
+
+**Guía de estructura de módulos y servicios implementados**
+
+<img src="Assets/evidences/Documentation_Modules.png">
+
+**Documentación de patrones de diseño y estilo aplicados**
+<img src="Assets/evidences/Documentation_Patterns.png">
+
+**Guías de navegación y configuración de routing**
+<img src="Assets/evidences/Documentation_Routing.png">
+
+
+**URLs de documentación:**
+- Component Documentation: [https://github.com/prime-fix/docs/blob/main/Documentation-Frontend/Documentacion_Principal_Components.md](https://github.com/prime-fix/docs/blob/main/Documentation-Frontend/Documentacion_Principal_Components.md)
+- Module Documentation: [https://github.com/prime-fix/docs/blob/main/Documentation-Frontend/Documentacion_Modules.md](https://github.com/prime-fix/docs/blob/main/Documentation-Frontend/Documentacion_Modules.md)
+- Design Patterns: [https://github.com/prime-fix/docs/blob/main/Documentation-Frontend/Documentacion_Patterns.md](https://github.com/prime-fix/docs/blob/main/Documentation-Frontend/Documentacion_Patterns.md)
+- Routing Guide: [https://github.com/prime-fix/docs/blob/main/Documentation-Frontend/Documentacion_Routing.md](https://github.com/prime-fix/docs/blob/main/Documentation-Frontend/Documentacion_Routing.md)
+
+
+**Documentación del backend:**
+
+- Especificación de endpoints RESTful con métodos, parámetros y respuestas
+- Guías de uso de la API para cada funcionalidad integrada
+
+Endpoints:
+
+<img src="Assets/Sprint 4/backend_evidence_1.PNG">
+
+<img src="Assets/Sprint 4/backend_evidence_2.PNG">
+
+<img src="Assets/Sprint 4/backend_evidence_3.PNG">
+
+<img src="Assets/Sprint 4/backend_evidence_4.PNG">
+
+<img src="Assets/Sprint 4/backend_evidence_6.PNG">
+
+OpenAPI UI (URLpublicada): <https://cadw4v2ry8.us-east-2.awsapprunner.com/swagger-ui/index.html>
+
 #### 5.2.4.7. Software Deployment Evidence for Sprint Review
+
+Para el desarrollo del Sprint 4, se implementó un despligue continuo y accesible para los usuarios finales que abarca tanto la Frontend Web Application como los Web Services RESTful del backend.
+
+Infraestructura de despliegue implementada: Link del Frontend Web Application desplegado en AWS: <https://frontend-dusky-rho-85.vercel.app/login>
+
+Evidencia:
+
+<img src="Assets/Sprint 4/frontend_evidence_1.PNG">
+
+
+ 
+Infraestructura de despliegue implementada: Link del Restful Web Services desplegado en AWS: <https://cadw4v2ry8.us-east-2.awsapprunner.com/swagger-ui/index.html#>
+
+
 #### 5.2.4.8. Team Collaboration Insights during Sprint
 
 Durante el Sprint 4, el equipo de FixTech evidenció una colaboración grupal efectiva en la culminación del los Web Services RESTful y del Frontend Web Application. Se concréto la integración de ambos apartados desarrollados a lo largo de los sprints y la comunicación fue de gran importancia para poder integrar y mejorar el código de manera organizada.
