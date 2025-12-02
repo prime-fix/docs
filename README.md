@@ -1632,7 +1632,7 @@ Diagrama de Componentes de Payment Service
 
 <img src="Assets/diagrams/Class_Diagram.png">
 
-URL: <https://lucid.app/lucidchart/a5dcb0f8-65f4-41c3-986a-8c6f758cf58c/edit?viewport_loc=1867%2C14304%2C9812%2C4039%2ChPaR5Cs4a9aQ&invitationId=inv_f24412cc-190d-48c4-a4b1-e6d6a94fb303>
+URL: <https://lucid.app/lucidchart/a5dcb0f8-65f4-41c3-986a-8c6f758cf58c/edit?viewport_loc=-2166%2C-2511%2C7504%2C3680%2Cg2t1Sla1Abqy&invitationId=inv_f24412cc-190d-48c4-a4b1-e6d6a94fb303>
 
 ## 4.8. Database Design
 ### 4.8.1. Database Diagrams
