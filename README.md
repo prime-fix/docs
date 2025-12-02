@@ -2754,6 +2754,42 @@ Todos los módulos principales del sistema quedaron conectados con el backend:
 - **Gestión de Solicitudes de Visita:** Panel para asesores con funciones de aceptación y rechazo.
 - **Pruebas End-to-End:** Validación completa de los flujos desde frontend hasta backend.
 
+| **Repository** | **Branch** | **Commit Id** | **Commit Message** | **Commit Message Body** | **Committed on (Date)** |
+|----------------|------------|---------------|--------------------|-----------------------|-------------------------|
+| [prime-fix/frontend](https://www.google.com/search?q=https://github.com/prime-fix/frontend) | master | 2b4b524 | Merge branch 'release/v0.1.7' | Merge branch 'release/v0.1.7' into master | 12/11/2025 |
+| [prime-fix/frontend](https://www.google.com/search?q=https://github.com/prime-fix/frontend) | master | abf2d66 | feat: refactor payment components to use signals for state management and improve data handling | Refactor payment components to use signals for state management and improve data handling | 12/11/2025 |
+| [prime-fix/frontend](https://www.google.com/search?q=https://github.com/prime-fix/frontend) | master | 9f1a8e4 | feat: add role and membership management to IAM API and store | Add role and membership management to IAM API and store | 11/11/2025 |
+| [prime-fix/frontend](https://www.google.com/search?q=https://github.com/prime-fix/frontend) | master | f1e9801 | feat: refactor IAM store usage to improve user session handling and filtering | Refactor IAM store usage to improve user session handling and filtering | 11/11/2025 |
+| [prime-fix/backend](https://github.com/prime-fix/backend) | master | 458ebec | feat: enhance OpenAPI configuration for Prime Fix Platform with server URL and security requirements | Enhance OpenAPI configuration for Prime Fix Platform with server URL and security requirements | 01/12/2025 |
+| [prime-fix/backend](https://github.com/prime-fix/backend) | master | bd58027 | refactor: remove package 'workshopCatalog' to 'autorepair.catalog' | Remove package 'workshopCatalog' and move to 'autorepair.catalog' | 01/12/2025 |
+| [prime-fix/backend](https://github.com/prime-fix/backend) | master | 2895c1f | Merge branch 'release/v0.1.3' | Merge branch 'release/v0.1.3' into master | 01/12/2025 |
+| [prime-fix/backend](https://github.com/prime-fix/backend) | master | bb29010 | refactor: rename ExternalMaintenanceTrackingService package for better organization | Rename ExternalMaintenanceTrackingService package for better organization | 30/11/2025 |
+| [prime-fix/backend](https://github.com/prime-fix/backend) | master | 206c3c5 | fix: invert user ID existence check in VehicleCommandServiceImpl | Invert user ID existence check in VehicleCommandServiceImpl to fix logic error | 30/11/2025 |
+| [prime-fix/backend](https://github.com/prime-fix/backend) | master | cd0ea01 | feat: add queries to check existence of users, vehicles, user accounts, and notifications by ID | Add queries to check existence of users, vehicles, user accounts, and notifications by ID | 30/11/2025 |
+| [prime-fix/backend](https://github.com/prime-fix/backend) | master | 5f4042f | refactor: change command handlers to return IDs instead of Optional objects for location, membership, and user creation | Change command handlers to return IDs instead of Optional objects for location, membership, and user creation | 30/11/2025 |
+| [prime-fix/backend](https://github.com/prime-fix/backend) | master | cd8f708 | refactor: update package imports and enhance documentation for commands and value objects | Update package imports and enhance documentation for commands and value objects | 30/11/2025 |
+| [prime-fix/backend](https://github.com/prime-fix/backend) | master | 8f75491 | feat: add Swagger tag for Technician Schedule management endpoints | Add Swagger tag for Technician Schedule management endpoints for better documentation | 30/11/2025 |
+| [prime-fix/backend](https://github.com/prime-fix/backend) | master | a8b1b7e | fix: update AuthenticatedUserAccountResponse to use username instead of password | Update AuthenticatedUserAccountResponse to return username instead of password for security | 30/11/2025 |
+| [prime-fix/backend](https://github.com/prime-fix/backend) | master | 0483b6b | feat: introduce new IAM commands and queries with updated ID types | Introduce new IAM commands and queries with updated ID types | 30/11/2025 |
+| [prime-fix/backend](https://github.com/prime-fix/backend) | master | 7eec114 | refactor: update package structure to 'autorepair.catalog' for better organization | Update package structure to 'autorepair.catalog' for better organization | 29/11/2025 |
+| [prime-fix/backend](https://github.com/prime-fix/backend) | master | 1cff354 | refactor: rename package structure from 'vehiclediagnosis' to 'vehicle.diagnosis' | Rename package structure from 'vehiclediagnosis' to 'vehicle.diagnosis' | 29/11/2025 |
+| [prime-fix/backend](https://github.com/prime-fix/backend) | master | 4123262 | feat: add Swagger configuration URLs for development and production | Add Swagger configuration URLs for development and production environments | 29/11/2025 |
+| [prime-fix/backend](https://github.com/prime-fix/backend) | master | e045b35 | Modified data output and added exceptions | Modified data output structure and added exception handling | 29/11/2025 |
+| [prime-fix/backend](https://github.com/prime-fix/backend) | master | 46124e9 | Adding and modifying Data Collection BC and Workshop BC. Added service assignment functionality | Adding and modifying Data Collection BC and Workshop BC. Added service assignment functionality | 29/11/2025 |
+| [prime-fix/backend](https://github.com/prime-fix/backend) | master | 20239e0 | Adding missing files. Whithin Data Collection BC, add ACL files and modify WorkshopCatalog. | Adding missing files within Data Collection BC, adding ACL files and modifying WorkshopCatalog | 28/11/2025 |
+
+Repositorios y directorios de los integrantes del equipo FixTech:
+
+| **Integrante** | **Frontend directories** | **Backend directories** |
+|----------------|--------------------------|-------------------------|
+| Aróstegui Alzamora, César Augusto | <https://github.com/prime-fix/frontend/tree/develop/src/app/iam> <br> <https://github.com/prime-fix/frontend/tree/develop/src/app/maintenance-tracking>  | <https://github.com/prime-fix/backend/tree/develop/src/main/java/pe/edu/upc/prime/platform/iam> <br> <https://github.com/prime-fix/backend/tree/develop/src/main/java/pe/edu/upc/prime/platform/maintenance/tracking> |
+| Jiménez Guerra, Gianmarco Fabián  | <https://github.com/prime-fix/frontend/tree/develop/src/app/payment-service>  | <https://github.com/prime-fix/backend/tree/develop/src/main/java/pe/edu/upc/prime/platform/payment/service> |
+| Tenorio Medina, Piero Francesco   | <https://github.com/prime-fix/frontend/tree/develop/src/app/data_collection> | <https://github.com/prime-fix/backend/tree/develop/src/main/java/pe/edu/upc/prime/platform/data/collection> |
+| Navarro Chang, Alicia Avril       | <https://github.com/prime-fix/frontend/tree/develop/src/app/auto-repair-catalog> | <https://github.com/prime-fix/backend/tree/feature/autorepair-catalog/src/main/java/pe/edu/upc/prime/platform/workshopCatalog> |
+| Montoya Torres, Alexander Gabriel | <https://github.com/prime-fix/frontend/tree/develop/src/app/auto-repair-register> | <https://github.com/prime-fix/backend/tree/develop/src/main/java/pe/edu/upc/prime/platform/autorepair/register> | 
+| Julca Cruz, Renso Anthony         | <https://github.com/prime-fix/frontend/tree/develop/src/app/vehicle-diagnosis> | <https://github.com/prime-fix/backend/tree/develop/src/main/java/pe/edu/upc/prime/platform/vehiclediagnosis> |
+
+
 #### 5.2.4.5. Execution Evidence for Sprint Review
 
 Durante el Sprint 4, se completó la integración avanzada entre la Frontend Web Application y los Web Services RESTful del backend de Prime-Fix, incorporando la autenticación mediante JWT y la conexión de todos los módulos principales del sistema. Esta fase permitió enlazar funcionalidades clave como la gestión de vehículos, la programación de citas, el seguimiento de estado, las reseñas, la búsqueda de talleres y la gestión de solicitudes, fortaleciendo la comunicación entre el frontend y el backend.
